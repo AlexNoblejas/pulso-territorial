@@ -47,6 +47,9 @@ class Handler(BaseHTTPRequestHandler):
                 return self.send(portfolio.geography(company))
             if path.path=='/api/report':
                 return self.send(portfolio.visual_report(company,period),'text/html; charset=utf-8')
+            if path.path=='/api/readings':
+                readings=service.ROOT/'demo_data'/'ai_readings.json'
+                return self.send(json.loads(readings.read_text(encoding='utf-8')) if readings.exists() else {'readings':{}})
             if path.path=='/api/status':
                 return self.send({'library':service.stats(),'providers':service.provider_status(),'mode':'demostración local','author':'Alexander Noblejas'})
             if path.path=='/api/evidence':
@@ -117,8 +120,11 @@ class Handler(BaseHTTPRequestHandler):
                 official=[event for event in case['events'] if event['kind']=='reporte oficial']
                 original=case.get('original_description',case['summary'])+'\n\n'+'\n'.join(event['summary'] for event in official)
                 hits=[{'document_id':case['source_ids'][0],'page':1,'method':'ficha_html_oficial','text':original}]
+                # Only the verified passage: the rest of a PDF page usually describes neighbouring cases.
+                hits+=[{'document_id':event['source_id'],'page':event['page'],'method':'pdf_pypdf','text':event['summary']}
+                       for event in case['events'] if event.get('literal')]
                 result=service.extract(hits,provider)
-                result['scope']='Citas comprobadas contra texto original de la ficha Defensoría. Las comunicaciones complementarias son vínculos editoriales y no se enviaron como citas originales.'
+                result['scope']='Citas comprobadas contra el texto de la ficha Defensoría y de las páginas PDF del corpus (PCM, MINAM, MINEM). Las notas de prensa y comunicaciones no se envían al modelo.'
                 return self.send(result)
             return self.send({'error':'Acción no encontrada.'},status=404)
         except ValueError as exc:

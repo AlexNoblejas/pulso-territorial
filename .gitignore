@@ -12,3 +12,4 @@ __pycache__/
 tests/_temp/
 docs/estudio_local/
 .claude/
+site/

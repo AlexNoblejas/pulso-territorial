@@ -1,0 +1,344 @@
+{
+  "note": "Lecturas generadas con Groq y validadas cita por cita contra el texto enviado. Revisión semántica humana pendiente.",
+  "readings": {
+    "1132-1218": {
+      "records": [
+        {
+          "type": "hecho",
+          "claim": "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la carretera que cruza el Fundo Yavi Yavi realizada en mayo del 2018 porque afectaría su propiedad",
+          "quote": "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la carretera que cruza el Fundo Yavi Yavi (RM 372-2018 MTC/01.02) realizada en mayo del 2018 porque afectaría su propiedad",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "La empresa MMG Las Bambas construyó el tramo de la carretera sin contar con el permiso de la comunidad",
+          "quote": "la empresa MMG Las Bambas construyó el tramo de la mencionada carretera sin contar con el permiso de la comunidad tal como lo exige la Ley 26505",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "Con el acta firmada el 6 de abril en Lima, la empresa y la comunidad llegaron a un acuerdo económico mutuamente satisfactorio sobre el fundo Yavi Yavi",
+          "quote": "Con el acta firmada el 6 de abril en Lima, la empresa y la comunidad llegaron a un acuerdo económico mutuamente satisfactorio sobre el fundo Yavi Yavi",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "El punto del empleo de los comuneros y la revisión de los acuerdos del Compendio de acuerdos entre el Comité Central de negociación de la comunidad de Fuerabamba y los representantes del Proyecto Mineros Las Bambas siguen siendo materia de negociación",
+          "quote": "el del empleo de los comuneros y la revisión de los acuerdos del \"Compendio de acuerdos entre el Comité Central de negociación de la comunidad de Fuerabamba y los representantes del Proyecto Mineros Las Bambas operado por Xstrata Copper\", siguen siendo materia de negociación",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "La comunidad campesina de Fuerabamba sostiene que tendría una ocupación ancestral del sector denominado Tamboccasa",
+          "quote": "La comunidad campesina de Fuerabamba sostiene que tendría una ocupación ancestral del sector denominado Tamboccasa",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "La empresa Minera Las Bambas y la familia Cruz Portocarrero no reconocen algún derecho al respecto",
+          "quote": "la empresa Minera Las Bambas y la familia Cruz Portocarrero no reconocen algún derecho al respecto",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "El 10 de setiembre estaba prevista una reunión sobre la agenda de las personas adultas mayores de la Comunidad Campesina de Fuerabamba",
+          "quote": "El 10 de setiembre estaba prevista una reunión sobre la agenda de las personas adultas mayores de la Comunidad Campesina de Fuerabamba",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "La reunión fue postergada debido a las actividades por el aniversario de la comunidad y a que aún no se había presentado el documento formal con la propuesta comunal para instalar un espacio de diálogo bilateral entre la comunidad y la empresa minera Las Bambas S.A.",
+          "quote": "La reunión fue postergada debido a las actividades por el aniversario de la comunidad y a que aún no se había presentado el documento formal con la propuesta comunal para instalar un espacio de diálogo bilateral entre la comunidad y la empresa minera Las Bambas S.A.",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "La comunidad se había comprometido a remitir dicho documento",
+          "quote": "La comunidad se había comprometido a remitir dicho documento",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "La minera Las Bambas ha logrado a la fecha la caracterización de 95 jóvenes aspirantes a puestos laborales",
+          "quote": "La minera Las Bambas ha logrado a la fecha la caracterización de 95 jóvenes aspirantes a puestos laborales",
+          "source_id": "E2",
+          "document_id": "PCM-WILLAQNIKI-05-2024",
+          "page": 38,
+          "method": "pdf_pypdf",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "El caso Las Bambas está ubicado en la Región Apurímac, Provincia Cotabambas, Distrito Challhuahuacho, Comunidad Fuerabamba",
+          "quote": "CASO LAS BAMBAS Ubicación geográfica: Región : Apurímac. Provincia : Cotabambas. Distrito : Challhuahuacho. Comunidad : Fuerabamba",
+          "source_id": "E3",
+          "document_id": "MINEM-OGGS-2016-IV",
+          "page": 121,
+          "method": "pdf_pypdf",
+          "review_status": "pendiente_revision_semantica"
+        }
+      ],
+      "rejected": [],
+      "model": "openai/gpt-oss-20b",
+      "usage": {
+        "queue_time": 0.254095504,
+        "prompt_tokens": 997,
+        "prompt_time": 0.074487212,
+        "completion_tokens": 923,
+        "completion_time": 1.085716933,
+        "total_tokens": 1920,
+        "total_time": 1.160204145,
+        "completion_tokens_details": {
+          "reasoning_tokens": 10
+        }
+      },
+      "case_id": "1132-1218",
+      "generated_at": "2026-11-10T23:08:02+00:00",
+      "provider": "groq",
+      "documents_sent": [
+        {
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial"
+        },
+        {
+          "document_id": "PCM-WILLAQNIKI-05-2024",
+          "page": 38,
+          "method": "pdf_pypdf"
+        },
+        {
+          "document_id": "MINEM-OGGS-2016-IV",
+          "page": 121,
+          "method": "pdf_pypdf"
+        }
+      ]
+    },
+    "1285-0622": {
+      "records": [
+        {
+          "type": "hecho",
+          "claim": "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos",
+          "quote": "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "demanda",
+          "claim": "La comunidad campesina de Chuicuni solicita formar parte del área de influencia directa de Las Bambas",
+          "quote": "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos y solicita formar parte del área de influencia directa de Las Bambas",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "El 22 de setiembre se reanudó el espacio de diálogo con pobladores del sector Chuchupampa",
+          "quote": "El 22 de setiembre se reanudó el espacio de diálogo con pobladores del sector Chuchupampa",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "Los pobladores expresaron preocupación por el polvo y el tránsito de vehículos pesados",
+          "quote": "preocupación por el polvo y el tránsito de vehículos pesados",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "Se abordó la relación organizativa entre el sector Chuchupampa y la Comunidad Campesina de Chuicuni",
+          "quote": "se abordó la relación organizativa entre el sector Chuchupampa y la Comunidad Campesina de Chuicuni",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "compromiso",
+          "claim": "Las instituciones participantes acordaron dar seguimiento a las demandas sobre empleo, posibles afectaciones ambientales y compromisos pendientes",
+          "quote": "Las instituciones participantes acordaron dar seguimiento a las demandas sobre empleo, posibles afectaciones ambientales y compromisos pendientes",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "compromiso",
+          "claim": "Las demandas serán tratadas en la próxima reunión, prevista de manera referencial para el 16 de octubre",
+          "quote": "serán tratadas en la próxima reunión, prevista de manera referencial para el 16 de octubre",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "Se registra un avance del 80 % en la primera sesión de las reuniones de seguimiento de cumplimiento de compromisos entre Minera Las Bambas y la Comunidad Campesina de Chuicuni",
+          "quote": "Se registra un avance del 80 % en la primera sesión de las reuniones de seguimiento de cumplimiento de compromisos entre Minera Las Bambas y la Comunidad Campesina de Chuicuni",
+          "source_id": "E2",
+          "document_id": "PCM-WILLAQNIKI-05-2024",
+          "page": 38,
+          "method": "pdf_pypdf",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "demanda",
+          "claim": "Solo queda pendiente la agenda de oportunidad laboral",
+          "quote": "solo quedando pendiente la agenda de oportunidad laboral",
+          "source_id": "E2",
+          "document_id": "PCM-WILLAQNIKI-05-2024",
+          "page": 38,
+          "method": "pdf_pypdf",
+          "review_status": "pendiente_revision_semantica"
+        }
+      ],
+      "rejected": [
+        "Registro 4: cita ausente o no coincide con el fragmento."
+      ],
+      "model": "openai/gpt-oss-20b",
+      "usage": {
+        "queue_time": 0.205542034,
+        "prompt_tokens": 713,
+        "prompt_time": 0.050581241,
+        "completion_tokens": 677,
+        "completion_time": 0.717599895,
+        "total_tokens": 1390,
+        "total_time": 0.768181136,
+        "completion_tokens_details": {
+          "reasoning_tokens": 10
+        }
+      },
+      "case_id": "1285-0622",
+      "generated_at": "2026-11-10T23:08:03+00:00",
+      "provider": "groq",
+      "documents_sent": [
+        {
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial"
+        },
+        {
+          "document_id": "PCM-WILLAQNIKI-05-2024",
+          "page": 38,
+          "method": "pdf_pypdf"
+        }
+      ]
+    },
+    "1403-0325": {
+      "records": [
+        {
+          "type": "hecho",
+          "claim": "El 19 de febrero de 2025 ocurrió un derrame de petróleo a la altura del kilómetro 315+535 del Tramo II del Oleoducto Norperuano.",
+          "quote": "El 19 de febrero de 2025 ocurrió un derrame de petróleo a la altura del kilómetro 315+535 del Tramo II del Oleoducto Norperuano.",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "hecho",
+          "claim": "El 19 de marzo de 2025 se registró un derrame de petróleo en la comunidad de Sinchi Roca, ubicada en el distrito de Manseriche, provincia del Datem del Marañón.",
+          "quote": "El 19MAR2025, se registró un derrame de petróleo en la comunidad de Sinchi Roca, ubicada en el distrito de Manseriche, provincia del Datem del Marañón.",
+          "source_id": "E2",
+          "document_id": "PP-MINAM-202503",
+          "page": 20,
+          "method": "pdf_pypdf",
+          "review_status": "pendiente_revision_semantica"
+        },
+        {
+          "type": "demanda",
+          "claim": "Las comunidades nativas Sinchi Roca y Pijuayal, así como organizaciones indígenas, emitieron pronunciamientos exigiendo atención integral, remediación ambiental, abastecimiento de agua segura y el pago de labores de recojo de crudo por parte de Petroperú y las entidades competentes.",
+          "quote": "las comunidades nativas Sinchi Roca y Pijuayal, así como organizaciones indígenas, emitieron pronunciamientos exigiendo atención integral, remediación ambiental, abastecimiento de agua segura y el pago de labores de recojo de crudo por parte de Petroperú y las entidades competentes.",
+          "source_id": "E1",
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial",
+          "review_status": "pendiente_revision_semantica"
+        }
+      ],
+      "rejected": [
+        "Registro 4: cita ausente o no coincide con el fragmento.",
+        "Registro 5: cita ausente o no coincide con el fragmento."
+      ],
+      "model": "openai/gpt-oss-20b",
+      "usage": {
+        "queue_time": 0.204342325,
+        "prompt_tokens": 863,
+        "prompt_time": 0.043718543,
+        "completion_tokens": 535,
+        "completion_time": 0.594467644,
+        "total_tokens": 1398,
+        "total_time": 0.638186187,
+        "completion_tokens_details": {
+          "reasoning_tokens": 10
+        }
+      },
+      "case_id": "1403-0325",
+      "generated_at": "2026-11-10T23:08:04+00:00",
+      "provider": "groq",
+      "documents_sent": [
+        {
+          "document_id": "DP-2026-09",
+          "page": 1,
+          "method": "ficha_html_oficial"
+        },
+        {
+          "document_id": "PP-MINAM-202503",
+          "page": 20,
+          "method": "pdf_pypdf"
+        }
+      ]
+    }
+  }
+}

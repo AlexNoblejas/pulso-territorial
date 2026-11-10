@@ -1,3 +1,5 @@
+> **Documento histórico** (primera versión, mediodía del 10 de noviembre de 2026). El estado vigente está en el [README](../README.md) y el guion en [PRESENTACION.md](PRESENTACION.md).
+
 # Brief aplicado: PulsoTerritorial como producto empresarial
 
 Diseña e implementa una plataforma de inteligencia territorial para equipos de gestión social empresarial. El producto principal es una cartera de conflictos y operaciones con reportes visuales; la conversación con un modelo no es la interfaz central.

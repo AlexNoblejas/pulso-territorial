@@ -25,6 +25,7 @@ Dos carteras demo: **Las Bambas** (minería, Apurímac) y **Petroperú** (hidroc
 - **Expedientes por conflicto:** fase oficial, demandas, compromisos y una línea de tiempo con todas las fuentes.
 - **Contraste entre instituciones:** cada cita de PCM, MINAM, MINEM u OEFA abre el PDF en la página exacta.
 - **Lectura con IA:** Groq extrae hechos, demandas y compromisos; cada afirmación debe traer una cita literal o se descarta.
+- **Pulso de medios:** cada día lee los RSS de El Comercio, La República y Andina, y busca en Google News, que agrega RPP, Gestión, Infobae, Expreso y medios regionales. Etiqueta cada nota (medida de fuerza, violencia, seguridad, ambiental, diálogo) y la vincula al caso que menciona. Es la señal diaria entre reportes oficiales mensuales.
 - **Reporte mensual:** HTML imprimible con mapa, fases e historia.
 
 **Insight:** el valor no está en resumir, sino en que cada frase sea comprobable. Por eso el producto rechaza lo que no puede verificar:
@@ -42,7 +43,7 @@ Límites que la interfaz explicita: una cercanía en el mapa no prueba afectaci�
 
 ## 6. Demo y arquitectura
 
-**Pública (GitHub Pages):** https://alexnoblejas.github.io/pulso-territorial/. Un workflow de GitHub Actions ([`pages.yml`](.github/workflows/pages.yml)) la regenera cada día a las 7:00 a. m. (Lima). Primero verifica el corpus, luego revisa nuevas publicaciones de la Defensoría y después publica.
+**Pública (GitHub Pages):** https://alexnoblejas.github.io/pulso-territorial/. Un workflow de GitHub Actions ([`pages.yml`](.github/workflows/pages.yml)) la regenera cada día a las 7:00 a. m. (Lima). Primero verifica el corpus, luego revisa nuevas publicaciones de la Defensoría, después lee los RSS de prensa y al final publica.
 
 **Local (con IA en vivo):**
 
@@ -60,6 +61,7 @@ flowchart LR
  B --> E[(Cartera JSON)]
  Q --> E
  M --> E
+ N[RSS El Comercio · La República · Andina · Google News] -->|pulso.news: reglas y casos| E
  E -->|ficha + pasajes| L[Groq gpt-oss-20b · JSON schema]
  L -->|validador de citas| E
  E --> W[Portal web: mapa 3D, expedientes, reporte]
@@ -70,6 +72,7 @@ flowchart LR
 |---|---|
 | [`pulso/service.py`](pulso/service.py) | Descarga y versiona reportes, controla el gasto diario de IA, llama al proveedor y valida citas |
 | [`pulso/corpus.py`](pulso/corpus.py) | Verifica cada PDF del corpus y cada pasaje |
+| [`pulso/news.py`](pulso/news.py) | Lee los RSS de prensa, etiqueta las notas y las vincula a casos |
 | [`pulso/portfolio.py`](pulso/portfolio.py) | Construye las carteras: casos, fuentes, contraste y lecturas |
 | [`pulso/reports.py`](pulso/reports.py) | Genera el reporte mensual en HTML con SVG |
 | [`pulso/web.py`](pulso/web.py) | Sirve la API y el portal local |
@@ -108,7 +111,7 @@ Capturas:
 
 | Sesión | Uso dentro del producto | Archivo |
 |---|---|---|
-| **03 Scraping y APIs** | Descarga y versionado de reportes de la Defensoría y lectura de fichas HTML | `pulso/service.py`, `pulso/portfolio.py` |
+| **03 Scraping y APIs** | Reportes de la Defensoría (HTML) y RSS de El Comercio, La República, Andina y Google News, con la estrategia de la tarea 1 (RSS y sitemaps permitidos por robots.txt, User-Agent académico, pausas) | `pulso/service.py`, `pulso/news.py` |
 | **08 LLMs con salidas estructuradas** | Groq con esquema JSON estricto y validador de citas literales | `pulso/service.py`, `pulso/web.py` |
 | **10 Document AI** | pypdf para extraer y verificar pasajes de los PDF; adaptador PaddleOCR opcional | `pulso/corpus.py`, `pulso/ocr_optional.py` |
 | 05 Dashboards | Portal con KPIs, fases, evolución y reporte mensual | `web/`, `pulso/reports.py` |
@@ -126,7 +129,10 @@ Capturas:
   - Corrigió la llamada a Groq, que fallaba con `json_validate_failed`, y la probó en real.
   - Detectó que mandar la página entera hacía que el modelo atribuyera frases de casos vecinos, y lo cambió para enviar solo el pasaje.
   - Creó el sitio estático, el workflow diario y las pruebas del corpus.
+  - Adaptó el scraper de prensa de la tarea 1 (`pulso/news.py`) y el panel "Pulso de medios".
 
-Las decisiones de qué fuentes usar y cómo presentarlas son del autor. **Verificación:** 30 pruebas `pytest`, incluidas una cita alterada y un PDF reemplazado.
+Las decisiones de qué fuentes usar y cómo presentarlas son del autor. **Verificación:** 32 pruebas `pytest`, incluidas una cita alterada y un PDF reemplazado.
+
+Guion de la presentación: [`docs/PRESENTACION.md`](docs/PRESENTACION.md).
 
 **Pendiente:** entrevistas con usuarios, autenticación real de clientes, envío del reporte por correo, más conectores (PNP, OEFA en línea) y URLs oficiales de tres PDF.

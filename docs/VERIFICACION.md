@@ -1,3 +1,5 @@
+> **Documento histórico** (primera versión, mediodía del 10 de noviembre de 2026). El estado vigente está en el [README](../README.md) y el guion en [PRESENTACION.md](PRESENTACION.md).
+
 # Verificación de PulsoTerritorial
 
 Autor: Alexander Noblejas. Fecha: 10 de noviembre de 2026, America/Lima.

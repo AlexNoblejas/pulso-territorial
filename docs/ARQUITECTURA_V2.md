@@ -1,3 +1,5 @@
+> **Documento histórico** (primera versión, mediodía del 10 de noviembre de 2026). El estado vigente está en el [README](../README.md) y el guion en [PRESENTACION.md](PRESENTACION.md).
+
 # Arquitectura V2
 
 La experiencia principal pasa de un buscador a una cartera empresarial. La unidad longitudinal sigue siendo el caso; cada estado/fase corresponde a una observación de un reporte. Un acontecimiento y un compromiso son unidades distintas, con fuentes y fechas propias.

@@ -1,3 +1,5 @@
+> **Documento histórico** (primera versión, mediodía del 10 de noviembre de 2026). El estado vigente está en el [README](../README.md) y el guion en [PRESENTACION.md](PRESENTACION.md).
+
 # Arquitectura de PulsoTerritorial
 
 ## Sistema local implementado

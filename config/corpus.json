@@ -1,0 +1,155 @@
+{
+  "note": "Pasajes literales de informes institucionales. pulso.corpus comprueba hash, página y texto con pypdf antes de mostrarlos. 'claim' es una síntesis editorial; 'quote' es el texto de la fuente.",
+  "documents": [
+    {
+      "id": "PCM-WILLAQNIKI-05-2024",
+      "institution": "PCM · Secretaría de Gestión Social y Diálogo",
+      "title": "Willaqniki N.º 5-2024 (setiembre–octubre)",
+      "date": "2024-10-01",
+      "period": "2024-10",
+      "file": "PCM_Willaqniki_5_SetOct_2024.pdf",
+      "url": "https://www.gob.pe/institucion/pcm/colecciones/12-reporte-willaqniki",
+      "url_kind": "colección oficial en gob.pe",
+      "sha256": "e7e43d4ae4bd5de360bd420746939d726141e05eb74ea6a4b535f935d5c2bc93",
+      "pages": 52
+    },
+    {
+      "id": "PP-MINAM-202503",
+      "institution": "MINAM / OGASA",
+      "title": "Informe N.º 03-2025-OGASA · Conflictos socioambientales, marzo 2025",
+      "date": null,
+      "period": "2025-03",
+      "file": "MINAM_OGASA_Mar2025.pdf",
+      "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/03.Informe%20OGASA%20-%20Marzo%202025.pdf",
+      "url_kind": "PDF oficial en SINIA (hash idéntico)",
+      "sha256": "586ec8b1a3291bc17e7c63294afcf7133239b06ad85b790018502b75e4adcef0",
+      "pages": 30
+    },
+    {
+      "id": "MINAM-OGASA-09-2025",
+      "institution": "MINAM / OGASA",
+      "title": "Informe N.º 09-2025-OGASA · Conflictos socioambientales, setiembre 2025",
+      "date": "2025-10-13",
+      "period": "2025-09",
+      "file": "MINAM_OGASA_Set2025.pdf",
+      "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/09.Informe%20OGASA-SETIEMBRE2025%20vf.pdf",
+      "url_kind": "PDF oficial en SINIA (hash idéntico)",
+      "sha256": "f19fd789622a2c2029cdfa963ce93462ada59f80143b61d0c555567b6fc8aa3e",
+      "pages": 37
+    },
+    {
+      "id": "MINEM-OGGS-2016-IV",
+      "institution": "MINEM · Oficina General de Gestión Social",
+      "title": "Cuarto informe trimestral 2016 (octubre–diciembre)",
+      "date": null,
+      "period": "2016-12",
+      "file": "MINEM_OGGS_IV_Trimestre_2016.pdf",
+      "url": null,
+      "url_kind": "copia del archivo documental del autor; URL oficial no confirmada",
+      "sha256": "02ebf27d19c74167ab677a0572e05583ff40d1dc94ba09ce8611f42d1e5b234f",
+      "pages": 152
+    },
+    {
+      "id": "OEFA-STEC-00015-2022",
+      "institution": "OEFA",
+      "title": "Reporte N.º 00015-2022-OEFA/DEAM-STEC · Evaluación ambiental de seguimiento en Las Bambas",
+      "date": "2022-12-12",
+      "period": "2022-12",
+      "file": "OEFA_00015_2022_Las_Bambas.pdf",
+      "url": null,
+      "url_kind": "copia del archivo documental del autor; publicado en el repositorio OEFA, URL directa no confirmada",
+      "sha256": "b6b2b35ef43cfb8ef5ed9f313ac0b068c24d2c8297ca684cead2247d9a98c8bf",
+      "pages": 21
+    },
+    {
+      "id": "OEFA-TFA-497-2022",
+      "institution": "OEFA · Tribunal de Fiscalización Ambiental",
+      "title": "Resolución N.º 497-2022-OEFA/TFA-SE · Minera Las Bambas S.A.",
+      "date": "2022-11-16",
+      "period": "2022-11",
+      "file": "OEFA_TFA_497_2022_Las_Bambas.pdf",
+      "url": null,
+      "url_kind": "copia del archivo documental del autor; URL oficial no confirmada",
+      "sha256": "37f28ec504cb79ab9176c35472e8f73a640e2a21d5b63566fda745d5e22b0ed7",
+      "pages": 29
+    }
+  ],
+  "passages": [
+    {
+      "document_id": "PCM-WILLAQNIKI-05-2024",
+      "page": 38,
+      "case_codes": [
+        "1285-0622"
+      ],
+      "title": "PCM: seguimiento de compromisos con Chuicuni",
+      "quote": "Se registra un avance del 80 % en la primera sesión de las reuniones de seguimiento de cumplimiento de compromisos entre Minera Las Bambas y la Comunidad Campesina de Chuicuni, solo quedando pendiente la agenda de oportunidad laboral.",
+      "relation": "mismo actor comunal y empresa en el espacio de diálogo"
+    },
+    {
+      "document_id": "PCM-WILLAQNIKI-05-2024",
+      "page": 38,
+      "case_codes": [
+        "1132-1218"
+      ],
+      "title": "PCM: diálogo bilateral con Fuerabamba",
+      "quote": "Proceso de diálogo bilateral entre la Comunidad Campesina de Fuerabamba del distrito de Challhuahuacho y la Empresa Minera Las Bambas, con participación del Ejecutivo. La minera Las Bambas ha logrado a la fecha la caracterización de 95 jóvenes aspirantes a puestos laborales.",
+      "relation": "mismo actor comunal y empresa en el espacio de diálogo"
+    },
+    {
+      "document_id": "MINEM-OGGS-2016-IV",
+      "page": 121,
+      "case_codes": [
+        "1132-1218"
+      ],
+      "title": "MINEM ya registraba el caso en 2016",
+      "quote": "CASO LAS BAMBAS Ubicación geográfica: Región : Apurímac. Provincia : Cotabambas. Distrito : Challhuahuacho. Comunidad : Fuerabamba.",
+      "relation": "antecedente sectorial del mismo actor comunal"
+    },
+    {
+      "document_id": "MINAM-OGASA-09-2025",
+      "page": 35,
+      "case_codes": [
+        "1229-0621"
+      ],
+      "title": "MINAM prioriza Huancuire en fase de prevención",
+      "quote": "Apurímac Minería Prevención Problemática socioambiental - Comunidad campesina Huancuire - Las Bambas",
+      "relation": "caso nombrado en la matriz de casos priorizados de OGASA"
+    },
+    {
+      "document_id": "PP-MINAM-202503",
+      "page": 20,
+      "case_codes": [
+        "1403-0325"
+      ],
+      "title": "MINAM: derrame en Sinchi Roca y quebradas afectadas",
+      "quote": "El 19MAR2025, se registró un derrame de petróleo en la comunidad de Sinchi Roca, ubicada en el distrito de Manseriche, provincia del Datem del Marañón.",
+      "relation": "mismo derrame y comunidades nombradas"
+    }
+  ],
+  "signals": [
+    {
+      "document_id": "OEFA-STEC-00015-2022",
+      "page": 18,
+      "company": "mineria",
+      "title": "OEFA no pudo muestrear dos puntos de agua por el conflicto",
+      "claim": "La evaluación ambiental de 2022 dejó sin datos dos puntos de agua cercanos a Contahuire y Chalcobamba porque no hubo autorización de acceso.",
+      "quote": "se encuentran dentro de un área de conflicto social, por lo cual no se tuvo autorización de acceso"
+    },
+    {
+      "document_id": "OEFA-TFA-497-2022",
+      "page": 1,
+      "company": "mineria",
+      "title": "TFA anula una determinación de responsabilidad",
+      "claim": "El Tribunal declaró la nulidad de lo actuado sobre una conducta infractora de Minera Las Bambas y devolvió el expediente a primera instancia. No es una absolución de fondo.",
+      "quote": "se retrotrae el procedimiento administrativo sancionador al momento en el que el vicio se produjo"
+    },
+    {
+      "document_id": "PCM-WILLAQNIKI-05-2024",
+      "page": 31,
+      "company": "hidrocarburos",
+      "title": "PCM: protesta en la Estación 5 del Oleoducto",
+      "claim": "En setiembre de 2024 la PCM reportó medidas de fuerza junto a una estación del Oleoducto en el marco de un paro del Datem del Marañón. Es otro episodio, no el derrame de Sinchi Roca.",
+      "quote": "El 4 de setiembre se reportaron quema de llantas en las inmediaciones de la Estación 5 del Oleoducto operado por Petroperú"
+    }
+  ]
+}

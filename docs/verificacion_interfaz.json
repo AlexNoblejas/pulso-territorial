@@ -1,0 +1,32 @@
+{
+  "backend": "C:\\Users\\alexa\\Videos\\Python Intermedio\\StarUp\\pulso\\service.py",
+  "data": "copia de biblioteca real de StarUp; sin servicios simulados",
+  "documents": 3,
+  "units": 269,
+  "periods_in_snapshot": [
+    "2026-09",
+    "2026-04",
+    "2026-03"
+  ],
+  "results": [
+    {
+      "app": "C:\\Users\\alexa\\Videos\\Python Intermedio\\StarUp\\app.py",
+      "passed": true,
+      "html_hits": 7,
+      "pdf_hits": 8,
+      "bulletin_chars": 13396
+    },
+    {
+      "app": "C:\\Users\\alexa\\Documents\\Codex\\2026-11-10\\quiero-que-lear-y-analices-a-11\\work\\app_ui.py",
+      "passed": true,
+      "html_hits": 7,
+      "pdf_hits": 8,
+      "bulletin_chars": 13396
+    }
+  ],
+  "not_tested": [
+    "llamadas a proveedores IA sin credenciales",
+    "nuevas descargas de red",
+    "carga de PDF desde navegador"
+  ]
+}

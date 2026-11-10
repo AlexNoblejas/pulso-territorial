@@ -1,0 +1,5 @@
+pypdf>=6,<8
+beautifulsoup4>=4.12,<5
+requests>=2.31,<3
+python-dotenv>=1,<2
+filelock>=3.13,<4

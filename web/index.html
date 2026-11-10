@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102c35">
+  <meta name="description" content="PulsoTerritorial: inteligencia territorial basada en evidencia para equipos de gestión social.">
+  <title>PulsoTerritorial · Inteligencia territorial</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=Manrope:wght@400;500;600;650;700;750;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/vendor/maplibre-gl.css">
+  <link rel="stylesheet" href="/styles.css">
+  <script defer src="/vendor/maplibre-gl.js"></script>
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Ir al contenido</a>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Navegación principal">
+      <a class="brand" href="#resumen" aria-label="PulsoTerritorial, inicio"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span>Pulso<span class="brand-light">Territorial</span><small>INTELIGENCIA QUE CONECTA</small></span></a>
+      <button id="account-button" class="account-switch" type="button"><span class="account-avatar" id="account-avatar">M</span><span><strong id="account-sector">Cartera minera</strong><small>Cuenta de demostración</small></span><span class="chevron">⌄</span></button>
+      <div class="sidebar-label">ESPACIO DE ANÁLISIS</div>
+      <nav id="main-nav">
+        <a href="#resumen" data-view="resumen"><span data-icon="overview"></span>Resumen ejecutivo</a>
+        <a href="#territorio" data-view="territorio"><span data-icon="map"></span>Territorio<span class="nav-tag">3D</span></a>
+        <a href="#conflictos" data-view="conflictos"><span data-icon="layers"></span>Conflictos<span id="nav-case-count" class="nav-count">—</span></a>
+        <a href="#fuentes" data-view="fuentes"><span data-icon="sources"></span>Fuentes y contraste</a>
+        <a href="#reportes" data-view="reportes"><span data-icon="report"></span>Reportes</a>
+      </nav>
+      <div class="sidebar-monitor"><div class="monitor-symbol" data-icon="activity"></div><strong>El contexto cambia.<br>La evidencia permanece.</strong><p>Cada hallazgo conserva su fuente, su fecha y su contexto.</p><button id="refresh-button" class="button button-sidebar" type="button"><span data-icon="refresh"></span>Actualizar monitoreo</button></div>
+      <div class="sidebar-footer"><span class="system-dot"></span><span id="coverage-label">Conectando con la biblioteca</span><small>Demostración · datos públicos</small></div>
+    </aside>
+
+    <div class="workspace">
+      <header class="topbar"><button class="icon-button mobile-menu" id="menu-button" aria-label="Abrir navegación" type="button"><span data-icon="menu"></span></button><div class="breadcrumb">Mi cartera<span>/</span><strong id="breadcrumb-company">Inteligencia territorial</strong></div><div class="topbar-right"><span class="topbar-status"><span class="system-dot"></span>Biblioteca documental</span><button id="help-button" class="icon-button" aria-label="Acerca de esta demostración" type="button"><span data-icon="info"></span></button><span class="analyst-avatar" title="Perfil de analista de demostración">A</span></div></header>
+      <main id="main" tabindex="-1"><div id="content" aria-live="polite"></div></main>
+      <footer class="workspace-footer"><span>© PulsoTerritorial · Inteligencia con trazabilidad</span><span>La cercanía territorial no acredita afectación operativa.</span></footer>
+    </div>
+  </div>
+
+  <dialog id="account-dialog" class="account-dialog"><form method="dialog"><button class="icon-button dialog-close" aria-label="Cerrar" value="cancel"><span data-icon="close"></span></button></form><div class="dialog-eyebrow">CONOCE PULSOTERRITORIAL</div><h2>Una perspectiva para<br>cada territorio.</h2><p class="dialog-intro">Explora el monitoreo desde dos carteras sectoriales. Son perfiles de demostración con información pública; no representan cuentas de empresas.</p><div class="account-grid"><button class="entry-card" data-company="mineria"><span class="entry-icon" data-icon="mountain"></span><small>DEMO · MINERÍA</small><h3>Cartera minera</h3><p>Operaciones, comunidades y diálogo en el territorio.</p><span class="entry-link">Entrar como analista <span data-icon="arrow"></span></span></button><button class="entry-card hydro" data-company="hidrocarburos"><span class="entry-icon" data-icon="droplet"></span><small>DEMO · HIDROCARBUROS</small><h3>Cartera energética</h3><p>Entorno socioambiental y seguimiento documentado.</p><span class="entry-link">Entrar como analista <span data-icon="arrow"></span></span></button></div><div class="dialog-footnote"><span data-icon="shield"></span>Sin datos privados ni autenticación simulada.</div></dialog>
+  <dialog id="info-dialog" class="info-dialog"><form method="dialog"><button class="icon-button dialog-close" aria-label="Cerrar" value="cancel"><span data-icon="close"></span></button></form><span class="eyebrow">ACERCA DEL PILOTO</span><h2>Información para entender.<br>Evidencia para verificar.</h2><p>Este piloto organiza un corpus acotado de documentos públicos. Las cifras corresponden a la cartera y al período seleccionado; no representan un censo nacional ni información en tiempo real.</p><p>Los estados y fases se muestran tal como están documentados. Las coordenadas administrativas son referencias de ubicación y no demuestran el lugar exacto de un hecho.</p><p>Las fuentes sin documentos incorporados se identifican como pendientes de cobertura. Los análisis asistidos requieren revisar sus citas.</p></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

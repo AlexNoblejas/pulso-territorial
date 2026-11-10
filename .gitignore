@@ -1,0 +1,14 @@
+.venv/
+.venv-ocr/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+data/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+tests/_temp/
+docs/estudio_local/
+.claude/

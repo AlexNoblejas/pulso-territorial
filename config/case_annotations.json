@@ -1,0 +1,108 @@
+{
+  "period": "2026-09",
+  "method": "Síntesis editorial cotejada con fichas originales; no generación IA ni verificación de campo.",
+  "cases": {
+    "1285-0622": {
+      "summary": "La Defensoría registra la reanudación del diálogo con Chuchupampa el 22 de septiembre, tras un cierre temporal del acceso. La agenda reúne empleo, apoyo social, polvo y tránsito pesado; la siguiente reunión se anunció de forma referencial para el 16 de octubre.",
+      "demands": [
+        "Cumplimiento de compromisos e incorporación al área de influencia directa, según la comunidad.",
+        "Oportunidades de empleo y apoyo social.",
+        "Atención a reclamos por polvo y tránsito de vehículos pesados."
+      ],
+      "commitments": [
+        {
+          "text": "Dar seguimiento a demandas laborales, ambientales y compromisos para la próxima reunión.",
+          "responsible": "Instituciones participantes, sin asignación individual en el pasaje",
+          "due_date": "2026-10-16",
+          "due_precision": "fecha referencial de reunión",
+          "reported_status": "Anunciado en septiembre; realización posterior no verificada",
+          "source_id": "DP-2026-09"
+        }
+      ]
+    },
+    "1229-0621": {
+      "summary": "La ficha conserva reclamos de Huancuire sobre el convenio marco, terrenos, agua y consulta previa. La Subprefectura informó en septiembre que seguían reuniones bilaterales vinculadas a Chalcobamba; esa continuidad no acredita el cumplimiento de acuerdos.",
+      "demands": [
+        "Cumplimiento del convenio marco, según reclamo comunal.",
+        "Atención a la presunta contaminación de recursos hídricos.",
+        "Reinicio de la consulta previa y atención a controversias sobre terrenos."
+      ],
+      "commitments": []
+    },
+    "1162-0819": {
+      "summary": "Tras la protesta del 15 de septiembre, el reporte registra liberación de la vía y una reunión en Lima el día 23. Se acordó priorizar 586 predios y una agenda de autorizaciones, expedientes y tasaciones, con otra reunión anunciada para el 20 de noviembre.",
+      "demands": [
+        "Cumplimiento del cronograma del MTC y pago por afectaciones prediales del corredor minero."
+      ],
+      "commitments": [
+        {
+          "text": "Priorizar la atención de 586 predios afectados e iniciar expedientes y tasaciones.",
+          "responsible": "No individualizado en el pasaje; revisar el acta",
+          "due_date": null,
+          "due_precision": "Pagos programados entre 2026 y 2027",
+          "reported_status": "Acuerdo reportado; ejecución posterior no verificada",
+          "source_id": "DP-2026-09"
+        },
+        {
+          "text": "Otorgar autorizaciones de uso y acceso a áreas auxiliares del Informe de Avance N.º 03.",
+          "responsible": "Comunidades, según la ficha",
+          "due_date": null,
+          "due_precision": "Informe previsto para la primera quincena de noviembre de 2026",
+          "reported_status": "Acuerdo reportado; ejecución posterior no verificada",
+          "source_id": "DP-2026-09"
+        },
+        {
+          "text": "Realizar una nueva reunión presencial en el distrito de Mara.",
+          "responsible": "Participantes del espacio de diálogo",
+          "due_date": "2026-11-20",
+          "due_precision": "fecha prevista de reunión",
+          "reported_status": "Programada en el reporte; no equivale a confirmación actual",
+          "source_id": "DP-2026-09"
+        },
+        {
+          "text": "Gestionar ante la SGSD-PCM la incorporación de la empresa minera al espacio formal de diálogo.",
+          "responsible": "Oficina de Diálogo y Gestión Social del MTC",
+          "due_date": null,
+          "due_precision": "Sin plazo individual consignado",
+          "reported_status": "Gestión anunciada; resultado posterior no verificado",
+          "source_id": "DP-2026-09"
+        }
+      ]
+    },
+    "1132-1218": {
+      "summary": "La reunión prevista para el 10 de septiembre fue postergada. La ficha informa que todavía no se había presentado una propuesta comunal formal para instalar el espacio bilateral sobre la agenda de personas adultas mayores de Fuerabamba.",
+      "demands": [
+        "Atención a la agenda de personas adultas mayores y revisión de acuerdos reportados por la comunidad."
+      ],
+      "commitments": [
+        {
+          "text": "Remitir la propuesta comunal formal para instalar un espacio de diálogo bilateral.",
+          "responsible": "Comunidad Campesina de Fuerabamba",
+          "due_date": null,
+          "due_precision": "Sin fecha específica",
+          "reported_status": "No presentada al corte del reporte; situación actual no verificada",
+          "source_id": "DP-2026-09"
+        }
+      ]
+    },
+    "1459-1125": {
+      "summary": "Empresas comunales vinculadas a servicios de la exoperadora Altamesa reclaman a Petroperú un cronograma para la deuda restante. En septiembre, organizaciones cuestionaron el proceso de selección de operador y la Defensoría solicitó información a PERUPETRO y PETROPERÚ.",
+      "demands": [
+        "Nuevo cronograma que contemple la deuda restante, según las empresas comunales.",
+        "Transparencia, igualdad de condiciones y rendición de cuentas en la selección de operador.",
+        "Información sobre empleo local, inversión social y compromisos ambientales."
+      ],
+      "commitments": []
+    },
+    "1403-0325": {
+      "summary": "La ficha de septiembre recoge reclamos por pagos y regularidad del agua en Sinchi Roca–Pijuayal. OEFA, MINAM, ANA y Vivienda documentan actuaciones diferentes; la fecha del derrame de referencia no coincide entre todos los relatos y se mantiene señalada para revisión.",
+      "demands": [
+        "Abastecimiento regular de agua segura.",
+        "Atención integral y remediación ambiental solicitadas por las comunidades.",
+        "Pago de labores de recojo de crudo, según el reclamo recogido por la Defensoría."
+      ],
+      "commitments": []
+    }
+  },
+  "source_sha256": "b46215f391e40a29ad52f6cdbc67c07cca14c2f1e30ac4e1017fbb19f36848c4"
+}

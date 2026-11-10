@@ -38,6 +38,11 @@ def update_bulletins():
 def cycle(limit):
     result = service.sync_sources(limit)
     result['bulletins'] = update_bulletins()
+    from .news import update as update_news
+    try:
+        result['news'] = len(update_news()['items'])
+    except Exception as exc:
+        result['news_error'] = type(exc).__name__
     from .portfolio import COMPANIES,rebuild,visual_report,portfolio
     try:
         rebuild()

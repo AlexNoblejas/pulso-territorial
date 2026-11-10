@@ -26,6 +26,8 @@ jobs:
       - name: Revisar nuevas publicaciones de la Defensoría
         # Si la fuente no responde se publica la última cartera verificada.
         run: python -m pulso.cli sync --limit 2 || echo "Sin cambios en fuentes"
+      - name: Monitorear medios (RSS de El Comercio, La República, Andina y Google News)
+        run: python -m pulso.news || echo "Se conserva la última muestra de prensa"
       - name: Generar sitio
         run: python -m pulso.export site
       - uses: actions/upload-pages-artifact@v3

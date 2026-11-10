@@ -4,7 +4,7 @@ from __future__ import annotations
 from collections import Counter, defaultdict
 from contextlib import closing
 from pathlib import Path
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 import html
 import json
 import re
@@ -12,7 +12,7 @@ import threading
 import shutil
 
 from bs4 import BeautifulSoup
-from . import corpus,service
+from . import corpus,news,service
 
 DIRECTORY = service.DATA / 'portfolio'
 LOCK = threading.Lock()
@@ -241,6 +241,28 @@ def portfolio(company='mineria',period=None):
                       'observations':[{k:o[k] for k in ['period','status','phase','dialogue','source_id']} for o in items],
                       'review_status':'ficha oficial extraída; vínculos adicionales curados','source_anchor':obs.get('source_anchor'),
                       'company_relation':'Mención empresarial expresa en el expediente; el operador y las obligaciones se verifican por activo.'})
+    # Press is the daily pulse between monthly official reports; older periods only see older notes.
+    media=news.load()
+    company_items=[i for i in media['items'] if company in i['companies'] and (selected_period==periods[0] or i['published'][:7]<=selected_period)]
+    for case in cases:
+        for item in [i for i in company_items if case['id'] in i['case_codes']][:6]:
+            sid='NEWS-'+item['id']
+            sources[sid]={'id':sid,'institution':item['outlet'],'title':item['title'],'url':item['url'],'date':item['published'][:10],
+                          'period':item['published'][:7],'kind':'prensa','method':'RSS del medio','review_status':'mención en prensa · no verificada'}
+            case['source_ids'].append(sid)
+            case['events'].append({'date':item['published'][:10],'period':item['published'][:7],'title':item['title'],
+                                   'summary':item['snippet'] or 'Nota de prensa que menciona el caso.','source_id':sid,'kind':'prensa',
+                                   'relation':'mención en prensa · no verificada','claim_status':'reportado por el medio','tags':item['tags']})
+        case['events'].sort(key=lambda e:e.get('date') or e['period'],reverse=True)
+    weeks=defaultdict(Counter)
+    for item in company_items:
+        day=datetime.fromisoformat(item['published']).date()
+        weeks[(day-timedelta(days=day.weekday())).isoformat()][item['tags'][0]]+=1
+    media_summary={'updated_at':media.get('updated_at'),'total':len(company_items),'items':company_items[:40],
+                   'outlets':Counter(i['outlet'] for i in company_items).most_common(),
+                   'weekly':[{'week':w,'counts':dict(c),'total':sum(c.values())} for w,c in sorted(weeks.items())][-12:],
+                   'feeds_ok':sum(f['ok'] for f in media.get('feeds',[])),'feeds':len(media.get('feeds',[])),
+                   'method':media.get('method','')}
     selected_ids={sid for c in cases for sid in c['source_ids']}
     selected_sources=[sources[sid] for sid in selected_ids]
     historical_cases,series=historical(company)
@@ -288,7 +310,7 @@ def portfolio(company='mineria',period=None):
                            [{'id':s['document_id']+f"-p{s['page']}",'institution':library['documents'][s['document_id']]['institution'],'title':s['title'],
                              'claim':s['claim'],'quote':s['quote'],'page':s['page'],'pdf_url':s['pdf_url'],'url':library['documents'][s['document_id']]['url'],
                              'date':library['documents'][s['document_id']]['date']} for s in library['signals'] if s['company']==company],
-            'corpus_problems':library['problems'],
+            'corpus_problems':library['problems'],'media':media_summary,
             'geography':{k:geo.get(k) for k in ['center','zoom','extent','metadata','map_style_url','terrain_url']},
             'coverage':{'period_label':'Setiembre de 2026' if selected_period=='2026-09' else selected_period,'built_at':snap['built_at'],'current_source':'RCS 271 · fichas estructuradas oficiales',
                         'scope':'Cartera piloto de casos seleccionados, no totalidad de conflictos de la empresa ni del país.',

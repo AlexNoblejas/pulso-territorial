@@ -1,0 +1,1516 @@
+{
+  "updated_at": "2026-11-10T23:22:58.318697+00:00",
+  "window_days": 120,
+  "feeds": [
+    {
+      "feed": "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "feed": "https://elcomercio.pe/arc/outboundfeeds/google-news-feed/category/peru/?outputType=xml",
+      "ok": true,
+      "items": 17
+    },
+    {
+      "feed": "https://elcomercio.pe/arc/outboundfeeds/google-news-feed/category/economia/?outputType=xml",
+      "ok": true,
+      "items": 63
+    },
+    {
+      "feed": "https://larepublica.pe/rss/sociedad.xml",
+      "ok": true,
+      "items": 70
+    },
+    {
+      "feed": "https://larepublica.pe/rss/economia.xml",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "feed": "https://andina.pe/agencia/rss/3.xml",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "ok": true,
+      "items": 56
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=Fuerabamba&hl=es-419&gl=PE&ceid=PE:es-419",
+      "ok": true,
+      "items": 44
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=Challhuahuacho&hl=es-419&gl=PE&ceid=PE:es-419",
+      "ok": true,
+      "items": 28
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=%22corredor+minero%22+Apur%C3%ADmac&hl=es-419&gl=PE&ceid=PE:es-419",
+      "ok": true,
+      "items": 37
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=Petroper%C3%BA+derrame&hl=es-419&gl=PE&ceid=PE:es-419",
+      "ok": true,
+      "items": 55
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "ok": true,
+      "items": 62
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
+      "ok": true,
+      "items": 36
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "ok": true,
+      "items": 55
+    }
+  ],
+  "items": [
+    {
+      "title": "Petroperú: cuestionan concesión de Talara pese a recuperación financiera y exigen fiscalizar crédito de US$475 millones",
+      "url": "https://larepublica.pe/economia/2026/11/08/petroperu-cuestionan-entrega-de-talara-a-operador-privado-pese-a-recuperacion-financiera-y-piden-fiscalizar-credito-507320",
+      "outlet": "La República",
+      "published": "2026-11-10T18:28+00:00",
+      "snippet": "La refinería de Talara concentra el 65% de las ventas de combustibles de Petroperú, pero aún no se precisan las condiciones técnicas, financieras y contractuales de su eventual administración privada.",
+      "feed": "https://larepublica.pe/rss/economia.xml",
+      "id": "9ae4bfcf639dc0a0",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.206579+00:00"
+    },
+    {
+      "title": "Camión cisterna extraía petróleo crudo del Oleoducto Norperuano mediante conexión clandestina: Petroperú denuncia nuevo ataque",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORTFWbnU4OFFTLWxQbXdqdnN5RUc1MkZGMjFHRm82dkIyOExueXJReFBUYjhZNWFZOFByRW1oWDZUTlVYTHhWNUthYWJYMTJLekJLVnplRmNkWndDWktERjNPNUxWRVlIVmswdXNYUGg5NDZJR05ZYUNkc3lhekcwNG95TUV6WlBZLXJFWEVMUzBPV0JJd0lFVDN4VDRFNW94N0JGX1UwTC04Y2NkcFY1VVJ6YU1OT3NpZmlXczhUQ3R6NmdnYUdSLW1zbmIway10SjFtRWtSc0FHakNHV2ViWENleG9XS2xtZnFfZktwakFlOWR4MmVJcmlKYXFScnJmemZIcw?oc=5",
+      "outlet": "RPP Noticias",
+      "published": "2026-11-10T17:44+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "3b6e96138c380215",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.265372+00:00"
+    },
+    {
+      "title": "Las Bambas entrega nuevos espacios para fortalecer la vida comunitaria de más de 150 pobladores de Antuyo",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmpxYXlBRVNDRmc0ZlVGbkNyLXA2empFS045VjBFbnUwb21Dd192TTBDbmlNUkkxaW5aY0Rsc0dISUNRdi1xeVhFQmZwbWwzVlh5b3ZFYTZRcjNaQW9ZZm1ad2JyVFhkR1FIQTg4MVF0U1Z6WHRYZjMzbGx0N3FiczZ1dHdBNzFaZV9ONE5aM3NTbFRPWWtGbmV6WjYwUUJNTjF0M3JUT3lyUHBWX09hRHZuRlRjTWtrR0ZLd2N6UjU1VlR4OHpCcE5EQU9zWUJ0MjRzOUNieTVrUQ?oc=5",
+      "outlet": "Desde Adentro",
+      "published": "2026-11-10T15:59+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "b4c7baf4f912a980",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.221801+00:00"
+    },
+    {
+      "title": "Entrevista a Marco Gutierrez de Minera Las Bambas en el Congreso Excelencia Operacional 2026",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVTZNWVBMMHl6Z3NlY0pZdE5lZ2ctaVlxbVdLbjRCRVNrTFg1WVc4N2VJRDBfbTJqS3AzT21fLTZCRV9fcU14dy02ODhGZnJzOGRvMTd1ZHZyMGFhZUxkSHZ1clJ2eWV6eUxWWDZtdkdQNkNyUlI2blp0T09tZ0xuYnU0WXpxLVdQYWNQek0zTTR2OV9tX2p3UEZRcDN6eXB1S3V4cjc1ZUtlcnZfeFNNQjlFYVpON2RBdkMyV2NPbw?oc=5",
+      "outlet": "Minart | Portal de Noticias ✓",
+      "published": "2026-11-10T14:01+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "0b5f33516af22a1e",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.222795+00:00"
+    },
+    {
+      "title": "Robo de petróleo en Piura: PNP sorprende a conductor de cisterna extrayendo crudo del Oleoducto Norperuano",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbWx5Zi1wRlNscWgyU0Q2aFlGRnBBSFJEU1plX044V1owSFh2dk04Ukd3QUwxTEt3QW40NGdxSUhZbGtMbVNqSWdGclpwUDlESG1qS2JnMHJJSkhxdnpNWUMyU3FHSExJWURETHpLc3gyYWxKUTNRTkxLSEM0d2JtRTkzc0o0Z2hLOTJLOTRQcDh1RVdBOXdpQVMwU1JERWxlM1RvZ1BWanRiUXNZbkhIbGhXRFczN3plOXg0QkdEdzY5bHRDRFo1RVdMVHE4M2JEbjJpYjFOYnhLZ19objhhWXNzeF9wY0swblYxY2R3NGRMc1JQNzQ2Wg?oc=5",
+      "outlet": "Expreso",
+      "published": "2026-11-09T16:17+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "43f54377d1ce72f6",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.266386+00:00"
+    },
+    {
+      "title": "Petroperú: intervienen cisterna cuando extraía crudo por conexión clandestina en oleoducto",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGs3c2c2QU5hYnRFQVBvYXJRaldLVWlzWVc5VlZpN01WenZtRWRmdm9CYlJLUkdPcUZTUEVwT3BJTlV0ajhucjB6eGZubUtFQUFROVR0Qk1NSUtkVWNKcUE3RVkwa1NzcHZrcV9aUmZzLWJ0RVFQdFRHaWNzdGVsMS1BWHhkd2VIVi1RVTFjdDViVEhtOXlXaFp2MlNQVXdRcmhXdkh0QTF1LVd2M0pEY3FxMFZld08tdGFoNGEwa0lta0x2em1pNA?oc=5",
+      "outlet": "Agencia Andina",
+      "published": "2026-11-09T15:18+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "0658b17fd995183b",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.267376+00:00"
+    },
+    {
+      "title": "Petroperú: PNP interviene a conductor por extraer crudo a través de conexión clandestina del Oleoducto NorPeruano",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGlkQnBEdGV1QV9BMnJMZkg1OS01VjVTaXNlWXVHY2Utamk4aDliSXNNenVzNWYyN3dYaDBjTExIQmNDUHFvVlR2ZVcxaS1nNlVscWtWVDBqb3JuOWRJYjdOUjVmWE5xb0RKOVl3aTBqeVo2ZDlQbEVmN2ZlSGdBeTVLcVhmcDg4a1VXdUIzMHg3d0VFQ2RtUV95MlNVUURr?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-11-09T13:36+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "bb6052490bbcb8d2",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.267376+00:00"
+    },
+    {
+      "title": "Piura: intervienen a conductor de cisterna cuando presuntamente sustraía crudo del Oleoducto Norperuano en Sechura",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQcDV0cWU2TE1sMW1uRmJlTDBpNnZGcmZ6bkRxY2x6NTluTkhrLUdKZk5JejhQUnJOMXRUMExDdm1ObnRrSVc0Zy1WTmlxbXBOMGJKUmhUR1FjT0xYMGtoZ09QLWVQSER0dHliNmdGemtrbW1TUXoyeFlINDlyMGV4aS1hNHJyRHFtMUVuQUVCSTJGeEFYaWFpMDhHQXRBbWpYNFdKZlNGZ2t5SVFWZVpVOVFLS19QdHBudUEzVzR2YkI3QzJEUWZ2TTZWeXlWbEFSZjgyOWJ6c296QUhEdXAxQy05eFg3S2lDY2tpMFRZWXpqaXhpNTM3cGd0ZU9nR0dVMkZhZFF3OFdTdGpUR3RvUw?oc=5",
+      "outlet": "El Regional de Piura",
+      "published": "2026-11-08T23:20+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "0f81c4709cf25704",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.267376+00:00"
+    },
+    {
+      "title": "Piura: intervienen cisterna cuando sustraía crudo del Oleoducto Norperuano en Sechura",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzVkelc3bk1WT01yRHBPckRsbHJtS0lKa192TG95bDBmamtGVXZrREdFRXdaWXlsN1dXOVhkNTRjOEkzQklaa1VvMkNIdGQ3Z1NDNC14TzlfdjBnQldlU1pZZEQ2RUczZFBGMVpSMFJjQnRtQVNvSVBxM0NzZEsyNnlBVk04cjlaNVpVRk9ZTDJYY1A4dnpFQk5RaU9fUTdGVDBMN1RiSzBfS043NGhVRjNB?oc=5",
+      "outlet": "Noticias Piura 3.0",
+      "published": "2026-11-08T20:37+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "9cdcb9b392d78682",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.266386+00:00"
+    },
+    {
+      "title": "Intervienen cisterna por robo de crudo en el Oleoducto Norperuano",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ0FRNkZjR3Rka0l3ajc3T1hNUHR3TUJpenVoYklHQzYtcHlCUzFuU3Y0U0R3c2lKQjNxUGJSUGV3RE1ON0liR3hnRnBORFAxc1o4dF9qUXBEQTRhcmtzTXY0c0JnZ2R5Y2V4ZVlHc0FrckpacFdBNEtvbkR1M29iLVhoNHE1TjR4dUE0?oc=5",
+      "outlet": "Walac Noticias",
+      "published": "2026-11-08T16:42+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "afeaa59f616f0ef6",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.276367+00:00"
+    },
+    {
+      "title": "“No vamos a permitir la reactivación petrolera”: pueblos indígenas exigen cumplir acuerdos del Lote 192 en Loreto",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM2JObFBqdU4tMk5jLTI0MnBvRU1GMjk1TkxpcE5FcjJ2QmNmZkc0blZsdUtrakdpaFJSdzdtWkpicUQxeV81d2dqTVV5bFU0WUx5MkNqY3RKRjJZUE84NHFpbm9reDVFREdudTRtRzJqZE5JRGxZZlAyWUprSEdMS1RqVlgtYmpla2VVNE5wVXVfY3lRcFdIUnZGbGtRdHkwWjBCbVlxYXJFTFNUWXo2YzlXakJyVXVkUDZTM3VDYkZsYWh5WjVkM1JHemw3WVp5M1hZNlNVd25lZURmYzF6MHdyZzlYVVNPbXZ2MmVsV1ItUdIB9wFBVV95cUxNMmg2UWx3XzNwRkFLTDBRNXAzQ2l6b3RYVTgyZFN5WFZCUlZMVVJOOV94WWNXMEIwbk11cmQ0Q2ZVUE83QVY2NlhRdGpZN0txeWtCWWtzN0xTY2hoamFZd0Q1ZW9zMllMTG9ueWtlTEVXNGVTWnF6SHBDOUZJOVRiaFFIVF9vbmZPN3BpRmM0eFJLUnh4cFA3Wkt1NEN3bFFzbXBaR29wcHpPN1ppMzgyLWYxR0lWTG56dWFnMWFrRnd0WUJ3U0hWdFpGWWFaOFpoOF9kN09YVXhYRU5qS3RndG9nVlhiaHFqMndwM2l6QThTdEJ1MG1z?oc=5",
+      "outlet": "La República",
+      "published": "2026-11-07T14:44+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "3feb43188a05d4af",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Diálogo y acuerdos"
+      ],
+      "first_seen": "2026-11-10T23:22:58.289371+00:00"
+    },
+    {
+      "title": "“Petroperú debe ver cómo se arregla con la nueva operadora del Lote 192 para cumplir con las comunidades”",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWZzQUUzS3FqN19McWNNdG43eXp4cS12UzMxMHBkdGc2Qy1MVERfbmVrMXpJcHhfWEphd1JabjNlbVkzRnd2MnVNUU9jdkZrX0FoMXEyWDRVVkxmdTh0VHFYQU93VldEbkxuZ1FNb0pFSVh2Z2F4amN1ZXRreXR0Z2t2aE5CdDFraEFqWmR5U25OOGdQQmI5RjNQbjFvQ0VqSmF4TnZfVXcyNG9UTDlULW5MV3ZlTEVENkgzYzZPNS1xaEo2SGhCWXllRQ?oc=5",
+      "outlet": "La Región: Diario Judicial de Loreto",
+      "published": "2026-11-07T05:17+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "262632f6ed1905eb",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.287369+00:00"
+    },
+    {
+      "title": "Perú: Indígenas anuncian conflicto sino se respetan acuerdos en Lote 192",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUngxOTZZT0Q3cnBQdF9NQ0QwZ0xxV2I2Ny02ZlQxYXF3VXBUWW1sRzFLYmNZVHhvaU5zUG1HbE85dk5tZTNrV0VaVFdCRWw2MnFXSXVxcmtJcF84emtqUHFMOFp0OGltaW52MnYxa1JHd3JFTnlCUUVoV1FVdzBiZURUOThxMmZEMDZDTmV4XzZIdUdEOG5FX05SWTJCeFROUG0yMWdVa1RaMjRad3c?oc=5",
+      "outlet": "Pressenza - International Press Agency",
+      "published": "2026-11-07T04:42+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "3b646945a18419be",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Diálogo y acuerdos"
+      ],
+      "first_seen": "2026-11-10T23:22:58.286369+00:00"
+    },
+    {
+      "title": "Concluye exitosamente III Feria Emplea Perú Minero organizada por CETEMIN junto a Las Bambas y Ferreyros en Abancay",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGRHWlBtR2RPZGFvYzBzSVJ4Z29ZdmN1SzRJRDlCeDA4TTlLdFhUOHJjV1lST2J5NjhGdEx1UGhxZ1FrZHljTFFlRG1pQ2tlSTBCam5ScjdiUzVNd3V6c0hxLXRvYmFRSDVzVFNqWVh3aGgzbHhDMWYtZFpxbWRHNUpnMFhwRHZPVmQxNk1GRQ?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-11-06T03:51+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "cb0f3e7135f45446",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.223792+00:00"
+    },
+    {
+      "title": "Pronis garantiza presupuesto para equipar el Hospital de Challhuahuacho",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzdMem9oTlZtR19rbTBzVXF6MkpXTHZXVEI3dXBiaTdGX24tZGMxdl9iNjhMRFVEWUMtM01fU193V3BlZlN6LUM5R3g4c2RGT0ZMY1QyaERrc29HTTB6SnZwZFY2Sm5ZTVBKcG1OcDBTWnV4Mk1pbW52ZmREUWV0ZG13S1MyaU9VemFCTTZqOEFDM0p2NnA3cnRjME1MNjJfZFVWaUlaQVZCNjg?oc=5",
+      "outlet": "El Peruano",
+      "published": "2026-11-05T19:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=Challhuahuacho&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "ee9b7091fdd18a7c",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+    },
+    {
+      "title": "Empresa que operará el Lote 192- PetroLoreto, dice a los APUS que no pagarán las deudas dejadas por Altamesa",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeVlGWDZLdlpiblJ2UmFzMkl2Rm1yWHUwNXVldmRWREpKQm5CTzRuSWRDVm9qZFpONTk2UlloeDhJNGxRODRBV2o4V3IyTkF6TXlVT0poVVVCS0RwUzlubkY1NkFXWnRFeUR6N0lrUERwaVB5NVc3Y3dFZEpfaVRyOVF0bFhCazA5eHpqSUl4cGx5TVhjTXJjWEJWVWhRS0tqc1VfUUNCUlNsWUtaU0pJcVFhbjZIbVN5U2praFJVdUpiTnhVR05SMlJrWHpjRWc?oc=5",
+      "outlet": "La Región: Diario Judicial de Loreto",
+      "published": "2026-11-05T05:17+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "e23c0fe9cf3d7aa1",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1459-1125"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.290377+00:00"
+    },
+    {
+      "title": "Apurímac: Las Bambas entrega camión volquete a la comunidad de Chila, en Chalhuahuacho",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1ZiZnNXSWY5LVNhM1Z2YWtGOHFRbHREbl91Q3lNMlQwZDZwUTlyRWZ4WkNCcVhsNmxveFZ2YTJTZnYzWjVLQzRvQm9mRE1wTE5FWWhUcEUyeHNMcGlKXzg4NFR4X19FUFVzbmJ6VGpUYndMT3ZnTU1xR2FTTGxVeUVlT2M3R0R0bGNHR3o1LWV3dTN4SXRWZWFrNTNycVpyWkVydlpVU1Q?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-11-04T18:43+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "f94117c8836b50bd",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.223792+00:00"
+    },
+    {
+      "title": "Petroperú detecta 12 conexiones clandestinas en el Oleoducto Norperuano desde junio",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWXdaOXZJaVdDb0hGWWRDV0wwVnhfTl9lWDljeHEtNTdhZTF1clVQTm1pU1BXY0NVVFJNNzlwT2FaVmFBWGlaTzhwREFZeDh3Wi1SdnJNY2hsM20zMjlBOF8zOG5LbDA3ZHlaQVViZGljdDNoOTRzbmZkWHNaR29zN3VfeG1lUGllQ1p1Z2UySkdmOW9DNV9SNXVRZElMXzNSUWNxaGZfdGtvV0lpckF0U0FLcXh4R1FOalZieg?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-11-02T20:23+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "6b2e1ac832d88645",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.268378+00:00"
+    },
+    {
+      "title": "Apurímac: Transforman fibra de alpaca en productos con valor agregado en Challhuahuacho",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjUyVUNDZEVneEF3bTJhUlhHVnRHZ2FINEhMa2NQeTl5Wk43QWxMQ0VjWDVITlphMFVWa2F4eWRmd24yNDJPYU43Rk44ckRYN0F1ZjJLRVBCNWJIbnZjclQwQzJrMVdNNFNadlVGRWxJVXhKOUtGNWRqZzZ0M0k1d2RwRHpkVlVwbWY1cVg4MFpsNHdPWWtGVE9JZzNRTEx4azRRV0RLV2V3WFdQYVg4RQ?oc=5",
+      "outlet": "AGROPERÚ Informa",
+      "published": "2026-11-01T20:32+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=Challhuahuacho&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "bd62f224d3685418",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+    },
+    {
+      "title": "Oleoducto Norperuano registra 12 conexiones clandestinas en los últimos cinco meses",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTnNQVnlzOUZnQXJHSnA0NXhVeE5wbER4U3gwandsSzVWSm12ZnBLd010Tjd2eGNzcFc3b21Mdkw4Tlp3UWJ3MlcwNnBXWl9ISzdIZlg1ZDZES05qRDBZX21FU2FGVmxxYVl2bWJDdkZMVUpEUXhFd201eVFrckxaei1abkc2Q2tyZGdLUFpacFFCLXVBd0xmbVQ3Y0FvenZHN2hUN1JBRWw4WE0xcmJjbzRR?oc=5",
+      "outlet": "Petroperú",
+      "published": "2026-10-31T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "f7cc82c4070e705e",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.267376+00:00"
+    },
+    {
+      "title": "Petroperú y Cheiron ingresaron al Lote 192 con inversiones por US$230 millones",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGYtNEUyU19SOW16Tm5WY1Q4WW4tMnZOX3NrMHYzdnFackU4amliemVuWl9SdklNX0tSN2pFUmNXbnhhTlBKd3NfQXdaSnBXdUprQkVkTVo3SXRPUjdhZk01T3AyXzM3UUpBQ2s2eEJWNVBlV1MxWkJWdjNfWHZJZnJMR2pZbGYycUQ4bGZRbmF1QXJoUzJtel9EWGhLZ1JZa0h6ZFlvVUdFTEh2MTR6Y1g2QW5LLXY5elZZMXBzVlFKZlBhc1NWNWZn?oc=5",
+      "outlet": "Semana Económica",
+      "published": "2026-10-26T18:20+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "845110ab3459f15b",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.287369+00:00"
+    },
+    {
+      "title": "MMG traza futuro para Las Bambas: tajo Sulfobamba podría acelerarse y asoma más producción",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeDhnUXBicmZ4TUQ0c0x1Zk5BMEVBNkVGTkVPczdCS1RicE5Yekc3LU9uQ0dDLWZKSjJvSWhjNnVtYkVBaWstUExaRm5PSXlqM296VE9aTEc2azdOUHdJRV9xWk5tU2VLS0tMYmpKMXlfa1VyRjBWN2E4ZUpnTkpFR2txcU1WbUxjXy1xNGk0ZlVKc1M2aEcxaC1GYWQ5c2U1Z2VKNDNrdjRheXJzeV9aMHoweUR1RFdZMHZQc1V0blVSekRFSy00RllDNXBaWTduNDZlc2FwazMxeUdtbmdTbUJhb3h4LTFxSHZVaDdnSmZuQQ?oc=5",
+      "outlet": "Gestión",
+      "published": "2026-10-26T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "84d82cde02e5a398",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.222795+00:00"
+    },
+    {
+      "title": "Defensor Patibamba pide a la LINFA revisar el estadio de Fuerabamba antes de la vuelta",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDJOYUJ3TWI5UEJ0d1VuaUdGOXBsTWY3Z2xOTjc4d1Z4UXBjUlROUThxSHhidVlqcDdBa3dRNGpMeFc0cmx1aWdReHpnSGo2WjR4OG9wTGpEZ0pCWG4xOEhMTENpc3J5d0N3aDNVN3Y1eHhhZ2pIaGRjcDZRMDdDajlqVlRlZlVYRzQ4?oc=5",
+      "outlet": "Diario Ahora",
+      "published": "2026-10-26T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=Fuerabamba&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "e92682da1b2e5183",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [
+        "1132-1218"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+    },
+    {
+      "title": "Petroperú detectó una nueva conexión clandestina en el Oleoducto Norperuano con mangueras de dos pulgadas y válvulas",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc1lLMzdjSWRYeDFiczcyYnE5WWhmM3VQZDZnUEZTdU5McXJOeTBERHZZSHpoQVdkWFFhZDBVXzJiYlBRQy1SbjFfclhwZlB6M2doWFVzZ245VG0zdVgzaHFIaGw1ejZMTjgwcUJ4YWtwWlgyMEJ1ZF9OVG5pdFltcTdPWXNJbjNfRnEyNUU4bGYxYy1ZNlBDeWNpM0FpTk4tMkZzemNoa3RMWjFzUmp1My1rNUkwZS1lYnh3MWJLMGRpTkUwSXVPQjJUaVVURHFQZ3BYbVd0cWbSAfMBQVVfeXFMT2xZZ2hpeHo1S1VyczZoN3NRVTJMdXFrU3k5VmZjdWJfbW9uT0VuYWFuVXk2R2JfalVLWnVlTVNteGJQcG4tdl9takZQRmI3NWVqQ21WNEJ4cnItdVJMT2FPY0FmcmVtNjk1Q2lXSm0zOUY1eDdtZEY1Y2dvWHdXV09JN2tRTUwyR2tCTXB3WmFFTVQyckN3MzhHM3ZnNlBhaktLc2FMd1BFS2MyS3phQ1lXdl84TWlBdVBGZ3gwdVlwMGRuaUhua1BJWmxMZXdyQmJ6RWx6RHhXdk5XTWFCdm9Td3BHQ2U3MjEzajNPNWtMa1lJ?oc=5",
+      "outlet": "Infobae",
+      "published": "2026-10-26T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "c33052eade668e52",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.266386+00:00"
+    },
+    {
+      "title": "Lote 192: Petroloreto asumirá el 75% de participación y la operación por 27 años",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGtKdDVYeGVvTEtFU3h4TzVXTndvVzBiVHBpZFIyNkxxTThhWktZVzFnNXV2bkVDS3IxMzJPUVpZWFJxbU9Pc19FNThFcUVhNGFmN1UybVQ1OS1lOWxnRzBNVnEyQXhHcWJyb3pZcHA2ZTJObkEweXBlZU96ZXRNRUh6UTVBUmR5UUNmeFl1eURONWtrOHBlWU1LdTluQjM0TkJOek4zcEs5MlZjaVhDcGpCVjc2LVpuM3NOOU03YUzSAdQBQVVfeXFMTTNXNkJHT0g5Vm1fZ1NGY1hyNXM5R2tKQXprVlA4bVlPT29vN093RlA5M3NaR0J0cTNvem1fSkNSY21VQkx6eUhlV2pvOER3ZUxCOURmQlRRN1N1SzEyRkw4YUhNTUNQU3l3VEJCNmVidWJMX0ZJRGt4NWJFVTlGcjJERXdjR2RrbFg4WVRCUkFkamZEVl9HTGhJVlFvRHBTZFU3Q2dhejNYa243YlVxZi1KZlktaUxhNlp6RExmS0RYZVdhRGtaS2doU1JBY0J1SnFXN3A?oc=5",
+      "outlet": "El Comercio Perú",
+      "published": "2026-10-26T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "ed661499f79ba240",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.288384+00:00"
+    },
+    {
+      "title": "Lote 192: Petroperú y Cheiron invertirán US$ 230 millones",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUUwxMGJqT0ZzYmJrdi1aQlN4VnNaTTNIcWU0eXhQWFk4VUx0eXBUd2VIVUttck05bnhxUm5NXy1pYXlDdG1uS0VUZ2hUYlBNQ2wyeUtUTXc5Unk0VXRRUWhBMC15TWhWWWVmTFQySDk5QjB3Wmx5d0hiUG53T0RvNW14RUxraDJORVYtZWN2WElrejh2c1k0eGtqUkxveFEwZE5xNEctYlR5MTNCSUdEUkpB?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-10-26T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "4e5ff4fc5ccc2171",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.289371+00:00"
+    },
+    {
+      "title": "Gobierno autoriza ingreso de Petroloreto al Lote 192: empresa tendrá el 75% y Petroperú conservará el 25%",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmNVTmUwYjdfVVNrT2ZsTW0yNmM2MHl0T2ZvNFkwdE9aYWlxVWhuZ2FRaGRCQjcxdjJpRTdmUzkyRXdVdFNSeTluazQ5TEdTaUpaX3U4VHFpTlN2S0xsblVzdzdFV3duVm92YWhodkhLdjVhN1o0MFFpZTI0SEg3NFZfN0h2SzRrWUhTMHJHUF9Ha0t3Tnc5dFFPQ0ZLb1RzVGdQNkRIdEFuRFRHdy1oM2lqdlY4WVhhaDFTYWlfdmhYbzRycVY5RGpsVE81Qk9rTDNxbDl1SVJWY03SAfYBQVVfeXFMUGhGMm9jU2g4SEdrTmY5X1g3TTFsSWJSeDZGamNIOWJjSGM0TUdFYktHb0pRRWFjV2hfU3BGSVU1Z0NEWVI1dm5hRVZ5blZ0Y2IzM0Qzc3BEcGNfckZqWS1VdG0tNGVzcFUzdFJyUVQ3WHNBdTRlczd1Q2hINGMtOGs3Wi1ickRKMVhwcHZZSzJuN0ZvRGNPNEFRa3NrSzR2YVQ2cjc3M2Zvc1BISXFNVnhYWGlkNW43NHVyOVJFbnd4TUNXTjlHaFh3SjN2WHVzdmQ3STNuU19mQzFDcGdSWmJBMDB0RkJoc04tWFJfRTFhLXhvVHRB?oc=5",
+      "outlet": "Infobae",
+      "published": "2026-10-25T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "856c901240f03976",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.286369+00:00"
+    },
+    {
+      "title": "Reactivarán operaciones en Lote 192",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wRHZKX1VLdTlsNGlvdlUtbVhWTkhETlFrYUVVMVJOY2ZmNmY3WEc3amZzZU1NbXBhUEVLSmZ5S3Y3REFDMG9SRFRtaUN2Uk9FUjRrZUpZRWVhWFNfYV9PY3I4X0k1R0tKUU1ydDNETTdLWU1MY2Z5dWpYMA?oc=5",
+      "outlet": "El Peruano",
+      "published": "2026-10-25T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "1ff6a12b58b07510",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.289371+00:00"
+    },
+    {
+      "title": "Perupetro suscribe modificación contractual del Lote 192 para reactivar la producción petrolera en Loreto",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnM1a3hJMkVIZTNoUUtrUTlSU1VEUkktVTVfSmNKRmZBZmNfYUMxbXlXM0FEdmROS0ctVFhQSUExRzVIaXFIYUtwc3RKYjZ6Z0NIWEc5bnBaZDhyX3pDaUthdXI2UURfak5YYUlvb09YQThETTJ5M2tsNFcxNjFISllrUmZKWGUxTXduNmhCYncyQ2dOdS1UZlV4aTFnd2lJVGpFU04tdjJXekR6WUxOOERZazFJSG5lN0pzU1JRRjdtaFZYOUJzVklEWDRacHVWN3BhQVhOa1JEdVFuMXVvX2p4MA?oc=5",
+      "outlet": "TVPerú",
+      "published": "2026-10-24T17:35+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "dbe8b1d156951b60",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.288384+00:00"
+    },
+    {
+      "title": "Petroloreto se incorpora como socio estratégico de Petroperú en el Lote 192",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFU5RTNaVkNSeW0xcml6cEY3SlpFdm5felVMM0kyazYtR09Bb1J5UWFiN1NMM0pCZHhUQTZPUURCQm9QalUxOEpoanRpQ3VoSjU5WUR2aE5faldndDR3MndFWDV2SDEwZjNhZGJRMTR0eTgwdHVOVUhtRTh6dEZZV3Y4M2NCNWoxY2I4ZFY0cVJ6b1RhM3JRRnJwNU1ZR0FWRDkxUEo0T0NzUjZWQ3JqOA?oc=5",
+      "outlet": "Petroperú",
+      "published": "2026-10-24T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "7a1be5e351fe6245",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.285383+00:00"
+    },
+    {
+      "title": "Petrolera egipcia operará el Lote 192, el de mayores reservas del Perú",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTBqVDFOQWpfWHotYmJFUkRLMlhSZVl5SHp6X3hiblFBUXBRdEFiTU9GQ2lBa0JwWV9idXd1MnZhenVhTDRpR0dJWlVOTU1NbU1lNFhid0JMRGMyX29QT1F4bHdJOE5RYkdnc0tQV0pEcWwtcjhRY1p3YUdIZ0NEMHhwWWh5QTh3amI0MUdlS0Z0aE9DNklxZFNMSUlNX09sQ01SMTM3U3hDSENaRW9IUW93UWthQQ?oc=5",
+      "outlet": "Gestión",
+      "published": "2026-10-24T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "989b697667266c83",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.285383+00:00"
+    },
+    {
+      "title": "Lote 192: Petroloreto asumirá el 75% y operará el yacimiento durante 27 años",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1ZoNzg2UEdLWG9mSEoyVEYxRGRDWEcxbjdOMVJxdVEzOFNHRmR1RGY2eWhVanFjNkxoaXY4X2l1Ui01RVNpd0Z5YVdIMGJnTjhfbjJRVDFTVGN1SURqQ1dCX1NNLUhta3F5SHE4WmdfeDFWZjYwUjhyQTcxNHo0d25tUXZQR2ZGQnhVUXlENVRPc296RVVnemtyVnVnUEU5aFNyMmpJWDdVSnhvTjAzWXBYQ3JmX1JVaFA4QkJtSGdYbVgxQ1dpRGZR0gHPAUFVX3lxTE90QlZQelotMUhBdlBBOTBtRE5oeHNSUlBUdjBYYjlnaHF0eXptU0NRRllWUUotcTY3RGdDMVFBWWdZc2tjcnhEdTdFZ0x1RXZ3em5yYXE1MHZsZWYxN0RmS3pmTzZnODItQUdSTWlGZUdPNzl6Vm9STGNaYlhWOW9KZHFoNFpxYUppcHp0T3ZkMHNSMVR4UGVBUkhjTEQxT0NVdnFNaF94V185UWdtZ19mVXoyY01xckhNZnBFenhib0RCaXJRVklMMjNjWllJaw?oc=5",
+      "outlet": "La República",
+      "published": "2026-10-24T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "c0b2cad9d071589a",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.286369+00:00"
+    },
+    {
+      "title": "🚨 PETROLORETO S.A.C. asume el 75 % del Lote 192 y será socio estratégico de Petroperú por 27 años",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLURyZnNNakszRmVBRkZxQ3dFTzEtcmNoSzlpdnI3M1V2N0JQTU9jaW1VcDJkUEJac1RldkhISzNtRk1td2psb3daaGZBOGNJMkhCSDNBTnhRSzN1ZlVjZWptenZJcENfa1N2WlF0bHJLNFNDNERuMXN1eFgyUjhmTVdUaFVGOHllZDBKRXZ3amR6ZXhzY09SRjNibzVjd01sR2xfV2hvR0FpblNoUUQ5S0tlRjJmUXYxSzNHUVhOX3ludWZBSGpKRzE5bml4d0ZrUTY5OUNMMDhtdVNxd2tVRGxOV2dwR05VaHlHT29MSjA?oc=5",
+      "outlet": "Facebook",
+      "published": "2026-10-24T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "fc097f0d9807cbf1",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.287369+00:00"
+    },
+    {
+      "title": "PETROLORETO S.A.C. asume el 75 % del Lote 192 y será socio estratégico de Petroperú por 27 años",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOWFZMQjlEWEZiTW1IN2h5YjZ0bTVzTXNEeFY5QldWaHdKMUQxaHByQW1OeHVLYnRzNWt5Q2NsZnlvS2VlRTJrNnFzcnRnTERfZVZWdjRDcU5mZDh1TVRjVjhCaWh2a2toeG9FS29KN3A3RGRxRlVUMy1QUWQzb2MwdGlYZUFwaE5HdXdpWVQybzlQNnpNXzg3dEZuYzE4RjRZQTNWOGhBS0JBRnQ5VlZEUXhHUmthV1JrZVo2ZXY2Y1hOVWlVbHE1LXRnVFk5eXJyaXR2MUJkYUhWSDgydkttWlpXNi1sclo2UV9wdXBtRVBiaWU2dF9zVl9iTHlRa0dqa2FzQ3ZSRkVpanNhU2tGdWhmSkxLTncwSTA4c2x6eEc1dw?oc=5",
+      "outlet": "Expreso",
+      "published": "2026-10-24T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "05cfe598a2dff4be",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.287369+00:00"
+    },
+    {
+      "title": "Perupetro suscribe modificación del contrato de licencia con Petroperú y Cheiron para reactivar lote 192",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNzZhWVk3Vnd0TmtoV1E1QWI5NngxVmNMcFN4TTRIVkkwdmxZUEQyZmZMLWhndXRrU2VzaXhVZDUyaFd6WEhJOHd3SHJRaTVjaTdlTy1wNU1vbzJ0UWhiR1czamNSZ2hHNl84VGRHZDlQaWx5YjJHSGJPUWoxZ3FaRlJNWHRYdmFyV1JBMVpSLVM5aVRMQ1FvVjBsZ2FQTTBBRU5NQm5Fa2ZCZjc0YTU2SmhJN2pRTVhIM0xET2ctWnhiRk9hS3ppd2l6QUVYRmdEQ2JWVGs4MGNfYUU?oc=5",
+      "outlet": "BNamericas",
+      "published": "2026-10-24T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "71fe0cabb5190af8",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.288384+00:00"
+    },
+    {
+      "title": "Las Bambas produjo 310 484 toneladas de cobre de enero a setiembre del 2026",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVno3U2V0QWQwcFA1alNRUjVPWG1wRmdEem1QdGxwRHo0TUp5dHJRODZWMzhNOFlsTUItb3dvZ3A4b0RUUWJwUDZXNHluVHh3OXY0TUtac003bU1fSkZjWjVNYnJ3N29wMEYxRWE4b3g2dzFENm1Wb29UOWZwSHcxTFQ2RFlZY1NTYlVzekQ1a1piTk5HNzcyb2ttRHRxdw?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-10-23T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "faf538ae89a2b361",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.222795+00:00"
+    },
+    {
+      "title": "Las Bambas contribuyó con el 15.2% de la producción nacional de cobre en agosto del 2026",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmJNVVQ5VW92cVk0WDBvQllyWV9VSzR1UXVzbWtJRkpjX196SmR1MXhVQTVrNkdjdGtOWGJlTk5oaHVqWE11TERRYllUQm80M185ZGpMMlE0YWNham9xdm14VW1janVQM1BLWXJaZmprTVVFWjNWZHRzZ0U4aWkzamp0LTBEbmNmLVdMYUJkV1FtV2VmMWFOLWRUQVFWNmJSLXoyYWpxVnpDNWhtcUE?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-10-23T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "4d532f5ea5a35622",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+    },
+    {
+      "title": "Apurímac: culminan al 100 % trabajos de infraestructura en el Hospital de Challhuahuacho",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMkV4a1Q2V05qUWdPM1hqWHNOcnNtRl8zQTc1OEVTaHlUanV1UllkWkRDaVZlMEh5dTZVREZFdXN3NHFEMldXY1RWbGM0ZzVmS283VWFpcnpZSEtWQUJ1S3JWZWZ1S04tLW1wTElScko5Q2JsZjRDZ0ZlWlUwalBiRWVjRjBqV1h1TExCS0M3bUVvOGJaN2s0NkstbkQ4NEJlTDFnbWRKYkpjZWpSX3BvQ3JCMjk3X0VrZVA0NFgyTEg?oc=5",
+      "outlet": "Agencia Andina",
+      "published": "2026-10-22T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=Challhuahuacho&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "67f722468b94ea4e",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+    },
+    {
+      "title": "Nueva conexión clandestina en el Oleoducto Norperuano provoca contingencia en Olmos",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGZrcDFIQjFxYUx5YXRpUGhUaTVTejBkd1A4TmlXSmZCVVgtWFlIZEJrck5MUjdhb3J5ejNoLWJ4ZmNVc3l4VFZONlV0SENJZU9QZ0F3N1R5aElnaGhya2hsMjhiZXVJLXpiN2owR25ldHFqWVVEY2lUd3VPdk5MWnR2a1djcDJwTEFsX0xfZnRnbVFRN0NVUktIYzlSUEh6bkJ3cEswdWJqWXlPX3Uzb21R?oc=5",
+      "outlet": "Petroperú",
+      "published": "2026-10-22T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "e011fc18d42dd492",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.268378+00:00"
+    },
+    {
+      "title": "Petroperú detecta nueva conexión clandestina en el Oleoducto Norperuano",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG9XYTB1ZjZ1VzhaY0dpa2xLMTlYeGNWaFViSmhnU3pobnFtQmszRzRnOUNaZ05BV0I4SmNEQXl3ZHp0S3dNQVAzRXNBQ0xqSE5OSUtFcWFtRVpRNldJTzcxRHhYNnJtRkZKNzMydmlqQ2FaMDdFT09OUUJaYm8wQ095SmJLSUI5bTJid0J6YThUZ0JESjlSU1lKLVZxeDkxWHhqQnRWRDVYZHp2ZjdWSjNhQ0VPdw?oc=5",
+      "outlet": "Agencia Andina",
+      "published": "2026-10-22T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "03db2dfc0ef6c2c8",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.269389+00:00"
+    },
+    {
+      "title": "Petroperú activa plan de respuesta ante contingencia en el Oleoducto Norperuano",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMHRDc3BjZmVNOTRnQnBKLWN3alo4YnBVc0ltem1OS2s3TkJiRXk1UzZUUlNZRzlmM01fUDVrZnhya1lSemtKekExTGFpWVF1UkJpYldnYnEtRzMzZS1HN2lHZG9uLTMzWE8wQ0VIaXdnWmpGRC16RVVyRDNJRWpqc0g3aEhUcDUwYk1TaEpHVDJDZUV5NHBVc3Q0SEp6WHhqVnM4SW1HSmVHZzdE?oc=5",
+      "outlet": "Petroperú",
+      "published": "2026-10-21T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "38260764c3dcaa64",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.266386+00:00"
+    },
+    {
+      "title": "Petroperú reporta nueve conexiones clandestinas en el Oleoducto Norperuano desde junio de 2026",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGR1cHAtcXgxdTdQNHRCWEdJU0h2bUJMeDg3bXo3cUMtYzM0RzdRdzB0cmdFaWZBRmJDbi1qcWxRLU1rX1gtN0VKRFZQWG4ta1I2aXVONjNTbVVLa3FHeFVfaF92MzFUVm5zaEhFSWxpb0RET1lmZHZsUUJkZXQwQ0xGeU5tTVpLNDJGVDVHaUU2cTFES0cycDFrelFzc0FTMnlpT203RlBYcUN5SGF3?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-10-20T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "7958a73f0d71dd82",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.266386+00:00"
+    },
+    {
+      "title": "Petroperú asumirá el 100% del Lote 192 tras cesión de Altamesa",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXd6Y0Q4T0RLTnB5WEVlUnd2ejE2OFRCaFBWN0FMeEFkOXQ5TFZRa2VPTkNiWHJHU1hUVi1fa0ZoUlp1WXNrcXE0UDRiQWllMEdKZkNjY09oYnhPZTdBQU5XYXVJNVFoajluTi12aWdYTFlwbFdwUVBibWFKbU9VRTdfUWFxN0Z3cV8zUy1RX1prbVU1bU5zaGtmc2U1YW90aFNlSHU1QTZUZ2JYOElOT0JweXBsQkZyanc?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-10-19T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "5c02b140f8204744",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1459-1125"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.285383+00:00"
+    },
+    {
+      "title": "Petroperú asumirá 100% del Lote 192",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tcVJHWi1xbXBmMFVLbFVnaWhmNi15UkdCQ1pDNHdnb2hVSElfeTcwc1ptQ1lpOW1yOHVaLW1zZHJzbmswQzBSakVYSDVXeWh2RGtoWjdWSzRIeTZQZnJxc1pta1hmVWNYVDdIYjVER2Jpbmh2RnItM2F3?oc=5",
+      "outlet": "El Peruano",
+      "published": "2026-10-18T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "9c35610a7144e497",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.286369+00:00"
+    },
+    {
+      "title": "Petroperú volverá a tener el 100% del Lote 192 en Loreto, tras salida de Altamesa",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFJnc2Y2MUc0Mlo5R0dIUEdmMHhPMVRoaHpaYWpBTkdqRFN0N3JoNEVRSVlzbzAzV1hNQWZiUFJ2WUFkTlpkT3Z4NHFDenlHeG9PNmFLc2NCWnZqREJ3a2dzbzk2VmEydmtBNi1kSHRvQkQ4UHVMbm1xMmFVMHNvV3FaSWM4UVBKNmQxUlNxWEo0VmYwM3Z0Qks5c2QwTTZVMFhrN2h6d1BRdG1vbmNxZ0w2ZGtlRVFQaDF6aDJNMlVHOXc?oc=5",
+      "outlet": "Gestión",
+      "published": "2026-10-17T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "ddd7a61b0cd9b4dd",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1459-1125"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.289371+00:00"
+    },
+    {
+      "title": "Petroperú tendrá el 100% de participación en el Lote 192 tras modificarse el contrato",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdF95SG44RDZXb2ZJLWNYZHJnOWVNVnhIM1pzX3dlaURRVDZ5WDlwSHlZNG1hY2s3S09peEk5RUlOOGpwNnZvSTM1TlYwZDhzckRuUG9RQlFmU0IzQkx2RDZvRUtIT09PbGdYejg4c0kwcDkyaWNxbXo2MEk2QkZMN0RxVUVaM25yRDN2bFh3cnVXbXY5bHBVa2xpclVscHVlSE9wOTNYVEQ3UlE0T2t3ZDFLZkE1cVpBbFJtcw?oc=5",
+      "outlet": "El Peruano",
+      "published": "2026-10-17T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "d8e7aa9474234eb2",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.290377+00:00"
+    },
+    {
+      "title": "Lote 192: Petroperú asumirá el 100% de la operación tras aprobación del Gobierno",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNWVNTXdULUVGUl9RMWN1S3N3VmI2X2FnQlFrS2g0bDBwRkNaUjRVTkZJVldxN3pwdUdvbldQZGlkQndOVk4xLWNWTWxXVUVJNENlTXFxOHVsOVZUVlZ5eDg0TlE3OXQyMHk5cE9wd1RXYXphbU1YRnBRN3A4VHVubnhaVng4c3dTbGdlcGZDZm9iYlpobm1oSjd2TkdRTGNZdURtYU1NT2JOYzBIZG1UR3U1MHNsQ3VieHp2LVI4V2V1SVJMb0gtc0xDSmJac2wySVRUOGZlQk1uTGdGTzZTZGdR?oc=5",
+      "outlet": "Expreso",
+      "published": "2026-10-17T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "b68914de780dc281",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.291171+00:00"
+    },
+    {
+      "title": "Las Bambas: comunidad de Pamputa busca adquirir concesión minera de MMG en Apurímac",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaURYNy1kQXVhQzZUM0RZQTVYUmRlZzAwRVpIYnJHblpWakg0aW83UTd2eTcyYTNkU3Jlc25HckZfX0E1ZkFpbjd2MjJpQ0xRMGdFaGpZUTN5NFQzUHRjeml5N2xhSFMwSHZVbWNjZlNROU5wWTFIYlVXdHptbjVDZGZ2dm9MV1VRb1hNRDJvZ3A3UGFPQV92enR0MXhWd2F2MUFV?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-10-16T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "65ac61f500f5630b",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+    },
+    {
+      "title": "Las Bambas impulsa la lectura en 13 comunidades de Challhuahuacho con bibliotecas y recursos educativos",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWmZNdkc3eTJBRkFoOEFiYlRLRDBqUjRIOFhoOXE5WXBNUDU2aVJGdVdHUTU0SWRLaVhyVnFHdFV6aTFvX2VEU1J0RXZ0a3I5WTdNTUpyYUNuUG5IYkxKc2VoY1FWMkNoQzdIYXlubHJOQS1wMjVCQjRoNGRLMUZmVlE4czFrTnhtcWsyR244MGlCajdMOU94RnNIU1c1emh1akNoZEhTRVpxVmxMX3cwT01lSkt3UF9iZlA0cmdOSU10ODRwdFVGV1A4c1VCeXZESlQxNmliSQ?oc=5",
+      "outlet": "desdeadentro.pe",
+      "published": "2026-10-14T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=Challhuahuacho&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "35f9e211a8a9fc5f",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+    },
+    {
+      "title": "Las Bambas fortalece la educación en Fuerabamba con tecnología y programa de convivencia escolar",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGV6T2ZSclljMWd3MEJwdzVDdnZxTGdpS1VQRUtWalY4ZHMwbzg2SW5yM3FkNVhsVUJCSXIzSkd1YXVOT1RXbk54a0FZZkQ0Qy10TElTR0tJbGFNbFpncThYdWhKZF9GN0ppQS1Dek5wR2FuYUV2VHpDbkFZS0hoRkdzeGlKc3JiRDRrcnBXVURBWjFVTkd1VG8telgzbmZ4WWdRM0I4UlZja2I0ZkFrTWgwN3FXbHNxbFFIZzRTc1FSRlBKbWVkT29YOE1Zdw?oc=5",
+      "outlet": "Desde Adentro",
+      "published": "2026-10-12T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=Fuerabamba&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "73eb38b682109305",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [
+        "1132-1218"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+    },
+    {
+      "title": "Galería de Ganador Concurso Público Parque Zonal Sinchi Roca en Lima - 9",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZzRSMzNHZmh4My00U2pBSS1VSVJWWkU2NWhBbGViQWJMc25GOHdldXkybmJfOTlSU1hoSC1mS0dBa3hnMzRoTmsyblNYa0lvbFcxcGtrdTVqMkpCX0s0aVFFS05scEJfX2NaMkhDYXBiY3Y1TzU3SmE2djVvWm00XzI1Qk9lUjA4MkZzYlYwTWhTdFVobGRfSVVHTmxYWEEtMmRfeU5YMzNCNzlQcE0tek9NUk96cjg2?oc=5",
+      "outlet": "ArchDaily",
+      "published": "2026-10-09T18:26+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "18b300d59eb5932f",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1403-0325"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.277373+00:00"
+    },
+    {
+      "title": "Oleoducto Norperuano enfrenta octava conexión clandestina",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONklkdm5WOWg2eEVwbkNxRmVhcHJkOHNVQlZ2bWVkYTJ5VExiaWthWHFFZG5CVjVtb3JTYkVLQ0hPQ2g5V0U3UGVfRE1wbXZFWkdiNE5LX1BSdlJsYUhhcTFLQzRzOUJrVWNhOWJzQU1SMUdEZkwxeG84UVY2bGhqX2s4b3VQcFhJLWZRUjhpUQ?oc=5",
+      "outlet": "Petroperú",
+      "published": "2026-10-05T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "4522c1424d07d3f7",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.268378+00:00"
+    },
+    {
+      "title": "Las Bambas se consolida entre las mineras con mejor reputación del Perú",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVDZoN2xNSEc0a1dBUFpLVDlod0MtMEYwLTJxSk5mcUZHMDZJUW9pODI2cWxMWGhNbm00LW5CV0M0aWJEUUVxUE5hMTd4RlNjdkhUYlJ6MTFQU1JWZzlhZUkxS0NjTlhvR2k0c3pFTXhZMGhFTVRBX3dQRWhXZGhOMXF3ZUVEZTl1Y3c3ZjdzRDMxbXFIWmEyTU1ETzRNS2RPZC1UbkVwREMtQmVvWFE?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-10-01T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "47e6d807465881ce",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.226508+00:00"
+    },
+    {
+      "title": "Las Bambas promueve proyecto productivo agropecuario para 16 comunidades de Challhuahuacho",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXJac1QwaktybUxfZGt5cFE4OGotVzFEcEFXdGpkTVNISTRIdWIyRjVaMWNJanYwaUUwLWhEVVduczczWkw3YnNBakhzd2F4YUtZQ0VBLUtFcUk0ejhfZUpVdnBtUFpDVXJjVHJxbXF0OGRuTUNRTWFpRGZJNUVLTjBTV3JJeXlCT3dZS0l1cmhKT2ZISVN3MFRiWXZjNlAyYXFDNlk3Z20?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-09-29T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=Challhuahuacho&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "b9f212abd6beb329",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.243022+00:00"
+    },
+    {
+      "title": "Petroperú: Contraloría detecta indicio de irregularidad en servicio contratado para Lote 192",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaFFONmw3MW9OLWpZTGd4ejBRZml1V0tpR2tVQlcwWUpSSjdXMEdaVjV6RjNxcjVmWEZLb3h3Tlpacll6SWliZzBqRVV1ak8yaldsRGl6dXQ2a1l2OHE1S3hWdFYyR29iQzVYZ0dxTVljaGwwVlN5Vi1DajFfY1FxSER3U0tEamRHQmhlaGJ1N1RzYVplS3Y2Q1lLOVN4MkZTYnc0QlJDek5zQ2lpd3QzaTlINUFYU2d4ekVWNGFvSjZxcVBK?oc=5",
+      "outlet": "Gestión",
+      "published": "2026-09-28T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "98f5744dba6a0d73",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.291171+00:00"
+    },
+    {
+      "title": "Las Bambas: Empresas de Challhuahuacho obtienen la «Marca Perú»",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRFdpa1lmLTBpaW9MR1Z3VXBBc2pZcG13a0dpQlZ4YWx5bzNYZGVZenctcENXV01hTGFTbzdUMFlBZmM3THkyTDVWMGt3VnpRS0pYRWk5STdFSXV5cFl5UXc0MWlObnhsUkhhYXZiV3REcE10VW8yZC1HNXJ6RUhqMm02eWtaWjJKM1dlVjEtcUVobkxKbTdZWThNZw?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-09-25T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=Challhuahuacho&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "82c1a8931ac01e05",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.243022+00:00"
+    },
+    {
+      "title": "Las Bambas y CEPLAN impulsan planificación en el Corredor Vial Sur",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1M3U1V6Vk1FLVJ4YmNQV3lSN2FxVzFoZ0NuMlBGeDViV3hDZ3cyRzVkdmxMOEVrcmx0R1FURm9SMmpoWDB1aFhCSXRnVlVERlA5MnFaVHJCT3ZwSmpfXzJjeGNXNlYxMnRRVHh3V1FRSndrYTAzNlhNTFdnNHNpaFZXYko3Q2VvNGl1Y2FfcFEwVnpQMGZMblVrbEJrdw?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-09-18T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "c9c7b97fbfe77048",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.225515+00:00"
+    },
+    {
+      "title": "¿Corrupción en Petroperú? Faenón egipcio se adjudicaría Lote 192",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOQ2dyRmVWSWJOUWVYclBXYlNhLVNNNjB5RTUzMmZjS3NtT2lyZGstQzdCbkZtZmFqYlM5TUVGck5XMVEzM255MU96cW44QQ?oc=5",
+      "outlet": "Expreso",
+      "published": "2026-09-18T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "2b180aa9c13eaa65",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.291171+00:00"
+    },
+    {
+      "title": "Petroperú alerta a las autoridades por sétima conexión clandestina en el Oleoducto Norperuano",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYURHblpydkEwQ3BKc1MxV2VzTU9pektId1NJUGJTbS1IbUZrZzdxSVBvVW13YkRqVHlRcnNLY0NRUTR2WTE2dFBpQUl5Y1NfbHByTFRUOWlNbGVuRnFmWTc2cDFSQlZ2d0RQR3dSME9CVElpR3dCT19LZDRNU1E5MWdzMlFybzFCT2Nic1ZGV0R2MkJ2cENBc1R5X0hQZEtjaFdWeW5uZFlhbmZXWF9TS3VFRm1aeVZlTGpQaHJLNA?oc=5",
+      "outlet": "Petroperú",
+      "published": "2026-09-13T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "8a393c9fa511a1d6",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.268378+00:00"
+    },
+    {
+      "title": "Galería de Ganador Concurso Público Parque Zonal Sinchi Roca en Lima - 8",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdTlBaXJnUUY4VjdQVENHdEh3ZmxvLWM2NTZIZ09sbDFMYU9iXzV0aHJZS0c0LWZ0Mlp5Tmw0c0pBVkRIMXlfWUdxancwR01laEtFenRTUndQdk5WcWNfT3FpaVJlNG5uaDNuVFRsZGtkV2UyVEZpeDRiN2ZSRG81S1BudTVoOU50ZGFOTmtZaVhqZW9QaGpVc1RGa09SN21wX3laUVlYeUVEUDZDSzBpYmNVbWJwQkFs?oc=5",
+      "outlet": "ArchDaily",
+      "published": "2026-09-08T00:04+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "91ad7306b1464410",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1403-0325"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.278376+00:00"
+    },
+    {
+      "title": "Galería de Ganador Concurso Público Parque Zonal Sinchi Roca en Lima - 3",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU3lOeEZMakFJc2txUG1BU2pNb3YwbDIxMHVhZjVmdUp0YXE1cm9ybERscWExdUF3QXVCZkFsVWZXa3JDc1FTaFdyZUZ3bDc4T1FuUXNkSUtzbWF3LWRJZFg5NUFMNDV4WTd6SXZCNG5YdV85VmlnUlJ5amNCbUptZllyMm5vU2RCNm9KQmhJcDc5SGZ0UjdYZHAtQWF2Slg5SUlmWmFuNzNJTFNwZldnLVNNTWtTa1NpLVFGMjhDNHQ0a0pORnpXY3RB?oc=5",
+      "outlet": "ArchDaily",
+      "published": "2026-09-07T22:02+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "3eb63f944d1f16b5",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1403-0325"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.280361+00:00"
+    },
+    {
+      "title": "Sinchi Roca: informe de Serpar registró 24 mil árboles antes de que casi 10 hectáreas del parque fueran cedidas al Metropolitano",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTkJ2R0JTLUR5Z2ZTdXA3MTVRdXhUUHlJUUx3SnFqTjhJV3hVZ3lNcW1UXy1oSmoxbmdjdUdYZTM5SW15bThySjBvUndaOGpTQUJTbEhBMFBNMGR4d0lFRmhIMlB6QXFoQjdZemtUcVNRZkhjM2RvMEt2N0I1cGEwd1dpcVJmenJHLVpVV052Sy1YZUo4Q29zY2s1S0JuTkg2b1ZaSVcyeUpZcGpqb0RaWE9CcF96MWlHbDdZUWladmlkSmZ6VlZfN0dNcENCUUh3MV9Pb3lScHREWHlMdzcySEN0SC1IX056MDdQUkUzU1lIMF9DOGRfTlF2eGjSAZcCQVVfeXFMTWx4eFg2dnRCT2pfX3lxUWtheVBqRk85VUhMTlduYnd4SlhiVVJCS2tHN2JYN2NQUEx6cmdQbXlsN0ktUUpJRTlUNVZfQnZtajRNUlViNGNLOGJLWWVURjBTa0NoOXpFaVV4YnUxLTctbUN1SEQ2YWVHbTNQSXh1Z1oxUkc0QzZpYXdia2dBZmdvY3puLUhGRVVDdHJGVHVOVThmYnZUbm83V1ltd2hSQU1mYWMxdXpxQmJ3TWQ0YVNvNTlYcFM4bXZXbWxiZDBqV0p5b0p4bGwwNXRpWWNVNEZXNVJPZTZwQlkwcjZLY0JqX2NyeUo0OHJSa0VnS2JzSlh1WVdPWW0xOUxwbkNHSUtLWHZhMk5V?oc=5",
+      "outlet": "Infobae",
+      "published": "2026-09-02T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "2aa0448ccdb14b0a",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1403-0325"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.277373+00:00"
+    },
+    {
+      "title": "Bosque de 24.000 árboles del parque Sinchi Roca en Comas desapareció tras cederse terreno al Metropolitano",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQem9WZXpqR0FoUWlzdERpeUN5Sm5pcTNMRVgyS1RzU1pPWExJRUFxaUFSdGlHRy0xWFl2MDNXeU9MZmN0YmJXc2RMMXZqSWFwTXdOUDd6VGtUTnpJWkcxUXNzTk9VRmk5QWM3RXROR3gwYThQdnJDcVl3aWhxN3hzV2k0My1wWnl0bWRvamNLMWhvcEptTzZZNVN0UVgxN2ZrdGJXWFhzODlMNXBkVG1FUk1UY3k2dUNWS3V2TExham5Sel9iZVg5SnZIMGJWenRyTzROUmRZNVpicV9kSFoxTjVpV0RQXzdxUk1B0gHwAUFVX3lxTE1vUXFJcENISXJqTm1xakhWeE45ak00Y0ltdjg1Nm1IVU44ZGpDY3pCSmxCUE84T1c5MDhuNDBaQzZSNkVmWks0SkRIRnBZMHJiaEdYOGdsTjdOa3BURzNsaWNhWHhtSFZNaGNOU25iUHMzeXBvR1F2aFZVZkxrUlhzU09rZVZYNU5FT0F2RlBBMUVyWFVjYUVrOHpyOVZhamxiWDVkU2pnTkdnUW1GOHJydUd4dk9BXzBlNFhGWDJ2V3l5UjdGU1ZLVnktRGZ6UjJsbjBsMHlUS3l4YUZoTzlNV2ljNDJfN25aQm1WWFNxbA?oc=5",
+      "outlet": "La República",
+      "published": "2026-08-31T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "5a330076104472ef",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1403-0325"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.277373+00:00"
+    },
+    {
+      "title": "Petroperú avanza restructuración y buscará operador privado para Lote 192",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaEZ2RDVjRElScVBabHBKV0JSV3ZaNjhyMkdCU1VKdXdGd0xxazh3Zlh4WkpUNE1SY0pNNUMxLXNJWVQ3a2lXdDdYNDVvVFZpODBoTzQzNFZ5Ymk1UzJVeG1nVkdCdm9vckZEdzYzaU84UkdhNThpMzBkcVV0em5hVXFyOHVDbG1jTi1SeUtpUW1oaVA1TnNxSWp0ZGpSb3BSTXF0bi1Cc2QxNDhKQ3NYU1Zkd3rSAc8BQVVfeXFMTWFncmlUX1NQQk4wSjRWbVpFVmJ4dXFUNldhZkltcndqUUpQR1JmajRlQ3dJQ09kVFJEOVJqaS1fRGNNbE5GUVJpVlRiTTVqdENNZ2NFeEJVUllTREZRUTVnZTdKdWJBcmZXUS04UmNBeXZlNUd4ZmRUSDk0Sk9aQzA1VWJtS3BxRVFvVEJRaUpSZHQzSUZreXVFTFhFT3BaVzczLTR2SUhGYVlQdzVDV01ndEh6YmdZWTJvUENDcVpzTVFjOGJOSnNOdm1XT19z?oc=5",
+      "outlet": "Infobae",
+      "published": "2026-08-27T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Lote+192%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "455c7d4f5dc4999a",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.291171+00:00"
+    },
+    {
+      "title": "MMG reanuda operaciones en Las Bambas y sus acciones suben 2,8 % en Hong Kong",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXVNbU12MG1zMTlELWt3Mmx6enRub1Q0blI0aWotc1QwSHVKY0d3eDluOWpjbUVvYVBOcUJvUXQwd0xwRV9uM0JLQVZXRHltSWhobnpiUXRCUE94NEhEdHo1cWwxMG1wTVUxajVRTXVKUHBTbF81VVBKN181UTZ6VmVuaXZOa1ZCTFdkczRkT1JweE5OY1lZUUZWelZGNGFQdUlHeg?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-08-24T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "c2c7c8ce65c50d9c",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+    },
+    {
+      "title": "Perú: reanudan las operaciones en la mina Las Bambas, tras el accidente en el que murieron dos trabajadores",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZEhILUFrTzdKV09xaGFtVlJHM2tJUFFEMGQ1WUE1dWpZVUF5dE5ySlJfRXBBWDhwVDhSNlVNS0ZlSElpdXZCbVZDZ05HSkk3bkQwbldSbVFSMWdPdzNYcldHOS1SUE55SmJ3eXItM1ZZOG9hMnBDNmFzYkstTjloMkZ1ZElZOFhkeDJtOWZfUTFmNVNNdXA3SVdDWUVDdy1xdmpSa050aDQ1ajEyWWhzWEc1TF9najRzZDJ3dWhzd3BpUDU1VVVWTDhEZTRvd2tDLXRldnI1MkJINHp1eERrd1dJY0JPMEJrdnBDbm4zSktrT08xZzNWQnNn0gH_AUFVX3lxTE9ITHcyZXdVeFpCTzFlckdpRFRiX3huWXdyanpHYUZWcjdxWVlkZmUxRXpmS19kdHVKYWJaU01wS3ZUckNfc2EzU3RSMDE1el93dUw0SnJoRFhGRVIzMGxBSnFBaGVLNE45Y1FQMkhYR1J2amJtdTBFMGdTS0t3MVNma3Q3ZGJncF9BMDFYbXZHcXZiQ2dSR29NVDdwWjJtOUtUUTVJYUJzcEtONUk2REpobFFjcUlYQ2h3TFBRNV9LSkk1Y2NaYjl2enZMcnRPSERnWjAwemhEUWM5LXY2M0l3SE52c3F3cnJZbkJWaEs0cmo2dDM4eW1TWUd5c0drNA?oc=5",
+      "outlet": "Minería & Desarrollo",
+      "published": "2026-08-24T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "d093143999c1e08a",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.227512+00:00"
+    },
+    {
+      "title": "Más de 24 mil árboles del parque Sinchi Roca en Comas fueron deforestados, Municipalidad Metropolitana de Lima niega acusaciones",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNzg5VXpvQXdrZnA3MkFteEFkdkVnN21POXV6emlDdDVkN3lzNFFYSE5Oc05MMzJraFFwX2Q1UDhFMnlwUkRZeUpHeW5ncWNaeVltX0ZGd1Nka1FPYncyNW1OV08xRG1jXzl4V3ZMVkNsSUQzMmhYQktwSUluYWxqU1ZEWFR0VjBxdWcteGx4UmJyUWpqX1BremQyMmZDVFFHR1hjYzR0eno2aE1CNHo2TUJfUVVBa094dnpXYTlGS0w0U3VDZlZqNlY4dGZqUktYZkVsRW1MUk15Q0NDckhpbUdBTGI3QVlmR0lEcDRLM01RTFFSZ2p0eHoyWVFZUQ?oc=5",
+      "outlet": "https://stakeholders.com.pe/",
+      "published": "2026-08-21T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "3354035397e66b81",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1403-0325"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.277373+00:00"
+    },
+    {
+      "title": "CEO de Las Bambas presenta avances de inversiones al MINEM",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa0JQOHlaQWZ2di1rWmRMNHViNUdpUmlwOHlhMGNpX3kxVVVXcDl1LWtEaFY0RmtmTEU1ZVk2UjA0cmVDMndNbWw3V3psdFljV2tCNnRnNExoNUphaTBJQ01zclBDbU9rb2xfLTVsMjFuejk0NlFScHplTk50N3lMdEo1WG5zakQ4WGpES0NKRHB0UVdxenprZkNHTEJpdzdxNTVpWWdZdEJQU19xZ3VDYnc5ekxkWnRGMWJKdHFBVmJJQW91VWszWkNvamR0OGpyeURfTmZ5Mlk?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-08-20T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "5f695d058230bb28",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+    },
+    {
+      "title": "Mina Las Bambas, operada por MMG, suspende operaciones tras accidente fatal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3V4U2ViQmVuZzZwcXFYdW9uMDFndlBFRU1nQ2FhRE5SLTlnOWs2ZlpSOVRyZlMtUFhMMFMxQmtaaUdSQl85Mkg0Ykc3RXV5bm11WVpaUWJtNWdOMU11U2F0VHNFYllaVnVNVTJDbTRUaG54eFk5Q293SkM2emNXcEpBbWFyX2lsWTVVZDl5MF9ISzgxUHI4Mm1Dc1NLcmxKVUc4Q1Eza29VVmY4RDBzVndSODlEdGl3NEHSAc4BQVVfeXFMTVpRZzJEVWtIeUZxczNaSFpnY3VTcjRaQUc3dlBJU2xld2t6WUJ4UHlyeWF2SHlEQzM4d2lDQmRpV0tjanVjQ3BRRWxrQWRvSGtKLWFTaFpvUlFrRWRPZDdFdTEyQk9iTXFaM1ZER05GQWlyWlcxTWdRRmZGNndHbW13RmdxRUZUaWNHb0d3cFlOaVkxMVNISUM1a0RDcktmQkdNMlgycVlPZlpuckZFN0JyUlpkYVRObGhOTng0ZFpkMENHMDZfd00wc2RtaGc?oc=5",
+      "outlet": "El Comercio Perú",
+      "published": "2026-08-20T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "0cf8e7fa6f26cc86",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.227512+00:00"
+    },
+    {
+      "title": "Las Bambas reiniciará actividades el 21 de agosto: mueren dos trabajadores en la mina de cobre",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcHJ6UTN2Ulhlb0d0eW4zTWpqWkVINHY5Z0s2bFRYTTZwbUxPM01wd3o1QjFLa2hVZDlESnhZMldvU19hNU55OHpmZUNmakxXbDNFczNqeDFvSS1KNmZSazBDWndsZkVtcDBISUJJUTI2ZVFId1BWSFpvbFljN3hIOEp5X01Nazg4SUJES29OajdLU0JIcDJWcEpiUFEtZWo1SDhzSVN4Vjl6eEdXZTg1VzFsblNmT1d0bkUtVkw4OFg3LURBcW12Wg?oc=5",
+      "outlet": "Energiminas",
+      "published": "2026-08-20T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "8ecba8778bfb9784",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.228623+00:00"
+    },
+    {
+      "title": "Apurímac: Distribuyen semillas para garantizar la alimentación de ovinos en Challhuahuacho",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ3hUUTdCRkdzak1oeDluOHR2MUxKbXVoNUMtZ0V2d0dNQUZETlJWYkx0XzRFam9TWFpwM1F0aHJzT1NLSHExQVBvXzZlR3FhSGFodXVIWGtnU0p5R2tCcW5YcU51MU05V1VnVXp2NEpMTnZuMEp4OXhycUp6VmRtMkZqZ1VRR00zelQtRGNTUERtLVpyNGJUNjc0bmJKQi04QXBYSGFmSmJ1cENkbWRhQVVRdUM?oc=5",
+      "outlet": "AGROPERÚ Informa",
+      "published": "2026-08-16T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=Challhuahuacho&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "fd5c01ddf68673bf",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.243022+00:00"
+    },
+    {
+      "title": "Sexta conexión clandestina afecta al Oleoducto Norperuano en Sechura",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkZncTBGNDhFZXdiYXRWVl96WV9qNTEzN1ZxQXVHc1RGel83YmxTNzd2VGhIV2w5NDJza0NGNTlXenJNT1k3UFJBdHdqVzNyLVB6LUZScnRVY2tkeUF3YnIwZDRtckFfRjlZMkJPekdPSlZnS0VybFJ6OWlmbkVzQXJPUUVJdlBpWXlKb1J2d0FtWG16czFjVXpFS3V5QQ?oc=5",
+      "outlet": "Petroperú",
+      "published": "2026-08-14T21:19+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "e70b5a13043bb4ba",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.269389+00:00"
+    },
+    {
+      "title": "Petroperú detecta sexta conexión clandestina en el Oleoducto Norperuano en Sechura",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0pyWS1oSDJNRmhHLUVIMWx0bnZXTktselpYSzhfaldRZjFkQlE3VW9TdGRTa1U3WGxWYTl3dmJyQUtPaGMyRnRtNThOVVBLdUtCLVFDX0tCVWN5a0RFejB4QUZaUFdua3RWTjFqOHY1ZG9ENk9meGUwaGttQ1dpZEl1WEpFc1hvX3dUQ2p5X0VCejdqUkdmbWhOWS14SUJHWW5vY1l5RWg3VS1JTWtn?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-08-14T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "e7c27c78acdcb0e0",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.268378+00:00"
+    },
+    {
+      "title": "Las Bambas pone en operación Fase I del nuevo Truck Shop",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkE0MmUtbTFPTkVseFhCZkEtMkpfcm9uUTdUSFJWVTByeTBlenlsQ1BFRGVVaVJKQVhFOUpRYWxKdl8ycG93ZW9yaWZtUlNOck0xWFRRRVJVVUlFaGZuU2x4cTJkc29RVjFDMWd6LTh6dktuVkJ6Ykpnc2lLNjFVNm1VNzZza2JxTnNud2NOak80Z2QyaTNCcnU5TEZ5LVQ0Q3JzLW1vV0s3MG8?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-08-12T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "3e17bb3f8e4a615f",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+    },
+    {
+      "title": "24 mil ejemplares forestales fueron recortados en el parque Sinchi Roca, pero autoridades niegan que hayan existido",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2ZscGRfeGlBVi1wSTlGUmVoY2xnRnFtZjYzWkFFM1RtTXB6aC10ZkxJTzRhM0NPSjNrdzhjMC10Q1F0dUpTYXJPaFZwekNFSHpPTk1iNXl2UTBvZHpNd21VVTMzWTFKZmZCb25GdFB5WlNDQkJYSHBoWTJKbjNWem9GV3YtNm5qa2UzMXhIQ1lOci1XM3R1M3ROSjQ1RXlfNTFqRWp2Nk1aWGJ5dmxr?oc=5",
+      "outlet": "Actualidad Ambiental",
+      "published": "2026-08-12T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "8c4f474da46c9acd",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1403-0325"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.276367+00:00"
+    },
+    {
+      "title": "Galería de Ganador Concurso Público Parque Zonal Sinchi Roca en Lima - 18",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHdBZE9qSEtWVXVZRWg5QXJhQnlyT1kyS1AwdWRwa1BxTjgybVZkamhtMjZtMkpJbW5TRUt6dEpPcUZJdnFWOE9LWklFemFkTWg2aG50dVFVU21LcGt3Q3Y0X0R1T3NfT0FPaG13alpDbGNkSVcxd3N5bnR1N2diS1FKZHB1VzZ0MnRGR0p6RENaTXYyUnlXbEF2aFJiOGFTLWhGeU5EUWwzdw?oc=5",
+      "outlet": "ArchDaily",
+      "published": "2026-08-11T19:51+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "9584b508baca9247",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [
+        "1403-0325"
+      ],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.281374+00:00"
+    },
+    {
+      "title": "Las Bambas abre nuevas vacantes laborales: Conoce cómo postular",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWpDdHhydzlQWmE4Q0ZyUkMxa1JxTGhjUkktaW9qSWZueXBIdlhRdXN0b1h2U3RPLTRneGZjVHZwQ1BySUxtaDZfQklPSnk3NjhtaHdjMlJtT1lVOXYwWGR1LXVldHN0M1hZVVQySHRIRXMyRF8tSGVOZmZGZGpxaVhUdG9NbjVrUlI0U1ZUWWdETXk0UEZB?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-08-07T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "cee02bb9e954d208",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.225515+00:00"
+    },
+    {
+      "title": "Las Bambas fortalece el desarrollo empresarial de siete comunidades con nueva flota para el Corredor Vial del Sur",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzJOTFFheXlsSzRYVW1oX0pudGI3QlpGRFhyVGFQbmhxUGdvM3g4WTNBeFFwYUZON0hNekJiVWVDSkFvRllwRWdpTXQzM3hMdHQxMDh1UXU4YTdLbHdKNEhkNFdhVVJmS1Z4YXBXQkNZNmdzcVhpTXlMa0t0U3JDNHUzb1Vsa0J1ZGtWRWw4NTlyYWNnMDI1UGNRa0tyeWt2?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-07-31T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "72684ebbc71c5be0",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+    },
+    {
+      "title": "Antamina, Las Bambas y Cerro Verde concentran el 48.4 % de la producción nacional de cobre",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXdEMEgtdjRvQU5MZ2V2LTIxQzB2VFFhNXJaZEd3UzY3U2FUM1lvam1USFlyZkdFb1hEb3h6SGhJaXJ1LW5XMGd2ZjN2aVdjb254WFczckFBc3hJTDVGX3BDQXdMd2gxdjRpUk13Wmlka2dsREpMZkZNMElVX3dQa3NpOUI3ZEFXb0xfRVBXSHYwUDY4Z2FLRTcwa2NaM1ZGXy1HYmdBWHF5eGpNOElRX21R?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-07-30T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "af28c12127a3e6c4",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Operación y producción"
+      ],
+      "first_seen": "2026-11-10T23:22:58.226508+00:00"
+    },
+    {
+      "title": "Las Bambas instala la planta de compostaje automatizada más grande en la minería peruana",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVU9LbGpCYlh6bnJEVms3VnhQbU9yQzB5aE53cUtuRkxTQ29NZmNzUU9kTFBXamUwNC1UQXp5VERGSllhNE54NUlUU0prdy1UMFNKNlU1ODNaRXVZREZKTTktQmh1XzY1WUxsYmhyVkFsRWdjVTlIWkdaaHhjb1JqWWQwX0tIYXh5Wnk5eFNaSTFKZzR4UEhpMVl5dEg3ZUh2eEE?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-07-30T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "27ec18f11afc129f",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.227512+00:00"
+    },
+    {
+      "title": "Petroperú alerta sobre incremento de conexiones clandestinas al Oleoducto Norperuano",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTkzUk0wZkwxUEFreTR5NmJ2a3RrSWVxMW9rMnBnNzFBMU9CT0xSWmJVOVJiV1k2d0RONjJVVGduempLMlNZRzRQMVBTa3hOcFVENjhuelRPbDJNT3ppLVU3dFFwT1JlYmUxTWRYaFRlUE5RbXUybTFiU3U4OXJYWXB2U0xZZmkyLVJrQWhWVWV1NlctRWZfWFNRN24yMmpaUVhYYmE4VzZRaU5hTzlyY1lkSQ?oc=5",
+      "outlet": "Petroperú",
+      "published": "2026-07-27T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Oleoducto+Norperuano%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "b4b399ff0071cbcf",
+      "companies": [
+        "hidrocarburos"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Seguridad"
+      ],
+      "first_seen": "2026-11-10T23:22:58.269389+00:00"
+    },
+    {
+      "title": "Las Bambas recibe doble reconocimiento de CEPLAN por desarrollo en Apurímac",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNG9RMHVBeGV0eDFPZWg4eEc4bmVnYUtiZ09PUW04dlhzdXJCSm5iMGNiaG9Ha1l5anM1OGFLQTUzbXNidlg1aGwya0R5UW55N0Z2d2xGSVpLcTJIaWtGbkhuQ3hOTlc5X0d5NkFOWWhNbzZ3eEk0T05FWkJJSVpObDFNNVU1Q2pCV2RZX2cyMHhrdTcxVEtR?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-07-24T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=%22Las+Bambas%22&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "52d9397581b2713f",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.225515+00:00"
+    },
+    {
+      "title": "Las Bambas impulsa servicios públicos en Challhuahuacho con S/ 5.2 millones",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUDRvcmU3d2RyRzB5OUJaaVhEb1ZZVGRPNjgxTjlRSHlJQ2daS2R5VnFlcUVvRkZXemZKX2ZTR3FHOC1uQjlsZTlYdjQ4ZzBYaGp6bE5rWDVtV1BKRV9aQVBpMWFna1RMZE1DWENpa01OSG5JTDhWRVJZbTN1NTc1cFVwREQ4blVRU1RadlFhUVdocExrZDRvNWZR?oc=5",
+      "outlet": "Rumbo Minero",
+      "published": "2026-07-20T07:00+00:00",
+      "snippet": "",
+      "feed": "https://news.google.com/rss/search?q=Challhuahuacho&hl=es-419&gl=PE&ceid=PE:es-419",
+      "id": "71f4022d5bd4cba6",
+      "companies": [
+        "mineria"
+      ],
+      "case_codes": [],
+      "tags": [
+        "Contexto"
+      ],
+      "first_seen": "2026-11-10T23:22:58.243022+00:00"
+    }
+  ],
+  "method": "RSS y sitemaps permitidos; titular, fecha, medio, enlace y extracto breve del feed. Etiquetas por reglas, no verificadas."
+}

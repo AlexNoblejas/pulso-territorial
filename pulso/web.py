@@ -7,7 +7,7 @@ import json
 import mimetypes
 import threading
 
-from . import corpus,portfolio,service
+from . import corpus,news,portfolio,service
 
 WEB=service.ROOT/'web'
 BUSY=threading.Lock()
@@ -105,8 +105,9 @@ class Handler(BaseHTTPRequestHandler):
                     return self.send({'error':'Hay otra revisión de fuentes en curso.'},status=409)
                 try:
                     result=service.sync_sources(limit=2)
+                    result['news']=len(news.update(pause=0.5)['items'])
                     portfolio.rebuild()
-                    return self.send({'result':result,'message':'Documentos revisados y fichas HTML reconstruidas. Las fuentes complementarias conservan revisión editorial.'})
+                    return self.send({'result':result,'message':f"Documentos revisados y {result['news']} notas de prensa en la ventana de 120 días. Las fuentes complementarias conservan revisión editorial."})
                 finally:
                     BUSY.release()
             if urlsplit(self.path).path=='/api/interpret':

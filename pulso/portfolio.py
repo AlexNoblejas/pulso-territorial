@@ -162,16 +162,18 @@ def _lane(event,source):
 
 def system_status():
     from . import pipeline
-    connectors_status=[{'name':name,'label':label,'ok':data.get('ok'),'checked_at':data.get('checked_at'),'items':len(data.get('items',[])),
-                        'new':data.get('new'),'error':data.get('error'),'requests':data.get('requests')}
+    connectors_status=[{'name':name,'label':label,'ok':data.get('ok'),'checked_at':data.get('last_ok_at') or data.get('checked_at'),'items':len(data.get('items',[])),
+                        'new':data.get('new'),'error':(data.get('error')+' · se muestra la última copia correcta') if data.get('error') else None,'requests':data.get('requests')}
                        for name,(label,_) in connectors.CONNECTORS.items() for data in [connectors.load(name)]]
     media=news.load()
     connectors_status.insert(0,{'name':'prensa','label':'Prensa (RSS)','ok':bool(media.get('feeds')),'checked_at':media.get('updated_at'),'items':len(media.get('items',[])),
                                 'error':None,'requests':len(media.get('feeds',[]))})
     for company in COMPANIES:
         geo=geoperu.load(company)
-        connectors_status.append({'name':f'geoperu-{company}','label':f'GEOPERÚ · {COMPANIES[company]["name"]}','ok':all(l.get('ok') for l in geo.get('layers',{}).values()),
-                                  'checked_at':geo.get('fetched_at'),'items':sum(l.get('count',0) for l in geo.get('layers',{}).values()),'error':None,'requests':len(geo.get('layers',{}))})
+        errors=[l.get('error') for l in geo.get('layers',{}).values() if l.get('error')]
+        connectors_status.append({'name':f'geoperu-{company}','label':f'GEOPERÚ · {COMPANIES[company]["name"]}','ok':not errors,
+                                  'checked_at':geo.get('fetched_at'),'items':sum(l.get('count',0) for l in geo.get('layers',{}).values()),
+                                  'error':(errors[0][:90]+' · se muestra la última copia correcta') if errors else None,'requests':len(geo.get('layers',{}))})
     return {'runs':pipeline.load().get('runs',[])[:15],'connectors':connectors_status,
             'repository':'https://github.com/AlexNoblejas/pulso-territorial','actions':'https://github.com/AlexNoblejas/pulso-territorial/actions/workflows/pages.yml'}
 

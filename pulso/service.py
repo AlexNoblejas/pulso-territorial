@@ -197,7 +197,9 @@ def discover():
                 links.append(u)
             except ValueError:
                 pass
-    return list(dict.fromkeys(SEEDS + sorted(set(links), reverse=True)))
+    # Newest upload folder first (/uploads/YYYY/MM/): with a per-run limit the next monthly report
+    # must come before the fixed seeds, or a fresh CI run would never reach it.
+    return list(dict.fromkeys(sorted(set(links), reverse=True) + SEEDS))
 
 
 def sync_sources(limit: int = 2):

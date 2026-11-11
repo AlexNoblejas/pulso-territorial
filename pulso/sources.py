@@ -216,16 +216,18 @@ def run(name):
     except Exception as exc:
         result={**previous,'name':name,'label':label,'ok':False,'fetched':0,'new':0,'error':f'{type(exc).__name__}: {str(exc)[:160]}'}
     result.update({'checked_at':service.now(),'seconds':round(time.time()-started,1)})
+    result['last_ok_at']=result['checked_at'] if result['ok'] else previous.get('last_ok_at') or (previous.get('checked_at') if previous.get('ok') else None)
     DIRECTORY.mkdir(parents=True,exist_ok=True)
     (DIRECTORY/f'{name}.json').write_text(json.dumps(result,ensure_ascii=False,indent=1),encoding='utf-8')
     return result
 
 
 def load(name):
-    for path in (DIRECTORY/f'{name}.json',SEED/f'{name}.json'):
-        if path.exists():
-            return json.loads(path.read_text(encoding='utf-8'))
-    return {'items':[]}
+    """Newest successful copy between the working data and the versioned seed."""
+    copies=[json.loads(p.read_text(encoding='utf-8')) for p in (DIRECTORY/f'{name}.json',SEED/f'{name}.json') if p.exists()]
+    def freshness(data):
+        return (data.get('last_ok_at') or (data.get('checked_at') if data.get('ok') else '') or '')
+    return max(copies,key=freshness,default={'items':[]})
 
 
 def all_items():

@@ -1,9 +1,10 @@
 # Presentación: 3 minutos con el software en vivo
 
-**Abrir antes de empezar** (dos pestañas):
+**Abrir antes de empezar** (tres pestañas):
 
 1. https://alexnoblejas.github.io/pulso-territorial/?company=mineria
 2. https://alexnoblejas.github.io/pulso-territorial/?company=hidrocarburos
+3. https://github.com/AlexNoblejas/pulso-territorial/actions, como prueba de que corre solo cada día
 
 Si cae internet: `.\iniciar.ps1` y http://127.0.0.1:8765 (todo funciona sin red, salvo el relieve del mapa), o el video de respaldo.
 
@@ -11,34 +12,36 @@ Si cae internet: `.\iniciar.ps1` y http://127.0.0.1:8765 (todo funciona sin red,
 
 | Tiempo | Qué se ve en pantalla | Qué decir | Sesión del curso |
 |---|---|---|---|
-| 0:00–0:30 | Resumen de la cartera minera | "Un equipo de relaciones comunitarias de una minera tiene que reconstruir cada mes qué dicen la Defensoría, la PCM, el MINAM, el OEFA y la prensa sobre sus comunidades. Son PDF, HTML y notas sueltas, con fechas que no coinciden. PulsoTerritorial lo junta en un solo lugar y cada frase lleva a su fuente." | — |
-| 0:30–1:00 | **Territorio → 3D**, activar *Comunidades* y *Red vial* | "Este es el territorio real de Las Bambas: relieve, distritos, comunidades y vías procesados con GeoPandas. Cada punto es un conflicto del reporte de la Defensoría, que el sistema descarga y lee solo." | 06 GeoPandas · 03 Scraping |
-| 1:00–1:35 | **Conflictos → Fuerabamba**, bajar a la línea de tiempo, clic en **"Ver pasaje · p. 38 del PDF"** | "El expediente cruza la ficha de la Defensoría con la PCM y un antecedente de MINEM de 2016. Este enlace abre el informe oficial en la página exacta. Python comprueba con pypdf que la cita está literal en esa página y que el PDF no cambió; si alguien altera una cifra, la cita desaparece." | 10 Document AI · 03 |
-| 1:35–2:05 | Cambiar a **hidrocarburos → Sinchi Roca → Interpretar esta selección** | "La IA, Groq con gpt-oss, lee la ficha y los pasajes y devuelve JSON con un esquema estricto. Toda afirmación sin cita literal se descarta: aquí aceptó 3 y descartó 2. Y encontró algo útil: la Defensoría fecha el derrame el 19 de febrero y el MINAM el 19 de marzo." | 08 LLMs con salidas estructuradas |
-| 2:05–2:30 | **Resumen → Pulso de medios** y luego **Reporte mensual** | "Entre reportes oficiales, el sistema lee cada día los RSS de El Comercio, La República, Andina y Google News, con el scraper de mi tarea 1. Por ejemplo, la PNP interviniendo robos de crudo en el Oleoducto esta semana. Todo se regenera solo cada mañana con GitHub Actions y produce este reporte mensual." | 03 Scraping · 05 Dashboards · 12 Despliegue |
-| 2:30–3:00 | Mantener el reporte en pantalla | "Quién paga: el área de relaciones comunitarias de una minera o una petrolera, o su consultora. Piloto a S/ 299 al mes por cartera. La IA cuesta menos de un dólar al mes por cartera y el hosting es gratis. Lo que sigue: entrevistar a equipos de gestión social, sumar más fuentes como OEFA en línea y PNP, y enviar el reporte por correo." | — |
+| 0:00–0:25 | Resumen de minería, con las alertas arriba | "Una minera como Las Bambas tiene conflictos en varias comunidades. La Defensoría, la PCM, el MINEM, el OEFA, la policía y la prensa hablan de ellos, cada uno desde su función y en su formato. Si su equipo no ve a tiempo un plazo vencido o un paro, la operación se detiene. PulsoTerritorial lee todo eso solo, cada día, y le dice qué gestionar." | — |
+| 0:25–0:50 | **Alertas** | "Hoy hay cuatro alertas. Por ejemplo, la reunión en Mara del 20 de noviembre y un compromiso con Chuicuni del 16 de octubre del que ninguna fuente volvió a informar. Cada alerta dice qué regla la activó y abre su evidencia. No es una predicción: son reglas que se pueden auditar." | 05 Dashboards |
+| 0:50–1:30 | **Conflictos → Fuerabamba → Línea de tiempo por actor**: clic en un punto de setiembre y luego en uno del Ejecutivo | "Esta es la historia del conflicto por actor: Defensoría, Ejecutivo, fiscalizadores, policía, empresa y prensa. Hago clic en un mes y veo qué dijo cada uno, con el encuadre de esa fuente. Los pasajes salen solos de los PDF de la Defensoría, de los informes del MINAM y de la revista de la PCM, con su página: lo hace pypdf." | 03 Scraping · 10 Document AI |
+| 1:30–1:55 | Bajar a **Contexto territorial** y luego **Territorio**: activar *Concesiones de Minera Las Bambas* y *Comunidades campesinas (MIDAGRI)* en 3D | "El territorio sale en vivo de GEOPERÚ, el mismo geoservidor de mi MCP de la tarea 4. Muestra las 42 concesiones de la empresa, las comunidades tituladas y los pasivos ambientales. Huancuire se superpone con la concesión BAMBAS 17. Y cuando la ubicación es solo distrital, el sistema lo dice en vez de inventar una comunidad." | 04 MCP · 06 GeoPandas |
+| 1:55–2:20 | **Hidrocarburos → Sinchi Roca → Interpretar esta selección** | "La IA, Groq con salida JSON estricta, lee el caso. Toda afirmación sin cita literal se descarta. Así detecta que la Defensoría fecha el derrame el 19 de febrero y el MINAM el 19 de marzo: un error de comunicación que conviene aclarar antes de reunirse con la comunidad." | 08 Salidas estructuradas |
+| 2:20–2:35 | **Estado del sistema** y luego la pestaña de GitHub Actions | "Para que vean que funciona solo: cada mañana a las 7:00, GitHub Actions corre las ocho etapas y vuelve a publicar el sitio. Aquí está la bitácora de cada fuente con su resultado." | 12 Despliegue |
+| 2:35–3:00 | Volver al resumen | "Quién paga: el área de relaciones comunitarias de la minera o la petrolera, o su consultora. Piloto a S/ 299 al mes por cartera. La IA cuesta menos de un dólar al mes y el hosting es gratis. Lo que sigue: probarlo con equipos de gestión social y enviar las alertas por correo." | — |
 
 ## Si el profesor pregunta por las herramientas del curso
 
-| Herramienta del curso | Dónde está en el producto | Archivo |
+| Herramienta del curso | Dónde está | Archivo |
 |---|---|---|
-| 03 Scraping y APIs | Reportes de la Defensoría (HTML) y RSS de 4 medios más Google News | `pulso/service.py`, `pulso/news.py` |
-| 05 Dashboards | Portal con KPIs, fases, pulso de medios y reporte mensual | `web/app.js`, `pulso/reports.py` |
-| 06 GeoPandas | Capas EPSG:4326 por cartera y mapa 3D con MapLibre | `demo_data/geography_*.json` |
-| 08 LLMs con salidas estructuradas | Groq con esquema JSON estricto y validador de citas | `pulso/service.py` |
-| 10 Document AI | pypdf: extracción y verificación de pasajes en PDF oficiales | `pulso/corpus.py` |
-| 12 Despliegue | GitHub Pages con regeneración diaria en Actions | `pulso/export.py`, `.github/workflows/pages.yml` |
-
-Las **dos herramientas principales** que pide la consigna son **08** (salidas estructuradas) y **10** (Document AI). El scraping (03) es lo que hace el producto automático.
+| 03 Scraping y APIs | Defensoría, buscador de gob.pe (PCM, MINEM, MINAM, OEFA, ANA, PNP), SINIA, PCM y RSS de prensa (tarea 1) | `pulso/service.py`, `pulso/sources.py`, `pulso/news.py` |
+| 10 Document AI | Pasajes con página extraídos de PDF oficiales y verificación del corpus | `pulso/sources.py`, `pulso/corpus.py` |
+| 08 Salidas estructuradas | Groq con esquema JSON y validador de citas | `pulso/service.py` |
+| 04 MCP / 06 GeoPandas | GEOPERÚ por ArcGIS REST (tarea 4) y contexto territorial con shapely | `pulso/geoperu.py` |
+| 05 Dashboards | Alertas, línea de tiempo por actor, pulso de medios y reporte mensual | `web/app.js`, `pulso/reports.py` |
+| 12 Despliegue | Ciclo diario en Actions, Pages y bitácora | `pulso/pipeline.py`, `.github/workflows/pages.yml` |
 
 ## Partes del código para explicar si lo piden
 
-- **Verificación de una cita:** función `load()` en `pulso/corpus.py`. Compara el hash del PDF y busca el texto sin espacios en la página, porque pypdf a veces parte palabras.
+- **Reglas de alerta:** función `compute()` en `pulso/alerts.py`. Cada regla está escrita en el diccionario `RULES`.
+- **Homónimos:** `ANCHORS` y `classify()` en `pulso/news.py`. Sinchi Roca también es una comunidad de Huánuco y un parque de Comas.
+- **Pasajes de PDF:** función `_pdf_passages()` en `pulso/sources.py`.
+- **Contexto territorial:** función `context()` en `pulso/geoperu.py`. Usa el polígono comunal si existe y, si no, avisa que el punto es distrital.
 - **Rechazo de lo que inventa la IA:** función `validate_records()` en `pulso/service.py`.
-- **Notas de prensa:** funciones `parse()` y `classify()` en `pulso/news.py`. Solo se leen RSS y se guarda el titular, el medio, la fecha y el enlace.
 
 ## Lo que no hay que afirmar
 
-- Que hubo entrevistas o clientes: no los hubo.
-- Que una nota de prensa prueba un hecho: es una señal y se contrasta con la ficha oficial.
-- Que la cercanía en el mapa prueba afectación.
+- Que hubo entrevistas o clientes.
+- Que una nota de prensa o una cercanía en el mapa prueban un hecho o una afectación.
+- Que las alertas predicen conflictos: son reglas sobre lo ya reportado.
+- Que hay un parte policial directo: la PNP entra por sus notas en gob.pe y por la prensa.

@@ -21,7 +21,8 @@ def _step(name,label,function):
         detail=function()
         return {'step':name,'label':label,'ok':True,'detail':detail,'seconds':round(time.time()-started,1)}
     except Exception as exc:
-        return {'step':name,'label':label,'ok':False,'detail':f'{type(exc).__name__}: {str(exc)[:160]}','seconds':round(time.time()-started,1)}
+        detail=str(exc) if isinstance(exc,RuntimeError) else f'{type(exc).__name__}: {exc}'
+        return {'step':name,'label':label,'ok':False,'detail':detail[:220],'seconds':round(time.time()-started,1)}
 
 
 def _defensoria():
@@ -40,17 +41,21 @@ def _connector(name):
     def run():
         result=sources.run(name)
         if not result['ok']:
-            raise ValueError(result['error'])
+            raise RuntimeError(f"{result['error']} · se conserva la copia del {(result.get('last_ok_at') or 'sin fecha')[:10]} ({len(result.get('items',[]))} registros)")
         return f"{result['fetched']} registros leídos · {result['new']} nuevos · {len(result['items'])} acumulados · {result['requests']} solicitudes"
     return run
 
 
 def _geoperu():
-    counts=[]
+    counts,failures=[],[]
     for company in geoperu.EXTENTS:
         data=geoperu.update(company)
-        failed=[k for k,v in data['layers'].items() if not v['ok']]
-        counts.append(f"{company}: {sum(v['count'] for v in data['layers'].values())} elementos en {len(data['layers'])} capas"+(f" ({len(failed)} con error)" if failed else ''))
+        failed=[v for v in data['layers'].values() if not v['ok']]
+        counts.append(f"{company}: {sum(v['count'] for v in data['layers'].values())} elementos en {len(data['layers'])} capas")
+        if failed:
+            failures.append(f"{company}: {len(failed)} capas con {failed[0]['error'][:60]} · se conserva la copia del {(geoperu.load(company).get('fetched_at') or 'sin fecha')[:10]}")
+    if failures:
+        raise RuntimeError(' · '.join(failures))
     return ' · '.join(counts)
 
 
@@ -95,9 +100,28 @@ def run(only=None):
     return record
 
 
+STATION_LOG=service.ROOT/'demo_data'/'station_log.json'
+
+
+def station():
+    """Local station: MINAM servers (SINIA, GEOPERÚ) answer 403 to GitHub's IPs, so a laptop in Peru
+    refreshes them and versions the result in demo_data/; Actions then publishes the newest copy."""
+    import shutil
+    os.environ.setdefault('PULSO_TRIGGER','estación local (laptop en Perú)')
+    record=run(['ogasa','geoperu'])
+    (service.ROOT/'demo_data'/'sources').mkdir(parents=True,exist_ok=True)
+    shutil.copy2(sources.DIRECTORY/'ogasa.json',service.ROOT/'demo_data'/'sources'/'ogasa.json')
+    for company in geoperu.EXTENTS:
+        shutil.copy2(service.DATA/f'geoperu_{company}.json',service.ROOT/'demo_data'/f'geoperu_{company}.json')
+    log=json.loads(STATION_LOG.read_text(encoding='utf-8')) if STATION_LOG.exists() else {'runs':[]}
+    log['runs']=([record]+log['runs'])[:30]
+    STATION_LOG.write_text(json.dumps(log,ensure_ascii=False,indent=1),encoding='utf-8')
+    return record
+
+
 def main():
     sys.stdout.reconfigure(encoding='utf-8',errors='replace')
-    record=run(sys.argv[1:] or None)
+    record=station() if sys.argv[1:]==['--estacion'] else run(sys.argv[1:] or None)
     for step in record['steps']:
         print(f"{'OK ' if step['ok'] else 'ERR'} {step['label']} · {step['detail']} · {step['seconds']}s")
     return 0

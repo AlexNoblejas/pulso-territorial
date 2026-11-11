@@ -68,17 +68,19 @@ def query(service_name,layer,where,fields,extent,offset=0.003):
 
 
 def update(company):
-    result={'company':company,'fetched_at':service.now(),'server':ROOT_URL,'extent':EXTENTS[company],'layers':{}}
+    result={'company':company,'attempted_at':service.now(),'server':ROOT_URL,'extent':EXTENTS[company],'layers':{}}
     for key,label,service_name,layer,where,fields,color in LAYERS[company]:
         source=f'{ROOT_URL}/{service_name}/MapServer/{layer}'
         try:
             features=query(service_name,layer,where,fields,EXTENTS[company])
             result['layers'][key]={'label':label,'source':source,'where':where,'color':color,'count':len(features),'ok':True,
-                                   'data':{'type':'FeatureCollection','features':features}}
+                                   'fetched_at':result['attempted_at'],'data':{'type':'FeatureCollection','features':features}}
         except Exception as exc:
             previous=load(company).get('layers',{}).get(key)
             result['layers'][key]={**(previous or {'label':label,'source':source,'color':color,'count':0,'data':{'type':'FeatureCollection','features':[]}}),
                                    'ok':False,'error':f'{type(exc).__name__}: {str(exc)[:120]}'}
+    dates=[layer.get('fetched_at') for layer in result['layers'].values() if layer.get('fetched_at')]
+    result['fetched_at']=max(dates) if dates else None
     path=service.DATA/f'geoperu_{company}.json'
     path.parent.mkdir(parents=True,exist_ok=True)
     path.write_text(json.dumps(result,ensure_ascii=False),encoding='utf-8')
@@ -86,10 +88,9 @@ def update(company):
 
 
 def load(company):
-    for path in (service.DATA/f'geoperu_{company}.json',service.ROOT/'demo_data'/f'geoperu_{company}.json'):
-        if path.exists():
-            return json.loads(path.read_text(encoding='utf-8'))
-    return {'layers':{}}
+    """Newest copy between the working data and the versioned seed (the local station refreshes the seed)."""
+    copies=[json.loads(p.read_text(encoding='utf-8')) for p in (service.DATA/f'geoperu_{company}.json',service.ROOT/'demo_data'/f'geoperu_{company}.json') if p.exists()]
+    return max(copies,key=lambda d:d.get('fetched_at') or '',default={'layers':{}})
 
 
 def _km(geometry,point):

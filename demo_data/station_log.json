@@ -1,0 +1,34 @@
+{
+ "runs": [
+  {
+   "started_at": "2026-11-11T00:11:35.743272+00:00",
+   "finished_at": "2026-11-11T00:12:30.068933+00:00",
+   "trigger": "estación local (laptop en Perú)",
+   "run_url": null,
+   "ok": true,
+   "steps": [
+    {
+     "step": "ogasa",
+     "label": "SINIA: informes mensuales MINAM/OGASA (PDF)",
+     "ok": true,
+     "detail": "25 registros leídos · 0 nuevos · 25 acumulados · 13 solicitudes",
+     "seconds": 38.9
+    },
+    {
+     "step": "geoperu",
+     "label": "GEOPERÚ: capas territoriales por ArcGIS REST",
+     "ok": true,
+     "detail": "mineria: 505 elementos en 5 capas · hidrocarburos: 361 elementos en 6 capas",
+     "seconds": 3.2
+    },
+    {
+     "step": "cartera",
+     "label": "Reconstrucción de carteras y alertas",
+     "ok": true,
+     "detail": "6 casos · 8 alertas activas",
+     "seconds": 12.2
+    }
+   ]
+  }
+ ]
+}

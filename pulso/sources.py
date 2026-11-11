@@ -41,7 +41,8 @@ INSTITUTIONS={
     'petroperu':('Petroperú','Empresa','Comunicación corporativa de una de las partes.'),
     'prensa':('Prensa','Medios','Selección editorial; señal temprana, no prueba de un hecho.'),
 }
-GOBPE_TERMS={'mineria':['Las Bambas','Challhuahuacho','Fuerabamba','Cotabambas'],
+GOBPE_TERMS={'antamina':['Antamina','Punta Lobitos'],
+             'mineria':['Las Bambas','Challhuahuacho','Fuerabamba','Cotabambas'],
              'hidrocarburos':['Oleoducto Norperuano','Sinchi Roca','Pijuayal','Petroperú derrame']}
 GOBPE_FOCUS=['pcm','minem','minam','oefa','ana','pnp','mininter','petroperu']
 
@@ -79,7 +80,7 @@ def _item(**fields):
 def gobpe(pause=1.0):
     """Notas y comunicados oficiales en gob.pe que mencionan los activos o comunidades."""
     queries=[(None,term) for terms in GOBPE_TERMS.values() for term in terms]
-    queries+=[(slug,term) for slug in GOBPE_FOCUS for term in (GOBPE_TERMS['mineria'][0],GOBPE_TERMS['hidrocarburos'][0])]
+    queries+=[(slug,terms[0]) for slug in GOBPE_FOCUS for terms in GOBPE_TERMS.values()]
     items,requests_made={},0
     for slug,term in queries:
         url=f'https://www.gob.pe/busquedas?contenido[]=noticias&term={quote_plus(term)}&sort_by=recent'+(f'&institucion[]={slug}' if slug else '')

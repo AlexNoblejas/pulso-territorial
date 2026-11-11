@@ -18,6 +18,7 @@ RULES={
     'vencido':'Compromiso con fecha vencida y sin ningún registro posterior en el expediente.',
     'brecha':'Hay actividad en prensa en los últimos 30 días y ninguna fuente oficial sobre el caso en 45 días.',
     'fase':'La fase oficial del período es escalamiento o crisis.',
+    'sin_cierre':'Conflicto histórico que figuraba activo o latente en su último registro y dejó de reportarse sin cierre (resuelto, retirado o fusionado).',
     'discrepancia':'Dos fuentes reportan el mismo hecho con datos distintos: riesgo de error de comunicación.',
 }
 
@@ -37,7 +38,7 @@ def _evidence(event):
             'institution':event.get('institution') or event.get('outlet')}
 
 
-def compute(cases,media_items,official_items,insights,today=None):
+def compute(cases,media_items,official_items,insights,today=None,history=()):
     today=today or date.today()
     alerts=[]
     def add(rule,severity,title,detail,case=None,evidence=()):
@@ -86,6 +87,14 @@ def compute(cases,media_items,official_items,insights,today=None):
         last_official=max((_day(e.get('date') or e.get('period')) for e in official if _day(e.get('date') or e.get('period'))),default=None)
         if press and (not last_official or last_official<today-timedelta(days=45)):
             add('brecha','media','Brecha de información oficial',f"{len(press)} nota(s) de prensa en 30 días; la última fuente oficial incorporada es de {last_official.isoformat() if last_official else 'fecha desconocida'}.",case,press)
+    current={service_name(c['name']) for c in cases}
+    for row in history:
+        if row.get('official_code') in {c['id'] for c in cases}:
+            continue  # same conflict, still reported under its official code
+        if (row.get('last_status') or '').lower() in ('activo','latente') and service_name(row.get('name') or '') not in current:
+            add('sin_cierre','baja',f"Sin cierre reportado: {(row.get('name') or '')[:70]}",
+                f"Último registro {row.get('last_period')} como {row.get('last_status').lower()} en {row.get('district') or 'distrito no informado'}. Actores primarios: {((row.get('actors') or {}).get('primarios') or 'no informados')[:140]}.",None,[])
+            alerts[-1]['date']=row.get('last_period') or ''
     for insight in insights:
         if insight.get('type')=='discrepancia':
             case=next((c for c in cases if c['id']==insight.get('case_id')),None)
@@ -93,6 +102,10 @@ def compute(cases,media_items,official_items,insights,today=None):
     alerts.sort(key=lambda a:a['date'],reverse=True)
     alerts.sort(key=lambda a:-SEVERITY[a['severity']])
     return alerts
+
+
+def service_name(name):
+    return ' '.join(name.lower().replace('(',' ').split())[:40]
 
 
 def service_phase(phase):

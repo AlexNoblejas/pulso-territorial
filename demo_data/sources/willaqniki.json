@@ -546,6 +546,109 @@
    ]
   },
   {
+   "id": "989c345f1edf1e28",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10511526/8521481-willaqniki-ii-2026%282%29.pdf",
+   "page": 33,
+   "quote": "En este marco, se otorgó la buena pro del proyecto vial Carpa, garantizando la continuidad del Eje Vial Departamental conforme a los compromisos asumidos en la Mesa de Diálogo de Llata–Huamalíes. Adicionalmente, se actualizaron los avances de los ejes de Educación, Vial y Salud, estableciéndose nuevos hitos y fechas para la entrega de expedientes técnicos y la recepción de obras.",
+   "title": "Willaqniki Edición II 2026",
+   "date": null,
+   "period": "2026-04",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8521481-willaqniki-edicion-ii-2026",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "68edb8d438aacc1a",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10511526/8521481-willaqniki-ii-2026%282%29.pdf",
+   "page": 45,
+   "quote": "23/04/2026 4 Reunión de la Mesa de Diálogo para el Desarrollo de Llata – Huamalíes, abordando la situación actual y los avances de compromisos en proyectos de inversión dentro del Eje Vial Nacional, Departamental, Educación y del Plan de Mantenimiento del hospital de la localidad. 24/04/2026 5 Inicio de la implementación del plan de acción del Grupo de Trabajo Multisectorial en Atalaya, región Ucayali.",
+   "title": "Willaqniki Edición II 2026",
+   "date": null,
+   "period": "2026-04",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8521481-willaqniki-edicion-ii-2026",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Operación y producción"
+   ]
+  },
+  {
+   "id": "42a18e3435a52508",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10511526/8521481-willaqniki-ii-2026%282%29.pdf",
+   "page": 49,
+   "quote": "49 SGSD-PCM II -2026 32 33 34 35 36 37 32 Reunión con representantes del Frente de Defensa y Desarrollo de los Intereses de Llata – provincia de Huamalíes (Huánuco) con la participación de entidades del Estado y la Cía. Minera Antamina. 12/06/2026 33 Reunión de articulación entre el Ejecutivo, autoridades y sociedad civil de la región Moquegua para atender la problemática de la cuenca del río Coralaque.",
+   "title": "Willaqniki Edición II 2026",
+   "date": null,
+   "period": "2026-04",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8521481-willaqniki-edicion-ii-2026",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "577faff3e857881f",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10511526/8521481-willaqniki-ii-2026%282%29.pdf",
+   "page": 49,
+   "quote": "Minera Antamina. 12/06/2026 33 Reunión de articulación entre el Ejecutivo, autoridades y sociedad civil de la región Moquegua para atender la problemática de la cuenca del río Coralaque. 16/06/2026 34 Sesión de cierre de la Comisión Interinstitucional para la Prevención de Conflictos Electorales compartiendo experiencias y acciones desarrolladas durante la segunda vuelta electoral 2026.",
+   "title": "Willaqniki Edición II 2026",
+   "date": null,
+   "period": "2026-04",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8521481-willaqniki-edicion-ii-2026",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
    "id": "774cb3eb47678663",
    "url": "https://cdn.www.gob.pe/uploads/document/file/10206593/8298624-willaqniki-i-2026.pdf",
    "page": 4,
@@ -819,6 +922,58 @@
    ]
   },
   {
+   "id": "9f311f96ed73a939",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10206593/8298624-willaqniki-i-2026.pdf",
+   "page": 38,
+   "quote": "HUÁNUCO Espacio de diálogo Logros / avances Mesa de Diálogo para el desarrollo del distrito de Llata Se fortaleció el seguimiento multisectorial de los compromisos asumidos en los ejes de infraestructura vial, educación y salud, consolidando la coordinación entre el MTC, PRONIED, PRONIS, Antamina y los actores locales.",
+   "title": "Willaqniki Edición I 2026",
+   "date": null,
+   "period": "2026-02",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8298624-willaqniki-edicion-i-2026",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "dd491acf2de1dfe1",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10206593/8298624-willaqniki-i-2026.pdf",
+   "page": 49,
+   "quote": "04/02/2026 2 Reunión de los ejes Vial y Educación de la “Mesa de Diálogo para el Desarrollo de Llata – Huamalíes, Huánuco”, dónde se informaron los avances de los compromisos asumidos en dicho espacio de diálogo. 12/02/2026 3 Se instala el “Grupo de Trabajo para la atención de las problemáticas de superposiciones territoriales y seguridad de la provincia de Atalaya, departamento de Ucayali”.",
+   "title": "Willaqniki Edición I 2026",
+   "date": null,
+   "period": "2026-02",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8298624-willaqniki-edicion-i-2026",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
    "id": "1426d49192b9aaf1",
    "url": "https://cdn.www.gob.pe/uploads/document/file/10006548/8161371-willaqniki-vi-1.pdf",
    "page": 16,
@@ -969,6 +1124,134 @@
     "Diálogo y acuerdos",
     "Ambiental",
     "Operación y producción"
+   ]
+  },
+  {
+   "id": "1ee7091c3ee43550",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10006548/8161371-willaqniki-vi-1.pdf",
+   "page": 22,
+   "quote": "Asimismo, se consensuó el cronograma definitivo de la carretera Antamina–Llata–Tingo Chico, con entrega del expediente técnico al 29/05/2026 y socialización en febrero; se confirmó la entrega de la I.E.",
+   "title": "Willaqniki Edición VI 2025",
+   "date": null,
+   "period": "2025-12",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8161371-willaqniki-edicion-vi-2025",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "de87dc91e9c25bbd",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10006548/8161371-willaqniki-vi-1.pdf",
+   "page": 30,
+   "quote": "Inicio de ejecución de obra de 03 proyectos educativos (Pampas de Flores, Morca y San Cristóbal); valorizados en S/ 28.6 millones bajo la modalidad obras por impuestos, siendo la empresa minera Antamina el aliado estratégico del proceso.",
+   "title": "Willaqniki Edición VI 2025",
+   "date": null,
+   "period": "2025-12",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8161371-willaqniki-edicion-vi-2025",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "3b4b0052ef073c5b",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10006548/8161371-willaqniki-vi-1.pdf",
+   "page": 30,
+   "quote": "Mesa de Diálogo de Llata (Huánuco) PERÚ Marañón Puerto Inca Leonardo PradoHuacaybamba Huamalíes Dos de Mayo Huánuco Pachitea Ambo Lauricocha Yarowilca ÁNCASH PASCO UCAYALI Llata",
+   "title": "Willaqniki Edición VI 2025",
+   "date": null,
+   "period": "2025-12",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8161371-willaqniki-edicion-vi-2025",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "43ff1c289e724e6f",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10006548/8161371-willaqniki-vi-1.pdf",
+   "page": 34,
+   "quote": "13/11/2025 12 Reunión de la Mesa de Diálogo para el Desarrollo de Llata de la provincia de Huamalíes de Huánuco desarrollado en Lima. 21/11/2025 13 Reunión del Comité de seguimiento del Plan de Acción para el Desarrollo de Vilcas Huamán en la región Ayacucho.",
+   "title": "Willaqniki Edición VI 2025",
+   "date": null,
+   "period": "2025-12",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8161371-willaqniki-edicion-vi-2025",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "407d3f865c84a163",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/10006548/8161371-willaqniki-vi-1.pdf",
+   "page": 35,
+   "quote": "04/12/2025 18 Reunión de la Mesa de Diálogo para el Desarrollo de Llata de la provincia de Huamalíes de Huánuco desarrollado en la PCM, Lima. 05/12/2025 19 Reunión informativa y de coordinación sobre el caso de las 34 familias de Cerro de Pasco. 12/12/2025 20 Reunión del espacio de diálogo entre la comisión de avanzada SGSD PCM – ODGS MTC y el Comité de Gestión y Lucha por Amazonas en la localidad de Pedro Ruíz Gallo, en el distrito de Jazán, Amazonas.",
+   "title": "Willaqniki Edición VI 2025",
+   "date": null,
+   "period": "2025-12",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/8161371-willaqniki-edicion-vi-2025",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
    ]
   },
   {
@@ -1238,12 +1521,87 @@
    "tags": [
     "Diálogo y acuerdos"
    ]
+  },
+  {
+   "id": "b3c9791d4de71fb9",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/9245521/7586875-w-set-oct.pdf",
+   "page": 35,
+   "quote": "Minería Otra gestión realizada de riesgo inminente no asociada a un caso de conflictividad N.° Nombre Ubicación Unidad Territorial Tipología 7 Comunidad Campesina de Huaripampa demanda a la empresa Antamina usurpación de terrenos y afectaciones ambientales Áncash; Huari; San Marcos UT Norte Minería 8 Las comunidades campesinas aledañas a la laguna Tragadero demandan el desembalse de la laguna Junín; Jauja; Acolla, Marco UT Centro Hídrico 9 Toma de la Universidad Nacional del",
+   "title": "Willaqniki Edición V 2025",
+   "date": null,
+   "period": "2025-10",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/7586875-willaqniki-edicion-v-2025",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Medida de fuerza",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "a3151ba0b77fb132",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/9245521/7586875-w-set-oct.pdf",
+   "page": 42,
+   "quote": "Minera Antamina En la reunión del 10 de octubre, se logró la aprobación de 11 estudios de evaluación de riesgos en el distrito de Aquia. PIURA Espacio de diálogo Logros / avances Mesa de diálogo para abordar la problemática de pasivos ambientales en el distrito de La Brea-Negritos El Ministerio de Salud, a través de DIRESA, logró que se realice un tamizaje en los alumnos de la IE \"JPB\" con el fin de evaluar si han sido afectados por el afloramiento de hidrocarburos que se han",
+   "title": "Willaqniki Edición V 2025",
+   "date": null,
+   "period": "2025-10",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/7586875-willaqniki-edicion-v-2025",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "b586a394ecac9c8f",
+   "url": "https://cdn.www.gob.pe/uploads/document/file/9245521/7586875-w-set-oct.pdf",
+   "page": 54,
+   "quote": "18/09/2025 8 Reunión de la Mesa Técnica de diálogo entre la comunidad campesina de Aquia y la compañía minera Antamina S.A., con la finalidad de establecer el cronograma de presentación de los 6 subgrupos de trabajo a cargo de los sectores del Poder Ejecutivo.",
+   "title": "Willaqniki Edición V 2025",
+   "date": null,
+   "period": "2025-10",
+   "connector": "gob.pe · PCM Willaqniki",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.gob.pe/institucion/pcm/informes-publicaciones/7586875-willaqniki-edicion-v-2025",
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
   }
  ],
- "fetched": 53,
- "new": 0,
+ "fetched": 67,
+ "new": 14,
  "requests": 9,
  "error": null,
- "checked_at": "2026-11-10T23:55:40.258098+00:00",
- "seconds": 49.5
+ "checked_at": "2026-11-11T01:36:28.842411+00:00",
+ "seconds": 76.7,
+ "last_ok_at": "2026-11-11T01:36:28.842411+00:00"
 }

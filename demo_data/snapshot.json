@@ -1,1 +1,768 @@
-{"schema_version": 2, "built_at": "2026-11-10T22:13:57.495543+00:00", "companies": {"mineria": {"id": "mineria", "name": "Las Bambas", "legal_name": "Minera Las Bambas S.A.", "sector": "Minería", "operation": "Las Bambas · corredor sur", "region": "Apurímac y Cusco", "description": "Seguimiento de comunidades y espacios de diálogo de la cartera seleccionada.", "initials": "LB", "color": "#087d6b"}, "hidrocarburos": {"id": "hidrocarburos", "name": "Petroperú", "legal_name": "Petróleos del Perú – Petroperú S.A.", "sector": "Hidrocarburos", "operation": "ONP · vínculos documentados con el Lote 192", "region": "Loreto", "description": "Seguimiento de casos con mención empresarial expresa. La ficha identifica actores; no verifica por sí misma quién opera hoy cada activo.", "initials": "PP", "color": "#2563b9"}}, "case_companies": {"1285-0622": "mineria", "1229-0621": "mineria", "1162-0819": "mineria", "1132-1218": "mineria", "1459-1125": "hidrocarburos", "1403-0325": "hidrocarburos"}, "observations": {"1285-0622": [{"period": "2026-09", "status": "Activo", "phase": "Desescalamiento", "dialogue": true, "description": "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos y solicita formar parte del área de influencia directa de Las Bambas.", "narrative": "El 22 de setiembre se reanudó el espacio de diálogo con pobladores del sector Chuchupampa, luego del cierre temporal de una vía de ingreso a la operación minera. En la reunión, los pobladores expusieron sus reclamos sobre oportunidades de empleo, apoyo social y cumplimiento de compromisos por parte de la empresa minera Las Bambas S.A., así como su preocupación por el polvo y el tránsito de vehículos pesados. También se abordó la relación organizativa entre el sector Chuchupampa y la Comunidad Campesina de Chuicuni. Las instituciones participantes acordaron dar seguimiento a las demandas sobre empleo, posibles afectaciones ambientales y compromisos pendientes, que serán tratadas en la próxima reunión, prevista de manera referencial para el 16 de octubre.", "location": "Distrito de Challhuahuacho, provincia de Cotabambas", "district": "Challhuahuacho", "province": "Cotabambas", "region": "Apurímac", "name": "CC Chuicuni - Las Bambas (Apurímac)", "source_id": "DP-2026-09", "source_anchor": null, "coordinates": [-72.30262251747762, -14.178268919499942], "coordinate_precision": "punto representativo distrital", "phase_basis": "Clasificación de la ficha oficial del período, no predicción.", "demands": [{"text": "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos y solicita formar parte del área de influencia directa de Las Bambas.", "source_id": "DP-2026-09", "status": "reclamos atribuidos por la fuente"}], "actors_institutions": ["MINEM", "PCM"]}], "1229-0621": [{"period": "2026-09", "status": "Activo", "phase": "Desescalamiento", "dialogue": true, "description": "La comunidad campesina de Huancuire señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos en el convenio marco acordado entre las partes, y que se estaría realizando actividades en terrenos que tienen procesos judiciales pendientes de resolver. Asimismo, solicitan que se atienda la presunta contaminación ambiental de los recursos hídricos de la zona, y el reinicio de la consulta previa.", "narrative": "El 22 de setiembre, la Subprefectura Distrital de Challhuahuacho informó que continúan las reuniones bilaterales entre la empresa minera Las Bambas S.A. y las comunidades del área de influencia del proyecto Chalcobamba. Según lo informado, parte de estas reuniones se desarrolla con participación del personal de relaciones comunitarias de la empresa, y algunos espacios de diálogo se han trasladado principalmente a la ciudad del Cusco y, de manera eventual, a Lima.", "location": "Distrito de Coyllurqui, provincia de Cotabambas, departamento de Apurímac.", "district": "Coyllurqui", "province": "Cotabambas", "region": "Apurímac", "name": "CC Huancuire - Minera Las Bambas (Apurímac)", "source_id": "DP-2026-09", "source_anchor": null, "coordinates": [-72.3595396305337, -14.040130588500006], "coordinate_precision": "punto representativo del polígono comunal", "phase_basis": "Clasificación de la ficha oficial del período, no predicción.", "demands": [{"text": "La comunidad campesina de Huancuire señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos en el convenio marco acordado entre las partes, y que se estaría realizando actividades en terrenos que tienen procesos judiciales pendientes de resolver. Asimismo, solicitan que se atienda la presunta contaminación ambiental de los recursos hídricos de la zona, y el reinicio de la consulta previa.", "source_id": "DP-2026-09", "status": "reclamos atribuidos por la fuente"}], "actors_institutions": ["MINEM", "PCM"]}], "1162-0819": [{"period": "2026-09", "status": "Activo", "phase": "Desescalamiento", "dialogue": true, "description": "Organizaciones sociales y líderes comunales del distrito de Mara exigen al Ministerio de Transportes y Comunicaciones el cumplimiento del cronograma de trabajo relacionado al pago por afectaciones prediales en el tramo del corredor minero.", "narrative": "El 14 de setiembre se realizó en el distrito de Mara una reunión técnica sobre la situación de los predios afectados por la vía del corredor minero. La reunión concluyó sin acuerdos, debido a que la Comunidad Campesina de Pissacassa solicitó el pago total de los predios. Al día siguiente, la comunidad realizó una acción colectiva de protesta con bloqueo de vías en la localidad. Ese mismo día, luego de las coordinaciones de la Defensoría del Pueblo con la Presidencia del Consejo de Ministros (PCM), el Ministerio de Transportes y Comunicaciones (MTC) y el Ministerio de Energía y Minas (MINEM), la vía fue liberada y se acordó una reunión en Lima para el 23 de setiembre, con la participación de 30 delegados comunales. El 23 de setiembre se realizó en Lima una reunión informativa y de coordinación entre representantes del Poder Ejecutivo —entre ellos, los viceministerios de Minas y de Transportes, Provías Nacional y la Oficina de Diálogo y Gestión Social del MTC— y 27 representantes del distrito de Mara. Se acordó priorizar la atención de los 586 predios afectados y, además: (i) las comunidades otorgarán las autorizaciones de uso y acceso a las áreas auxiliares vinculadas al Informe de Avance N.° 03 de Ingeniería, que la empresa consultora prevé culminar en la primera quincena de noviembre de 2026; (ii) se iniciará la elaboración de expedientes y tasaciones, y el pago de los predios se programará entre 2026 y 2027; (iii) se realizará una nueva reunión presencial el 20 de noviembre en el distrito de Mara; y (iv) la Oficina de Diálogo y Gestión Social del MTC gestionará ante la SGSD-PCM la incorporación de la empresa minera al espacio formal de diálogo.", "location": "Distrito de Mara, provincia de Cotabambas, departamento de Apurímac.", "district": "Mara", "province": "Cotabambas", "region": "Apurímac", "name": "Mara - corredor minero (Apurímac)", "source_id": "DP-2026-09", "source_anchor": null, "coordinates": [-72.08292310772988, -14.017190419499968], "coordinate_precision": "punto representativo distrital", "phase_basis": "Clasificación de la ficha oficial del período, no predicción.", "demands": [{"text": "Organizaciones sociales y líderes comunales del distrito de Mara exigen al Ministerio de Transportes y Comunicaciones el cumplimiento del cronograma de trabajo relacionado al pago por afectaciones prediales en el tramo del corredor minero.", "source_id": "DP-2026-09", "status": "reclamos atribuidos por la fuente"}], "actors_institutions": ["PCM"]}], "1132-1218": [{"period": "2026-09", "status": "Activo", "phase": "Desescalamiento", "dialogue": true, "description": "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la carretera que cruza el Fundo Yavi Yavi (RM 372-2018 MTC/01.02) realizada en mayo del 2018 porque afectaría su propiedad y señala que la empresa MMG Las Bambas construyó el tramo de la mencionada carretera sin contar con el permiso de la comunidad tal como lo exige la Ley 26505. Con el acta firmada el 6 de abril en Lima, la empresa y la comunidad llegaron a un acuerdo económico mutuamente satisfactorio sobre el fundo Yavi Yavi. Sin embargo, este punto así como el del empleo de los comuneros y la revisión de los acuerdos del \"Compendio de acuerdos entre el Comité Central de negociación de la comunidad de Fuerabamba y los representantes del Proyecto Mineros Las Bambas operado por Xstrata Copper\", siguen siendo materia de negociación.\" La comunidad campesina de Fuerabamba sostiene que tendría una ocupación ancestral del sector denominado Tamboccasa, mientras que la empresa Minera Las Bambas y la familia Cruz Portocarrero no reconocen algún derecho al respecto, teniendo en consideración los informes técnicos de la Subgerencia de Saneamiento Físico Legal de la Propiedad Rural (FORPRAP) del Gobierno Regional de Apurímac.", "narrative": "El 10 de setiembre estaba prevista una reunión sobre la agenda de las personas adultas mayores de la Comunidad Campesina de Fuerabamba. La reunión fue postergada debido a las actividades por el aniversario de la comunidad y a que aún no se había presentado el documento formal con la propuesta comunal para instalar un espacio de diálogo bilateral entre la comunidad y la empresa minera Las Bambas S.A., con participación del MINEM, la PCM y la Subprefectura Distrital de Challhuahuacho. La comunidad se había comprometido a remitir dicho documento.", "location": "Distrito de Challhuahuacho, provincia de Cotabambas, departamento de Apurímac. (*) (**)", "district": "Challhuahuacho", "province": "Cotabambas", "region": "Apurímac", "name": "CC Fuerabamba - Minera Las Bambas (Apurímac)", "source_id": "DP-2026-09", "source_anchor": null, "coordinates": [-72.30262251747762, -14.178268919499942], "coordinate_precision": "punto representativo distrital", "phase_basis": "Clasificación de la ficha oficial del período, no predicción.", "demands": [{"text": "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la carretera que cruza el Fundo Yavi Yavi (RM 372-2018 MTC/01.02) realizada en mayo del 2018 porque afectaría su propiedad y señala que la empresa MMG Las Bambas construyó el tramo de la mencionada carretera sin contar con el permiso de la comunidad tal como lo exige la Ley 26505. Con el acta firmada el 6 de abril en Lima, la empresa y la comunidad llegaron a un acuerdo económico mutuamente satisfactorio sobre el fundo Yavi Yavi. Sin embargo, este punto así como el del empleo de los comuneros y la revisión de los acuerdos del \"Compendio de acuerdos entre el Comité Central de negociación de la comunidad de Fuerabamba y los representantes del Proyecto Mineros Las Bambas operado por Xstrata Copper\", siguen siendo materia de negociación.\" La comunidad campesina de Fuerabamba sostiene que tendría una ocupación ancestral del sector denominado Tamboccasa, mientras que la empresa Minera Las Bambas y la familia Cruz Portocarrero no reconocen algún derecho al respecto, teniendo en consideración los informes técnicos de la Subgerencia de Saneamiento Físico Legal de la Propiedad Rural (FORPRAP) del Gobierno Regional de Apurímac.", "source_id": "DP-2026-09", "status": "reclamos atribuidos por la fuente"}], "actors_institutions": ["MINEM", "PCM"]}], "1459-1125": [{"period": "2026-09", "status": "Activo", "phase": "Fase de acuerdos", "dialogue": true, "description": "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero de 2025, las empresas comunales que prestaron servicios a la ex operadora del Lote 192, Altamesa Energy Group S.A., exigen a Petroperú un nuevo cronograma que contemple la totalidad de la deuda restante.", "narrative": "El 22 de setiembre, federaciones y comunidades indígenas del área de influencia directa del Lote 192 emitieron un pronunciamiento sobre el proceso de selección del nuevo operador del lote, en el que demandaron transparencia, igualdad de condiciones y rendición de cuentas. Cuestionaron los criterios aplicados para la selección de la empresa elegida, pues, según señalaron, otro postor habría presentado una propuesta de inversión mayor, y pidieron que se consideren los intereses de las comunidades en materia de empleo local, inversión social, protección ambiental, desarrollo sostenible y cumplimiento de compromisos sociales y ambientales. Como acción preventiva, la Defensoría del Pueblo trasladó estas preocupaciones a PERUPETRO S.A. y a PETROPERÚ S.A. mediante el Oficio Múltiple N.° 203-2026-DP/ACSGO, y les solicitó información sobre el procedimiento de contratación, las propuestas presentadas, los fundamentos de la selección, los compromisos sociales y ambientales asumidos y el estado del proceso.", "location": "Distrito de Andoas, provincia de Datem del Marañón", "district": "Andoas", "province": "Datem del Marañón", "region": "Loreto", "name": "Empresas comunales - Altamesa II (Loreto)", "source_id": "DP-2026-09", "source_anchor": null, "coordinates": [-76.63961612207859, -3.375461533999953], "coordinate_precision": "punto representativo distrital", "phase_basis": "Clasificación de la ficha oficial del período, no predicción.", "demands": [{"text": "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero de 2025, las empresas comunales que prestaron servicios a la ex operadora del Lote 192, Altamesa Energy Group S.A., exigen a Petroperú un nuevo cronograma que contemple la totalidad de la deuda restante.", "source_id": "DP-2026-09", "status": "reclamos atribuidos por la fuente"}], "actors_institutions": []}], "1403-0325": [{"period": "2026-09", "status": "Activo", "phase": "Fase de acuerdos", "dialogue": true, "description": "El 19 de febrero de 2025 ocurrió un derrame de petróleo a la altura del kilómetro 315+535 del Tramo II del Oleoducto Norperuano. A raíz de ello, las comunidades nativas Sinchi Roca y Pijuayal, así como organizaciones indígenas, emitieron pronunciamientos exigiendo atención integral, remediación ambiental, abastecimiento de agua segura y el pago de labores de recojo de crudo por parte de Petroperú y las entidades competentes.", "narrative": "El 29 de setiembre, en el espacio de coordinación interinstitucional convocado por la Defensoría del Pueblo en San Lorenzo, el Jurado Electoral Especial de Alto Amazonas advirtió sobre una posible situación de conflicto en la Comunidad Nativa de Pijuayal (distrito de Manseriche), pues, según la información recibida, PETROPERÚ no habría realizado pagos pendientes a pobladores y comunidades cercanas, lo que podría afectar el desarrollo de las Elecciones Regionales y Municipales 2026 en la zona. Por ello, solicitó a la Defensoría del Pueblo la adopción de acciones preventivas. La Defensoría del Pueblo se comunicó con el apu de la comunidad, quien señaló que los pagos aún no se habrían efectuado y que la comunidad emitió un pronunciamiento al respecto. Asimismo, indicó que la comunidad no recibe agua segura de manera regular debido a una avería en la bomba del camión cisterna, situación que viene coordinando con la Municipalidad Distrital de Manseriche, y manifestó que Pijuayal y las comunidades cercanas no adoptarán medidas de protesta que afecten el proceso electoral. La Defensoría del Pueblo continuará con el seguimiento del caso.", "location": "Comunidades nativas de Sinchi Roca y Pijuayal, distrito de Manseriche, provincia de Datem de…", "district": "Manseriche", "province": "Datem del Marañón", "region": "Loreto", "name": "Sinchi Roca - Derrame de petroleo ONP II (Loreto)", "source_id": "DP-2026-09", "source_anchor": null, "coordinates": [-77.4906616615369, -4.673184785499956], "coordinate_precision": "punto representativo distrital", "phase_basis": "Clasificación de la ficha oficial del período, no predicción.", "demands": [{"text": "El 19 de febrero de 2025 ocurrió un derrame de petróleo a la altura del kilómetro 315+535 del Tramo II del Oleoducto Norperuano. A raíz de ello, las comunidades nativas Sinchi Roca y Pijuayal, así como organizaciones indígenas, emitieron pronunciamientos exigiendo atención integral, remediación ambiental, abastecimiento de agua segura y el pago de labores de recojo de crudo por parte de Petroperú y las entidades competentes.", "source_id": "DP-2026-09", "status": "reclamos atribuidos por la fuente"}], "actors_institutions": ["PCM"]}]}, "sources": [{"id": "DP-2026-09", "institution": "Defensoría del Pueblo", "title": "RCS_271_setiembre_2026.html", "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/RCS_271_setiembre_2026.html", "date": null, "period": "2026-09", "kind": "reporte oficial", "method": "ficha HTML oficial", "sha256": "b46215f391e40a29ad52f6cdbc67c07cca14c2f1e30ac4e1017fbb19f36848c4", "review_status": "extracción estructurada; interpretación por revisar"}, {"id": "PP-OEFA-20250319", "institution": "OEFA", "title": "Inicio de supervisión por derrame en ONP km 315+535", "url": "https://www.gob.pe/institucion/oefa/noticias/1128953-el-oefa-inicia-supervision-ambiental-ante-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano", "date": "2025-03-19", "period": "2025-03", "kind": "comunicación institucional", "method": "curación con fuente enlazada", "review_status": "vínculo editorial identificado", "link_basis": "Coinciden operador, tramo, progresiva y distrito; vínculo editorial con ficha posterior, no código publicado por OEFA.", "claim_status": "actuación supervisora reportada, no resultado sancionador"}, {"id": "PP-OEFA-20250519", "institution": "OEFA", "title": "Supervisión de nuevo derrame reportado el 19 de mayo de 2025", "url": "https://www.gob.pe/institucion/oefa/noticias/1171757-el-oefa-supervisa-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano-en-loreto", "date": "2025-05-20", "period": "2025-05", "kind": "comunicación institucional", "method": "curación con fuente enlazada", "review_status": "vínculo editorial identificado", "link_basis": "Mismo operador, tramo, progresiva y distrito; acontecimiento diferente al de marzo dentro del expediente territorial.", "claim_status": "acontecimiento distinto; no deduplicar con marzo"}, {"id": "PP-MINAM-202503", "institution": "MINAM / OGASA", "title": "Informe OGASA de marzo de 2025, caso Manseriche–Morona", "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/03.Informe%20OGASA%20-%20Marzo%202025.pdf", "date": null, "period": "2025-03", "kind": "comunicación institucional", "method": "curación con fuente enlazada", "review_status": "vínculo editorial identificado", "link_basis": "Nombres de comunidades, distrito, fecha e infraestructura explícitos. El caso amplio Manseriche–Morona no se equipara íntegramente al conflicto Pijuayal.", "claim_status": "reportado por la fuente"}, {"id": "PP-ANA-20250509", "institution": "Autoridad Nacional del Agua", "title": "Reunión interinstitucional en Sinchi Roca", "url": "https://www.gob.pe/institucion/ana/noticias/1167569-ana-participa-de-acciones-para-mitigar-derrame-de-petroleo-en-comunidad-nativa-sinchi-roca", "date": "2025-05-09", "period": "2025-05", "kind": "comunicación institucional", "method": "curación con fuente enlazada", "review_status": "vínculo editorial identificado", "link_basis": "Comunidades y empresa mencionadas expresamente", "claim_status": "compromisos anunciados, estado actual desconocido"}, {"id": "PP-VIVIENDA-20260513", "institution": "Ministerio de Vivienda / PNSR", "title": "Entrega de camión cisterna a Pijuayal", "url": "https://www.gob.pe/institucion/vivienda/noticias/1390950-loreto-ministerio-de-vivienda-entrega-camion-cisterna-para-abastecer-de-agua-potable-a-comunidad-nativa-de-pijuayal", "date": "2026-05-13", "period": "2026-05", "kind": "comunicación institucional", "method": "curación con fuente enlazada", "review_status": "vínculo editorial identificado", "link_basis": "Localidad, distrito y necesidad de agua coincidentes; fuente complementaria sobre respuesta estatal, no mención de responsabilidad empresarial.", "claim_status": "reportado por la fuente"}, {"id": "PP-PRENSA-20260428", "institution": "La República", "title": "Protestas de Pijuayal y bloqueo Saramiriza–Bagua", "url": "https://larepublica.pe/amp/politica/2026/04/28/derrame-de-petroleo-en-loreto-la-comunidad-indigena-awajun-protesta-y-bloquea-carretera-hnews-1822968", "date": "2026-04-28", "period": "2026-04", "kind": "prensa", "method": "curación con fuente enlazada", "review_status": "vínculo editorial identificado", "link_basis": "Comunidades, operador y vía explícitos", "claim_status": "prensa con testimonios atribuidos"}], "supplementary": {"checked_at": "2026-11-10", "curation": "Investigación manual con fuentes web; no extracción automática ni verificación de campo. Los estados sólo corresponden al período de cada fuente.", "records": [{"id": "LB-CHUICUNI-20260922", "institution": "Defensoría del Pueblo", "title": "RCS 271: Chuicuni–Las Bambas", "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/RCS_271_setiembre_2026.html", "date": "2026-10-20", "event_date": "2026-09-22", "period": "2026-09", "case_codes": ["1285-0622"], "company": "Minera Las Bambas S.A.", "territory": {"department": "Apurímac", "province": "Cotabambas", "district": "Challhuahuacho", "locality": "Chuicuni / sector Chuchupampa"}, "claim": "La Defensoría reporta reanudación del diálogo con Chuchupampa tras un cierre temporal del acceso. Clasifica Chuicuni en desescalamiento, con diálogo; recoge reclamos laborales, sociales y ambientales.", "phase": "Desescalamiento", "dialogue": "Hay Diálogo", "locator": "Ficha 1285-0622; página editorial HTML 22", "corroboration": [], "discrepancy": [], "relation": "empresa expresamente mencionada en el caso"}, {"id": "LB-HUANCUIRE-20260922", "institution": "Defensoría del Pueblo", "title": "RCS 271: Huancuire–Las Bambas", "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/RCS_271_setiembre_2026.html", "date": "2026-10-20", "event_date": "2026-09-22", "period": "2026-09", "case_codes": ["1229-0621"], "company": "Minera Las Bambas S.A.", "territory": {"department": "Apurímac", "province": "Cotabambas", "district": "Coyllurqui", "locality": "Huancuire"}, "claim": "La ficha sitúa Huancuire en desescalamiento con diálogo. Atribuye a la Subprefectura información sobre reuniones bilaterales entre Las Bambas y comunidades relacionadas con Chalcobamba.", "phase": "Desescalamiento", "dialogue": "Hay Diálogo", "locator": "Ficha 1229-0621; página editorial HTML 23", "corroboration": [], "discrepancy": [], "relation": "empresa expresamente mencionada en el caso"}, {"id": "PP-PIJUAYAL-20260929", "institution": "Defensoría del Pueblo", "title": "RCS 271: Sinchi Roca–Pijuayal / ONP II", "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/RCS_271_setiembre_2026.html", "date": "2026-10-20", "event_date": "2026-09-29", "period": "2026-09", "case_codes": ["1403-0325"], "company": "Petróleos del Perú – Petroperú S.A.", "project": "Oleoducto Norperuano, Tramo II", "territory": {"department": "Loreto", "province": "Datem del Marañón", "district": "Manseriche", "locality": "Sinchi Roca / Pijuayal"}, "claim": "La ficha está en fase de acuerdos, con diálogo. Recoge reclamos de pagos y abastecimiento irregular de agua atribuidos a la comunidad, que manifestó no protestar contra el proceso electoral.", "phase": "Fase de acuerdos", "dialogue": "Hay Diálogo", "locator": "Ficha 1403-0325; buscar Pijuayal", "corroboration": ["PP-VIVIENDA-20260513", "PP-ANA-20250509", "PP-OEFA-20250319"], "discrepancy": ["La descripción histórica de RCS 271 fecha el derrame el 19 de febrero de 2025; OEFA, MINAM y nota Defensoría del 26/03 lo sitúan el 19 de marzo de 2025. No corregir silenciosamente ni fusionar emergencias por localización."], "relation": "Petroperú identificado expresamente como actor primario", "claim_status": "reclamos atribuidos, no incumplimiento acreditado"}, {"id": "PP-OEFA-20250319", "institution": "OEFA", "title": "Inicio de supervisión por derrame en ONP km 315+535", "url": "https://www.gob.pe/institucion/oefa/noticias/1128953-el-oefa-inicia-supervision-ambiental-ante-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano", "date": "2025-03-19", "event_date": "2025-03-19", "period": "2025-03", "case_codes": ["1403-0325"], "company": "Petroperú S.A.", "project": "ONP Tramo II, km 315+535", "territory": {"department": "Loreto", "province": "Datem del Marañón", "district": "Manseriche"}, "claim": "OEFA inició supervisión del derrame del 19 de marzo de 2025 y verificaría la respuesta del operador Petroperú; causa, responsabilidades e impactos quedaban por determinar.", "phase": null, "dialogue": null, "link_basis": "Coinciden operador, tramo, progresiva y distrito; vínculo editorial con ficha posterior, no código publicado por OEFA.", "corroboration": ["PP-MINAM-202503"], "discrepancy": ["Contrasta con febrero en descripción histórica RCS271."], "claim_status": "actuación supervisora reportada, no resultado sancionador"}, {"id": "PP-OEFA-20250519", "institution": "OEFA", "title": "Supervisión de nuevo derrame reportado el 19 de mayo de 2025", "url": "https://www.gob.pe/institucion/oefa/noticias/1171757-el-oefa-supervisa-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano-en-loreto", "date": "2025-05-20", "event_date": "2025-05-19", "period": "2025-05", "case_codes": ["1403-0325"], "company": "Petroperú S.A.", "project": "ONP Tramo II, km 315+535", "territory": {"department": "Loreto", "province": "Datem del Marañón", "district": "Manseriche"}, "claim": "OEFA comunicó supervisión de un derrame ocurrido el 19 de mayo de 2025 en el km 315+535, incluyendo la verificación de primera respuesta de Petroperú.", "phase": null, "dialogue": null, "link_basis": "Mismo operador, tramo, progresiva y distrito; acontecimiento diferente al de marzo dentro del expediente territorial.", "corroboration": [{"institution": "Petroperú", "date": "2025-05-20", "url": "https://www.petroperu.com.pe/petroperu-activa-medidas-preventivas-ante-posible-afectacion-del-onp-en-loreto", "scope": "La empresa informó recepción de reporte de hidrocarburo y activación de contingencia; su atribución causal es versión empresarial."}], "discrepancy": [], "claim_status": "acontecimiento distinto; no deduplicar con marzo"}, {"id": "PP-MINAM-202503", "institution": "MINAM / OGASA", "title": "Informe OGASA de marzo de 2025, caso Manseriche–Morona", "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/03.Informe%20OGASA%20-%20Marzo%202025.pdf", "date": null, "event_date": "2025-03-19", "period": "2025-03", "case_codes": ["1403-0325"], "company": "Petroperú", "project": "Oleoducto Norperuano / Sinchi Roca", "territory": {"department": "Loreto", "province": "Datem del Marañón", "district": "Manseriche", "locality": "Sinchi Roca / Pijuayal"}, "claim": "OGASA reporta un derrame el 19 de marzo de 2025 en Sinchi Roca y demandas comunitarias de agua, salud, limpieza, remediación y diálogo multisectorial.", "phase": null, "dialogue": null, "locator": "Anexo de casos; entrada Manseriche y Morona", "corroboration": ["PP-OEFA-20250319"], "discrepancy": ["Febrero versus marzo en RCS271."], "link_basis": "Nombres de comunidades, distrito, fecha e infraestructura explícitos. El caso amplio Manseriche–Morona no se equipara íntegramente al conflicto Pijuayal."}, {"id": "PP-ANA-20250509", "institution": "Autoridad Nacional del Agua", "title": "Reunión interinstitucional en Sinchi Roca", "url": "https://www.gob.pe/institucion/ana/noticias/1167569-ana-participa-de-acciones-para-mitigar-derrame-de-petroleo-en-comunidad-nativa-sinchi-roca", "date": "2025-05-09", "event_date": null, "period": "2025-05", "case_codes": ["1403-0325"], "company": "Petroperú", "project": "Atención a Sinchi Roca y Pijuayal", "territory": {"department": "Loreto", "province": "Datem del Marañón", "district": "Manseriche", "locality": "Sinchi Roca / Pijuayal"}, "claim": "ANA informó acuerdos para monitoreo complementario de OEFA, entrega regional de kits y continuidad del abastecimiento por Petroperú a Sinchi Roca y Pijuayal; no acredita su ejecución posterior.", "phase": null, "dialogue": null, "corroboration": [], "discrepancy": [], "link_basis": "Comunidades y empresa mencionadas expresamente", "claim_status": "compromisos anunciados, estado actual desconocido"}, {"id": "PP-VIVIENDA-20260513", "institution": "Ministerio de Vivienda / PNSR", "title": "Entrega de camión cisterna a Pijuayal", "url": "https://www.gob.pe/institucion/vivienda/noticias/1390950-loreto-ministerio-de-vivienda-entrega-camion-cisterna-para-abastecer-de-agua-potable-a-comunidad-nativa-de-pijuayal", "date": "2026-05-13", "event_date": null, "period": "2026-05", "case_codes": ["1403-0325"], "company": "Petroperú (expediente relacionado; no ejecutor de esta entrega)", "territory": {"department": "Loreto", "province": "Datem del Marañón", "district": "Manseriche", "locality": "Pijuayal"}, "claim": "Vivienda informó la entrega de una cisterna para abastecer temporalmente de agua potable a 275 habitantes de Pijuayal. No acredita continuidad del servicio hasta septiembre.", "phase": null, "dialogue": null, "corroboration": ["PP-PIJUAYAL-20260929"], "discrepancy": [], "link_basis": "Localidad, distrito y necesidad de agua coincidentes; fuente complementaria sobre respuesta estatal, no mención de responsabilidad empresarial."}, {"id": "PP-PRENSA-20260428", "institution": "La República", "title": "Protestas de Pijuayal y bloqueo Saramiriza–Bagua", "url": "https://larepublica.pe/amp/politica/2026/04/28/derrame-de-petroleo-en-loreto-la-comunidad-indigena-awajun-protesta-y-bloquea-carretera-hnews-1822968", "date": "2026-04-28", "event_date": null, "period": "2026-04", "case_codes": ["1403-0325"], "company": "Petroperú", "project": "ONP Tramo II / carretera Saramiriza–Bagua", "territory": {"department": "Loreto", "province": "Datem del Marañón", "district": "Manseriche", "locality": "Pijuayal"}, "claim": "La República recoge testimonios y un pronunciamiento comunitario sobre reinicio de bloqueo de Saramiriza–Bagua por demandas de agua y atención; describe una situación de abril, no transitabilidad actual.", "phase": null, "dialogue": null, "corroboration": [], "discrepancy": [], "claim_status": "prensa con testimonios atribuidos", "link_basis": "Comunidades, operador y vía explícitos"}], "newscases": [{"id": "LB-PAMPUTA-20260709", "institution": "MINEM", "title": "Instalación de diálogo Pamputa–Las Bambas", "url": "https://www.gob.pe/institucion/minem/noticias/1416938-minem-viabiliza-espacio-de-dialogo-entre-comunidad-campesina-de-pamputa-y-empresa-minera-las-bambas", "date": "2026-07-09", "event_date": null, "period": "2026-07", "case_codes": [], "company": "Minera Las Bambas", "project": "Sulfobamba", "territory": {"department": "Apurímac", "province": "Cotabambas", "district": "Coyllurqui", "locality": "Pamputa"}, "claim": "MINEM informó la instalación de diálogo entre Pamputa y Las Bambas para asuntos vinculados a Sulfobamba y anunció una siguiente sesión para el 17 de agosto; su realización no se verificó.", "phase": null, "dialogue": null, "corroboration": [], "discrepancy": [], "link_basis": "Relación directa comunidad–empresa–proyecto; no equiparar a Huancuire por compartir distrito."}, {"id": "LB-CCAPACMARCA-20260508", "institution": "MINEM", "title": "Convenio de cooperación Ccapacmarca–Las Bambas", "url": "https://www.gob.pe/institucion/minem/noticias/1389295-minem-concreta-con-exito-convenio-por-s-3-6-millones-para-el-desarrollo-de-ccapacmarca-en-cusco", "date": "2026-05-08", "event_date": null, "period": "2026-05", "case_codes": [], "company": "Minera Las Bambas", "project": "Cooperación interinstitucional", "territory": {"department": "Cusco", "province": "Chumbivilcas", "district": "Ccapacmarca"}, "claim": "MINEM comunicó un convenio con aportes sociales voluntarios de Las Bambas por S/1.8 millones anuales en 2026 y 2027. La nota no demuestra desembolsos ni ejecución.", "phase": null, "dialogue": null, "corroboration": [], "discrepancy": [], "link_basis": "Convenio empresa–municipalidad explícito; expediente propio sin código Defensoría confirmado."}, {"id": "LB-HATUN-20260715", "institution": "MINEM / articulación con PCM", "title": "Convenio Hatun Ccollana–Las Bambas", "url": "https://www.gob.pe/institucion/minem/noticias/1419126-minem-y-pcm-impulsan-acuerdo-entre-la-comunidad-de-hatun-ccollana-y-minera-las-bambas-mediante-el-dialogo", "date": "2026-07-15", "event_date": null, "period": "2026-07", "case_codes": [], "company": "Minera Las Bambas", "territory": {"locality": "Hatun Ccollana", "department": null, "province": null, "district": null}, "claim": "MINEM informó un convenio de cooperación entre Hatun Ccollana y Las Bambas, facilitado con PCM. No se asigna una fase oficial de conflicto ni se fusiona con otras comunidades.", "phase": null, "dialogue": null, "corroboration": [], "discrepancy": [], "link_basis": "Comunidad y empresa nombradas; ubicación administrativa no confirmada en el extracto."}], "source_gaps": [{"institution": "PNP", "status": "No se localizó parte o comunicado PNP directo para Pijuayal en esta revisión. La mención de PNP por Petroperú no es una segunda fuente independiente ni confirma autores."}, {"institution": "PCM", "status": "Se localizó seguimiento Manseriche–Morona del 30/04/2025; no vincular todos sus compromisos a Pijuayal ni a Petroperú.", "url": "https://www.gob.pe/institucion/pcm/noticias/1158964-pcm-inicia-seguimiento-al-cumplimiento-de-compromisos-asumidos-con-la-provincia-loretana-datem-del-maranon"}], "do_not_merge": ["Petroperú/ONP no equivale a Lote 8. No se confirmó operador del Lote 8 en esta investigación.", "Sinchi Roca de Manseriche/Loreto no es Sinchi Roca de Irazola/Padre Abad/Ucayali.", "Pijuayal de Manseriche/Loreto no es automáticamente Pijuayal de El Cenepa/Amazonas.", "Chuicuni, Huancuire, Pamputa, Hatun Ccollana y Ccapacmarca son expedientes distintos aunque todos se relacionen con Las Bambas.", "Emergencias marzo, mayo y otras fechas en km315+535 deben mantener event_id separado aunque compartan expediente."]}, "author": "Alexander Noblejas"}
+{
+  "schema_version": 2,
+  "built_at": "2026-11-11T01:37:49.370122+00:00",
+  "companies": {
+    "antamina": {
+      "id": "antamina",
+      "name": "Antamina",
+      "legal_name": "Compañía Minera Antamina S.A.",
+      "sector": "Minería",
+      "operation": "Mina Yanacancha (San Marcos, Huari) · mineroducto de 302 km · puerto Punta Lobitos (Huarmey)",
+      "region": "Áncash y Huánuco",
+      "description": "Conflictos donde la Defensoría nombra a la compañía como actor, más su historial 2012-2025.",
+      "initials": "AN",
+      "color": "#7a4fa0"
+    },
+    "mineria": {
+      "id": "mineria",
+      "name": "Las Bambas",
+      "legal_name": "Minera Las Bambas S.A.",
+      "sector": "Minería",
+      "operation": "Las Bambas · corredor sur",
+      "region": "Apurímac y Cusco",
+      "description": "Seguimiento de comunidades y espacios de diálogo de la cartera seleccionada.",
+      "initials": "LB",
+      "color": "#087d6b"
+    },
+    "hidrocarburos": {
+      "id": "hidrocarburos",
+      "name": "Petroperú",
+      "legal_name": "Petróleos del Perú – Petroperú S.A.",
+      "sector": "Hidrocarburos",
+      "operation": "ONP · vínculos documentados con el Lote 192",
+      "region": "Loreto",
+      "description": "Seguimiento de casos con mención empresarial expresa. La ficha identifica actores; no verifica por sí misma quién opera hoy cada activo.",
+      "initials": "PP",
+      "color": "#2563b9"
+    }
+  },
+  "case_companies": {
+    "1285-0622": "mineria",
+    "1229-0621": "mineria",
+    "1162-0819": "mineria",
+    "1132-1218": "mineria",
+    "1333-0923": "antamina",
+    "1459-1125": "hidrocarburos",
+    "1403-0325": "hidrocarburos"
+  },
+  "observations": {
+    "1285-0622": [
+      {
+        "period": "2026-09",
+        "status": "Activo",
+        "phase": "Desescalamiento",
+        "dialogue": true,
+        "description": "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos y solicita formar parte del área de influencia directa de Las Bambas.",
+        "narrative": "El 22 de setiembre se reanudó el espacio de diálogo con pobladores del sector Chuchupampa, luego del cierre temporal de una vía de ingreso a la operación minera. En la reunión, los pobladores expusieron sus reclamos sobre oportunidades de empleo, apoyo social y cumplimiento de compromisos por parte de la empresa minera Las Bambas S.A., así como su preocupación por el polvo y el tránsito de vehículos pesados. También se abordó la relación organizativa entre el sector Chuchupampa y la Comunidad Campesina de Chuicuni. Las instituciones participantes acordaron dar seguimiento a las demandas sobre empleo, posibles afectaciones ambientales y compromisos pendientes, que serán tratadas en la próxima reunión, prevista de manera referencial para el 16 de octubre.",
+        "location": "Distrito de Challhuahuacho, provincia de Cotabambas",
+        "district": "Challhuahuacho",
+        "province": "Cotabambas",
+        "region": "Apurímac",
+        "name": "CC Chuicuni - Las Bambas (Apurímac)",
+        "source_id": "DP-2026-09",
+        "source_anchor": null,
+        "coordinates": [
+          -72.30262251747762,
+          -14.178268919499942
+        ],
+        "coordinate_precision": "punto representativo distrital",
+        "phase_basis": "Clasificación de la ficha oficial del período, no predicción.",
+        "demands": [
+          {
+            "text": "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos y solicita formar parte del área de influencia directa de Las Bambas.",
+            "source_id": "DP-2026-09",
+            "status": "reclamos atribuidos por la fuente"
+          }
+        ],
+        "actors": {
+          "primarios": "Ministerio de Energía y Minas (MINEM), Ministerio de Justicia y Derechos Humanos (MINJUSDH), Ministerio de Desarrollo Agrario y Riego (MIDAGRI), Ministerio de Educación (MINEDU), Gobierno Regional de Apurímac.",
+          "secundarios": "Oficina General de Diálogo y Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Defensoría del Pueblo.",
+          "terciarios": "Defensoría del Pueblo"
+        },
+        "actors_institutions": [
+          "MINEM",
+          "PCM"
+        ]
+      }
+    ],
+    "1229-0621": [
+      {
+        "period": "2026-09",
+        "status": "Activo",
+        "phase": "Desescalamiento",
+        "dialogue": true,
+        "description": "La comunidad campesina de Huancuire señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos en el convenio marco acordado entre las partes, y que se estaría realizando actividades en terrenos que tienen procesos judiciales pendientes de resolver. Asimismo, solicitan que se atienda la presunta contaminación ambiental de los recursos hídricos de la zona, y el reinicio de la consulta previa.",
+        "narrative": "El 22 de setiembre, la Subprefectura Distrital de Challhuahuacho informó que continúan las reuniones bilaterales entre la empresa minera Las Bambas S.A. y las comunidades del área de influencia del proyecto Chalcobamba. Según lo informado, parte de estas reuniones se desarrolla con participación del personal de relaciones comunitarias de la empresa, y algunos espacios de diálogo se han trasladado principalmente a la ciudad del Cusco y, de manera eventual, a Lima.",
+        "location": "Distrito de Coyllurqui, provincia de Cotabambas, departamento de Apurímac.",
+        "district": "Coyllurqui",
+        "province": "Cotabambas",
+        "region": "Apurímac",
+        "name": "CC Huancuire - Minera Las Bambas (Apurímac)",
+        "source_id": "DP-2026-09",
+        "source_anchor": null,
+        "coordinates": [
+          -72.3595396305337,
+          -14.040130588500006
+        ],
+        "coordinate_precision": "punto representativo del polígono comunal",
+        "phase_basis": "Clasificación de la ficha oficial del período, no predicción.",
+        "demands": [
+          {
+            "text": "La comunidad campesina de Huancuire señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos en el convenio marco acordado entre las partes, y que se estaría realizando actividades en terrenos que tienen procesos judiciales pendientes de resolver. Asimismo, solicitan que se atienda la presunta contaminación ambiental de los recursos hídricos de la zona, y el reinicio de la consulta previa.",
+            "source_id": "DP-2026-09",
+            "status": "reclamos atribuidos por la fuente"
+          }
+        ],
+        "actors": {
+          "primarios": "Comunidad campesina de Huancuire, empresa Minera Las Bambas S.A., Ministerio de Energía y Minas.",
+          "secundarios": "Ministerio de Justicia y Derechos Humanos (MINJUSDH), Organismo de Evaluación y Fiscalización Ambiental, Policía Nacional del Perú, Subprefectura de Coyllurqui.",
+          "terciarios": "Oficina General de Diálogo y Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Defensoría del Pueblo."
+        },
+        "actors_institutions": [
+          "MINEM",
+          "PCM"
+        ]
+      }
+    ],
+    "1162-0819": [
+      {
+        "period": "2026-09",
+        "status": "Activo",
+        "phase": "Desescalamiento",
+        "dialogue": true,
+        "description": "Organizaciones sociales y líderes comunales del distrito de Mara exigen al Ministerio de Transportes y Comunicaciones el cumplimiento del cronograma de trabajo relacionado al pago por afectaciones prediales en el tramo del corredor minero.",
+        "narrative": "El 14 de setiembre se realizó en el distrito de Mara una reunión técnica sobre la situación de los predios afectados por la vía del corredor minero. La reunión concluyó sin acuerdos, debido a que la Comunidad Campesina de Pissacassa solicitó el pago total de los predios. Al día siguiente, la comunidad realizó una acción colectiva de protesta con bloqueo de vías en la localidad. Ese mismo día, luego de las coordinaciones de la Defensoría del Pueblo con la Presidencia del Consejo de Ministros (PCM), el Ministerio de Transportes y Comunicaciones (MTC) y el Ministerio de Energía y Minas (MINEM), la vía fue liberada y se acordó una reunión en Lima para el 23 de setiembre, con la participación de 30 delegados comunales. El 23 de setiembre se realizó en Lima una reunión informativa y de coordinación entre representantes del Poder Ejecutivo —entre ellos, los viceministerios de Minas y de Transportes, Provías Nacional y la Oficina de Diálogo y Gestión Social del MTC— y 27 representantes del distrito de Mara. Se acordó priorizar la atención de los 586 predios afectados y, además: (i) las comunidades otorgarán las autorizaciones de uso y acceso a las áreas auxiliares vinculadas al Informe de Avance N.° 03 de Ingeniería, que la empresa consultora prevé culminar en la primera quincena de noviembre de 2026; (ii) se iniciará la elaboración de expedientes y tasaciones, y el pago de los predios se programará entre 2026 y 2027; (iii) se realizará una nueva reunión presencial el 20 de noviembre en el distrito de Mara; y (iv) la Oficina de Diálogo y Gestión Social del MTC gestionará ante la SGSD-PCM la incorporación de la empresa minera al espacio formal de diálogo.",
+        "location": "Distrito de Mara, provincia de Cotabambas, departamento de Apurímac.",
+        "district": "Mara",
+        "province": "Cotabambas",
+        "region": "Apurímac",
+        "name": "Mara - corredor minero (Apurímac)",
+        "source_id": "DP-2026-09",
+        "source_anchor": null,
+        "coordinates": [
+          -72.08292310772988,
+          -14.017190419499968
+        ],
+        "coordinate_precision": "punto representativo distrital",
+        "phase_basis": "Clasificación de la ficha oficial del período, no predicción.",
+        "demands": [
+          {
+            "text": "Organizaciones sociales y líderes comunales del distrito de Mara exigen al Ministerio de Transportes y Comunicaciones el cumplimiento del cronograma de trabajo relacionado al pago por afectaciones prediales en el tramo del corredor minero.",
+            "source_id": "DP-2026-09",
+            "status": "reclamos atribuidos por la fuente"
+          }
+        ],
+        "actors": {
+          "primarios": "Comunidades campesinas de Mara, Frente de Defensa de Mara, Provías - Ministerio de Transportes y Comunicaciones (MTC).",
+          "secundarios": "Empresa MMG Las Bambas, Ministerio del Interior (MININTER), Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Ministerio Público, Policía Nacional de Perú, Municipalidad Distrital de Mara, Secretaría de Descentralización de la Presidencia del Consejo de Ministros (PCM), Ministerio del Interior (MININTER), Ministerio de Educación (MINEDU).",
+          "terciarios": "Oficina de Diálogo y Gestión Social del Ministerio de Transportes y Comunicaciones (ODGS-MTC), Defensoría del Pueblo."
+        },
+        "actors_institutions": [
+          "PCM"
+        ]
+      }
+    ],
+    "1132-1218": [
+      {
+        "period": "2026-09",
+        "status": "Activo",
+        "phase": "Desescalamiento",
+        "dialogue": true,
+        "description": "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la carretera que cruza el Fundo Yavi Yavi (RM 372-2018 MTC/01.02) realizada en mayo del 2018 porque afectaría su propiedad y señala que la empresa MMG Las Bambas construyó el tramo de la mencionada carretera sin contar con el permiso de la comunidad tal como lo exige la Ley 26505. Con el acta firmada el 6 de abril en Lima, la empresa y la comunidad llegaron a un acuerdo económico mutuamente satisfactorio sobre el fundo Yavi Yavi. Sin embargo, este punto así como el del empleo de los comuneros y la revisión de los acuerdos del \"Compendio de acuerdos entre el Comité Central de negociación de la comunidad de Fuerabamba y los representantes del Proyecto Mineros Las Bambas operado por Xstrata Copper\", siguen siendo materia de negociación.\" La comunidad campesina de Fuerabamba sostiene que tendría una ocupación ancestral del sector denominado Tamboccasa, mientras que la empresa Minera Las Bambas y la familia Cruz Portocarrero no reconocen algún derecho al respecto, teniendo en consideración los informes técnicos de la Subgerencia de Saneamiento Físico Legal de la Propiedad Rural (FORPRAP) del Gobierno Regional de Apurímac.",
+        "narrative": "El 10 de setiembre estaba prevista una reunión sobre la agenda de las personas adultas mayores de la Comunidad Campesina de Fuerabamba. La reunión fue postergada debido a las actividades por el aniversario de la comunidad y a que aún no se había presentado el documento formal con la propuesta comunal para instalar un espacio de diálogo bilateral entre la comunidad y la empresa minera Las Bambas S.A., con participación del MINEM, la PCM y la Subprefectura Distrital de Challhuahuacho. La comunidad se había comprometido a remitir dicho documento.",
+        "location": "Distrito de Challhuahuacho, provincia de Cotabambas, departamento de Apurímac. (*) (**)",
+        "district": "Challhuahuacho",
+        "province": "Cotabambas",
+        "region": "Apurímac",
+        "name": "CC Fuerabamba - Minera Las Bambas (Apurímac)",
+        "source_id": "DP-2026-09",
+        "source_anchor": null,
+        "coordinates": [
+          -72.30262251747762,
+          -14.178268919499942
+        ],
+        "coordinate_precision": "punto representativo distrital",
+        "phase_basis": "Clasificación de la ficha oficial del período, no predicción.",
+        "demands": [
+          {
+            "text": "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la carretera que cruza el Fundo Yavi Yavi (RM 372-2018 MTC/01.02) realizada en mayo del 2018 porque afectaría su propiedad y señala que la empresa MMG Las Bambas construyó el tramo de la mencionada carretera sin contar con el permiso de la comunidad tal como lo exige la Ley 26505. Con el acta firmada el 6 de abril en Lima, la empresa y la comunidad llegaron a un acuerdo económico mutuamente satisfactorio sobre el fundo Yavi Yavi. Sin embargo, este punto así como el del empleo de los comuneros y la revisión de los acuerdos del \"Compendio de acuerdos entre el Comité Central de negociación de la comunidad de Fuerabamba y los representantes del Proyecto Mineros Las Bambas operado por Xstrata Copper\", siguen siendo materia de negociación.\" La comunidad campesina de Fuerabamba sostiene que tendría una ocupación ancestral del sector denominado Tamboccasa, mientras que la empresa Minera Las Bambas y la familia Cruz Portocarrero no reconocen algún derecho al respecto, teniendo en consideración los informes técnicos de la Subgerencia de Saneamiento Físico Legal de la Propiedad Rural (FORPRAP) del Gobierno Regional de Apurímac.",
+            "source_id": "DP-2026-09",
+            "status": "reclamos atribuidos por la fuente"
+          }
+        ],
+        "actors": {
+          "primarios": "Comunidad campesina de Fuerabamba, Ministerio de Transportes y Comunicaciones (MTC), Empresa MMG (filial externa de China Minmetals Corp.), una subsidiaria propiedad de Guoxin International Investment Co. Ltd. y CITIC Metal Co. Ltd.",
+          "secundarios": "Familia Cruz Portocarrero, Subgerencia de Saneamiento Físico Legal de la Propiedad Rural (FORPRAP) del Gobierno Regional de Apurímac, Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Ministerio de Justicia y Derechos Humanos (MINJUSDH), Dirección General de Orden Público del Ministerio del Interior (MININTER), Dirección General de Trabajo Ministerio de Trabajo y Promoción del Empleo (MINTRA), Policía Nacional del Perú, Fiscalía Provincial Penal de Chumbivilcas.",
+          "terciarios": "Gobernador Regional de Cusco, Secretaria de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Dirección General de Asuntos Socio Ambientales (DGASA) del MTC, Municipalidad Distrital de Challhuahuacho, Defensoría del Pueblo, Conferencia Episcopal Peruana. (*) Los hechos ocurridos en este caso se registran desde el Reporte de Conflictos Sociales N° 174 – Agosto 2018 en el caso Cotabambas – Las Bambas en la región Apurímac, que tiene la siguiente descripción: “El Frente de Defensa de la Provincia de Cotabambas, el Comité de Lucha de las Provincias de Cotabambas y Grau, la Federación Campesina Challhuahuacho, el Frente de Defensa de los Intereses del distrito de Challhuahuacho, entre otras organizaciones sociales, así como comunidades campesinas de las provincias de Cotabambas y Grau demandan el cumplimiento de acuerdos y compromisos asumidos por el Estado y la empresa operadora de la unidad Minera Las Bambas.” (**) Se modificó la ubicación del conflicto de la región Cusco a la región Apurímac, debido a que en un inicio el problema principal del conflicto estaba relacionado con el fundo Yavi Yavi, que se localiza en el distrito de Colquemarca, provincia de Chumbivilcas, región Cusco. Posteriormente los principales problemas están ubicados en el distrito de Challhuahuacho, provincia de Cotabambas, región Apurímac, referidos a la contratación de miembros de la comunidad para la unidad minera, la revisión del compendio de acuerdos, la provisión del servicio de transporte de concentrado, entre otros."
+        },
+        "actors_institutions": [
+          "MINEM",
+          "PCM"
+        ]
+      }
+    ],
+    "1333-0923": [
+      {
+        "period": "2026-09",
+        "status": "Activo",
+        "phase": "Fase de acuerdos",
+        "dialogue": false,
+        "description": "La población del distrito de Llata exige a la compañía minera Antamina y a las entidades estatales, el cumplimiento de compromisos sociales arribados en la Mesa de Diálogo para el Desarrollo en Llata sostenida en 2014.",
+        "narrative": "El 25 de setiembre se realizó en Lima la sesión plenaria de la mesa de diálogo de Llata, con participación de la SGSD-PCM, el MINEDU, el Programa Nacional de Infraestructura Educativa (PRONIED), Provías Descentralizado, Provías Nacional, el Programa Nacional de Inversiones en Salud (PRONIS) del MINSA, la empresa minera Antamina y actores locales. Se informó lo siguiente: Educación: en octubre, el MINEDU y el PRONIED prevén entregar las instituciones educativas de Morca y Pampaflores, y continúa la revisión del proyecto de San Cristóbal. Vialidad: en octubre, Provías Descentralizado prevé iniciar el proyecto Carpa en los distritos de Jacas Grande, Chavín de Pariarca y Tantamayo, y el expediente técnico del proyecto Pachas se encuentra en elaboración y revisión; Provías Nacional, en coordinación con la empresa, continúa con el estudio definitivo de la carretera Antamina – Llata – Tingo Chico, con entregables y autorizaciones pendientes. Salud: el PRONIS y la empresa continúan con el cambio de socio ejecutor del plan de mantenimiento del Hospital de Llata, pendiente de la verificación de equipos y la revisión de documentación. La próxima sesión plenaria se programó para el 4 de diciembre de 2026.",
+        "location": "Distrito de Llata, provincia de Huamalíes, departamento de Huánuco",
+        "district": "Llata",
+        "province": "Huamalíes",
+        "region": "Huánuco",
+        "name": "Llata - Antamina (Huánuco)",
+        "source_id": "DP-2026-09",
+        "source_anchor": null,
+        "coordinates": [
+          -76.947664,
+          -9.6398
+        ],
+        "coordinate_precision": "punto representativo distrital",
+        "phase_basis": "Clasificación de la ficha oficial del período, no predicción.",
+        "demands": [
+          {
+            "text": "La población del distrito de Llata exige a la compañía minera Antamina y a las entidades estatales, el cumplimiento de compromisos sociales arribados en la Mesa de Diálogo para el Desarrollo en Llata sostenida en 2014.",
+            "source_id": "DP-2026-09",
+            "status": "reclamos atribuidos por la fuente"
+          }
+        ],
+        "actors": {
+          "primarios": "Población del distrito de Llata, Población de la provincia de Huamalíes, Frente de Defensa de los Intereses del distrito de Llata (FREDILL), Compañía Minera Antamina, Provías Nacional, Provías Descentralizado, Programa Nacional de Infraestructura Educativa (PRONIED), Programa Nacional de Inversiones en Salud (PRONIS), Gobierno Regional de Huánuco, Municipalidad Provincial de Huamalíes.",
+          "secundarios": "Presidencia del Consejo de Ministros (PCM), Policía Nacional del Perú (PNP), Ministerio de Educación (MINEDU), Ministerio de Transportes y Comunicaciones (MTC).",
+          "terciarios": "Secretaría de Gestión Social Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Defensoría del Pueblo."
+        },
+        "actors_institutions": [
+          "PNP",
+          "PCM"
+        ]
+      }
+    ],
+    "1459-1125": [
+      {
+        "period": "2026-09",
+        "status": "Activo",
+        "phase": "Fase de acuerdos",
+        "dialogue": true,
+        "description": "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero de 2025, las empresas comunales que prestaron servicios a la ex operadora del Lote 192, Altamesa Energy Group S.A., exigen a Petroperú un nuevo cronograma que contemple la totalidad de la deuda restante.",
+        "narrative": "El 22 de setiembre, federaciones y comunidades indígenas del área de influencia directa del Lote 192 emitieron un pronunciamiento sobre el proceso de selección del nuevo operador del lote, en el que demandaron transparencia, igualdad de condiciones y rendición de cuentas. Cuestionaron los criterios aplicados para la selección de la empresa elegida, pues, según señalaron, otro postor habría presentado una propuesta de inversión mayor, y pidieron que se consideren los intereses de las comunidades en materia de empleo local, inversión social, protección ambiental, desarrollo sostenible y cumplimiento de compromisos sociales y ambientales. Como acción preventiva, la Defensoría del Pueblo trasladó estas preocupaciones a PERUPETRO S.A. y a PETROPERÚ S.A. mediante el Oficio Múltiple N.° 203-2026-DP/ACSGO, y les solicitó información sobre el procedimiento de contratación, las propuestas presentadas, los fundamentos de la selección, los compromisos sociales y ambientales asumidos y el estado del proceso.",
+        "location": "Distrito de Andoas, provincia de Datem del Marañón",
+        "district": "Andoas",
+        "province": "Datem del Marañón",
+        "region": "Loreto",
+        "name": "Empresas comunales - Altamesa II (Loreto)",
+        "source_id": "DP-2026-09",
+        "source_anchor": null,
+        "coordinates": [
+          -76.63961612207859,
+          -3.375461533999953
+        ],
+        "coordinate_precision": "punto representativo distrital",
+        "phase_basis": "Clasificación de la ficha oficial del período, no predicción.",
+        "demands": [
+          {
+            "text": "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero de 2025, las empresas comunales que prestaron servicios a la ex operadora del Lote 192, Altamesa Energy Group S.A., exigen a Petroperú un nuevo cronograma que contemple la totalidad de la deuda restante.",
+            "source_id": "DP-2026-09",
+            "status": "reclamos atribuidos por la fuente"
+          }
+        ],
+        "actors": {
+          "primarios": "Comunidad Nativa de Antioquía, Comunidad Nativa de Doce de Octubre, Comunidad Nativa Alianza Capahuariyacu, Comunidad Nativa Titiyacu, Comunidad Nativa Nuevo Andoas, Comunidad Nativa Los Jardines, Comunidad Nativa Nueva Jerusalén, Comunidad Nativa Nuevo Porvenir, Comunidad Nativa José Olaya, Petroperú S.A., Perupetro S.A., Ministerio de Energía y Minas, Altamesa Energy Perú S.A.C.",
+          "secundarios": "ONAPP, FECONACOR, FEDIQUEP, ORIAP y OPIKAFPE; empresas Biddle y Promax.",
+          "terciarios": "Defensoría del Pueblo."
+        },
+        "actors_institutions": []
+      }
+    ],
+    "1403-0325": [
+      {
+        "period": "2026-09",
+        "status": "Activo",
+        "phase": "Fase de acuerdos",
+        "dialogue": true,
+        "description": "El 19 de febrero de 2025 ocurrió un derrame de petróleo a la altura del kilómetro 315+535 del Tramo II del Oleoducto Norperuano. A raíz de ello, las comunidades nativas Sinchi Roca y Pijuayal, así como organizaciones indígenas, emitieron pronunciamientos exigiendo atención integral, remediación ambiental, abastecimiento de agua segura y el pago de labores de recojo de crudo por parte de Petroperú y las entidades competentes.",
+        "narrative": "El 29 de setiembre, en el espacio de coordinación interinstitucional convocado por la Defensoría del Pueblo en San Lorenzo, el Jurado Electoral Especial de Alto Amazonas advirtió sobre una posible situación de conflicto en la Comunidad Nativa de Pijuayal (distrito de Manseriche), pues, según la información recibida, PETROPERÚ no habría realizado pagos pendientes a pobladores y comunidades cercanas, lo que podría afectar el desarrollo de las Elecciones Regionales y Municipales 2026 en la zona. Por ello, solicitó a la Defensoría del Pueblo la adopción de acciones preventivas. La Defensoría del Pueblo se comunicó con el apu de la comunidad, quien señaló que los pagos aún no se habrían efectuado y que la comunidad emitió un pronunciamiento al respecto. Asimismo, indicó que la comunidad no recibe agua segura de manera regular debido a una avería en la bomba del camión cisterna, situación que viene coordinando con la Municipalidad Distrital de Manseriche, y manifestó que Pijuayal y las comunidades cercanas no adoptarán medidas de protesta que afecten el proceso electoral. La Defensoría del Pueblo continuará con el seguimiento del caso.",
+        "location": "Comunidades nativas de Sinchi Roca y Pijuayal, distrito de Manseriche, provincia de Datem de…",
+        "district": "Manseriche",
+        "province": "Datem del Marañón",
+        "region": "Loreto",
+        "name": "Sinchi Roca - Derrame de petroleo ONP II (Loreto)",
+        "source_id": "DP-2026-09",
+        "source_anchor": null,
+        "coordinates": [
+          -77.4906616615369,
+          -4.673184785499956
+        ],
+        "coordinate_precision": "punto representativo distrital",
+        "phase_basis": "Clasificación de la ficha oficial del período, no predicción.",
+        "demands": [
+          {
+            "text": "El 19 de febrero de 2025 ocurrió un derrame de petróleo a la altura del kilómetro 315+535 del Tramo II del Oleoducto Norperuano. A raíz de ello, las comunidades nativas Sinchi Roca y Pijuayal, así como organizaciones indígenas, emitieron pronunciamientos exigiendo atención integral, remediación ambiental, abastecimiento de agua segura y el pago de labores de recojo de crudo por parte de Petroperú y las entidades competentes.",
+            "source_id": "DP-2026-09",
+            "status": "reclamos atribuidos por la fuente"
+          }
+        ],
+        "actors": {
+          "primarios": "Comunidades nativas de Sinchi Roca y Pijuayal, FENARA, CHAPISIWAG, ORPASY, Petróleos del Perú - Petroperú S.A.",
+          "secundarios": "Gobierno Regional de Loreto (GOREL), Ministerio de Cultura (MINCUL), Municipalidad Distrital de Manseriche, Programa Nacional de Saneamiento Rural (PNSR), Frente de Defensa y Desarrollo de la Provincia Datem del Marañón (FREDEMAM), Federación de Pueblos Indígenas Quechuas del Pastaza (FEDIQUEP).",
+          "terciarios": "Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Defensoría del Pueblo."
+        },
+        "actors_institutions": [
+          "PCM"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": "DP-2026-09",
+      "institution": "Defensoría del Pueblo",
+      "title": "RCS_271_setiembre_2026.html",
+      "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/RCS_271_setiembre_2026.html",
+      "date": null,
+      "period": "2026-09",
+      "kind": "reporte oficial",
+      "method": "ficha HTML oficial",
+      "sha256": "b46215f391e40a29ad52f6cdbc67c07cca14c2f1e30ac4e1017fbb19f36848c4",
+      "review_status": "extracción estructurada; interpretación por revisar"
+    },
+    {
+      "id": "PP-OEFA-20250319",
+      "institution": "OEFA",
+      "title": "Inicio de supervisión por derrame en ONP km 315+535",
+      "url": "https://www.gob.pe/institucion/oefa/noticias/1128953-el-oefa-inicia-supervision-ambiental-ante-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano",
+      "date": "2025-03-19",
+      "period": "2025-03",
+      "kind": "comunicación institucional",
+      "method": "curación con fuente enlazada",
+      "review_status": "vínculo editorial identificado",
+      "link_basis": "Coinciden operador, tramo, progresiva y distrito; vínculo editorial con ficha posterior, no código publicado por OEFA.",
+      "claim_status": "actuación supervisora reportada, no resultado sancionador"
+    },
+    {
+      "id": "PP-OEFA-20250519",
+      "institution": "OEFA",
+      "title": "Supervisión de nuevo derrame reportado el 19 de mayo de 2025",
+      "url": "https://www.gob.pe/institucion/oefa/noticias/1171757-el-oefa-supervisa-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano-en-loreto",
+      "date": "2025-05-20",
+      "period": "2025-05",
+      "kind": "comunicación institucional",
+      "method": "curación con fuente enlazada",
+      "review_status": "vínculo editorial identificado",
+      "link_basis": "Mismo operador, tramo, progresiva y distrito; acontecimiento diferente al de marzo dentro del expediente territorial.",
+      "claim_status": "acontecimiento distinto; no deduplicar con marzo"
+    },
+    {
+      "id": "PP-MINAM-202503",
+      "institution": "MINAM / OGASA",
+      "title": "Informe OGASA de marzo de 2025, caso Manseriche–Morona",
+      "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/03.Informe%20OGASA%20-%20Marzo%202025.pdf",
+      "date": null,
+      "period": "2025-03",
+      "kind": "comunicación institucional",
+      "method": "curación con fuente enlazada",
+      "review_status": "vínculo editorial identificado",
+      "link_basis": "Nombres de comunidades, distrito, fecha e infraestructura explícitos. El caso amplio Manseriche–Morona no se equipara íntegramente al conflicto Pijuayal.",
+      "claim_status": "reportado por la fuente"
+    },
+    {
+      "id": "PP-ANA-20250509",
+      "institution": "Autoridad Nacional del Agua",
+      "title": "Reunión interinstitucional en Sinchi Roca",
+      "url": "https://www.gob.pe/institucion/ana/noticias/1167569-ana-participa-de-acciones-para-mitigar-derrame-de-petroleo-en-comunidad-nativa-sinchi-roca",
+      "date": "2025-05-09",
+      "period": "2025-05",
+      "kind": "comunicación institucional",
+      "method": "curación con fuente enlazada",
+      "review_status": "vínculo editorial identificado",
+      "link_basis": "Comunidades y empresa mencionadas expresamente",
+      "claim_status": "compromisos anunciados, estado actual desconocido"
+    },
+    {
+      "id": "PP-VIVIENDA-20260513",
+      "institution": "Ministerio de Vivienda / PNSR",
+      "title": "Entrega de camión cisterna a Pijuayal",
+      "url": "https://www.gob.pe/institucion/vivienda/noticias/1390950-loreto-ministerio-de-vivienda-entrega-camion-cisterna-para-abastecer-de-agua-potable-a-comunidad-nativa-de-pijuayal",
+      "date": "2026-05-13",
+      "period": "2026-05",
+      "kind": "comunicación institucional",
+      "method": "curación con fuente enlazada",
+      "review_status": "vínculo editorial identificado",
+      "link_basis": "Localidad, distrito y necesidad de agua coincidentes; fuente complementaria sobre respuesta estatal, no mención de responsabilidad empresarial.",
+      "claim_status": "reportado por la fuente"
+    },
+    {
+      "id": "PP-PRENSA-20260428",
+      "institution": "La República",
+      "title": "Protestas de Pijuayal y bloqueo Saramiriza–Bagua",
+      "url": "https://larepublica.pe/amp/politica/2026/04/28/derrame-de-petroleo-en-loreto-la-comunidad-indigena-awajun-protesta-y-bloquea-carretera-hnews-1822968",
+      "date": "2026-04-28",
+      "period": "2026-04",
+      "kind": "prensa",
+      "method": "curación con fuente enlazada",
+      "review_status": "vínculo editorial identificado",
+      "link_basis": "Comunidades, operador y vía explícitos",
+      "claim_status": "prensa con testimonios atribuidos"
+    }
+  ],
+  "supplementary": {
+    "checked_at": "2026-11-10",
+    "curation": "Investigación manual con fuentes web; no extracción automática ni verificación de campo. Los estados sólo corresponden al período de cada fuente.",
+    "records": [
+      {
+        "id": "LB-CHUICUNI-20260922",
+        "institution": "Defensoría del Pueblo",
+        "title": "RCS 271: Chuicuni–Las Bambas",
+        "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/RCS_271_setiembre_2026.html",
+        "date": "2026-10-20",
+        "event_date": "2026-09-22",
+        "period": "2026-09",
+        "case_codes": [
+          "1285-0622"
+        ],
+        "company": "Minera Las Bambas S.A.",
+        "territory": {
+          "department": "Apurímac",
+          "province": "Cotabambas",
+          "district": "Challhuahuacho",
+          "locality": "Chuicuni / sector Chuchupampa"
+        },
+        "claim": "La Defensoría reporta reanudación del diálogo con Chuchupampa tras un cierre temporal del acceso. Clasifica Chuicuni en desescalamiento, con diálogo; recoge reclamos laborales, sociales y ambientales.",
+        "phase": "Desescalamiento",
+        "dialogue": "Hay Diálogo",
+        "locator": "Ficha 1285-0622; página editorial HTML 22",
+        "corroboration": [],
+        "discrepancy": [],
+        "relation": "empresa expresamente mencionada en el caso"
+      },
+      {
+        "id": "LB-HUANCUIRE-20260922",
+        "institution": "Defensoría del Pueblo",
+        "title": "RCS 271: Huancuire–Las Bambas",
+        "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/RCS_271_setiembre_2026.html",
+        "date": "2026-10-20",
+        "event_date": "2026-09-22",
+        "period": "2026-09",
+        "case_codes": [
+          "1229-0621"
+        ],
+        "company": "Minera Las Bambas S.A.",
+        "territory": {
+          "department": "Apurímac",
+          "province": "Cotabambas",
+          "district": "Coyllurqui",
+          "locality": "Huancuire"
+        },
+        "claim": "La ficha sitúa Huancuire en desescalamiento con diálogo. Atribuye a la Subprefectura información sobre reuniones bilaterales entre Las Bambas y comunidades relacionadas con Chalcobamba.",
+        "phase": "Desescalamiento",
+        "dialogue": "Hay Diálogo",
+        "locator": "Ficha 1229-0621; página editorial HTML 23",
+        "corroboration": [],
+        "discrepancy": [],
+        "relation": "empresa expresamente mencionada en el caso"
+      },
+      {
+        "id": "PP-PIJUAYAL-20260929",
+        "institution": "Defensoría del Pueblo",
+        "title": "RCS 271: Sinchi Roca–Pijuayal / ONP II",
+        "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/RCS_271_setiembre_2026.html",
+        "date": "2026-10-20",
+        "event_date": "2026-09-29",
+        "period": "2026-09",
+        "case_codes": [
+          "1403-0325"
+        ],
+        "company": "Petróleos del Perú – Petroperú S.A.",
+        "project": "Oleoducto Norperuano, Tramo II",
+        "territory": {
+          "department": "Loreto",
+          "province": "Datem del Marañón",
+          "district": "Manseriche",
+          "locality": "Sinchi Roca / Pijuayal"
+        },
+        "claim": "La ficha está en fase de acuerdos, con diálogo. Recoge reclamos de pagos y abastecimiento irregular de agua atribuidos a la comunidad, que manifestó no protestar contra el proceso electoral.",
+        "phase": "Fase de acuerdos",
+        "dialogue": "Hay Diálogo",
+        "locator": "Ficha 1403-0325; buscar Pijuayal",
+        "corroboration": [
+          "PP-VIVIENDA-20260513",
+          "PP-ANA-20250509",
+          "PP-OEFA-20250319"
+        ],
+        "discrepancy": [
+          "La descripción histórica de RCS 271 fecha el derrame el 19 de febrero de 2025; OEFA, MINAM y nota Defensoría del 26/03 lo sitúan el 19 de marzo de 2025. No corregir silenciosamente ni fusionar emergencias por localización."
+        ],
+        "relation": "Petroperú identificado expresamente como actor primario",
+        "claim_status": "reclamos atribuidos, no incumplimiento acreditado"
+      },
+      {
+        "id": "PP-OEFA-20250319",
+        "institution": "OEFA",
+        "title": "Inicio de supervisión por derrame en ONP km 315+535",
+        "url": "https://www.gob.pe/institucion/oefa/noticias/1128953-el-oefa-inicia-supervision-ambiental-ante-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano",
+        "date": "2025-03-19",
+        "event_date": "2025-03-19",
+        "period": "2025-03",
+        "case_codes": [
+          "1403-0325"
+        ],
+        "company": "Petroperú S.A.",
+        "project": "ONP Tramo II, km 315+535",
+        "territory": {
+          "department": "Loreto",
+          "province": "Datem del Marañón",
+          "district": "Manseriche"
+        },
+        "claim": "OEFA inició supervisión del derrame del 19 de marzo de 2025 y verificaría la respuesta del operador Petroperú; causa, responsabilidades e impactos quedaban por determinar.",
+        "phase": null,
+        "dialogue": null,
+        "link_basis": "Coinciden operador, tramo, progresiva y distrito; vínculo editorial con ficha posterior, no código publicado por OEFA.",
+        "corroboration": [
+          "PP-MINAM-202503"
+        ],
+        "discrepancy": [
+          "Contrasta con febrero en descripción histórica RCS271."
+        ],
+        "claim_status": "actuación supervisora reportada, no resultado sancionador"
+      },
+      {
+        "id": "PP-OEFA-20250519",
+        "institution": "OEFA",
+        "title": "Supervisión de nuevo derrame reportado el 19 de mayo de 2025",
+        "url": "https://www.gob.pe/institucion/oefa/noticias/1171757-el-oefa-supervisa-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano-en-loreto",
+        "date": "2025-05-20",
+        "event_date": "2025-05-19",
+        "period": "2025-05",
+        "case_codes": [
+          "1403-0325"
+        ],
+        "company": "Petroperú S.A.",
+        "project": "ONP Tramo II, km 315+535",
+        "territory": {
+          "department": "Loreto",
+          "province": "Datem del Marañón",
+          "district": "Manseriche"
+        },
+        "claim": "OEFA comunicó supervisión de un derrame ocurrido el 19 de mayo de 2025 en el km 315+535, incluyendo la verificación de primera respuesta de Petroperú.",
+        "phase": null,
+        "dialogue": null,
+        "link_basis": "Mismo operador, tramo, progresiva y distrito; acontecimiento diferente al de marzo dentro del expediente territorial.",
+        "corroboration": [
+          {
+            "institution": "Petroperú",
+            "date": "2025-05-20",
+            "url": "https://www.petroperu.com.pe/petroperu-activa-medidas-preventivas-ante-posible-afectacion-del-onp-en-loreto",
+            "scope": "La empresa informó recepción de reporte de hidrocarburo y activación de contingencia; su atribución causal es versión empresarial."
+          }
+        ],
+        "discrepancy": [],
+        "claim_status": "acontecimiento distinto; no deduplicar con marzo"
+      },
+      {
+        "id": "PP-MINAM-202503",
+        "institution": "MINAM / OGASA",
+        "title": "Informe OGASA de marzo de 2025, caso Manseriche–Morona",
+        "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/03.Informe%20OGASA%20-%20Marzo%202025.pdf",
+        "date": null,
+        "event_date": "2025-03-19",
+        "period": "2025-03",
+        "case_codes": [
+          "1403-0325"
+        ],
+        "company": "Petroperú",
+        "project": "Oleoducto Norperuano / Sinchi Roca",
+        "territory": {
+          "department": "Loreto",
+          "province": "Datem del Marañón",
+          "district": "Manseriche",
+          "locality": "Sinchi Roca / Pijuayal"
+        },
+        "claim": "OGASA reporta un derrame el 19 de marzo de 2025 en Sinchi Roca y demandas comunitarias de agua, salud, limpieza, remediación y diálogo multisectorial.",
+        "phase": null,
+        "dialogue": null,
+        "locator": "Anexo de casos; entrada Manseriche y Morona",
+        "corroboration": [
+          "PP-OEFA-20250319"
+        ],
+        "discrepancy": [
+          "Febrero versus marzo en RCS271."
+        ],
+        "link_basis": "Nombres de comunidades, distrito, fecha e infraestructura explícitos. El caso amplio Manseriche–Morona no se equipara íntegramente al conflicto Pijuayal."
+      },
+      {
+        "id": "PP-ANA-20250509",
+        "institution": "Autoridad Nacional del Agua",
+        "title": "Reunión interinstitucional en Sinchi Roca",
+        "url": "https://www.gob.pe/institucion/ana/noticias/1167569-ana-participa-de-acciones-para-mitigar-derrame-de-petroleo-en-comunidad-nativa-sinchi-roca",
+        "date": "2025-05-09",
+        "event_date": null,
+        "period": "2025-05",
+        "case_codes": [
+          "1403-0325"
+        ],
+        "company": "Petroperú",
+        "project": "Atención a Sinchi Roca y Pijuayal",
+        "territory": {
+          "department": "Loreto",
+          "province": "Datem del Marañón",
+          "district": "Manseriche",
+          "locality": "Sinchi Roca / Pijuayal"
+        },
+        "claim": "ANA informó acuerdos para monitoreo complementario de OEFA, entrega regional de kits y continuidad del abastecimiento por Petroperú a Sinchi Roca y Pijuayal; no acredita su ejecución posterior.",
+        "phase": null,
+        "dialogue": null,
+        "corroboration": [],
+        "discrepancy": [],
+        "link_basis": "Comunidades y empresa mencionadas expresamente",
+        "claim_status": "compromisos anunciados, estado actual desconocido"
+      },
+      {
+        "id": "PP-VIVIENDA-20260513",
+        "institution": "Ministerio de Vivienda / PNSR",
+        "title": "Entrega de camión cisterna a Pijuayal",
+        "url": "https://www.gob.pe/institucion/vivienda/noticias/1390950-loreto-ministerio-de-vivienda-entrega-camion-cisterna-para-abastecer-de-agua-potable-a-comunidad-nativa-de-pijuayal",
+        "date": "2026-05-13",
+        "event_date": null,
+        "period": "2026-05",
+        "case_codes": [
+          "1403-0325"
+        ],
+        "company": "Petroperú (expediente relacionado; no ejecutor de esta entrega)",
+        "territory": {
+          "department": "Loreto",
+          "province": "Datem del Marañón",
+          "district": "Manseriche",
+          "locality": "Pijuayal"
+        },
+        "claim": "Vivienda informó la entrega de una cisterna para abastecer temporalmente de agua potable a 275 habitantes de Pijuayal. No acredita continuidad del servicio hasta septiembre.",
+        "phase": null,
+        "dialogue": null,
+        "corroboration": [
+          "PP-PIJUAYAL-20260929"
+        ],
+        "discrepancy": [],
+        "link_basis": "Localidad, distrito y necesidad de agua coincidentes; fuente complementaria sobre respuesta estatal, no mención de responsabilidad empresarial."
+      },
+      {
+        "id": "PP-PRENSA-20260428",
+        "institution": "La República",
+        "title": "Protestas de Pijuayal y bloqueo Saramiriza–Bagua",
+        "url": "https://larepublica.pe/amp/politica/2026/04/28/derrame-de-petroleo-en-loreto-la-comunidad-indigena-awajun-protesta-y-bloquea-carretera-hnews-1822968",
+        "date": "2026-04-28",
+        "event_date": null,
+        "period": "2026-04",
+        "case_codes": [
+          "1403-0325"
+        ],
+        "company": "Petroperú",
+        "project": "ONP Tramo II / carretera Saramiriza–Bagua",
+        "territory": {
+          "department": "Loreto",
+          "province": "Datem del Marañón",
+          "district": "Manseriche",
+          "locality": "Pijuayal"
+        },
+        "claim": "La República recoge testimonios y un pronunciamiento comunitario sobre reinicio de bloqueo de Saramiriza–Bagua por demandas de agua y atención; describe una situación de abril, no transitabilidad actual.",
+        "phase": null,
+        "dialogue": null,
+        "corroboration": [],
+        "discrepancy": [],
+        "claim_status": "prensa con testimonios atribuidos",
+        "link_basis": "Comunidades, operador y vía explícitos"
+      }
+    ],
+    "newscases": [
+      {
+        "id": "LB-PAMPUTA-20260709",
+        "institution": "MINEM",
+        "title": "Instalación de diálogo Pamputa–Las Bambas",
+        "url": "https://www.gob.pe/institucion/minem/noticias/1416938-minem-viabiliza-espacio-de-dialogo-entre-comunidad-campesina-de-pamputa-y-empresa-minera-las-bambas",
+        "date": "2026-07-09",
+        "event_date": null,
+        "period": "2026-07",
+        "case_codes": [],
+        "company": "Minera Las Bambas",
+        "project": "Sulfobamba",
+        "territory": {
+          "department": "Apurímac",
+          "province": "Cotabambas",
+          "district": "Coyllurqui",
+          "locality": "Pamputa"
+        },
+        "claim": "MINEM informó la instalación de diálogo entre Pamputa y Las Bambas para asuntos vinculados a Sulfobamba y anunció una siguiente sesión para el 17 de agosto; su realización no se verificó.",
+        "phase": null,
+        "dialogue": null,
+        "corroboration": [],
+        "discrepancy": [],
+        "link_basis": "Relación directa comunidad–empresa–proyecto; no equiparar a Huancuire por compartir distrito."
+      },
+      {
+        "id": "LB-CCAPACMARCA-20260508",
+        "institution": "MINEM",
+        "title": "Convenio de cooperación Ccapacmarca–Las Bambas",
+        "url": "https://www.gob.pe/institucion/minem/noticias/1389295-minem-concreta-con-exito-convenio-por-s-3-6-millones-para-el-desarrollo-de-ccapacmarca-en-cusco",
+        "date": "2026-05-08",
+        "event_date": null,
+        "period": "2026-05",
+        "case_codes": [],
+        "company": "Minera Las Bambas",
+        "project": "Cooperación interinstitucional",
+        "territory": {
+          "department": "Cusco",
+          "province": "Chumbivilcas",
+          "district": "Ccapacmarca"
+        },
+        "claim": "MINEM comunicó un convenio con aportes sociales voluntarios de Las Bambas por S/1.8 millones anuales en 2026 y 2027. La nota no demuestra desembolsos ni ejecución.",
+        "phase": null,
+        "dialogue": null,
+        "corroboration": [],
+        "discrepancy": [],
+        "link_basis": "Convenio empresa–municipalidad explícito; expediente propio sin código Defensoría confirmado."
+      },
+      {
+        "id": "LB-HATUN-20260715",
+        "institution": "MINEM / articulación con PCM",
+        "title": "Convenio Hatun Ccollana–Las Bambas",
+        "url": "https://www.gob.pe/institucion/minem/noticias/1419126-minem-y-pcm-impulsan-acuerdo-entre-la-comunidad-de-hatun-ccollana-y-minera-las-bambas-mediante-el-dialogo",
+        "date": "2026-07-15",
+        "event_date": null,
+        "period": "2026-07",
+        "case_codes": [],
+        "company": "Minera Las Bambas",
+        "territory": {
+          "locality": "Hatun Ccollana",
+          "department": null,
+          "province": null,
+          "district": null
+        },
+        "claim": "MINEM informó un convenio de cooperación entre Hatun Ccollana y Las Bambas, facilitado con PCM. No se asigna una fase oficial de conflicto ni se fusiona con otras comunidades.",
+        "phase": null,
+        "dialogue": null,
+        "corroboration": [],
+        "discrepancy": [],
+        "link_basis": "Comunidad y empresa nombradas; ubicación administrativa no confirmada en el extracto."
+      }
+    ],
+    "source_gaps": [
+      {
+        "institution": "PNP",
+        "status": "No se localizó parte o comunicado PNP directo para Pijuayal en esta revisión. La mención de PNP por Petroperú no es una segunda fuente independiente ni confirma autores."
+      },
+      {
+        "institution": "PCM",
+        "status": "Se localizó seguimiento Manseriche–Morona del 30/04/2025; no vincular todos sus compromisos a Pijuayal ni a Petroperú.",
+        "url": "https://www.gob.pe/institucion/pcm/noticias/1158964-pcm-inicia-seguimiento-al-cumplimiento-de-compromisos-asumidos-con-la-provincia-loretana-datem-del-maranon"
+      }
+    ],
+    "do_not_merge": [
+      "Petroperú/ONP no equivale a Lote 8. No se confirmó operador del Lote 8 en esta investigación.",
+      "Sinchi Roca de Manseriche/Loreto no es Sinchi Roca de Irazola/Padre Abad/Ucayali.",
+      "Pijuayal de Manseriche/Loreto no es automáticamente Pijuayal de El Cenepa/Amazonas.",
+      "Chuicuni, Huancuire, Pamputa, Hatun Ccollana y Ccapacmarca son expedientes distintos aunque todos se relacionen con Las Bambas.",
+      "Emergencias marzo, mayo y otras fechas en km315+535 deben mantener event_id separado aunque compartan expediente."
+    ]
+  },
+  "author": "Alexander Noblejas"
+}

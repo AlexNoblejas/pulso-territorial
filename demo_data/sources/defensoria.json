@@ -446,9 +446,7 @@
    "companies": [
     "mineria"
    ],
-   "case_codes": [
-    "1162-0819"
-   ],
+   "case_codes": [],
    "tags": [
     "Diálogo y acuerdos",
     "Operación y producción"
@@ -1098,6 +1096,153 @@
    ]
   },
   {
+   "id": "1bebca8090257095",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "page": 62,
+   "quote": "Caso: La comunidad campesina de Aquia demanda la instalación de una mesa de diálogo con la participación de representantes del Estado y la Compañía Minera Antamina, para el tratamiento de sus demandas relacionadas a los permisos de uso de su territorio para la instalación de un mineroducto y otras instalaciones por parte de la Compañía Minera Antamina y los posibles impactos ambientales que estos generarían en su comunidad.",
+   "title": "Reporte de Conflictos Sociales N.º 270 · Defensoría",
+   "date": null,
+   "period": "2026-08",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "8eb317ed0bb569a7",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "page": 63,
+   "quote": "Actores pr imarios: Comunidad campesina de Aquia, Compañía Minera Antamina S.A. Actores secundarios: Asociación de Municipalidades de Centros Poblados de Huari, Junta Vecinal de Puerto Huarmey, Federación de Estudiantes de la Universidad Nacional Santiago Antúnez de Mayolo.",
+   "title": "Reporte de Conflictos Sociales N.º 270 · Defensoría",
+   "date": null,
+   "period": "2026-08",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "5025973b270e0aa5",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "page": 65,
+   "quote": "La medida respondía a los reclamos por predios afectados por el derecho de vía en el corredor minero (con 98 predios tasados pendientes de pago, 220 pendientes de tasación y un total de 586 predios comprendidos), exigiendo la presencia de representantes del MTC y PROVIAS Nacional con capacidad de decisión.",
+   "title": "Reporte de Conflictos Sociales N.º 270 · Defensoría",
+   "date": null,
+   "period": "2026-08",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "b97c503acf454894",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "page": 73,
+   "quote": "Caso: La población del distrito de Llata exige a la compañía minera Antamina y a las entidades estatales, el cumplimiento de compromisos sociales arribados en la Mesa de Diálogo para el Desarrollo en Llata sostenida en 2014.",
+   "title": "Reporte de Conflictos Sociales N.º 270 · Defensoría",
+   "date": null,
+   "period": "2026-08",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "6bdf8cbd97ca41ba",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "page": 107,
+   "quote": "08/2025 Áncash CC Huaripampa - Antamina Socioambiental 42. 09/2024 Áncash Contaminación ríos La Plata y Tablachaca Socioambiental 43. 01/2024 Lima Metropolitana Nueva Carretera Central Asuntos de gobierno nacional 44. 07/2025 Lima Metropolitana Mototaxistas- San Juan de Lurigancho-Chosica Asuntos de gobierno local 45. 09/2025 Lima Metropolitana Los Sauces-Ate Asuntos de gobierno local 46.",
+   "title": "Reporte de Conflictos Sociales N.º 270 · Defensoría",
+   "date": null,
+   "period": "2026-08",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "b0f633a1c7bfe2cd",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "page": 113,
+   "quote": "de Huar Código: 1406-0425 Tipo: Socioambiental Representantes de la Comunidad Campesina de Santa Cruz de Pichiu reclaman por un presunto incumplimiento de compromisos de la empresa Compañía Minera Antamina S.A.",
+   "title": "Reporte de Conflictos Sociales N.º 270 · Defensoría",
+   "date": null,
+   "period": "2026-08",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
    "id": "d32cc5fb9b950a59",
    "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Reporte-de-Conflictos-Sociales-n-269.pdf",
    "page": 23,
@@ -1438,9 +1583,7 @@
    "companies": [
     "mineria"
    ],
-   "case_codes": [
-    "1162-0819"
-   ],
+   "case_codes": [],
    "tags": [
     "Medida de fuerza"
    ]
@@ -1637,9 +1780,7 @@
    "companies": [
     "mineria"
    ],
-   "case_codes": [
-    "1162-0819"
-   ],
+   "case_codes": [],
    "tags": [
     "Diálogo y acuerdos",
     "Operación y producción"
@@ -2133,6 +2274,1223 @@
    ]
   },
   {
+   "id": "e2a80f47828b3ca9",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Reporte-de-Conflictos-Sociales-n-269.pdf",
+   "page": 88,
+   "quote": "gobierno nacional 12/2007 Multirregional Pasto Grande - Puno/Moquegua Demarcación territorial 06/2021 Huánuco Frente de Defensa de los Intereses de Macuya Asuntos de gobierno local 09/2023 Huánuco Llata - Antamina Socioambiental 10/2021 Huánuco Sector de Shapajilla - Celdas transitorias Socioambiental 11/2025 Huánuco Comunidad campesina de Llicua – Botadero DME n° 02 Socioambiental 11/2025 Huánuco Feria sabatina “de la chacra a la olla” Asuntos de gobierno regional 12/2023 Hu",
+   "title": "Reporte de Conflictos Sociales N.º 269 · Defensoría",
+   "date": null,
+   "period": "2026-07",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Reporte-de-Conflictos-Sociales-n-269.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "decaf9eb09b7c286",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Reporte-de-Conflictos-Sociales-n-269.pdf",
+   "page": 89,
+   "quote": "Socioambiental 05/2026 Áncash Huarmey - contaminación arsenico Asuntos de gobierno regional 09/2024 Áncash Huarmey - contaminación metales pesados Socioambiental 10/2021 Áncash Comunidad de Aquia - Antamina Socioambiental 01/2021 Puno Demarcación territorial entre Limbani y Phara Demarcación territorial 02/2013 Puno Hospital materno infantil de Juliaca Asuntos de gobierno regional 03/2024 Puno Pajchani - Alto Inambari y Patambuco Demarcación territorial 05/2024 Puno Palca-Cie",
+   "title": "Reporte de Conflictos Sociales N.º 269 · Defensoría",
+   "date": null,
+   "period": "2026-07",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Reporte-de-Conflictos-Sociales-n-269.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "b2a2ae25912fbfd1",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Reporte-de-Conflictos-Sociales-n-269.pdf",
+   "page": 91,
+   "quote": "04/2025 Áncash CC Santa Cruz de Pichiu - Antamina Socioambiental 29. 07/2025 Áncash Sindicato de Trabajadores de SIDERPERÚ Laboral 30. 08/2025 Áncash CC Huaripampa - Antamina Socioambiental 31. 09/2024 Áncash Contaminación ríos La Plata y Tablachaca Socioambiental 32. 01/2024 Lima Metropolitana Nueva Carretera Central Asuntos de gobierno nacional 33. 07/2025 Lima Metropolitana Mototaxistas- San Juan de Lurigancho-Chosica Asuntos de gobierno local 34.",
+   "title": "Reporte de Conflictos Sociales N.º 269 · Defensoría",
+   "date": null,
+   "period": "2026-07",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Reporte-de-Conflictos-Sociales-n-269.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "a0af77fa82eaa1ff",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 10,
+   "quote": "LA PREVENCIÓN DE CONFLICTOS SOCIALES Y LA GOBERNABILIDAD – DEFENSORÍA DEL PUEBLO 10 Ubicación: Cuenca del río Corrientes de la comunidad nativa Providencia, distrito de Trompeteros, provincia de Datem del Marañón del departamento de Loreto.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "97cde7126a85f9a6",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 19,
+   "quote": "SOCIALES Y LA GOBERNABILIDAD – DEFENSORÍA DEL PUEBLO 19 Problemática: Grupo de Trabajo Multisectorial para impulsar el desarrollo integral de los pueblos indígenas u originarios de la provincia de Datem del Marañón del departamento de Loreto Actores: Pueblos indígenas u originarios de la provincia de Datem de l Marañón y UGEL Datem del Marañón Intercultural Bilingüe. Tipo: Asuntos de gobierno regional.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "68b4e6b496b0e62f",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 23,
+   "quote": "- Energía y Minas (MINEM): Se reporta en desarrollo el diseño del proyecto de inversión pública PIP 2530648, destinado a la ampliació n de la electrificación rural mediante soluciones fotovoltaicas en las provincias de Loreto y Datem del Marañón. - Salud y Ambiente (ANA / SERNANP): La Autoridad Nacional del Agua ratificó que continúa realizando acciones técnicas de monitoreo de la calidad del agua superficial debido a las denuncias de contaminación hídrica.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental",
+    "Operación y producción"
+   ]
+  },
+  {
+   "id": "9a5a60c2365a0090",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 24,
+   "quote": "Caso: Petroperú - Biddle y Promax Descripción del caso Acuerdos Avances de cumplimiento Fecha de instalación: 22 de noviembre de 2025 Problemática: Rechazo minería ilegal en el distrito de Tigre. Actores: Empresas Biddle y Promax , y Petroperú. Tipo: Laboral Ubicación: Distrito de Andoas, provincia de Datem del marañón, departamento de Loreto. 1. Petroperú se compromete a realizar pagos pendientes a las empresas Biddle y Promax.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "8ac9bdf7e2e4fcbd",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 24,
+   "quote": "Tipo: Laboral Ubicación: Distrito de Andoas, provincia de Datem del marañón, departamento de Loreto. 1. Petroperú se compromete a realizar pagos pendientes a las empresas Biddle y Promax. El 26 de junio, la Defensoría del Pueblo se comunicó con el presidente de la Organización de Pueblos Indí genas Kichwas Amazónicos Fronterizos del Perú y Ecuador (OPIKFPE), quien manifestó que a la fecha Petroperú no ha cumplido con los pagos de las deudas pendientes con las empresas comunal",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "8334928ece901508",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 24,
+   "quote": "Perú y Ecuador (OPIKFPE), quien manifestó que a la fecha Petroperú no ha cumplido con los pagos de las deudas pendientes con las empresas comunales y demás proveedores que prestaron servicios en el Lote 192. Las autoridades comunales solicitaron información precisa sobre el estado y cronograma de dichos pagos.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "660d8d7873193625",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 34,
+   "quote": "Arequipa, Puno, Huánuco, Ucayali, Tumbes y La Libertad (Agricultores de arroz) 1 8.33% 1 0 Huánuco – Ucayali (Honoria y Campoverde - Bosques Silvestres S.A.C.) 1 8.33% 0 1 Piura – Lima – Loreto (Petroperú – DU.10-2025) 1 8.33% 0 1 Callao – Lima (Contaminación – Refinería La Pampilla Repsol) 1 8.33% 1 0 Áncash, Apurímac, Arequipa, Cajamarca, Cusco, Huánuco, La Libertad, Lima, Puno (Minería informal – Ley de formalización) 1 8.33% 1 0 Callao – Lima Metropolitana (Transportistas",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "7d4bbfd220300048",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 50,
+   "quote": "Caso: La comunidad campesina de Aquia demanda la instalación de una mesa de diálogo con la participación de representantes del Estado y la Compañía Minera Antamina, para el tratamiento de sus demandas relacionadas a los permisos de uso de su territorio para la instalación de un mineroducto y otras instalaciones por parte de la Compañía Minera Antamina y los posibles impactos ambientales que estos generarían en su comunidad.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "c6cfc234465e54c6",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 51,
+   "quote": "Caso: La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos y solicita formar parte del área de influencia directa de Las Bambas. Ubicación: Distrito de Challhuahuacho, provincia de Cotabamb as, departamento de Apurímac. (*) Actores primarios: Comunidad campesina de Chuicuni, empresa Minera Las Bambas S.A.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1285-0622"
+   ],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "bc25a5a7c38b2e96",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 51,
+   "quote": "(*) Los hechos ocurridos en este caso se registran desde el Reporte de Conflictos Sociales N° 219 – Mayo 2022 en el caso CC Fuerabamba – Las Bambas en la región Apurímac, que tiene la siguiente descripción: “La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la carretera que cruza el Fundo Yavi Yavi (RM 372-2018 MTC/01.02) realizada en mayo del 2018 porque afectaría su propiedad y señala que la empresa MMG Las Bambas construyó el tramo de",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1132-1218"
+   ],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "27136b54769ee25c",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 51,
+   "quote": "cuestiona la reclasificación como Ruta Nacional de la carretera que cruza el Fundo Yavi Yavi (RM 372-2018 MTC/01.02) realizada en mayo del 2018 porque afectaría su propiedad y señala que la empresa MMG Las Bambas construyó el tramo de la mencionada carretera sin contar con el permiso de la comunidad tal como lo exige la Ley 26505.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "3a7b832e0da4a3d7",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 51,
+   "quote": "la reclasificación como Ruta Nacional de la carretera que cruza el Fundo Yavi Yavi (RM 372-2018 MTC/01.02) realizada en mayo del 2018 porque afectaría su propiedad y señala que la empresa MMG Las Bambas construyó el tramo de la mencionada carretera sin contar con el permiso de la comunidad tal como lo exige la Ley 26505. Con el acta firmada el 6 de abril en Lima, la empresa y la comunidad llegaron a un acuerdo económico mutuamente satisfactorio sobre el fundo Yavi Yavi.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "7de4f1c9c4ad90e7",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 51,
+   "quote": "Sin embargo, este punto así como el del empleo de los comuneros y la revisión de los acuerdos del \"Compendio de acuerdos entre el Comité Central de negociación de la comunidad de Fuerabamba y los representantes del Proyecto Miner os Las Bambas operado por Xstrata Copper\", siguen siendo materia de negociación.” HAY DIÁLOGO En el mes de junio, el presidente de la Comunidad Campesina de Chuicuni informó que su organización comunal remitió una carta a la empresa minera solicitand",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1132-1218",
+    "1285-0622"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "09fe38d4b8a791cc",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 51,
+   "quote": "Caso: La comunidad campesina de Huancuire señala que la empresa Minera Las Bambas no estaría cumpliendo los compromisos asumidos en el convenio marco acordado entre las partes, y que se estaría realizando actividad es en terrenos que HAY DIÁLOGO El 4 de junio, se reportó una situación de conflictividad socioambiental en la zona de Huancuire debido a que comuneros impidieron el normal desarrollo de las actividades de la empresa Minera Las Bambas S.A.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1229-0621"
+   ],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "79e1a0f859cf8ee3",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 52,
+   "quote": "Ubicación: Distrito de Coyllurqui, provin cia de Cotabambas, departamento de Apurímac. Actores primarios: Comunidad campesina de Huancuire, empresa Minera Las Bambas S.A., Ministerio de Energía y Minas. Actores secundarios: Ministerio de Justicia y Derechos Humanos (MINJUSDH), Organismo de Evaluación y Fiscalización Ambiental, Policía Nacional del Perú, Subprefectura de Coyllurqui.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1229-0621"
+   ],
+   "tags": [
+    "Ambiental",
+    "Seguridad"
+   ]
+  },
+  {
+   "id": "c65021a66431c2de",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 52,
+   "quote": "escalamiento, se continúan desarrollando comunicaciones y coordinaciones preventivas con la PNP, la Secretaría de Gestión Social y Diálogo de la PCM, la OGGS -MINEM y la Subprefectura Provincial de Cotabambas, a fin de realizar un monitoreo estricto sobre la problemática hídrica, la permanencia de los comuneros y cualquier eventualidad que pudiese afectar el libre tránsito o las actividad es estratégicas en la zona. Tipo: Socioambiental.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental",
+    "Seguridad"
+   ]
+  },
+  {
+   "id": "3067d7bbbc051df1",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 52,
+   "quote": "Caso: La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la carretera que cruza el Fundo Yavi Yavi (RM 372-2018 MTC/01.02) realizada en mayo del 2018 porque afectaría su propiedad y señala que la empresa MMG Las Bambas construyó el tramo de la mencionada carretera sin contar con el permiso de la comunidad tal como lo exige la Ley 26505.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1132-1218"
+   ],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "0971a0b633699488",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 53,
+   "quote": "Reporte Mensual de Conflictos Sociales N.° 268 – JUNIO 2026 ADJUNTÍA PARA LA PREVENCIÓN DE CONFLICTOS SOCIALES Y LA GOBERNABILIDAD – DEFENSORÍA DEL PUEBLO 53 Ubicación: Distrito de Challhuahuacho, provincia de Cotabambas, departamento de Apurímac.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "4a80fad78b798a4e",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 53,
+   "quote": "(*) (**) Actores primarios: Comunidad campesina de Fuerabamba, Ministerio de Transportes y Comunicaciones (MTC), Emp resa MMG (filial externa de China Minmetals Corp.), una subsidiaria propiedad de Guoxin International Investment Co. Ltd. y CITIC Metal Co. Ltd.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1132-1218"
+   ],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "a239b107d4a5764e",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 53,
+   "quote": "(*) Los hechos ocurridos en este caso se registran desde el Reporte de Conflictos Sociales N° 174 – Agosto 2018 en el caso Cotabambas – Las Bambas en la región Apurímac, que tiene la siguiente descripción: “El Frente de Defensa de la Provincia de Cotabambas, el Comité de Lucha de las Provincias de Cotabam bas y Grau, la Federación Campesina Challhuahuacho, el Frente de Defensa de los Intereses del distrito de Challhuahuacho, entre otras organizaciones sociales, así como comun",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "88b6f61954719a93",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 56,
+   "quote": "el alcalde distrital de Velille, Frente Único de los intereses del distrito de Velille (FUDIV), Federación de Campesin os, algunas organizaciones sociales del distrito de Velille y la empresa minera Las Bambas, con el objeto de contribuir al desarrollo territorial de Velille, los cuales no pudieron establecer acuerdos en base a las demandas planteadas por los representante s de Velille y las propuestas alcanzadas por la empresa minera.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "0a610883ccb0439b",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 57,
+   "quote": "Hatun Ccollana (Velille ), Huaylla Huaylla (Livitaca), Sayhua (Ccapacmarca), Tahuay (Cc apacmarca), Ccapacmarca (Ccapacmarca) y Huascabamba (Ccapacmarca) iniciaron medidas de protesta en el corredor minero contra el Estado y la empresa Minera Las Bambas, con una plataforma de lucha en la que no reconocen la Resolución Ministerial 372 -2018-MTC mientras no haya saneamiento legal de sus terrenos comunales.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1162-0819"
+   ],
+   "tags": [
+    "Medida de fuerza"
+   ]
+  },
+  {
+   "id": "dc4842aa361793b0",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 57,
+   "quote": "(Ccapacmarca), Tahuay (Ccapacmarca), Ccapacmarca (Ccapacmarca) y Huascabamba (Ccapacmarca) Frente Único de los Intereses de Chumbivilcas (FUDICH), Ministerio de Energía y Minas, empresa Minera Las Bambas S.A. Actores secundarios: Policía Nacional del Perú (PNP). Actores terciarios: Presidencia del Consejo de Ministros (PCM), Ministerio de Energía y Minas (MINEM).",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Seguridad"
+   ]
+  },
+  {
+   "id": "cb17666c3d4e7a86",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 58,
+   "quote": "Caso: El alcalde provincial, los alcaldes distritales y dirigentes de organizaciones sociales de la provincia de Chumbivilcas demandan al E stado y a la empresa Minera Las Bambas la modificación el estudio de impacto ambiental del proyecto minero Las Bambas debido a los impactos ambientales y sociales que ocasiona el transporte de mineral por el corredor vial sur, que cruza la provincia de Chumbivilcas.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "e172e7cda8319948",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 58,
+   "quote": "(*) Los hechos ocurridos en este caso se relacionan al conflicto resuelto en el Reporte de Conflictos Sociales N° 158 – Abril 2017, caso Chumbivilcas – MMG Las Bambas, en la región Cusco, que tiene la siguiente descripción: HAY DIÁLOGO El 27 de mayo, se inició la Segunda Reunión Plenaria de la Mesa Técnica para el Desarrollo Integral de la Provincia de Chumbivilcas, instalada bajo la Resolución Ministerial N° 130-2026-MINEM/DM, con la participación de la PCM, diversos ministe",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "7d6d394c116aa3ce",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 59,
+   "quote": "Y LA GOBERNABILIDAD – DEFENSORÍA DEL PUEBLO 59 “El alcalde provincial, los alcaldes distritales y los dirigentes de la sociedad civil de Chumbivilcas solicitan al Estado y a la empresa minera MMG Las Bambas se discuta en un espacio de diálogo las modificaciones al estudio de impacto ambiental del proyecto minero Las Bambas, el asfaltado de la carretera Yauri -Velille Ccapacmarca-Challhuahuacho, y la suscripción de un convenio marco entre la empresa MMG y la provincia de Chumb",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "8b0e6609450cfacf",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 59,
+   "quote": "minera MMG Las Bambas se discuta en un espacio de diálogo las modificaciones al estudio de impacto ambiental del proyecto minero Las Bambas, el asfaltado de la carretera Yauri -Velille Ccapacmarca-Challhuahuacho, y la suscripción de un convenio marco entre la empresa MMG y la provincia de Chumbivilcas. Esto como parte de un plan de responsabilidad social y ambiental”. Tipo: Socioambiental. Ingresó como caso nuevo: Mayo de 2005.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "e7890fe01b27e34e",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 59,
+   "quote": "provincia de Espinar”, conformado por cuatro ejes de trabajo: i) Inversión y desarrollo sostenible, ii) Salud, Ambiente, Saneamiento y Residuos Sólidos, iii) Convenio Marco y, iv) Consulta Previa y Corredor Minero. Ubicación: Provincia de Espinar, departamento de Cusco.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Operación y producción"
+   ]
+  },
+  {
+   "id": "05df18724712fdf4",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 60,
+   "quote": "Caso: La población del distrito de Llata exige a la compañía minera Antamina y a las entidades estatales, el cumplimiento de compromisos sociales arribados en la Mesa de Diálogo para el Desarrollo en Llata sostenida en 2014.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "adb056c49bb4ab72",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 60,
+   "quote": "HAY DIÁLOGO El 12 de junio, se llevó a cabo una reunión de la mesa de diálogo en la ciudad de Lima con la participación de representantes de la PCM, los ministerios de Transportes y Comunicaciones, Educación y Salud, así como de las empresas Antamina y Cumbre, según informaron el Frente de Defensa de los Intereses de Huamalíes (FREDDILL) y la PCM.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "9e1415e08bf87285",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 69,
+   "quote": "Además, exigen a diversas entidades del estado garantizar servicios básicos ante reinicio de operaciones en el Lote 192. Ubicación: Distrito de Tigre, provincia de Loreto, departamento de Loreto. Actores primarios : Federación de Comunidades Nativas del Bajo Tigre (FECONABAT), Presidencia del Consejo de Ministros, Ministerio de Energía y Minas, Ministerio de Vivienda, Construcción y Saneamiento, Programa Nacional de Infraestructura Educativa, Ministerio de Desarrollo Agrario",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
+   "id": "8ab5d23e9a2ca6c4",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 71,
+   "quote": "San Pablo de Tipishca (ACODECOSPAT), demandan al Poder Ejecutivo cumplir con los acuerdos suscritos en el marco de los espacios de diálogo intercultural (Actas de Lima, Teniente López, José Olaya, Andoas) y los acuerdos derivados del proceso de consulta previa del Lote 192 de los años 2015 y 2021.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "f0d1ff80e578f000",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 71,
+   "quote": "con los acuerdos suscritos en el marco de los espacios de diálogo intercultural (Actas de Lima, Teniente López, José Olaya, Andoas) y los acuerdos derivados del proceso de consulta previa del Lote 192 de los años 2015 y 2021.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "a34119fdafeb0a36",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 71,
+   "quote": "Ubicación: Provincias de Datem del Marañón y Loreto, departamento de Loreto. Actores primarios: Federación de Comunidades Nativas del Corrientes (FECONACO), Federación de Comunidades Nativas de la Cuenca del Corrientes (FECONACO R) Federación Indígena Quechua del Pastaza (FEDIQUEP), Organización de Pueblos Indígenas Kichwas, Amazónicos Fronterizos de la Frontera Perú y Ecuador (OPIKAFPE), Asociación Cocama de Desarrollo y Conservacoviembreión San Pablo de Tipishca (ACODECOSPA",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "6678db7f355d8f5c",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 72,
+   "quote": "HAY DIÁLOGO El 17 de junio, la UGEL Datem del Marañón Intercultural Bilingüe solicitó la intervención de la Defensoría del Pueblo a fin de promover la atención oportuna de los requerimientos formulados ante la Dirección Regional de Educación de Loreto, relacionados con el fortalecimiento institucional de la entidad, entre ellos la asistencia técnica especializada para su implementación, la definición clara de competencias y funciones, la continuidad y calidad del servicio edu",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "f875f5f15fd5c772",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 73,
+   "quote": "Ubicación: Provincia de Datem del Marañón, departamento de Loreto. Actores primarios: Coordinadora Regional de los Maestros Indígenas (Cormi), Coordinadora Regional de los Pueblos Indígenas de San Lorenzo (Corpi-SL), Federación Nacional Achuar del Perú (Fenap), Dirección Regional de Educación de Loreto (DREL), Ministerio de Educación (Minedu).",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "b317eb6c568c89c9",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 91,
+   "quote": "Fecha de inicio Departamento Denominación del caso Tipo 03/2025 Apurímac Tapayrihua y Aymaraes - Southern Socioambiental 07/2022 Apurímac CC Carmen Alto - Minera Las Bambas Socioambiental 06/2022 Apurímac CC Chila - Las Bambas Socioambiental 08/2019 Apurímac Mara - corredor minero Socioambiental 07/2020 Apurímac Pumamarca - Asacasi Comunal 01/2025 Apurímac Hospital Guillermo Días - Abancay Asuntos de gobierno nacional 10/2013 Arequipa Tía María - Islay Socioambiental 12/2024",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1162-0819"
+   ],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "5ab97d84ca72e401",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 91,
+   "quote": "de coca Asuntos de gobierno nacional 04/2024 Moquegua Mariscal Nieto - Huatipuka Socioambiental 02/2022 Moquegua CC Tumilaca - Southern Perú Copper Corporation Socioambiental 07/2016 Moquegua Ilo - Petroperú Socioambiental 06/2025 Multirregional Anillo Vial Periférico Asuntos de gobierno nacional 01/2024 Multirregional Minería informal ley de formalización Asuntos de gobierno nacional",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "995502974e5dbb1e",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 92,
+   "quote": "- Minera Chaska II Socioambiental 05/2025 Loreto FEPIBACOR - Demandas sociales y ambientales Socioambiental 05/2024 Loreto Bloque Lote 8 - Consulta Previa Socioambiental 09/2022 Loreto CN Cuninico - Petroperú Socioambiental 07/2021 Loreto Saramurillo - Estación 1 Socioambiental 08/2016 Loreto Cinco cuencas - Lote 8 y 192 Socioambiental 11/2025 Loreto Empresas comunales - Altamesa II Laboral 09/2025 Loreto CN Naranjal - infraestructura educativa Asuntos de gobierno regional 09",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [
+    "1459-1125"
+   ],
+   "tags": [
+    "Medida de fuerza",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "607bf004a4fe1021",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 92,
+   "quote": "Loreto CN Cuninico - Petroperú Socioambiental 07/2021 Loreto Saramurillo - Estación 1 Socioambiental 08/2016 Loreto Cinco cuencas - Lote 8 y 192 Socioambiental 11/2025 Loreto Empresas comunales - Altamesa II Laboral 09/2025 Loreto CN Naranjal - infraestructura educativa Asuntos de gobierno regional 09/2020 Loreto ACONAKKU - Urarinas Asuntos de gobierno nacional 03/2025 Loreto Sinchi Roca - Derrame de petroleo ONP II Socioambiental 02/2026 Loreto Municipalidad de Balsapuerto -",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [
+    "1403-0325",
+    "1459-1125"
+   ],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "d682fa28929949c7",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 93,
+   "quote": "05/2011 Apurímac Cotabambas - Minera Las Bambas (Antes Xstrata) Socioambiental 3. 05/2017 Arequipa Respaldo a Majes - Siguas II Asuntos de gobierno nacional 4. 10/2022 Cusco Comunidades Coporaque - Las Bambas Socioambiental 5. 05/2023 Cusco CC Viacha - CC Coya Qosqo Comunal 6. 12/2021 Multirregional Honoria y Campoverde - Bosques Silvestres S.A.C. Asuntos de gobierno regional 7. 01/2026 Multirregional Petroperú – DU.010-2025-PCM Asuntos de gobierno nacional 8.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria",
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "d7b20c5b0a6a44a4",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 93,
+   "quote": "01/2026 Multirregional Petroperú – DU.010-2025-PCM Asuntos de gobierno nacional 8. 08/2021 Tumbes San Jacinto - Presa Laminadora de Higuerón Socioambiental 9. 07/2025 Tumbes Hospital Regional II-2 JAMO - Destitución Director Asuntos de gobierno regional 10. 07/2023 La Libertad Ronda Los Alisos - Compañía Minera La Poderosa Socioambiental 11. 12/2025 Lima Provincias CC Oyón - OCIMIN S.A.C. Socioambiental 12.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "572931504364717a",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 94,
+   "quote": "03/2021 Loreto Fernando Rosas - Petroperú Socioambiental 24. 09/2020 Loreto Estación 5 - Datem del Marañón Asuntos de gobierno nacional 25. 09/2025 Huancavelica Universidad Nacional Autónoma de Tayacaja Otros asuntos 26. 11/2024 Huancavelica Carretera Imperial – Pampas Churcampa – puente Allcomachay Asuntos de gobierno nacional 27. 09/2025 Pasco Laguna Patarcocha - I.E. Daniel Alcides Carrión Socioambiental 28. 05/2024 Pasco CC de Huaraucaca - Sociedad Minera El Brocal S.A.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "a9be38bea6fe47c9",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 94,
+   "quote": "09/2020 Loreto Estación 5 - Datem del Marañón Asuntos de gobierno nacional 25. 09/2025 Huancavelica Universidad Nacional Autónoma de Tayacaja Otros asuntos 26. 11/2024 Huancavelica Carretera Imperial – Pampas Churcampa – puente Allcomachay Asuntos de gobierno nacional 27. 09/2025 Pasco Laguna Patarcocha - I.E. Daniel Alcides Carrión Socioambiental 28. 05/2024 Pasco CC de Huaraucaca - Sociedad Minera El Brocal S.A. Socioambiental 29.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "3f68d99e6ab74dbe",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 94,
+   "quote": "08/2025 Áncash CC Huaripampa - Antamina Socioambiental 32. 09/2024 Áncash Contaminación ríos La Plata y Tablachaca Socioambiental 33. 07/2025 Áncash Sindicato de Trabajadores de SIDERPERÚ Laboral 34. 07/2025 Áncash Hospital especializado de Nuevo Chimbote Asuntos de gobierno nacional 35. 06/2024 Áncash Casma-Hidrandina Asuntos de gobierno nacional 36. 10/2024 Áncash Mercado Lomas del Sur Asuntos de gobierno local 37.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "d10f63f79dbf4b5c",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "page": 106,
+   "quote": "97 11/6/2026 Plantones (concentracion es o mítines) Población de Saramiriza Manseriche, Datem del Marañón Exigen a la Municipalidad Distrital de Manseriche información clara y acciones concretas sobre la ejecución de la obra “Reparación de Vías Vecinales en la avenida principal y calles del centro poblado Saramiriza\" (CUI N.° 2643918), ejecutada bajo responsabilidad del Gobierno Regional de Loreto.",
+   "title": "Reporte de Conflictos Sociales N.º 268 · Defensoría",
+   "date": null,
+   "period": "2026-06",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Reporte-de-Conflictos-Sociales-n-268.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [
+    "1403-0325"
+   ],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
    "id": "d63a2e2e257e8944",
    "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Reporte-de-Conflictos-Sociales-n-266-VF.pdf",
    "page": 10,
@@ -2524,9 +3882,7 @@
    "companies": [
     "mineria"
    ],
-   "case_codes": [
-    "1162-0819"
-   ],
+   "case_codes": [],
    "tags": [
     "Diálogo y acuerdos",
     "Operación y producción"
@@ -2945,6 +4301,7 @@
    "role": "Supervisión de derechos",
    "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
    "companies": [
+    "antamina",
     "hidrocarburos"
    ],
    "case_codes": [],
@@ -2969,6 +4326,7 @@
    "role": "Supervisión de derechos",
    "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
    "companies": [
+    "antamina",
     "hidrocarburos"
    ],
    "case_codes": [],
@@ -3072,6 +4430,106 @@
    ],
    "tags": [
     "Medida de fuerza",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "bfa52f047aa359af",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Reporte-de-Conflictos-Sociales-n-266-VF.pdf",
+   "page": 45,
+   "quote": "El 21 de abril, el Subgrupo N° 4 sobre Corredor Minero, socializó la hoja de ruta del Plan Integral Vial, donde Provías Nacional informó sobre el estado de los corredores Apurímac- Cusco y Chanka-Quechua-Aymara, acordándose una reunión técnica para el 22 de mayo con el fin de definir la participación de las empresas Las Bambas, Antapaccay y Hudbay.",
+   "title": "Reporte de Conflictos Sociales N.º 266 · Defensoría",
+   "date": null,
+   "period": "2026-04",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Reporte-de-Conflictos-Sociales-n-266-VF.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1162-0819"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "e307b6e808915ddd",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Reporte-de-Conflictos-Sociales-n-266-VF.pdf",
+   "page": 46,
+   "quote": "Caso: La población del distrito de Llata exige a la compañía minera Antamina y a las entidades estatales, el cumplimiento de compromisos sociales arribados en la Mesa de Diálogo para el Desarrollo en Llata sostenida en 2014.",
+   "title": "Reporte de Conflictos Sociales N.º 266 · Defensoría",
+   "date": null,
+   "period": "2026-04",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Reporte-de-Conflictos-Sociales-n-266-VF.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "91386ba30e752b67",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Reporte-de-Conflictos-Sociales-n-266-VF.pdf",
+   "page": 73,
+   "quote": "San Martín Santa Rosillo de Yanayacu Comunal 08/2007 Áncash Laguna Parón - Duke Energy Socioambiental 03/2012 Áncash Atupa y Antahurán - Barrick Socioambiental 10/2021 Áncash Comunidad de Aquia - Antamina Socioambiental 09/2024 Áncash Huarmey - contaminación metales pesados Socioambiental 10/2024 Puno Chucuito contaminación Asuntos de gobierno local 10/2025 Lima Metropolitana Obreros municipales Ate Laboral 08/2025 Lima Metropolitana Antenas-San Juan de Lurigancho Asuntos de",
+   "title": "Reporte de Conflictos Sociales N.º 266 · Defensoría",
+   "date": null,
+   "period": "2026-04",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Reporte-de-Conflictos-Sociales-n-266-VF.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "02ebbf8d30a78ddb",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Reporte-de-Conflictos-Sociales-n-266-VF.pdf",
+   "page": 75,
+   "quote": "08/2025 Áncash CC Huaripampa - Antamina Socioambiental 19. 07/2025 Áncash Sindicato de Trabajadores de SIDERPERÚ Laboral 20. 06/2024 Áncash Casma-Hidrandina Asuntos de gobierno nacional 21. 07/2025 Áncash Hospital especializado de Nuevo Chimbote Asuntos de gobierno nacional 22. 10/2024 Lima Metropolitana Pachacamac-Lurín demarcación territorial Asuntos de gobierno regional 23. 09/2025 Lima Metropolitana Los Sauces-Ate Asuntos de gobierno local 24.",
+   "title": "Reporte de Conflictos Sociales N.º 266 · Defensoría",
+   "date": null,
+   "period": "2026-04",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Reporte-de-Conflictos-Sociales-n-266-VF.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
     "Ambiental"
    ]
   },
@@ -3289,9 +4747,7 @@
    "companies": [
     "mineria"
    ],
-   "case_codes": [
-    "1162-0819"
-   ],
+   "case_codes": [],
    "tags": [
     "Diálogo y acuerdos",
     "Operación y producción"
@@ -3793,6 +5249,7 @@
    "role": "Supervisión de derechos",
    "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
    "companies": [
+    "antamina",
     "hidrocarburos"
    ],
    "case_codes": [],
@@ -3817,6 +5274,7 @@
    "role": "Supervisión de derechos",
    "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
    "companies": [
+    "antamina",
     "hidrocarburos"
    ],
    "case_codes": [],
@@ -3895,12 +5353,160 @@
    "tags": [
     "Medida de fuerza"
    ]
+  },
+  {
+   "id": "8d305a2123764700",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/04/Reporte-de-Conflictos-Sociales-n-265-VF.pdf",
+   "page": 36,
+   "quote": "Caso: La comunidad campesina de Aquia demanda la instalación de una mesa de diálogo con la participación de representantes del Estado y la Compañía Minera Antamina, para el tratamiento de sus demandas relacionadas a los permisos de uso de su territorio para la instalación de un mineroducto y otras instalaciones por parte de la Compañía Minera Antamina y los posibles impactos ambientales que estos generarían en su comunidad.",
+   "title": "Reporte de Conflictos Sociales N.º 265 · Defensoría",
+   "date": null,
+   "period": "2026-03",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/04/Reporte-de-Conflictos-Sociales-n-265-VF.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "82cd4f3f87b43bc5",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/04/Reporte-de-Conflictos-Sociales-n-265-VF.pdf",
+   "page": 44,
+   "quote": "Caso: La población del distrito de Llata exige a la compañía minera Antamina y a las entidades estatales, el cumplimiento de compromisos sociales arribados en la Mesa de Diálogo para el Desarrollo en Llata sostenida en 2014.",
+   "title": "Reporte de Conflictos Sociales N.º 265 · Defensoría",
+   "date": null,
+   "period": "2026-03",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/04/Reporte-de-Conflictos-Sociales-n-265-VF.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [
+    "1333-0923"
+   ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "2fab934488c35afc",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/04/Reporte-de-Conflictos-Sociales-n-265-VF.pdf",
+   "page": 72,
+   "quote": "08/2025 Áncash CC Huaripampa - Antamina Socioambiental 22. 07/2025 Áncash Sindicato de Trabajadores de SIDERPERÚ Laboral 23. 06/2024 Áncash Casma-Hidrandina Asuntos de gobierno nacional",
+   "title": "Reporte de Conflictos Sociales N.º 265 · Defensoría",
+   "date": null,
+   "period": "2026-03",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/04/Reporte-de-Conflictos-Sociales-n-265-VF.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "b894842030d0834a",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/04/Reporte-de-Conflictos-Sociales-n-265-VF.pdf",
+   "page": 73,
+   "quote": "04/2025 Áncash CC Santa Cruz de Pichiu - Antamina Socioambiental 27. 08/2024 Áncash Mercado la Perlita Asuntos de gobierno local 28. 01/2024 Lima Metropolitana Nueva Carretera Central Asuntos de gobierno nacional 29. 10/2024 Lima Metropolitana Vía Expresa Sur Asuntos de gobierno local 30. 07/2025 Lima Metropolitana Mototaxistas- San Juan de Lurigancho-Chosica Asuntos de gobierno local 31.",
+   "title": "Reporte de Conflictos Sociales N.º 265 · Defensoría",
+   "date": null,
+   "period": "2026-03",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/04/Reporte-de-Conflictos-Sociales-n-265-VF.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "161d20665c159ed6",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/06/id_conflictos_electoral-1.pdf",
+   "page": 46,
+   "quote": "Impacto Nivel de riesgo OD Apurímac Apurímac Abancay Sí Argumentan que el candidato presidencial de JP obtuvo la mayor votación a nivel nacional y exigen respeto a la voluntad popular De 5 a 50 personas 1 1 Bajo MOD Cotabambas Apurímac Cotabambas No La población no se encuentra movilizada hasta el momento 0 personas 0 0 Ninguno MOD Andahuaylas Apurímac Andahuaylas Sí Argumentan que el candidato presidencial de JP obtuvo la mayor votación a nivel nacional y exigen respeto a la",
+   "title": "Reporte de Conflictos Sociales N.º  · Defensoría",
+   "date": null,
+   "period": "",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/06/id_conflictos_electoral-1.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Medida de fuerza"
+   ]
+  },
+  {
+   "id": "fd6dcb312b2bff2c",
+   "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/06/id_conflictos_electoral-1.pdf",
+   "page": 50,
+   "quote": "Además la población se encuentra centrada en las actividades festivas por la celebración de San Juan Bautista en determinadas provincias 0 personas 0 0 Ninguno MOD San Lorenzo Loreto Datem del Marañón No No hay intereses políticos de por medio dentro de la provincia.",
+   "title": "Reporte de Conflictos Sociales N.º  · Defensoría",
+   "date": null,
+   "period": "",
+   "connector": "Defensoría · reporte mensual (PDF)",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/06/id_conflictos_electoral-1.pdf",
+   "institution_key": "defensoria",
+   "institution": "Defensoría del Pueblo",
+   "role": "Supervisión de derechos",
+   "lens": "Registra y clasifica el conflicto desde la mediación y la protección de derechos. Su fase es la clasificación oficial.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
   }
  ],
- "fetched": 175,
- "new": 175,
+ "fetched": 241,
+ "new": 52,
  "requests": 0,
  "error": null,
- "checked_at": "2026-11-11T00:00:21.055402+00:00",
- "seconds": 219.3
+ "checked_at": "2026-11-11T01:33:05.142095+00:00",
+ "seconds": 278.9,
+ "last_ok_at": "2026-11-11T01:33:05.142095+00:00"
 }

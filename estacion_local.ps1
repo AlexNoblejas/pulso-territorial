@@ -7,7 +7,7 @@ Set-Location -LiteralPath $PSScriptRoot
 $python = Join-Path $PSScriptRoot '.venv\Scripts\python.exe'
 & $python -m pulso.pipeline --estacion
 if ($LASTEXITCODE -ne 0) { throw 'La estación local no terminó.' }
-git add demo_data/sources/ogasa.json demo_data/geoperu_mineria.json demo_data/geoperu_hidrocarburos.json demo_data/station_log.json
+git add demo_data/sources/ogasa.json demo_data/geoperu_*.json demo_data/station_log.json
 git diff --cached --quiet
 if ($LASTEXITCODE -ne 0) {
     git commit -m "Estación local: SINIA y GEOPERÚ $(Get-Date -Format 'yyyy-MM-dd HH:mm')"

@@ -1,0 +1,6255 @@
+{
+ "company": "antamina",
+ "term": "Antamina",
+ "source_workbook": "base_unificada_conflictos_2012_2025.xlsx",
+ "sheet": "02_base_unificada",
+ "method": "Casos de la base de tesis (reportes mensuales de la Defensoría 2012-2025) donde \"Antamina\" aparece en la denominación, la descripción, las empresas o los actores.",
+ "cases": [
+  {
+   "historical_research_id": 424,
+   "name": "Llata - Antamina",
+   "description": "Tipo: Socioambiental.\nIngresó como caso nuevo: Septiembre de 2023.\nCaso: La población del distrito de Llata exige a la compañía minera Antamina y a las entidades estatales, el cumplimiento de compromisos sociales arribados en la Mesa de Diálogo para el Desarrollo en Llata sostenida en 2014.\nUbicación: Distrito de Llata, provincia de Huamalíes, departamento de Huánuco\nActores primarios: Población del distrito de Llata, Población de la provincia de Huamalíes, Frente de Defensa de los Intereses del distrito de Llata (FREDILL), Compañía Minera Antamina, Provías Nacional, Provías Descentralizado, Programa Nacional de Infraestructura Educativa (PRONIED), Programa Nacional de Inversiones en Salud (PRONIS), Gobierno Regional de Huánuco, Municipalidad Provincial de Huamalíes.\nActores secundarios: Presidencia del Consejo de Ministros (PCM), Policía Nacional del Perú (PNP), Ministerio de Educación (MINEDU), Ministerio de Transportes y Comunicaciones (MTC).\nActores terciarios: Secretaría de Gestión Social Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Defensoría del Pueblo.",
+   "department": "Huanuco",
+   "province": "Huamalies",
+   "district": "Llata",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Población del distrito de Llata / Población de la provincia de Huamalíes / Frente de Defensa de los Intereses del distrito de Llata (FREDILL) / Compañía Minera Antamina / Provías Nacional / Provías Descentralizado / Programa Nacional de Infraestructura Educativa (PRONIED) / Programa Nacional de Inversiones en Salud (PRONIS) / Gobierno Regional de Huánuco / Municipalidad Provincial de Huamalíes",
+    "secundarios": "Presidencia del Consejo de Ministros (PCM) / Policía Nacional del Perú (PNP) / Ministerio de Educación (MINEDU) / Ministerio de Transportes y Comunicaciones (MTC)",
+    "terciarios": "Secretaría de Gestión Social Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM) / Defensoría del Pueblo"
+   },
+   "first_period": "2016-05",
+   "last_period": "2025-12",
+   "last_status": "Resuelto",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2016-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-12",
+     "status": "Resuelto",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2023-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 9264,
+   "name": "La comunidad campesina de Aquia demanda la instalación de una mesa de diálogo con la participación de representantes del Estado y la Compañía Minera Antamina, para el tratamiento de sus demandas relacionadas a los permisos de uso de su territorio para la instalación de un mineroducto y otras instalaciones por parte de la Compañía Minera Antamina y los posibles impactos ambientales que estos generarían en su comunidad.",
+   "description": "Tipo: Socioambiental.\nIngresó como caso nuevo: Octubre de 2021.\nCaso: La comunidad campesina de Aquia demanda la instalación de una mesa de diálogo con la participación de representantes del Estado y la Compañía Minera Antamina, para el tratamiento de sus demandas relacionadas a los permisos de uso de su territorio para la instalación de un mineroducto y otras instalaciones por parte de la Compañía Minera Antamina y los posibles impactos ambientales que estos generarían en su comunidad.\nUbicación: Distrito de Aquia, provincia de Bolognesi, departamento de Áncash.\nActores primarios: Comunidad campesina de Aquia, Compañía Minera Antamina S.A.\nActores secundarios: Asociación de Municipalidades de Centros Poblados de Huari, Junta Vecinal de Puerto Huarmey, Federación de Estudiantes de la Universidad Nacional Santiago Antúnez de Mayolo.\nActores terciarios: Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Ministerio de Cultura (MINCUL), Prefectura Regional de Áncash, Municipalidad Provincial de Bolognesi, Defensoría del Pueblo.",
+   "department": "ÁNCASH",
+   "province": "Bolognesi",
+   "district": "Aquia",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Comunidad campesina de Aquia / Compañía Minera Antamina S.A.",
+    "secundarios": "Asociación de Municipalidades de Centros Poblados de Huari / Junta Vecinal de Puerto Huarmey / Federación de Estudiantes de la Universidad Nacional Santiago Antúnez de Mayolo",
+    "terciarios": "Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM) / Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM) / Ministerio de Cultura (MINCUL) / Prefectura Regional de Áncash / Municipalidad Provincial de Bolognesi / Defensoría del Pueblo"
+   },
+   "first_period": "2025-01",
+   "last_period": "2025-11",
+   "last_status": null,
+   "last_phase": null,
+   "provisional_id": true,
+   "observations": [
+    {
+     "period": "2025-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 9177,
+   "name": "La población de la comunidad campesina de Huaripampa exige a la Compañía Minera Antamina el reconocimiento de la afectación territorial de 184 ha. que, según afirman, son de su propiedad, así como la reparación integral y justa de los daños causados.",
+   "description": "Tipo: Socioambiental.\nIngresó como caso nuevo: Agosto de 2025.\nCaso: La población de la comunidad campesina de Huaripampa exige a la Compañía Minera Antamina el reconocimiento de la afectación territorial de 184 ha. que, según afirman, son de su propiedad, así como la reparación integral y justa de los daños causados.\nUbicación: Distrito de San Marcos, provincia de Huari, departamento de Áncash.\nActores primarios: Comunidad campesina de Huaripampa, Compañía Minera Antamina S.A.\nActores secundarios: Ministerio de Energía y Minas (MINEM).\nActores terciarios: Ministerio del Interior (MININTER), Defensoría del Pueblo.",
+   "department": "ÁNCASH",
+   "province": "Huari",
+   "district": "San Marcos",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Comunidad campesina de Huaripampa / Compañía Minera Antamina S.A.",
+    "secundarios": "Ministerio de Energía y Minas (MINEM)",
+    "terciarios": "Ministerio del Interior (MININTER) / Defensoría del Pueblo"
+   },
+   "first_period": "2025-08",
+   "last_period": "2025-10",
+   "last_status": null,
+   "last_phase": null,
+   "provisional_id": true,
+   "observations": [
+    {
+     "period": "2025-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 9066,
+   "name": "Representantes de la Comunidad Campesina de Santa Cruz de Pichiu reclaman por un presunto incumplimiento de compromisos de la empresa Compañía Minera Antamina S.A.",
+   "description": "Tipo: Socioambiental.\nIngresó como caso nuevo: Abril de 2025.\nCaso: Representantes de la Comunidad Campesina de Santa Cruz de Pichiu reclaman por un presunto incumplimiento de compromisos de la empresa Compañía Minera Antamina S.A.\nUbicación: Comunidad campesina Santa Cruz de Pichiu, distritos de San Marcos, Chavín de Huántar, Huachis, San Pedro de Yaná, provincia de Huari, región Áncash.\nActores primarios: Comunidad campesina Santa Cruz de Pichiu, Compañía Minera Antamina S.A.\nActores secundarios: Prefectura Regional de Áncash, Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM).\nActores terciarios: Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Defensoría del Pueblo.",
+   "department": "ÁNCASH",
+   "province": "Huari",
+   "district": "San Marcos / Chavín de Huántar / Huachis / San Pedro de Yaná",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Comunidad campesina Santa Cruz de Pichiu / Compañía Minera Antamina S.A.",
+    "secundarios": "Prefectura Regional de Áncash / Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM)",
+    "terciarios": "Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM) / Defensoría del Pueblo"
+   },
+   "first_period": "2025-04",
+   "last_period": "2025-06",
+   "last_status": null,
+   "last_phase": null,
+   "provisional_id": true,
+   "observations": [
+    {
+     "period": "2025-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2025-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 671,
+   "name": "Comunidad de Aquia - Antamina",
+   "description": "Tipo: Socioambiental.\nIngresó como caso nuevo: Octubre de 2021.\nCaso: La comunidad campesina de Aquia demanda la instalación de una mesa de diálogo con la participación de representantes del Estado y la Compañía Minera Antamina, para el tratamiento de sus demandas relacionadas a los permisos de uso de su territorio para la instalación de un mineroducto y otras instalaciones por parte de la empresa minera y los posibles impactos ambientales que estos generarían en su comunidad.\nUbicación: Distrito de Aquia, provincia de Bolognesi, departamento de Áncash.\nActores primarios: Comunidad campesina de Aquia, Compañía Minera Antamina S.A.\nActores secundarios: Asociación de Municipalidades de Centros Poblados de Huari, Junta Vecinal de Puerto Huarmey, Federación de Estudiantes de la Universidad Nacional Santiago Antúnez de Mayolo.\nActores terciarios: Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Ministerio de Cultura (MINCUL), Prefectura Regional de Áncash, Municipalidad Provincial de Bolognesi, Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Bolognesi",
+   "district": "Aquia",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Comunidad campesina de Aquia / Compañía Minera Antamina S.A.",
+    "secundarios": "Asociación de Municipalidades de Centros Poblados de Huari / Junta Vecinal de Puerto Huarmey / Federación de Estudiantes de la Universidad Nacional Santiago Antúnez de Mayolo",
+    "terciarios": "Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM) / Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM) / Ministerio de Cultura (MINCUL) / Prefectura Regional de Áncash / Municipalidad Provincial de Bolognesi / Defensoría del Pueblo"
+   },
+   "first_period": "2021-10",
+   "last_period": "2024-11",
+   "last_status": "Activo",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2021-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 476,
+   "name": "Ciudadanos reclaman contra la paralización de la ejecución del Colegio de Alto Rendimiento de Áncash (COAR) ubicado en el distrito de Cátac por la demora en el pago tanto a los trabajadores como a los proveedores participantes en la ejecución del referido colegio.",
+   "description": "Tipo: Asuntos de gobierno regional.\nIngresó como caso nuevo: Setiembre de 2017.\nCaso: Ciudadanos reclaman contra la paralización de la ejecución del Colegio de Alto Rendimiento de Áncash (COAR) ubicado en el distrito de Cátac por la demora en el pago tanto a los trabajadores como a los proveedores participantes en la ejecución del referido colegio.\nUbicación: Distrito de Cátac, provincia de Recuay, región Áncash.\nActores primarios: Comunidad Campesina de Cátac, Constructora SICE, Compañía Minera Antamina S.A., Programa Nacional de Infraestructura Educativa (Pronied), Gobierno Regional de Áncash, Colegio de Alto Rendimiento (COAR) Áncash.\nActores secundarios: Ministerio de Energía y Minas, Municipalidad Provincial de Recuay, Municipalidad Distrital de Cátac, Frente de Defensa de los Intereses de Recuay.\nActores terciarios: Defensoría del Pueblo.",
+   "department": "ÁNCASH",
+   "province": "Recuay",
+   "district": "Cátac",
+   "type": "Asunto de Gobierno Regional",
+   "actors": {
+    "primarios": "Comunidad Campesina de Cátac / Constructora SICE / Compañía Minera Antamina S.A. / Programa Nacional de Infraestructura Educativa (Pronied) / Gobierno Regional de Áncash / Colegio de Alto Rendimiento (COAR) Áncash",
+    "secundarios": "Ministerio de Energía y Minas / Municipalidad Provincial de Recuay / Municipalidad Distrital de Cátac / Frente de Defensa de los Intereses de Recuay",
+    "terciarios": "Defensoría del Pueblo"
+   },
+   "first_period": "2023-03",
+   "last_period": "2024-09",
+   "last_status": null,
+   "last_phase": null,
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2023-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2024-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 14,
+   "name": "Ayash Pichiu - Antamina",
+   "description": "Tipo: Socioambiental.\nIngresó como caso nuevo: Abril de 2007.\nCaso: La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impactos negativos a la salud de la población y en el ambiente por el presunto vertimiento de relaves de la Compañía Minera Antamina S.A. Además, demandan a la empresa que concrete su aporte al desarrollo local.\nUbicación: Distrito de San Marcos, provincia de Huari, región Áncash.\nActores primarios: Comunidad Ayash Huaripampa, comunidad Santa Cruz Pichiú, Compañía Minera Antamina S.A. (CMA), Asociación Multisectorial para el Desarrollo Sostenible de Ayash (ASODESO).\nActores secundarios: Municipalidad Provincial de Huari, Municipalidad Distrital de San Marcos, Comité de Seguimiento a la Salud Humana (COSESH) de la cuenca del río Ayash (integrado por la Gerencia de Recursos Naturales y Gestión del Medio Ambiente del Gobierno Regional de Áncash), Dirección Regional de Salud de Áncash (DIRESA), Dirección Ejecutiva de Salud Ambiental (DESA); Autoridad Nacional del Agua (ANA), Ministerio de Salud (MINSA) Organismo de Evaluación y Fiscalización Ambiental (OEFA), Organismo Supervisor de la Inversión en Minería y Energía (OSINERGMIN), Centro Nacional de Salud Ocupacional y Protección del Ambiente para la Salud (CENSOPAS), Instituto Nacional de Defensa Civil (INDECI), Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres (CENEPRED).\nActores terciarios: Secretaría de Gestión Social y Diálogo (SGSD-PCM), Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Huari",
+   "district": "San Marcos",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Comunidad Ayash Huaripampa / comunidad Santa Cruz Pichiú / Compañía Minera Antamina S.A. (CMA) / Asociación Multisectorial para el Desarrollo Sostenible de Ayash (ASODESO)",
+    "secundarios": "Municipalidad Provincial de Huari / Municipalidad Distrital de San Marcos / Comité de Seguimiento a la Salud Humana (COSESH) de la cuenca del río Ayash / Dirección Regional de Salud de Áncash (DIRESA) / Dirección Ejecutiva de Salud Ambiental (DESA) / Autoridad Nacional del Agua (ANA) / Ministerio de Salud (MINSA) / Organismo de Evaluación y Fiscalización Ambiental (OEFA) / Organismo Supervisor de la Inversión en Minería y Energía (OSINERGMIN) / Centro Nacional de Salud Ocupacional y Protección del Ambiente para la Salud (CENSOPAS) / Instituto Nacional de Defensa Civil (INDECI) / Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres (CENEPRED)",
+    "terciarios": "Secretaría de Gestión Social y Diálogo (SGSD-PCM) / Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM) / Defensoría del Pueblo"
+   },
+   "first_period": "2012-01",
+   "last_period": "2023-12",
+   "last_status": "Activo",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2012-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 656,
+   "name": "Carhuayoc - Antamina II",
+   "description": "Tipo: Socioambiental.\nIngresó como caso nuevo: Julio de 2021\nCaso: Representantes de los centros poblados de Carhuayoc y Pichiu Quinuaragra, Frente de Defensa del distrito de San Marcos y colectivo de jóvenes distrital demandan la firma de un convenio marco con la Compañía Minera Antamina para acordar la responsabilidad social de la empresa y el incremento de\nbeneficiarios del programa de becas de capacitación y puestos de trabajo.\nUbicación: Distrito de San Marcos, provincia de Huari, región Áncash.\nActores primarios: Centro Poblado Carhuayoc, Centro Poblado Pichiu Quinuaragra, Frente de Defensa del Distrito de San MArcos, Colectivo de jóvenes del distrito de San Marcos, Compañía Minera Antamina S.A.\nActores secundarios: Municipalidad Distrital de San Marcos, Oficina de Gestión Social y Diálogo (OGGS-MINEM), Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Prefectura Regional de Áncash.\nActores terciarios: Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Huari",
+   "district": "San Marcos",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Centro Poblado Carhuayoc / Centro Poblado Pichiu Quinuaragra / Frente de Defensa del Distrito de San MArcos / Colectivo de jóvenes del distrito de San Marcos / Compañía Minera Antamina S.A.",
+    "secundarios": "Municipalidad Distrital de San Marcos / Oficina de Gestión Social y Diálogo (OGGS-MINEM) / Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM) / Prefectura Regional de Áncash",
+    "terciarios": "Defensoría del Pueblo"
+   },
+   "first_period": "2021-07",
+   "last_period": "2023-10",
+   "last_status": "Activo",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2021-07",
+     "status": "Activo",
+     "phase": "Pacifico",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-08",
+     "status": "Activo",
+     "phase": "Pacifico",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-09",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-10",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-11",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-12",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 516,
+   "name": "Ango Raju - Antamina",
+   "description": "Tipo: Socioambiental.\nIngresó como caso nuevo: Abril de 2018.\nCaso: Miembros de la comunidad campesina de Ango Raju demandan a la Compañía Minera Antamina el cumplimiento efectivo de acuerdos establecidos en el marco del convenio de desarrollo comunitario y el contrato de reconocimiento de obligaciones suscritas entre ambos el 7 de julio de 1998.\nUbicación: Centro poblado de Carhuayoc, distrito de San Marcos, provincia de Huari, región Ancash.\nActores primarios: Comunidad campesina de Ango Raju, Compañía Minera Antamina S.A.\nActores secundarios: Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Ministerio de Energía y Minas (MINEM), Subprefectura de San Marcos, Subprefectura de Huari, Prefectura Regional de Ancash, Gobierno Regional de Ancash, Ministerio del Interior (MININTER), Policía Nacional del Perú.\nActores terciarios: Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Huari",
+   "district": "San Marcos",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Comunidad campesina de Ango Raju / Compañía Minera Antamina S.A.",
+    "secundarios": "Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM) / Ministerio de Energía y Minas (MINEM) / Subprefectura de San Marcos / Subprefectura de Huari / Prefectura Regional de Ancash / Gobierno Regional de Ancash / Ministerio del Interior (MININTER) / Policía Nacional del Perú",
+    "terciarios": "Defensoría del Pueblo"
+   },
+   "first_period": "2018-04",
+   "last_period": "2023-04",
+   "last_status": "Activo",
+   "last_phase": "Desescalamiento",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2018-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-11",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-12",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-01",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-02",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-03",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-04",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-05",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-06",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-07",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-08",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-09",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-10",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-11",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-12",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-01",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-02",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2023-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 8,
+   "name": "AMUCEPS - Antamina",
+   "description": "Tipo: Socioambiental.\nIngresó como caso nuevo: Noviembre de 2011.\nCaso: La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de Huari denuncia el incumplimiento de las empresas mineras Antamina S.A. y Nyrstar de sus compromisos de responsabilidad social y por los impactos generados en el medio ambiente.\nUbicación: Provincias de Huari y Recuay, departamento de Áncash.\nActores primarios: Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari, Compañía Minera Antamina\nS.A. (CMA), Nyrstar, comunidad campesina Cátac, Federación Agraria Departamental de Áncash (FADA).\nActores secundarios: Ministerio de Energía y Minas (MINEM), Ministerio del Ambiente (MINAM), Ministerio de Inclusión social (MIDIS), Ministerio de Economía y Finanzas (MEF), Dirección General de Infraestructura Agraria y Riego (DGIAR) del Ministerio de Desarrollo Agrario y Riego (MIDAGRI), Programa de Desarrollo Productivo Agrario Rural (AGRORURAL), Programa Subsectorial de Irrigaciones (PSI), Ministerio de Salud (MINSA), Sub Región Conchucos, Municipalidades de Huari, Chavín de Huántar y San Marcos.\nActores terciarios: Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Obispado de\nHuari, Comisión Episcopal de Acción Social (CEAS), Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM), Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Recuay / Huari",
+   "district": null,
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari / Compañía Minera Antamina S.A. (CMA) / Nyrstar / comunidad campesina Cátac / Federación Agraria Departamental de Áncash (FADA)",
+    "secundarios": "Ministerio de Energía y Minas (MINEM) / Ministerio del Ambiente (MINAM) / Ministerio de Inclusión social (MIDIS) / Ministerio de Economía y Finanzas (MEF) / Dirección General de Infraestructura Agraria y Riego (DGIAR) del Ministerio de Desarrollo Agrario y Riego (MIDAGRI) / Programa de Desarrollo Productivo Agrario Rural (AGRORURAL) / Programa Subsectorial de Irrigaciones (PSI) / Ministerio de Salud (MINSA) / Sub Región Conchucos / Municipalidades de Huari / Chavín de Huántar / San Marcos",
+    "terciarios": "Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM) / Obispado de Huari / Comisión Episcopal de Acción Social (CEAS) / Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM) / Defensoría del Pueblo"
+   },
+   "first_period": "2012-01",
+   "last_period": "2023-02",
+   "last_status": "Latente",
+   "last_phase": "Desescalamiento",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2012-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-11",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2021-12",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-01",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-02",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-03",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-04",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-05",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2022-06",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2022-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2022-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2022-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2022-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2022-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2022-12",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2023-01",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2023-02",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    }
+   ]
+  },
+  {
+   "historical_research_id": 372,
+   "name": "Huaripampa - Antamina",
+   "description": "Tipo: Socioambiental.\nIngresó como caso nuevo: Mayo de 2015.\nCaso: La población de las comunidades campesinas Huaripampa Alto, Medio y Bajo del centro poblado Huaripampa, en la zona de influencia directa del proyecto minero de la Compañía Minera Antamina S.A.C., señalan incumplimiento de los acuerdos establecidos en el convenio marco suscrito en el año 2010 a partir de haber cedido en uso superficial aproximadamente de 2200 ha a favor de la empresa.\nUbicación: Distrito San Marcos, provincia de Huari, región Áncash.\nActores primarios: Comunidad campesina Huaripampa, Compañía Minera Antamina S.A.C.\nActores secundarios: Organismo de Evaluación y Fiscalización Ambiental (OEFA).\nActores terciarios: Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Ministerio de Educación (MINEDU), Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM).",
+   "department": "Ancash",
+   "province": "Huari",
+   "district": "San Marcos",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Comunidad campesina Huaripampa / Compañía Minera Antamina S.A.C.",
+    "secundarios": "Organismo de Evaluación y Fiscalización Ambiental (OEFA)",
+    "terciarios": "Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM) / Ministerio de Educación (MINEDU) / Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM)"
+   },
+   "first_period": "2015-05",
+   "last_period": "2020-09",
+   "last_status": "Resuelto",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2015-05",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-06",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-07",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-08",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-09",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-10",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-11",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-12",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-01",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-02",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-03",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-04",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-05",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-06",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "En progreso"
+    },
+    {
+     "period": "2017-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "En progreso"
+    },
+    {
+     "period": "2017-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "En progreso"
+    },
+    {
+     "period": "2017-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "En progreso"
+    },
+    {
+     "period": "2017-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2018-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2019-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2020-09",
+     "status": "Resuelto",
+     "phase": "Dialogo",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 58,
+   "name": "Chipta - Antamina",
+   "description": "Tipo: Socioambiental.\nCaso: Representantes del caserío de San Antonio de Chipta señalan que se encuentran en el área de influencia directa de la Compañía Minera Antamina S. A., reclaman la titularidad de terrenos y presuntos incumplimientos de los compromisos asumidos por dicha empresa, y demandan la atención e intervención de las autoridades de salud y medio ambiente -a partir de un informe de CENSOPAS que encontraría contaminación ambiental por plomo en una muestra poblacional-. Se cuestiona la intervención de personal de DINOES y la existencia de la Comisaría en Yanacancha.\nUbicación: Caserío Chipta, distrito San Marcos, provincia de Huari, región Áncash.\nActores primarios: La población del caserío San Antonio de Chipta, la Asociación Chávez, Compañía Minera Antamina S.A. (CMA), Comité de Desarrollo Social y Ambiental de Juprog.\nActores secundarios: Dirección de Asuntos Ambientales Mineros (DGAAM), Centro Nacional de Salud Ocupacional y Protección del Ambiente para la Salud (CENSOPAS), Dirección Regional de Salud (DIRESA), Ministerio de Energía y Minas (MINEM), Organismo de Evaluación y Fiscalización Ambiental (OEFA), Gerencia de Recursos Naturales y Gestión del Medio Ambiente del Gobierno Regional de Áncash, Dirección General de Salud (DIGESA), Ministerio de Salud (MINSA), Ministerio Público, Poder Judicial.\nActores terciarios: Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Huari",
+   "district": "San Marcos",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "población del caserío San Antonio de Chipta / Asociación Chávez / Compañía Minera Antamina S.A. (CMA) / Comité de Desarrollo Social y Ambiental de Juprog",
+    "secundarios": "Dirección de Asuntos Ambientales Mineros (DGAAM) / Centro Nacional de Salud Ocupacional y Protección del Ambiente para la Salud (CENSOPAS) / Dirección Regional de Salud (DIRESA) / Ministerio de Energía y Minas (MINEM) / Organismo de Evaluación y Fiscalización Ambiental (OEFA) / Gerencia de Recursos Naturales y Gestión del Medio Ambiente del Gobierno Regional de Áncash / Dirección General de Salud (DIGESA) / Ministerio de Salud (MINSA) / Ministerio Público / Poder Judicial",
+    "terciarios": "Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM) / Defensoría del Pueblo"
+   },
+   "first_period": "2012-02",
+   "last_period": "2018-12",
+   "last_status": "Retirado",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2012-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2014-12",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-01",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-02",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-03",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-04",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-05",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-06",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-12",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2016-01",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2016-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-04",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-05",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-06",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-12",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-01",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-02",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-03",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-04",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-05",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-06",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-12",
+     "status": "Retirado",
+     "phase": null,
+     "dialogue_status_text": null
+    }
+   ]
+  },
+  {
+   "historical_research_id": 29,
+   "name": "Cajacay - Antamina",
+   "description": "Tipo: Socioambiental.\nCaso: La comunidad campesina Cajacay exige a la Compañía Minera Antamina S. A. (CMA) asuma su responsabilidad por el derrame de mineral (cobre y otros) ocurrido el 25 de julio de 2012 en el caserío Santa Rosa del distrito de Cajacay; el mismo que se generó producto de la rotura del codo de una de las válvulas del mineroducto.\nUbicación: Comunidad campesina Santa Rosa, caserío Cajacay, distrito de Cajacay, provincia de Bolognesi, región Áncash.\nActores primarios: Agente municipal del caserío Santa Rosa, comunidad campesina Cajacay, alcalde distrital de Cajacay, Compañía Minera Antamina S. A. (CMA).\nActores secundarios: Gobierno Regional de Áncash, Organismo de Evaluación y Fiscalización Ambiental (OEFA), Ministerio Público, Ministerio de Salud (MINSA).\nActores terciarios: Secretaria de Gestión Social y Diálogo (SGSD-PCM), Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Bolognesi",
+   "district": "Cajacay",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Agente municipal del caserío Santa Rosa / comunidad campesina Cajacay / alcalde distrital de Cajacay / Compañía Minera Antamina S. A. (CMA)",
+    "secundarios": "Gobierno Regional de Áncash / Organismo de Evaluación y Fiscalización Ambiental (OEFA) / Ministerio Público / Ministerio de Salud (MINSA)",
+    "terciarios": "Secretaria de Gestión Social y Diálogo (SGSD-PCM) / Defensoría del Pueblo"
+   },
+   "first_period": "2012-07",
+   "last_period": "2018-10",
+   "last_status": "Retirado",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2012-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-12",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-01",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-02",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-03",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-04",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-05",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-06",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-10",
+     "status": "Retirado",
+     "phase": null,
+     "dialogue_status_text": null
+    }
+   ]
+  },
+  {
+   "historical_research_id": 160,
+   "name": "Puerto Huarmey - Antamina",
+   "description": "Tipo: Socioambiental.\nCaso: Pobladores de Huarmey denuncian el incumplimiento de las actas de compromiso por parte de la compañía minera Antamina S. A., sobre el establecimiento de formas de apoyo al desarrollo de la población.\nUbicación: Distrito y provincia de Huarmey, región Áncash.\nActores primarios: Comisión de Diálogo y Concertación por el Desarrollo de Huarmey, Frente de Defensa de la Intereses de Huarmey (FEDIP), Municipalidad Provincial de Huarmey (MPH), Compañía Minera Antamina S.A.(CMA), Asociación Colectivo de la Provincia de Huarmey.\nActores secundarios: Ministerio del Ambiente (MINAM), Gobierno Regional de Áncash, Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM) Ministerio del Ambiente (MINAM), Gobierno Regional de Áncash, Consejo de Coordinación Local Provincial de Huarmey (CCL).\nActores terciarios: Secretaria de Gestión Social y Diálogo (SGSD-PCM), Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Huarmey",
+   "district": "Huarmey",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Comisión de Diálogo y Concertación por el Desarrollo de Huarmey / Frente de Defensa de la Intereses de Huarmey (FEDIP) / Municipalidad Provincial de Huarmey (MPH) / Compañía Minera Antamina S.A.(CMA) / Asociación Colectivo de la Provincia de Huarmey",
+    "secundarios": "Ministerio del Ambiente (MINAM) / Gobierno Regional de Áncash / Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM) / Consejo de Coordinación Local Provincial de Huarmey (CCL)",
+    "terciarios": "Secretaria de Gestión Social y Diálogo (SGSD-PCM) / Defensoría del Pueblo"
+   },
+   "first_period": "2012-01",
+   "last_period": "2018-10",
+   "last_status": "Retirado",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2012-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "DIÁLOGO SUSPENDIDO"
+    },
+    {
+     "period": "2012-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-04",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-05",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-06",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-12",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-01",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-02",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-03",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-04",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-05",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-06",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-10",
+     "status": "Retirado",
+     "phase": null,
+     "dialogue_status_text": null
+    }
+   ]
+  },
+  {
+   "historical_research_id": 211,
+   "name": "Tupac Amaru - Antamina (Laguna Huachucocha)",
+   "description": "Tipo: Socioambiental.\nCaso: La población de la comunidad campesina Túpac Amaru demanda la intervención de las autoridades competentes para que determinen las responsabilidades por el derrame de hidrocarburos en un afluente de la Laguna Huachucocha ocurrido el 3/5/2012, en el kilómetro 91+ 400 en la carretera de penetración Conococha–Antamina, por la ruptura del tanque de combustible de una unidad siniestrada de la empresa Acoinsa (contratista de Antamina S. A.).\nUbicación: Comunidad campesina Túpac Amaru, distrito San Marcos, provincia Huari, región Áncash.\nActores primarios: Pobladores de la comunidad campesina Túpac Amaru, Municipalidad Distrital de San Marcos, empresa minera Antamina.\nActores secundarios: Autoridad Local del Agua (ALA) Huari, Ministerio de Energía y Minas (MINEM), Ministerio del Ambiente (MINAM), Dirección Regional de Salud (DIRESA), Gerencia de Recursos Naturales de la Región Áncash.\nActores terciarios: Comisión de Pueblos Andinos, Amazónicos y Afroperuanos, Ambiente y Ecología del Congreso de la República, Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Huari",
+   "district": "San Marcos",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Pobladores de la comunidad campesina Túpac Amaru / Municipalidad Distrital de San Marcos / empresa minera Antamina",
+    "secundarios": "Autoridad local del agua (ALA) Huari / Ministerio de Energía y Minas (MINEM) / Ministerio del Ambiente (MINAM) / Dirección Regional de Salud (DIRESA) / Gerencia de Recursos Naturales de la Región Áncash",
+    "terciarios": "Comisión de Pueblos Andinos, amazónicos y afroperuanos / ambiente y ecología del Congreso de la República / Defensoría del Pueblo"
+   },
+   "first_period": "2012-05",
+   "last_period": "2018-05",
+   "last_status": "Retirado",
+   "last_phase": "Desescalamiento",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2012-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-01",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-02",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-03",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-04",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-05",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-06",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2013-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2013-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2013-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2013-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2013-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2013-12",
+     "status": "Retirado",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-10",
+     "status": "Activo (reactivado)",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-11",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2015-12",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-01",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-02",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-03",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-04",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-05",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-06",
+     "status": "Activo",
+     "phase": "Violento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-07",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-08",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-09",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-10",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-11",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2016-12",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-01",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-02",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-03",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-04",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-05",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-06",
+     "status": "Activo",
+     "phase": "Desescalamiento",
+     "dialogue_status_text": "NO HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2017-12",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-01",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-02",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-03",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-04",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2018-05",
+     "status": "Retirado",
+     "phase": null,
+     "dialogue_status_text": null
+    }
+   ]
+  },
+  {
+   "historical_research_id": 9172,
+   "name": "La población de las comunidades campesinas Huaripampa Alto, Medio y Bajo del centro poblado Huaripampa, en la zona de influencia directa del proyecto minero de la Compañía Minera Antamina S. A. C., señalan incumplimiento de los acuerdos establecidos en el convenio marco suscrito en el año 2010 a partir de haber cedido en uso superficial aproximadamente de 2200 ha a favor de la empresa.",
+   "description": "Tipo: Socioambiental.\nCaso: La población de las comunidades campesinas Huaripampa Alto, Medio y Bajo del centro poblado Huaripampa, en la zona de influencia directa del proyecto minero de la Compañía Minera Antamina S. A. C., señalan incumplimiento de los acuerdos establecidos en el convenio marco suscrito en el año 2010 a partir de haber cedido en uso superficial aproximadamente de 2200 ha a favor de la empresa.\nUbicación: Distrito San Marcos, provincia de Huari, región Áncash.\nActores primarios: Pobladores de la comunidad campesina Huaripampa, empresa minera Antamina.\nActores secundarios: Organismo de Evaluación y Fiscalización Ambiental (OEFA)\nActores terciarios: Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM), Secretaria de Gestión Social y Diálogo (SGSD-PCM).",
+   "department": "ÁNCASH",
+   "province": "Huari",
+   "district": "San Marcos",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Pobladores de la comunidad campesina Huaripampa / empresa minera Antamina",
+    "secundarios": "Organismo de Evaluación y Fiscalización Ambiental (OEFA)",
+    "terciarios": "Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM) / Secretaria de Gestión Social y Diálogo (SGSD-PCM)"
+   },
+   "first_period": "2017-02",
+   "last_period": "2017-05",
+   "last_status": null,
+   "last_phase": null,
+   "provisional_id": true,
+   "observations": [
+    {
+     "period": "2017-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2017-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 34,
+   "name": "Carhuayoc - Antamina",
+   "description": "Tipo: Socioambiental.\nCaso: Pobladores del centro poblado Carhuayoc demandan compensación y apoyo al desarrollo social por parte de Compañía Minera Antamina S.A. (CMA) a razón de las actividades que desarrolla en la zona.\nUbicación: Centro poblado Carhuayoc, distrito de San Marcos, provincia de Huari.\nActores primarios: Pobladores del centro poblado Carhuayoc, Frente de Defensa de los Intereses de Desarrollo del Centro Poblado Carhuayoc Fedip, Compañía Minera Antamina S.A. (CMA).\nActores secundarios: Asociación Juventud Carhuayina, Asociación Hijos de Carhuayoc, Ministerio de Energía y Minas (MINEN), Ministerio del Ambiente (MINAM).\nActores terciarios: Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS), Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Huari",
+   "district": "San Marcos",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Pobladores del centro poblado Carhuayoc / Frente de Defensa de los Intereses de Desarrollo del Centro Poblado Carhuayoc Fedip / Compañía Minera Antamina S.A. (CMA)",
+    "secundarios": "Asociación Juventud Carhuayina / Asociación Hijos de Carhuayoc / Ministerio de Energía y Minas (MINEN) / Ministerio del Ambiente (MINAM)",
+    "terciarios": "Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS) / Defensoría del Pueblo"
+   },
+   "first_period": "2012-01",
+   "last_period": "2015-12",
+   "last_status": "Fusionado",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2012-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2014-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2014-12",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-01",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-02",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-03",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-04",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-05",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-06",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-12",
+     "status": "Fusionado",
+     "phase": null,
+     "dialogue_status_text": null
+    }
+   ]
+  },
+  {
+   "historical_research_id": 174,
+   "name": "San Antonio de Juprog - Antamina",
+   "description": "Tipo: Socioambiental.\nCaso: Autoridades y pobladores del Caserío San Antonio de Juprog demandan el cumplimiento de acuerdos a la Compañía Minera Antamina S.A. (CMA) y solicitan intervención de autoridades ante presuntos impactos ambientales que originan sus actividades en la zona.\nUbicación: Caserío San Antonio de Juprog, distrito de San Marcos, provincia de Huari.\nActores primarios: Pobladores/as del Caserío San Antonio de Juprog, Compañía Minera Antamina S.A. (CMA), Comité de Desarrollo Social y Ambiental de Juprog S.A. (COMEA).\nActores secundarios: Dirección General de Asuntos Ambientales Mineros (DGAAM), Centro Nacional de Salud Ocupacional y Protección del Ambiente para la Salud (CENSOPAS), Dirección Regional de Salud.\nActores terciarios: Gerencia de Recursos Naturales y Gestión del Medio Ambiente del Gobierno Regional de Áncash, Defensoría del Pueblo, Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS).",
+   "department": "Ancash",
+   "province": "Huari",
+   "district": "San Marcos",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Pobladores/as del Caserío San Antonio de Juprog / Compañía Minera Antamina S.A. (CMA) / Comité de Desarrollo Social y Ambiental de Juprog S.A. (COMEA)",
+    "secundarios": "Dirección General de Asuntos Ambientales Mineros (DGAAM) / Centro Nacional de Salud Ocupacional y Protección del Ambiente para la Salud (CENSOPAS) / Dirección Regional de Salud",
+    "terciarios": "Gerencia de Recursos Naturales y Gestión del Medio Ambiente del Gobierno Regional de Áncash / Defensoría del Pueblo / Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS)"
+   },
+   "first_period": "2012-01",
+   "last_period": "2015-05",
+   "last_status": "Retirado",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2012-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-06",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-07",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-08",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-09",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-10",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-11",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-12",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2014-06",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2014-07",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2014-08",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2014-09",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2014-10",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2014-11",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2014-12",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-01",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-02",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-03",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-04",
+     "status": "Latente",
+     "phase": null,
+     "dialogue_status_text": null
+    },
+    {
+     "period": "2015-05",
+     "status": "Retirado",
+     "phase": null,
+     "dialogue_status_text": null
+    }
+   ]
+  },
+  {
+   "historical_research_id": 30,
+   "name": "Cajacay - P. Irrigación",
+   "description": "Tipo: Asuntos de Gobierno Regional.\nCaso: La Comunidad Campesina de Cajacay exige al Gobierno Regional y a la Cía. Minera Antamina la ejecución de una presa para la irrigación de sus tierras, conforme a un compromiso suscrito en el año 2000. La compañía se comprometió a realizar los estudios de pre-inversión y el Gobierno Regional a financiar el proyecto.\nUbicación: Distrito Cajacay, provincia de Bolognesi.\nActores primarios: Gobierno Regional de Áncash y Comunidad Campesina de Cajacay.\nActores secundarios: Cía. Minera Antamina, Municipalidad Distrital de Cajacay y Gobernador distrital.\nActores terciarios: Ministerio de Economía y Finanzas y Defensoría del Pueblo.",
+   "department": "Ancash",
+   "province": "Bolognesi",
+   "district": "Cajacay",
+   "type": "Asunto de Gobierno Regional",
+   "actors": {
+    "primarios": "Gobierno Regional de Áncash / Comunidad Campesina de Cajacay",
+    "secundarios": "Cía. Minera Antamina / Municipalidad Distrital de Cajacay / Gobernador distrital",
+    "terciarios": "Ministerio de Economía y Finanzas / Defensoría del Pueblo"
+   },
+   "first_period": "2012-01",
+   "last_period": "2013-05",
+   "last_status": "Activo",
+   "last_phase": "Dialogo",
+   "provisional_id": false,
+   "observations": [
+    {
+     "period": "2012-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-12",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-01",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-02",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-03",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-04",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2013-05",
+     "status": "Activo",
+     "phase": "Dialogo",
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  },
+  {
+   "historical_research_id": 9094,
+   "name": "Pobladores y autoridades del Centro Poblado de Racrachaca exigen a Compañía Minera Antamina S.A. (CMA) la suscripción de un convenio marco de relación institucional para recibir apoyo de la empresa, debido a que se encuentran en el área de influencia. Del mismo modo, la comunidad campesina de Racrachaca exige a CMA y al comité regional de Defensa Civil la realización del estudio de riesgos para prevenir algún desastre en la zona por los derrumbes y deslizamientos que se producen en época de lluvias.",
+   "description": "Tipo: Socioambiental.\nCaso: Pobladores y autoridades del Centro Poblado de Racrachaca exigen a Compañía Minera Antamina S.A. (CMA) la suscripción de un convenio marco de relación institucional para recibir apoyo de la empresa, debido a que se encuentran en el área de influencia. Del mismo modo, la comunidad campesina de Racrachaca exige a CMA y al comité regional de Defensa Civil la realización del estudio de riesgos para prevenir algún desastre en la zona por los derrumbes y deslizamientos que se producen en época de lluvias.\nUbicación: Centro Poblado de Racrachaca, distrito de Aquia, provincia de Bolognesi.\nActores primarios: Centro Poblado Racrachaca, Comunidad Campesina de Racrachaca, Comunidad Campesina de Aquia, Compañía Minera Antamina S.A. (CMA).\nActores secundarios: Gobierno Regional de Áncash, empresa Hidrandina.",
+   "department": "ANCASH",
+   "province": "Bolognesi",
+   "district": "Aquia",
+   "type": "Socioambiental",
+   "actors": {
+    "primarios": "Centro Poblado Racrachaca / Comunidad Campesina de Racrachaca / Comunidad Campesina de Aquia / Compañía Minera Antamina S.A. (CMA)",
+    "secundarios": "Gobierno Regional de Áncash / empresa Hidrandina",
+    "terciarios": null
+   },
+   "first_period": "2012-01",
+   "last_period": "2012-11",
+   "last_status": null,
+   "last_phase": null,
+   "provisional_id": true,
+   "observations": [
+    {
+     "period": "2012-01",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-02",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-03",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-04",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-05",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-06",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-07",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-08",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-09",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-10",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    },
+    {
+     "period": "2012-11",
+     "status": null,
+     "phase": null,
+     "dialogue_status_text": "HAY DIÁLOGO"
+    }
+   ]
+  }
+ ]
+}

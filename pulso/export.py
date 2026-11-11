@@ -41,7 +41,7 @@ def export(target):
     _write(static / 'readings.json', json.loads(readings.read_text(encoding='utf-8')) if readings.exists() else {'readings': {}})
     state = target / 'state'
     state.mkdir()
-    for path in [service.DATA / 'run_log.json', service.DATA / 'news.json', *service.DATA.glob('geoperu_*.json'), *(service.DATA / 'sources').glob('*.json')]:
+    for path in [service.DATA / 'run_log.json', service.DATA / 'news.json', service.DATA / 'links.json', *service.DATA.glob('geoperu_*.json'), *(service.DATA / 'sources').glob('*.json')]:
         if path.exists():
             shutil.copy2(path, state / path.name)
     for document in corpus.load()['documents'].values():

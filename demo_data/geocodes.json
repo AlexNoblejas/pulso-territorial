@@ -1,1 +1,660 @@
-{"CHALLHUAHUACHO": {"coordinates": [-72.30262251747762, -14.178268919499942], "precision": "punto representativo distrital", "district": "CHALLHUAHUACHO", "ubigeo": "030506", "source": "boundary_local"}, "COYLLURQUI": {"coordinates": [-72.38688060297903, -13.923255856999958], "precision": "punto representativo distrital", "district": "COYLLURQUI", "ubigeo": "030503", "source": "boundary_local"}, "MARA": {"coordinates": [-72.08292310772988, -14.017190419499968], "precision": "punto representativo distrital", "district": "MARA", "ubigeo": "030505", "source": "boundary_local"}, "MANSERICHE": {"coordinates": [-77.4906616615369, -4.673184785499956], "precision": "punto representativo distrital", "district": "MANSERICHE", "ubigeo": "160703", "source": "boundary_local"}, "MORONA": {"coordinates": [-77.35686862116671, -3.8146007849999535], "precision": "punto representativo distrital", "district": "MORONA", "ubigeo": "160704", "source": "boundary_local"}, "TROMPETEROS": {"coordinates": [-75.87351125981318, -3.099998908999936], "precision": "punto representativo distrital", "district": "TROMPETEROS", "ubigeo": "160304", "source": "boundary_local"}, "TIGRE": {"coordinates": [-75.21191341188218, -3.0552357209999457], "precision": "punto representativo distrital", "district": "TIGRE", "ubigeo": "160303", "source": "boundary_local"}, "ANDOAS": {"coordinates": [-76.63961612207859, -3.375461533999953], "precision": "punto representativo distrital", "district": "ANDOAS", "ubigeo": "160706", "source": "boundary_local"}, "HUANCUIRE": {"coordinates": [-72.3595396305337, -14.040130588500006], "precision": "punto representativo del polígono comunal", "source": "communities_local"}}
+{
+ "CHALLHUAHUACHO": {
+  "coordinates": [
+   -72.30262251747762,
+   -14.178268919499942
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CHALLHUAHUACHO",
+  "ubigeo": "030506",
+  "source": "boundary_local"
+ },
+ "COYLLURQUI": {
+  "coordinates": [
+   -72.38688060297903,
+   -13.923255856999958
+  ],
+  "precision": "punto representativo distrital",
+  "district": "COYLLURQUI",
+  "ubigeo": "030503",
+  "source": "boundary_local"
+ },
+ "MARA": {
+  "coordinates": [
+   -72.08292310772988,
+   -14.017190419499968
+  ],
+  "precision": "punto representativo distrital",
+  "district": "MARA",
+  "ubigeo": "030505",
+  "source": "boundary_local"
+ },
+ "MANSERICHE": {
+  "coordinates": [
+   -77.4906616615369,
+   -4.673184785499956
+  ],
+  "precision": "punto representativo distrital",
+  "district": "MANSERICHE",
+  "ubigeo": "160703",
+  "source": "boundary_local"
+ },
+ "MORONA": {
+  "coordinates": [
+   -77.35686862116671,
+   -3.8146007849999535
+  ],
+  "precision": "punto representativo distrital",
+  "district": "MORONA",
+  "ubigeo": "160704",
+  "source": "boundary_local"
+ },
+ "TROMPETEROS": {
+  "coordinates": [
+   -75.87351125981318,
+   -3.099998908999936
+  ],
+  "precision": "punto representativo distrital",
+  "district": "TROMPETEROS",
+  "ubigeo": "160304",
+  "source": "boundary_local"
+ },
+ "TIGRE": {
+  "coordinates": [
+   -75.21191341188218,
+   -3.0552357209999457
+  ],
+  "precision": "punto representativo distrital",
+  "district": "TIGRE",
+  "ubigeo": "160303",
+  "source": "boundary_local"
+ },
+ "ANDOAS": {
+  "coordinates": [
+   -76.63961612207859,
+   -3.375461533999953
+  ],
+  "precision": "punto representativo distrital",
+  "district": "ANDOAS",
+  "ubigeo": "160706",
+  "source": "boundary_local"
+ },
+ "HUANCUIRE": {
+  "coordinates": [
+   -72.3595396305337,
+   -14.040130588500006
+  ],
+  "precision": "punto representativo del polígono comunal",
+  "source": "communities_local"
+ },
+ "ARANCAY": {
+  "coordinates": [
+   -76.751781,
+   -9.1219
+  ],
+  "precision": "punto representativo distrital",
+  "district": "ARANCAY",
+  "ubigeo": "100502",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "RECUAY": {
+  "coordinates": [
+   -77.455809,
+   -9.71465
+  ],
+  "precision": "punto representativo distrital",
+  "district": "RECUAY",
+  "ubigeo": "021701",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TICAPAMPA": {
+  "coordinates": [
+   -77.368326,
+   -9.7277
+  ],
+  "precision": "punto representativo distrital",
+  "district": "TICAPAMPA",
+  "ubigeo": "021710",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CHIQUIAN": {
+  "coordinates": [
+   -77.13878,
+   -10.19075
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CHIQUIAN",
+  "ubigeo": "020501",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ANTONIO RAYMONDI": {
+  "coordinates": [
+   -77.486534,
+   -10.20215
+  ],
+  "precision": "punto representativo distrital",
+  "district": "ANTONIO RAYMONDI",
+  "ubigeo": "020503",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CAJACAY": {
+  "coordinates": [
+   -77.325334,
+   -10.2068
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CAJACAY",
+  "ubigeo": "020505",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PAUCAS": {
+  "coordinates": [
+   -76.880371,
+   -9.1539
+  ],
+  "precision": "punto representativo distrital",
+  "district": "PAUCAS",
+  "ubigeo": "021010",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUAYAN": {
+  "coordinates": [
+   -77.759303,
+   -9.9056
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUAYAN",
+  "ubigeo": "021104",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AQUIA": {
+  "coordinates": [
+   -77.115704,
+   -9.96285
+  ],
+  "precision": "punto representativo distrital",
+  "district": "AQUIA",
+  "ubigeo": "020504",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PUNCHAO": {
+  "coordinates": [
+   -76.852468,
+   -9.43145
+  ],
+  "precision": "punto representativo distrital",
+  "district": "PUNCHAO",
+  "ubigeo": "100508",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN PEDRO DE CHANA": {
+  "coordinates": [
+   -76.989275,
+   -9.4716
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SAN PEDRO DE CHANA",
+  "ubigeo": "021015",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MIRAFLORES": {
+  "coordinates": [
+   -76.894179,
+   -9.44315
+  ],
+  "precision": "punto representativo distrital",
+  "district": "MIRAFLORES",
+  "ubigeo": "100506",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "UCO": {
+  "coordinates": [
+   -76.93143,
+   -9.1879
+  ],
+  "precision": "punto representativo distrital",
+  "district": "UCO",
+  "ubigeo": "021016",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "JIRCAN": {
+  "coordinates": [
+   -76.635927,
+   -9.21555
+  ],
+  "precision": "punto representativo distrital",
+  "district": "JIRCAN",
+  "ubigeo": "100505",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUACCHIS": {
+  "coordinates": [
+   -76.802749,
+   -9.19595
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUACCHIS",
+  "ubigeo": "021006",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUANTAR": {
+  "coordinates": [
+   -77.228815,
+   -9.46585
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUANTAR",
+  "ubigeo": "021008",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CAJAY": {
+  "coordinates": [
+   -77.115506,
+   -9.27625
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CAJAY",
+  "ubigeo": "021003",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MONZON": {
+  "coordinates": [
+   -76.394142,
+   -9.3374
+  ],
+  "precision": "punto representativo distrital",
+  "district": "MONZON",
+  "ubigeo": "100507",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUACHIS": {
+  "coordinates": [
+   -77.090425,
+   -9.4221
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUACHIS",
+  "ubigeo": "021007",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "RAHUAPAMPA": {
+  "coordinates": [
+   -77.052483,
+   -9.34915
+  ],
+  "precision": "punto representativo distrital",
+  "district": "RAHUAPAMPA",
+  "ubigeo": "021012",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MASIN": {
+  "coordinates": [
+   -77.090619,
+   -9.33665
+  ],
+  "precision": "punto representativo distrital",
+  "district": "MASIN",
+  "ubigeo": "021009",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PONTO": {
+  "coordinates": [
+   -76.993558,
+   -9.3361
+  ],
+  "precision": "punto representativo distrital",
+  "district": "PONTO",
+  "ubigeo": "021011",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TANTAMAYO": {
+  "coordinates": [
+   -76.667505,
+   -9.36725
+  ],
+  "precision": "punto representativo distrital",
+  "district": "TANTAMAYO",
+  "ubigeo": "100511",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SINGA": {
+  "coordinates": [
+   -76.836699,
+   -9.3524
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SINGA",
+  "ubigeo": "100510",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUACACHI": {
+  "coordinates": [
+   -76.911638,
+   -9.3105
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUACACHI",
+  "ubigeo": "021005",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COLQUIOC": {
+  "coordinates": [
+   -77.584438,
+   -10.3014
+  ],
+  "precision": "punto representativo distrital",
+  "district": "COLQUIOC",
+  "ubigeo": "020507",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUARMEY": {
+  "coordinates": [
+   -77.887894,
+   -10.20695
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUARMEY",
+  "ubigeo": "021101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LLATA": {
+  "coordinates": [
+   -76.947664,
+   -9.6398
+  ],
+  "precision": "punto representativo distrital",
+  "district": "LLATA",
+  "ubigeo": "100501",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PAMPAS CHICO": {
+  "coordinates": [
+   -77.369809,
+   -10.086
+  ],
+  "precision": "punto representativo distrital",
+  "district": "PAMPAS CHICO",
+  "ubigeo": "021707",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PARARIN": {
+  "coordinates": [
+   -77.647657,
+   -10.11985
+  ],
+  "precision": "punto representativo distrital",
+  "district": "PARARIN",
+  "ubigeo": "021708",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUASTA": {
+  "coordinates": [
+   -77.028436,
+   -10.09195
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUASTA",
+  "ubigeo": "020509",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MARCA": {
+  "coordinates": [
+   -77.453733,
+   -10.0763
+  ],
+  "precision": "punto representativo distrital",
+  "district": "MARCA",
+  "ubigeo": "021706",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ANRA": {
+  "coordinates": [
+   -76.889313,
+   -9.2575
+  ],
+  "precision": "punto representativo distrital",
+  "district": "ANRA",
+  "ubigeo": "021002",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUAYLLAPAMPA": {
+  "coordinates": [
+   -77.528977,
+   -10.0694
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUAYLLAPAMPA",
+  "ubigeo": "021704",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUALLANCA": {
+  "coordinates": [
+   -76.94206,
+   -9.9136
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUALLANCA",
+  "ubigeo": "020508",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CULEBRAS": {
+  "coordinates": [
+   -78.086585,
+   -9.84005
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CULEBRAS",
+  "ubigeo": "021103",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CATAC": {
+  "coordinates": [
+   -77.337709,
+   -9.92495
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CATAC",
+  "ubigeo": "021702",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "RAPAYAN": {
+  "coordinates": [
+   -76.78542,
+   -9.27985
+  ],
+  "precision": "punto representativo distrital",
+  "district": "RAPAYAN",
+  "ubigeo": "021013",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUARI": {
+  "coordinates": [
+   -77.240952,
+   -9.2951
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUARI",
+  "ubigeo": "021001",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CHAVIN DE HUANTAR": {
+  "coordinates": [
+   -77.221218,
+   -9.66385
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CHAVIN DE HUANTAR",
+  "ubigeo": "021004",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "JACAS GRANDE": {
+  "coordinates": [
+   -76.670646,
+   -9.51415
+  ],
+  "precision": "punto representativo distrital",
+  "district": "JACAS GRANDE",
+  "ubigeo": "100504",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN MARCOS": {
+  "coordinates": [
+   -77.123224,
+   -9.6389
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SAN MARCOS",
+  "ubigeo": "021014",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PUÑOS": {
+  "coordinates": [
+   -76.902901,
+   -9.48695
+  ],
+  "precision": "punto representativo distrital",
+  "district": "PUÑOS",
+  "ubigeo": "100509",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LLACLLIN": {
+  "coordinates": [
+   -77.564798,
+   -10.13735
+  ],
+  "precision": "punto representativo distrital",
+  "district": "LLACLLIN",
+  "ubigeo": "021705",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ABELARDO PARDO LEZAMETA": {
+  "coordinates": [
+   -77.157118,
+   -10.31435
+  ],
+  "precision": "punto representativo distrital",
+  "district": "ABELARDO PARDO LEZAMETA",
+  "ubigeo": "020502",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MANGAS": {
+  "coordinates": [
+   -77.128743,
+   -10.37415
+  ],
+  "precision": "punto representativo distrital",
+  "district": "MANGAS",
+  "ubigeo": "020512",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LA PRIMAVERA": {
+  "coordinates": [
+   -77.099107,
+   -10.3044
+  ],
+  "precision": "punto representativo distrital",
+  "district": "LA PRIMAVERA",
+  "ubigeo": "020511",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN MIGUEL DE CORPANQUI": {
+  "coordinates": [
+   -77.205928,
+   -10.29415
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SAN MIGUEL DE CORPANQUI",
+  "ubigeo": "020514",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUAYLLACAYAN": {
+  "coordinates": [
+   -77.415387,
+   -10.24985
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUAYLLACAYAN",
+  "ubigeo": "020510",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PACLLON": {
+  "coordinates": [
+   -77.017632,
+   -10.24565
+  ],
+  "precision": "punto representativo distrital",
+  "district": "PACLLON",
+  "ubigeo": "020513",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TICLLOS": {
+  "coordinates": [
+   -77.223016,
+   -10.2389
+  ],
+  "precision": "punto representativo distrital",
+  "district": "TICLLOS",
+  "ubigeo": "020515",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CANIS": {
+  "coordinates": [
+   -77.190709,
+   -10.33475
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CANIS",
+  "ubigeo": "020506",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TAPACOCHA": {
+  "coordinates": [
+   -77.526221,
+   -9.99435
+  ],
+  "precision": "punto representativo distrital",
+  "district": "TAPACOCHA",
+  "ubigeo": "021709",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COCHAPETI": {
+  "coordinates": [
+   -77.696113,
+   -9.98155
+  ],
+  "precision": "punto representativo distrital",
+  "district": "COCHAPETI",
+  "ubigeo": "021102",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COTAPARACO": {
+  "coordinates": [
+   -77.544226,
+   -9.94325
+  ],
+  "precision": "punto representativo distrital",
+  "district": "COTAPARACO",
+  "ubigeo": "021703",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MALVAS": {
+  "coordinates": [
+   -77.664189,
+   -9.9142
+  ],
+  "precision": "punto representativo distrital",
+  "district": "MALVAS",
+  "ubigeo": "021105",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CHAVIN DE PARIARCA": {
+  "coordinates": [
+   -76.757055,
+   -9.42415
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CHAVIN DE PARIARCA",
+  "ubigeo": "100503",
+  "source": "GEOPERÚ límite distrital"
+ }
+}

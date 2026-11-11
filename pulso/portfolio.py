@@ -18,10 +18,11 @@ from . import sources as connectors
 DIRECTORY = service.DATA / 'portfolio'
 LOCK = threading.Lock()
 COMPANIES = {
+    'antamina': {'id':'antamina','name':'Antamina','legal_name':'Compañía Minera Antamina S.A.', 'sector':'Minería', 'operation':'Mina Yanacancha (San Marcos, Huari) · mineroducto de 302 km · puerto Punta Lobitos (Huarmey)', 'region':'Áncash y Huánuco', 'description':'Conflictos donde la Defensoría nombra a la compañía como actor, más su historial 2012-2025.', 'initials':'AN','color':'#7a4fa0'},
     'mineria': {'id':'mineria','name':'Las Bambas','legal_name':'Minera Las Bambas S.A.', 'sector':'Minería', 'operation':'Las Bambas · corredor sur', 'region':'Apurímac y Cusco', 'description':'Seguimiento de comunidades y espacios de diálogo de la cartera seleccionada.', 'initials':'LB','color':'#087d6b'},
     'hidrocarburos': {'id':'hidrocarburos','name':'Petroperú','legal_name':'Petróleos del Perú – Petroperú S.A.', 'sector':'Hidrocarburos', 'operation':'ONP · vínculos documentados con el Lote 192', 'region':'Loreto', 'description':'Seguimiento de casos con mención empresarial expresa. La ficha identifica actores; no verifica por sí misma quién opera hoy cada activo.', 'initials':'PP','color':'#2563b9'}
 }
-TARGETS = {'1285-0622':'mineria','1229-0621':'mineria','1162-0819':'mineria','1132-1218':'mineria','1403-0325':'hidrocarburos'}
+TARGETS = {'1333-0923':'antamina','1285-0622':'mineria','1229-0621':'mineria','1162-0819':'mineria','1132-1218':'mineria','1403-0325':'hidrocarburos'}
 
 
 def _read(name, default=None):
@@ -95,7 +96,8 @@ def rebuild():
             code=card.get('data-codigo')
             fields=_fields(card)
             primary=service.norm(fields.get('Actores primarios',''))
-            company=TARGETS.get(code) or ('mineria' if 'las bambas' in primary else 'hidrocarburos' if 'petroperu' in primary else None)
+            # New monthly reports enter automatically when the company is a primary actor.
+            company=TARGETS.get(code) or ('antamina' if 'antamina' in primary else 'mineria' if 'las bambas' in primary else 'hidrocarburos' if 'petroperu' in primary else None)
             if not company:
                 continue
             case_companies[code]=company
@@ -125,6 +127,7 @@ def rebuild():
                 'coordinates':point.get('coordinates'),'coordinate_precision':point.get('precision','sin georreferencia'),
                 'phase_basis':'Clasificación de la ficha oficial del período, no predicción.',
                 'demands':[{'text':description,'source_id':source_id,'status':'reclamos atribuidos por la fuente'}] if description else [],
+                'actors':{'primarios':fields.get('Actores primarios',''),'secundarios':fields.get('Actores secundarios',''),'terciarios':fields.get('Actores terciarios','')},
                 'actors_institutions':[name for name in ['OEFA','MINEM','MINAM','PNP','PCM','Defensoría'] if name.lower() in service.norm(' '.join(fields.values())).lower()]})
     if not by_case:
         raise ValueError('El formato del reporte no contiene las fichas esperadas; se conserva la última cartera.')
@@ -174,7 +177,11 @@ def system_status():
         connectors_status.append({'name':f'geoperu-{company}','label':f'GEOPERÚ · {COMPANIES[company]["name"]}','ok':not errors,
                                   'checked_at':geo.get('fetched_at'),'items':sum(l.get('count',0) for l in geo.get('layers',{}).values()),
                                   'error':(errors[0][:90]+' · se muestra la última copia correcta') if errors else None,'requests':len(geo.get('layers',{}))})
+    from . import links
+    link_data=links.load()
+    problems=[{'url':u,**r} for u,r in link_data.get('results',{}).items() if r['state']!='ok'][:40]
     return {'runs':pipeline.load().get('runs',[])[:15],'connectors':connectors_status,
+            'links':{'checked_at':link_data.get('checked_at'),'total':link_data.get('total',0),'totals':link_data.get('totals',{}),'problems':problems},
             'repository':'https://github.com/AlexNoblejas/pulso-territorial','actions':'https://github.com/AlexNoblejas/pulso-territorial/actions/workflows/pages.yml'}
 
 
@@ -183,10 +190,15 @@ def _snapshot():
 
 
 def historical(company):
-    raw=_read('historical.json',{'cases':[]})
-    # Lote 8/192 historical associations are not attributed to today's Petroperú.
-    ids={64,553,585} if company=='mineria' else {133,428}
-    selected=[c for c in raw['cases'] if c['historical_research_id'] in ids]
+    if company=='antamina':
+        # Imported with scripts/importar_historico.py from the thesis workbook (Defensoría 2012-2025).
+        path=service.ROOT/'demo_data'/'historical_antamina.json'
+        selected=json.loads(path.read_text(encoding='utf-8'))['cases'] if path.exists() else []
+    else:
+        raw=_read('historical.json',{'cases':[]})
+        # Lote 8/192 historical associations are not attributed to today's Petroperú.
+        ids={64,553,585} if company=='mineria' else {133,428}
+        selected=[c for c in raw['cases'] if c['historical_research_id'] in ids]
     monthly=defaultdict(lambda:{'active':0,'latent':0,'dialogue':0,'observed':0,'unclassified':0})
     for case in selected:
         for obs in case['observations']:
@@ -212,6 +224,22 @@ def historical(company):
                 provenance['file']=Path(provenance['file']).name
             obs.pop('report_reference_metadata',None)
     return sanitized,series
+
+
+def linked_history(cases):
+    """One row per historical conflict linked to the company: who, where, since when, last state."""
+    rows=[]
+    for case in cases:
+        obs=case.get('observations',[])
+        last_obs=next((o for o in reversed(obs) if o.get('status')),obs[-1] if obs else {})
+        rows.append({'id':case['historical_research_id'],'name':case.get('name') or case.get('display_name'),'official_code':case.get('official_case_code_candidate') or case.get('official_case_code'),
+                     'description':case.get('description') or case.get('summary'),
+                     'district':case.get('district') or last_obs.get('district_raw'),'province':case.get('province') or last_obs.get('province_raw'),
+                     'department':case.get('department') or last_obs.get('department_raw'),
+                     'first_period':obs[0]['period'] if obs else None,'last_period':obs[-1]['period'] if obs else None,
+                     'last_status':case.get('last_status') or last_obs.get('status'),'last_phase':case.get('last_phase') or last_obs.get('phase_raw'),
+                     'actors':case.get('actors') or {},'observations':len(obs),'provisional':case.get('provisional_id',False)})
+    return sorted(rows,key=lambda r:r['last_period'] or '',reverse=True)
 
 
 def _sanitize_paths(value):
@@ -274,6 +302,7 @@ def portfolio(company='mineria',period=None):
                       'source_ids':list(dict.fromkeys(source_ids)),
                       'observations':[{k:o[k] for k in ['period','status','phase','dialogue','source_id']} for o in items],
                       'review_status':'ficha oficial extraída; vínculos adicionales curados','source_anchor':obs.get('source_anchor'),
+                      'actors':obs.get('actors') or {},
                       'company_relation':'Mención empresarial expresa en el expediente; el operador y las obligaciones se verifican por activo.'})
     # Press is the daily pulse between monthly official reports; older periods only see older notes.
     media=news.load()
@@ -353,13 +382,13 @@ def portfolio(company='mineria',period=None):
     else:
         insights.append({'type':'seguimiento','title':'El diálogo convive con reclamos documentados','text':'La fase oficial describe un momento del proceso. No implica que las demandas o acuerdos estén resueltos. Consulta cada ficha antes de atribuir una obligación.','case_id':'1229-0621','source_ids':['DP-2026-09']})
         insights.append({'type':'contexto','title':'Huancuire: geografía y jurisdicción requieren conciliación','text':'El reporte ubica el caso en Coyllurqui; la copia local del polígono comunal tiene Challhuahuacho como atributo. El mapa conserva la precisión de cada fuente y no corrige esa diferencia automáticamente.','case_id':'1229-0621','source_ids':['DP-2026-09']})
-    alert_list=alert_rules.compute(cases,company_items,official_items,insights)
+    alert_list=alert_rules.compute(cases,company_items,official_items,insights,history=linked_history(historical_cases))
     geo=_read(f'geography_{company}.json',{})
     phases=Counter(c['phase'] or 'Sin fase reportada' for c in cases)
     return {'company':COMPANIES[company],'period':selected_period,'periods':periods,'author':snap['author'],
             'summary':{'cases':len(cases),'active':sum(c['status']=='Activo' for c in cases),'latent':sum(c['status']=='Latente' for c in cases),'dialogue':sum(c['dialogue'] for c in cases),'sources':len(selected_sources),'observations':sum(len(c['observations']) for c in cases),'historical_observations':sum(len(c['observations']) for c in historical_cases)},
             'cases':cases,'sources':sorted(selected_sources,key=lambda s:s['institution']),'source_matrix':matrix,'insights':insights,'milestones':sorted(milestones,key=lambda m:m['due_date']),
-            'phase_distribution':dict(phases),'historical_series':series,'historical_cases':historical_cases,
+            'phase_distribution':dict(phases),'historical_series':series,'historical_cases':historical_cases,'linked_history':linked_history(historical_cases),
             'related_news':[r for r in snap['supplementary'].get('newscases',[]) if company=='mineria']+
                            [{'id':s['document_id']+f"-p{s['page']}",'institution':library['documents'][s['document_id']]['institution'],'title':s['title'],
                              'claim':s['claim'],'quote':s['quote'],'page':s['page'],'pdf_url':s['pdf_url'],'url':library['documents'][s['document_id']]['url'],

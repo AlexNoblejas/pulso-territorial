@@ -41,7 +41,20 @@
     </div>
   </div>
 
-  <dialog id="account-dialog" class="account-dialog"><form method="dialog"><button class="icon-button dialog-close" aria-label="Cerrar" value="cancel"><span data-icon="close"></span></button></form><div class="dialog-eyebrow">CONOCE PULSOTERRITORIAL</div><h2>Una perspectiva para<br>cada territorio.</h2><p class="dialog-intro">Explora el monitoreo desde dos carteras sectoriales. Son perfiles de demostración con información pública; no representan cuentas de empresas.</p><div class="account-grid"><button class="entry-card" data-company="mineria"><span class="entry-icon" data-icon="mountain"></span><small>DEMO · MINERÍA</small><h3>Cartera minera</h3><p>Operaciones, comunidades y diálogo en el territorio.</p><span class="entry-link">Entrar como analista <span data-icon="arrow"></span></span></button><button class="entry-card hydro" data-company="hidrocarburos"><span class="entry-icon" data-icon="droplet"></span><small>DEMO · HIDROCARBUROS</small><h3>Cartera energética</h3><p>Entorno socioambiental y seguimiento documentado.</p><span class="entry-link">Entrar como analista <span data-icon="arrow"></span></span></button></div><div class="dialog-footnote"><span data-icon="shield"></span>Sin datos privados ni autenticación simulada.</div></dialog>
+  <div id="login-screen" class="login-screen" hidden>
+    <form id="login-form" class="login-card" autocomplete="off">
+      <div class="brand login-brand"><div class="brand-mark"><i></i><i></i><i></i></div><div><span>Pulso</span><span class="brand-light">Territorial</span><small>ALERTA TEMPRANA DE CONFLICTOS</small></div></div>
+      <h2>Ingreso de analistas</h2>
+      <p class="dialog-intro">Monitoreo de conflictos sociales en el territorio de tus operaciones, con alertas y reportes basados en fuentes oficiales.</p>
+      <label>Organización<select id="login-org" required><option value="antamina">Compañía Minera Antamina</option><option value="mineria">Minera Las Bambas</option><option value="hidrocarburos">Petroperú</option></select></label>
+      <label>Usuario (tu nombre)<input id="login-user" required minlength="2" maxlength="60" placeholder="Ej.: Alexander Noblejas"></label>
+      <label>Contraseña<input id="login-pass" type="password" required maxlength="40"></label>
+      <p id="login-error" class="login-error" role="alert" hidden>Usuario o contraseña incorrectos.</p>
+      <button class="button button-primary" type="submit">Ingresar</button>
+      <p class="dialog-footnote"><span data-icon="shield"></span>Demostración académica con información pública. El acceso es simulado en el navegador: no es una cuenta real ni protege datos, y no representa a las empresas mencionadas.</p>
+    </form>
+  </div>
+  <dialog id="account-dialog" class="account-dialog"><form method="dialog"><button class="icon-button dialog-close" aria-label="Cerrar" value="cancel"><span data-icon="close"></span></button></form><div class="dialog-eyebrow">SESIÓN</div><h2 id="session-title">Analista</h2><p class="dialog-intro" id="session-detail"></p><button id="logout-button" class="button button-secondary" type="button">Cerrar sesión</button><div class="dialog-footnote"><span data-icon="shield"></span>Para revisar otra organización, cierra sesión e ingresa con ella.</div></dialog>
   <dialog id="info-dialog" class="info-dialog"><form method="dialog"><button class="icon-button dialog-close" aria-label="Cerrar" value="cancel"><span data-icon="close"></span></button></form><span class="eyebrow">ACERCA DEL PILOTO</span><h2>Información para entender.<br>Evidencia para verificar.</h2><p>Este piloto organiza un corpus acotado de documentos públicos. Las cifras corresponden a la cartera y al período seleccionado; no representan un censo nacional ni información en tiempo real.</p><p>Los estados y fases se muestran tal como están documentados. Las coordenadas administrativas son referencias de ubicación y no demuestran el lugar exacto de un hecho.</p><p>Las fuentes sin documentos incorporados se identifican como pendientes de cobertura. Los análisis asistidos requieren revisar sus citas.</p></dialog>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 </body>

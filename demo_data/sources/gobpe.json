@@ -228,6 +228,28 @@
    ]
   },
   {
+   "id": "46ba00c237519648",
+   "url": "https://www.gob.pe/institucion/mtc/noticias/1469984-mtc-adoptara-iniciativas-para-fortalecer-la-carretera-pativilca-conococha-en-ancash",
+   "title": "MTC adoptará iniciativas para fortalecer la Carretera Pativilca – Conococha en Áncash",
+   "date": "2026-11-03",
+   "period": "2026-11",
+   "snippet": "El ministro de Transportes y Comunicaciones, Angello Tangherlini Casal, sostuvo una reunión de trabajo con representantes de la compañía minera Antamina , en la que se abordó el fortalecimiento de la ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "mtc",
+   "institution": "MTC",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
    "id": "20b7ff0b60c27e9e",
    "url": "https://www.gob.pe/institucion/epssgrau/noticias/1467451-eps-grau-soluciona-afloramiento-en-dren-petroperu-en-veintiseis-de-octubre",
    "title": "EPS Grau soluciona afloramiento en dren PetroPerú, en Veintiséis de Octubre",
@@ -316,6 +338,28 @@
    ]
   },
   {
+   "id": "0ee7090993a21a38",
+   "url": "https://www.gob.pe/institucion/regionancash-dra/noticias/1465689-huarmey-fortalecen-habilidades-blandas-para-promover-el-buen-trato-y-una-mejor-gestion-agraria",
+   "title": "HUARMEY: Fortalecen habilidades blandas para promover el buen trato y una mejor gestión agraria",
+   "date": "2026-10-29",
+   "period": "2026-10",
+   "snippet": "La Dirección Regional de Agricultura Áncash (DRAA), a través de la Agencia Agraria Huarmey, en coordinación con ACUDIP y Antamina , organizó los días 27 y 28 de octubre el curso internado “Fortalecimi ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "regionancash-dra",
+   "institution": "REGIONANCASH-DRA",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
    "id": "4975f0ee408b37d9",
    "url": "https://www.gob.pe/institucion/minem/noticias/1462902-minem-el-liderazgo-de-peru-en-la-produccion-de-minerales-criticos-nos-destaca-a-nivel-global",
    "title": "MINEM: El liderazgo de Perú en la producción de minerales críticos nos destaca a nivel global",
@@ -385,6 +429,28 @@
    ]
   },
   {
+   "id": "6f6473d5909fdac3",
+   "url": "https://www.gob.pe/institucion/regionancash-dra/noticias/1462834-productores-de-huarmey-fortalecieron-sus-capacidades-empresariales-en-la-xv-agriexpo-peru",
+   "title": "Productores de Huarmey fortalecieron sus capacidades empresariales en la XV AGRIEXPO Perù",
+   "date": "2026-10-26",
+   "period": "2026-10",
+   "snippet": "Esta participación fue posible gracias al proyecto de Palto y Vid, financiado por Antamina , y al esfuerzo conjunto de la Agencia Agraria Huarmey y las organizaciones aliadas, que impulsaron esta opor ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "regionancash-dra",
+   "institution": "REGIONANCASH-DRA",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
    "id": "9fea34e287502c7e",
    "url": "https://www.gob.pe/institucion/minem/noticias/1462279-minem-gobierno-autoriza-el-ingreso-de-petroloreto-al-lote-192-para-impulsar-su-reactivacion-operativa-e-inversiones",
    "title": "MINEM: Gobierno autoriza el ingreso de Petroloreto al Lote 192 para impulsar su reactivación operativa e inversiones",
@@ -404,6 +470,28 @@
    "case_codes": [],
    "tags": [
     "Operación y producción"
+   ]
+  },
+  {
+   "id": "519e779915b64c9a",
+   "url": "https://www.gob.pe/institucion/regionancash-dra/noticias/1461634-huarmey-productores-fortalecen-su-liderazgo-y-capacidades-para-emprender",
+   "title": "HUARMEY: Productores fortalecen su liderazgo y capacidades para emprender",
+   "date": "2026-10-23",
+   "period": "2026-10",
+   "snippet": "La Dirección Regional de Agricultura de Áncash (DRAA), a través de la Agencia Agraria Huarmey, conjuntamente con ACUDIP y Antamina , organizó el curso de internado “Fortalecimiento de Liderazgo y Desa ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "regionancash-dra",
+   "institution": "REGIONANCASH-DRA",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
    ]
   },
   {
@@ -605,6 +693,138 @@
    ]
   },
   {
+   "id": "a5e856a29da7318a",
+   "url": "https://www.gob.pe/institucion/munihuarmey/noticias/1464673-campana-medica-gratuita-llego-al-centro-poblado-de-huina",
+   "title": "Campaña médica gratuita llegó al centro poblado de Huiña",
+   "date": "2026-10-15",
+   "period": "2026-10",
+   "snippet": "Esta gran jornada médica descentralizada se ejecutó a través del Programa Municipal de Salud de la Gerencia de Desarrollo Social, en un esfuerzo conjunto y articulado con la empresa Antamina . Esta ...",
+   "kind": "Nota Informativa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "munihuarmey",
+   "institution": "MUNIHUARMEY",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "f7e388fe061e1108",
+   "url": "https://www.gob.pe/institucion/pronied/noticias/1464623-minedu-culmina-y-entrega-modernas-infraestructuras-de-los-colegios-morca-y-pampas-flores-en-huamalies-huanuco",
+   "title": "Minedu culmina y entrega modernas infraestructuras de los colegios Morca y Pampas Flores en Huamalíes, Huánuco",
+   "date": "2026-10-12",
+   "period": "2026-10",
+   "snippet": "Ambas instituciones educativas fueron ejecutadas por el Pronied, bajo el mecanismo de Obras por Impuestos (OxI), y financiadas por la empresa minera Antamina , con una inversión de S/21 982 177, para ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pronied",
+   "institution": "PRONIED",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
+   "id": "e8538e9ccf8574e7",
+   "url": "https://www.gob.pe/institucion/vivienda/noticias/1455221-ministerio-de-vivienda-y-antamina-suman-esfuerzos-para-mejorar-los-servicios-basicos-en-ancash",
+   "title": "Ministerio de Vivienda y Antamina suman esfuerzos para mejorar los servicios básicos en Áncash",
+   "date": "2026-10-12",
+   "period": "2026-10",
+   "snippet": "Con el objetivo de fortalecer la articulación entre el Estado y el sector privado para mejorar la calidad de vida de las familias de Áncash, el ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, rec ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "vivienda",
+   "institution": "VIVIENDA",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "72b39c06d1452ed7",
+   "url": "https://www.gob.pe/institucion/sernanp/noticias/1455207-minam-fortalece-capacidad-de-respuesta-ante-incendios-forestales-en-ancash",
+   "title": "Minam fortalece capacidad de respuesta ante incendios forestales en Áncash",
+   "date": "2026-10-12",
+   "period": "2026-10",
+   "snippet": "Conservación de bofedales y turismo comunitario Como parte de las actividades, el Sernanp y Antamina suscribieron un acta de compromiso para avanzar hacia un convenio específico de compensación ambie ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "sernanp",
+   "institution": "SERNANP",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "60a269ba3d4dc55e",
+   "url": "https://www.gob.pe/institucion/minam/noticias/1455120-minam-fortalece-capacidad-de-respuesta-ante-incendios-forestales-en-ancash",
+   "title": "Minam fortalece capacidad de respuesta ante incendios forestales en Áncash",
+   "date": "2026-10-12",
+   "period": "2026-10",
+   "snippet": "Conservación de bofedales y turismo comunitario Como parte de las actividades, el Sernanp y Antamina suscribieron un acta de compromiso para avanzar hacia un convenio específico de compensación ambie ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "e502d94892d52ed6",
+   "url": "https://www.gob.pe/institucion/munihuarmey/noticias/1457241-huarmey-destaco-en-el-i-encuentro-regional-de-apicultura-ancash-2026",
+   "title": "Huarmey destacó en el I encuentro regional de apicultura Áncash 2026",
+   "date": "2026-10-10",
+   "period": "2026-10",
+   "snippet": "Esta exitosa participación es fruto del trabajo articulado entre la Municipalidad Provincial de Huarmey, las asociaciones de productores, la Agencia Agraria, SENASA, Agromercado, CEDEPAS Norte y Antamina</str ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "munihuarmey",
+   "institution": "MUNIHUARMEY",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
    "id": "5a99757a6e71f491",
    "url": "https://www.gob.pe/institucion/csjapurimac/noticias/1454316-corte-de-apurimac-registra-mas-de-3300-nuevos-procesos-y-539-instalaciones-del-boton-de-panico",
    "title": "Corte de Apurímac registra más de 3300 nuevos procesos y 539 instalaciones del Botón de Pánico",
@@ -627,6 +847,50 @@
    ]
   },
   {
+   "id": "941e25c0e251d848",
+   "url": "https://www.gob.pe/institucion/inia/noticias/1454278-peru-incrementa-en-7-8-su-poblacion-de-cuyes-con-aporte-de-mejoramiento-genetico-desarrollado-por-el-inia",
+   "title": "Perú incrementa en 7.8% su población de cuyes con aporte de mejoramiento genético desarrollado por el INIA",
+   "date": "2026-10-09",
+   "period": "2026-10",
+   "snippet": "Asimismo, el INIA viene fortaleciendo la disponibilidad de reproductores con calidad genética y sanitaria mediante Centros de Producción de Reproductores de Cuy. En alianza con Antamina , implementó u ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "inia",
+   "institution": "INIA",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
+   "id": "caed75e7494369a1",
+   "url": "https://www.gob.pe/institucion/mef/noticias/1454075-mef-medidas-de-expansion-fiscal-y-solidez-economica-permitiran-frenar-choques-macroeconomicos-externos",
+   "title": "MEF: Medidas de expansión fiscal y solidez económica permitirán frenar choques macroeconómicos externos",
+   "date": "2026-10-07",
+   "period": "2026-10",
+   "snippet": "Entre ellos se encuentra el proyecto Tía María, reposición Ferrobamba, Reposición Antamina , Reposición Inmaculada y Reposición San Rafael. Finalmente, el ministro Cuba informó que se espera relanzar ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "mef",
+   "institution": "MEF",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
    "id": "e44018ef019e2fff",
    "url": "https://www.gob.pe/institucion/senace/noticias/1452326-2026-senace-otorgo-certificacion-ambiental-a-proyectos-mineros-por-us-13-500-millones",
    "title": "2026: Senace otorgó certificación ambiental a proyectos mineros por US$ 13 500 millones",
@@ -641,6 +905,7 @@
    "role": "Otra entidad",
    "lens": "Entidad pública.",
    "companies": [
+    "antamina",
     "mineria"
    ],
    "case_codes": [],
@@ -693,6 +958,50 @@
    ]
   },
   {
+   "id": "550be1bb7419a2fc",
+   "url": "https://www.gob.pe/institucion/regionancash-dra/noticias/1449135-huarmey-celebro-el-dia-del-apicultor-peruano-con-el-i-festival-de-la-miel-de-abeja",
+   "title": "Huarmey celebró el día del apicultor peruano con el I Festival de la Miel de Abeja",
+   "date": "2026-09-25",
+   "period": "2026-09",
+   "snippet": "La actividad fue posible gracias al trabajo articulado de la Dirección Regional de Agricultura Áncash, a través de la Agencia Agraria Huarmey, junto a CEDEPAS Norte, Antamina , Agromercado, SENASA, la ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "regionancash-dra",
+   "institution": "REGIONANCASH-DRA",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "f9507ddd0ff94d96",
+   "url": "https://www.gob.pe/institucion/inei/noticias/1448869-departamentos-de-amazonas-cajamarca-puno-y-junin-aportaron-el-71-9-de-la-produccion-total-de-cafe-en-julio-de-2026",
+   "title": "Departamentos de Amazonas, Cajamarca, Puno y Junín aportaron el 71,9% de la producción total de café en julio de 2026",
+   "date": "2026-09-25",
+   "period": "2026-09",
+   "snippet": "A nivel nacional, la producción cuprífera subió en 3,8%, respecto al mismo mes de 2025, debido a los mayores volúmenes de extracción en las compañías mineras Antamina , Sociedad Minera Cerro Verde, Hu ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "inei",
+   "institution": "INEI",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
    "id": "67c692f22e5b0bd8",
    "url": "https://www.gob.pe/institucion/ana/noticias/1448692-ana-formaliza-derechos-de-uso-de-agua-para-71-productores-acuicolas-de-apurimac",
    "title": "ANA formaliza derechos de uso de agua para 71 productores acuícolas de Apurímac",
@@ -713,6 +1022,28 @@
    "tags": [
     "Diálogo y acuerdos",
     "Ambiental"
+   ]
+  },
+  {
+   "id": "34f2027c35b8cd1b",
+   "url": "https://www.gob.pe/institucion/munihuarmey/noticias/1448546-con-gran-exito-se-celebro-el-i-festival-de-la-miel-huarmey-2026-en-el-dia-del-apicultor-peruano",
+   "title": "Con gran éxito se celebró el i festival de la miel Huarmey 2026 en el día del apicultor peruano",
+   "date": "2026-09-24",
+   "period": "2026-09",
+   "snippet": "Asimismo, contó con el respaldo técnico y estratégico de importantes aliados como Antamina , Agromercado, SENASA Perú y Cedepas Norte, instituciones que reafirmaron su compromiso con el desarrollo sos ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "munihuarmey",
+   "institution": "MUNIHUARMEY",
+   "role": "Otra entidad",
+   "lens": "Entidad pública.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
    ]
   },
   {
@@ -976,6 +1307,28 @@
    "lens": "Entidad pública.",
    "companies": [
     "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "0a10dbd7a2186eae",
+   "url": "https://www.gob.pe/institucion/ana/noticias/1422105-ancash-ana-retiro-cinco-toneladas-de-residuos-solidos-de-la-cabecera-de-la-cuenca-del-rio-fortaleza",
+   "title": "Áncash: ANA retiró cinco toneladas de residuos sólidos de la cabecera de la cuenca del río Fortaleza",
+   "date": "2026-07-22",
+   "period": "2026-07",
+   "snippet": ".° 86244 \"Luis Pardo Novoa\" y la empresa Minera Antamina . Los residuos fueron recogidos manualmente en bolsas donadas por Antamina y posteriormente trasladados en el camión compactad ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "ana",
+   "institution": "ANA",
+   "role": "Autoridad del agua",
+   "lens": "Informa monitoreos y acciones sobre recursos hídricos.",
+   "companies": [
+    "antamina"
    ],
    "case_codes": [],
    "tags": [
@@ -1418,6 +1771,50 @@
    ]
   },
   {
+   "id": "30f0309c0867c639",
+   "url": "https://www.gob.pe/institucion/pcm/noticias/1348778-pcm-articula-dialogo-y-coordinacion-multisectorial-entre-pobladores-de-aquia-y-minera-antamina",
+   "title": "PCM articula diálogo y coordinación multisectorial entre pobladores de Aquia y minera Antamina",
+   "date": "2026-02-06",
+   "period": "2026-02",
+   "snippet": "Con el fin de atender las principales demandas de los pobladores del distrito de Aquia, en Áncash, la Presidencia del Consejo de Ministros (PCM), a través de la Secretaría de Gestión Social y Diálogo (SGSD), lideró u ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "54ebe3b0d2315b8e",
+   "url": "https://www.gob.pe/institucion/oefa/noticias/1337826-oefa-ordena-a-antamina-implementar-medidas-de-remediacion-y-monitoreo-ambiental-en-su-planta-de-filtrado-de-huarmey",
+   "title": "OEFA ordena a Antamina implementar medidas de remediación y monitoreo ambiental en su planta de filtrado de Huarmey",
+   "date": "2026-01-20",
+   "period": "2026-01",
+   "snippet": "El Organismo de Evaluación y Fiscalización Ambiental (OEFA), organismo adscrito al Ministerio del Ambiente, ordenó a la empresa Compañía Minera Antamina S.A. la implementación de medidas administrati ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "oefa",
+   "institution": "OEFA",
+   "role": "Fiscalización ambiental",
+   "lens": "Informa supervisiones, monitoreos y sanciones; no evalúa el conflicto social.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
    "id": "d25a504dcff2d8e5",
    "url": "https://www.gob.pe/institucion/minem/noticias/1335249-ministro-luis-bravo-como-patriotas-queremos-que-petroperu-siga-siendo-un-orgullo-para-todos-los-peruanos",
    "title": "Ministro Luis Bravo: Como patriotas, queremos que Petroperú siga siendo un orgullo para todos los peruanos",
@@ -1578,6 +1975,28 @@
    ]
   },
   {
+   "id": "207115b8e24e5697",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1257455-proveedores-mineros-generan-ventas-por-mas-de-us-10-mil-millones-y-aportan-el-4-1-del-pbi-nacional",
+   "title": "Proveedores mineros generan ventas por más de US$ 10 mil millones y aportan el 4.1% del PBI nacional",
+   "date": "2025-10-03",
+   "period": "2025-10",
+   "snippet": "Explicó que más de 5,000 empresas proveedoras se constituyeron en las últimas dos décadas, impulsadas por el boom de la inversión privada y el desarrollo de proyectos mineros emblemáticos como Antamina y Las ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
    "id": "0a9f5efe4626aa4e",
    "url": "https://www.gob.pe/institucion/minem/noticias/1228916-liderazgo-del-peru-como-pais-minero-se-consolida-por-incrementos-en-produccion-de-cobre-zinc-plata-y-plomo",
    "title": "Liderazgo del Perú como país minero se consolida por incrementos en producción de cobre, zinc, plata y plomo",
@@ -1708,6 +2127,7 @@
    "role": "Ejecutivo · sector minero-energético",
    "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
    "companies": [
+    "antamina",
     "mineria"
    ],
    "case_codes": [],
@@ -1760,6 +2180,28 @@
    "case_codes": [],
    "tags": [
     "Ambiental"
+   ]
+  },
+  {
+   "id": "61baa6f168374feb",
+   "url": "https://www.gob.pe/institucion/mininter/noticias/1176230-policia-nacional-se-potencia-con-14-motocicletas-para-intensificar-el-patrullaje-preventivo-en-ancash",
+   "title": "Policía Nacional se potencia con 14 motocicletas para intensificar el patrullaje preventivo en Áncash",
+   "date": "2025-05-27",
+   "period": "2025-05",
+   "snippet": "En una ceremonia protocolar, realizada en la sede del Ministerio del Interior (Mininter), el ministro Carlos Malaver recibió este importante aporte por parte de la compañía minera Antamina , que permi ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "mininter",
+   "institution": "Mininter",
+   "role": "Orden interno",
+   "lens": "Comunica medidas de orden interno y estados de emergencia.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Seguridad"
    ]
   },
   {
@@ -1831,6 +2273,28 @@
    ]
   },
   {
+   "id": "f14db489a6c50210",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1159925-cajamarca-apurimac-y-arequipa-lideran-la-cartera-de-proyectos-de-inversion-minera-2025",
+   "title": "Cajamarca, Apurímac y Arequipa lideran la Cartera de Proyectos de Inversión Minera 2025",
+   "date": "2025-05-02",
+   "period": "2025-05",
+   "snippet": "El proyecto San Gabriel destaca en Moquegua que inició su construcción en el 2022 con una inversión de US$ 650 millones. Mientras en Áncash el más representativo es Reposición Antamina que cuenta una ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
    "id": "968da5d725223389",
    "url": "https://www.gob.pe/institucion/oefa/noticias/1155136-el-oefa-supervisa-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano-en-amazonas",
    "title": "El OEFA supervisa derrame de petróleo crudo en el Oleoducto Norperuano en Amazonas",
@@ -1850,6 +2314,28 @@
    "case_codes": [],
    "tags": [
     "Ambiental"
+   ]
+  },
+  {
+   "id": "1515cf924e6c7fa7",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1147338-minem-inversiones-mineras-en-exploracion-registran-incremento-en-los-primeros-meses-de-2025",
+   "title": "MINEM: Inversiones mineras en exploración registran incremento en los primeros meses de 2025",
+   "date": "2025-04-16",
+   "period": "2025-04",
+   "snippet": "En tercer lugar, se ubicó Áncash con un monto de US$ 71 millones, representando el 10.9% de la inversión total. La inversión en este departamento fue liderada por Compañía Minera Antamina S.A., por l ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
    ]
   },
   {
@@ -2141,6 +2627,7 @@
    "role": "Ejecutivo · sector minero-energético",
    "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
    "companies": [
+    "antamina",
     "mineria"
    ],
    "case_codes": [],
@@ -2171,6 +2658,28 @@
    ]
   },
   {
+   "id": "8dd8cc62e6557696",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1107342-minem-nuevos-proyectos-mineros-impulsaran-crecimiento-del-peru-como-productor-mundial-de-cobre",
+   "title": "MINEM: Nuevos proyectos mineros impulsarán crecimiento del Perú como productor mundial de cobre",
+   "date": "2025-02-11",
+   "period": "2025-02",
+   "snippet": "Cabe señalar que nuestro país viene experimentando una fase de reposición de principales minas, casos como Pampacancha de Constancia, Reposición Antamina, Chalcobamba y Reposición Ferrobamba en mina Las Bamba ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
    "id": "a386674ab28c4ecc",
    "url": "https://www.gob.pe/institucion/oefa/noticias/1105834-el-oefa-supervisa-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano-en-amazonas",
    "title": "El OEFA supervisa derrame de petróleo crudo en el Oleoducto Norperuano en Amazonas",
@@ -2193,6 +2702,72 @@
    ]
   },
   {
+   "id": "30757272e383c680",
+   "url": "https://www.gob.pe/institucion/mininter/noticias/1097059-pnp-recibe-nueva-flota-vehicular-para-combatir-el-crimen-en-ancash",
+   "title": "PNP recibe nueva flota vehicular para combatir el crimen en Áncash",
+   "date": "2025-01-24",
+   "period": "2025-01",
+   "snippet": "En una muestra de trabajo articulado por la seguridad ciudadana, el ministro del Interior, Juan José Santiváñez, y la compañía minera Antamina entregaron hoy una nueva flota vehicular a la Policía Na ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "mininter",
+   "institution": "Mininter",
+   "role": "Orden interno",
+   "lens": "Comunica medidas de orden interno y estados de emergencia.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Seguridad"
+   ]
+  },
+  {
+   "id": "d91786652d1bdaa6",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1092851-minem-inversiones-mineras-ascienden-a-mas-de-us-424-millones-en-noviembre-de-2024-reflejando-un-crecimiento-de-2-6-respecto-a-octubre",
+   "title": "MINEM: Inversiones mineras ascienden a más de US$ 424 millones en noviembre de 2024, reflejando un crecimiento de 2.6% respecto a octubre",
+   "date": "2025-01-18",
+   "period": "2025-01",
+   "snippet": "Respecto a los titulares mineros, el Boletín Estadístico Minero, resalta el aporte dado durante el mes de noviembre, por la Compañía Minera Antamina S.A, con una inversión de US$ 517 millones, posicionándola en prime ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
+   "id": "5d94f615056d948e",
+   "url": "https://www.gob.pe/institucion/minam/noticias/1092481-minam-a-traves-de-sernanp-y-empresa-privada-sellan-alianza-a-favor-de-la-conservacion-del-parque-nacional-huascaran",
+   "title": "Minam, a través de Sernanp, y empresa privada sellan alianza a favor de la conservación del Parque Nacional Huascarán",
+   "date": "2025-01-17",
+   "period": "2025-01",
+   "snippet": ".- El Servicio Nacional de Áreas Naturales Protegidas por el Estado (Sernanp), entidad perteneciente al Ministerio del Ambiente (Minam), y la Compañía Minera Antamina S.A. firmaron un convenio de co ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
    "id": "16e52b6a3e5dc3cf",
    "url": "https://www.gob.pe/institucion/minem/noticias/1091646-minem-departamentos-recibieron-mas-de-s-8-024-millones-hasta-noviembre-de-2024",
    "title": "MINEM: Departamentos recibieron más de S/ 8,024 millones hasta noviembre de 2024",
@@ -2212,6 +2787,28 @@
    "case_codes": [],
    "tags": [
     "Contexto"
+   ]
+  },
+  {
+   "id": "62152f6dd4706edb",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1084548-minem-once-proyectos-mineros-con-una-inversion-de-us-8-000-millones-preven-iniciar-su-etapa-de-construccion-entre-2025-2026",
+   "title": "MINEM: Once proyectos mineros, con una inversión de US$ 8,000 millones, prevén iniciar su etapa de construcción entre 2025-2026",
+   "date": "2025-01-01",
+   "period": "2025-01",
+   "snippet": "El Ministerio de Energía y Minas (MINEM) informó que,entre 2025 y 2026, se prevé el inicio de la etapa de construcción de mina 11 grandes proyectos mineros:Reposición Antamina , Corani, Reposición Rau ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
    ]
   },
   {
@@ -2261,6 +2858,28 @@
    ]
   },
   {
+   "id": "40e8e448e6d16f1a",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1077762-ministro-jorge-montero-vamos-a-impulsar-los-grandes-proyectos-de-la-mineria-peruana-especialmente-los-de-cobre",
+   "title": "Ministro Jorge Montero: “Vamos a impulsar los grandes proyectos de la minería peruana, especialmente, los de cobre”",
+   "date": "2024-12-19",
+   "period": "2024-12",
+   "snippet": "Montero Cornejo señaló que los proyectos mineros importantes en el país están encaminados, entre ellos Zafranal, Pampas del Pongo, Ampliación de Cerro Verde, Antamina y Quellaveco; y que en Cajamarca ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
    "id": "419a29e78d7b07c7",
    "url": "https://www.gob.pe/institucion/minedu/noticias/1066348-estudiantes-de-pueblos-originarios-presentan-sus-tradiciones-y-propuestas-en-festival-de-saberes",
    "title": "Estudiantes de pueblos originarios presentan sus tradiciones y propuestas en Festival de Saberes",
@@ -2307,6 +2926,28 @@
    ]
   },
   {
+   "id": "76089807ec6dc795",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1061525-minem-empleo-en-mineria-crece-por-quinto-mes-consecutivo-y-registra-cifra-historica-en-setiembre",
+   "title": "MINEM: Empleo en minería crece por quinto mes consecutivo y registra cifra histórica en setiembre",
+   "date": "2024-11-20",
+   "period": "2024-11",
+   "snippet": "Cabe resaltar que, las empresas que más destacaron en estos tres departamentos fueron: Sociedad Minera Cerro Verde S.A.A., Compañía Minera Poderosa S.A. y Compañía Minera Antamina S.A, respectivament ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
    "id": "5ffaa9335830675c",
    "url": "https://www.gob.pe/institucion/pcm/noticias/1050230-premier-adrianzen-anuncio-publicacion-de-decreto-para-financiar-obras-de-educacion-y-agua-y-saneamiento-para-el-distrito-de-challhuahuacho",
    "title": "Premier Adrianzén anunció publicación de decreto para financiar obras de educación y agua y saneamiento para el distrito de Challhuahuacho",
@@ -2326,6 +2967,28 @@
    "case_codes": [],
    "tags": [
     "Ambiental"
+   ]
+  },
+  {
+   "id": "9f0c7e1bc58259b4",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1047925-minem-inversion-minera-en-el-peru-sigue-aumentando-principalmente-en-rubros-de-exploracion-equipamiento-y-planta-de-beneficio",
+   "title": "MINEM: Inversión minera en el Perú sigue aumentando, principalmente en rubros de exploración, equipamiento y planta de beneficio",
+   "date": "2024-10-28",
+   "period": "2024-10",
+   "snippet": "En lo que respecta a titulares mineros, los que reportaron mayor monto de inversión ejecutado a agosto de 2024 fueron Compañía Minera Antamina S.A., debido a su Unidad Económica Administrativa \"Yanac ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
    ]
   },
   {
@@ -2395,6 +3058,28 @@
    ]
   },
   {
+   "id": "03613e48a16a3c53",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1026966-importancia-de-los-beneficios-de-la-actividad-mineria-fueron-expuestos-a-estudiantes-universitarios-y-egresados-de-ancash",
+   "title": "Importancia de los beneficios de la actividad minería fueron expuestos a estudiantes universitarios y egresados de Áncash",
+   "date": "2024-09-23",
+   "period": "2024-09",
+   "snippet": "Cabe señalar que entre los Proyectos de la Cartera de Inversión Minera 2024 de Áncash figuran: Reposición Antamina (US$ 1604 millones), Ampliación Huancapetí (US$ 345 millones), Ampliación Pachapaqui ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
    "id": "06c33eda51dcf8a8",
    "url": "https://www.gob.pe/institucion/oefa/noticias/1024366-cajamarca-oefa-supervisa-derrame-de-petroleo-crudo-en-el-oleoducto-norperuano",
    "title": "Cajamarca: OEFA supervisa derrame de petróleo crudo en el Oleoducto Norperuano",
@@ -2417,6 +3102,28 @@
    ]
   },
   {
+   "id": "2e9892c88e9607df",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1023427-minem-inversiones-mineras-superaron-los-us-2-512-millones-entre-enero-y-julio-de-2024",
+   "title": "MINEM: Inversiones mineras superaron los US$ 2,512 millones entre enero y julio de 2024",
+   "date": "2024-09-17",
+   "period": "2024-09",
+   "snippet": "A nivel de titulares mineros, los que registraron mayor inversión son Compañía Minera Antamina S.A., con una participación de 11.8%; seguido por Anglo American Quellaveco S.A., con el 8.8% de partici ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
    "id": "b3f383b97c78d73c",
    "url": "https://www.gob.pe/institucion/minem/noticias/1022173-ejecutivo-confirma-implementacion-de-proceso-de-transformacion-integral-y-medidas-de-austeridad-para-petroperu",
    "title": "Ejecutivo confirma implementación de Proceso de Transformación Integral y medidas de austeridad para Petroperú",
@@ -2435,6 +3142,51 @@
    ],
    "case_codes": [],
    "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
+   "id": "1df66c840688df75",
+   "url": "https://www.gob.pe/institucion/minem/noticias/1013390-minem-produccion-de-oro-plata-estano-plomo-hierro-y-molibdeno-del-primer-semestre-del-ano-es-mayor-a-la-reportada-en-2023",
+   "title": "MINEM: Producción de oro, plata, estaño, plomo, hierro y molibdeno del primer semestre del año es mayor a la reportada en 2023",
+   "date": "2024-09-02",
+   "period": "2024-09",
+   "snippet": "Respecto al cobre, la producción acumulada a junio registró una ligera disminución interanual de 2.1%, sin embargo, debido a los favorables niveles de producción de Compañía Minera Antamina S.A. (+7. ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minem",
+   "institution": "MINEM",
+   "role": "Ejecutivo · sector minero-energético",
+   "lens": "Promueve la actividad del sector; comunica acuerdos, convenios y espacios de diálogo.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
+   "id": "c4107597d32cda68",
+   "url": "https://www.gob.pe/institucion/minam/noticias/992809-sector-ambiente-aprueba-proyectos-de-inversion-por-mas-de-us-5000-millones-en-primer-semestre-de-este-ano",
+   "title": "Sector Ambiente aprueba proyectos de inversión por más de US$ 5000 millones en primer semestre de este año",
+   "date": "2024-07-23",
+   "period": "2024-07",
+   "snippet": "Entre ellos se encuentran la certificación a la Modificación del Estudio de Impacto Ambiental detallado (MEIA-d) de minera Antamina (Áncash), del proyecto “Modernización y desarrollo del Terminal Por ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental",
     "Operación y producción"
    ]
   },
@@ -2631,6 +3383,7 @@
    "role": "Ejecutivo · ambiente",
    "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
    "companies": [
+    "antamina",
     "mineria"
    ],
    "case_codes": [],
@@ -2687,6 +3440,28 @@
    ]
   },
   {
+   "id": "de1e80fcd61f270c",
+   "url": "https://www.gob.pe/institucion/pcm/noticias/828111-ejecutivo-impulsa-proceso-de-implementacion-del-hospital-victor-ramos-guardia-en-ancash",
+   "title": "Ejecutivo impulsa proceso de implementación del Hospital Víctor Ramos Guardia en Áncash",
+   "date": "2023-09-02",
+   "period": "2023-09",
+   "snippet": "En la cita participaron también representantes de los ministerios de Salud y Economía y Finanzas, junto a Proinversion, el Gobierno Regional de Áncash y la compañía minera Antamina . Entre los cons ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
+   ]
+  },
+  {
    "id": "f3618f52f6490ddf",
    "url": "https://www.gob.pe/institucion/oefa/noticias/815396-oefa-supervisa-derrame-de-petroleo-en-el-oleoducto-norperuano-en-amazonas",
    "title": "OEFA supervisa derrame de petróleo en el Oleoducto Norperuano en Amazonas",
@@ -2729,6 +3504,28 @@
    "tags": [
     "Medida de fuerza",
     "Ambiental"
+   ]
+  },
+  {
+   "id": "14f67042ba99bc57",
+   "url": "https://www.gob.pe/institucion/pcm/noticias/789050-premier-alberto-otarola-el-ejecutivo-esta-enfocado-en-el-destrabe-de-grandes-proyectos-mineros-y-atraer-mas-inversiones-para-el-pais",
+   "title": "Premier Alberto Otárola: “El Ejecutivo está enfocado en el destrabe de grandes proyectos mineros y atraer más inversiones para el país”",
+   "date": "2023-06-27",
+   "period": "2023-06",
+   "snippet": "Entre las regiones más destacadas en este aspecto se encuentran Moquegua, Áncash y Cajamarca, con los proyectos Quellaveco y San Gabriel; Antamina , y Minera Yanacocha, respectivamente. Del mismo modo ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Operación y producción"
    ]
   },
   {
@@ -2798,6 +3595,28 @@
    ]
   },
   {
+   "id": "4cba9dd4aebef3d5",
+   "url": "https://www.gob.pe/institucion/pcm/noticias/756160-ejecutivo-inaugura-el-centro-de-salud-yungar-el-mas-moderno-del-callejon-de-huaylas-que-beneficia-a-mas-de-3500-ciudadanos",
+   "title": "Ejecutivo inaugura el Centro de Salud Yúngar, el más moderno del Callejón de Huaylas, que beneficia a más de 3500 ciudadanos",
+   "date": "2023-05-11",
+   "period": "2023-05",
+   "snippet": "Al respecto, Otárola Peñaranda señaló que el hospital será de alta complejidad y el más moderno del país. “Destacamos la decisión de la empresa Antamina de comprometerse con el impulso del proyecto. ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
    "id": "11c26f89e4c93427",
    "url": "https://www.gob.pe/institucion/ana/noticias/754297-ana-realiza-monitoreo-en-atencion-a-la-emergencia-ambiental-por-derrame-de-hidrocarburos-en-oleoducto-trompeteros-saramuro",
    "title": "ANA realiza monitoreo en atención a la emergencia ambiental por derrame de hidrocarburos en oleoducto Trompeteros-Saramuro",
@@ -2858,6 +3677,28 @@
    "lens": "Informa supervisiones, monitoreos y sanciones; no evalúa el conflicto social.",
    "companies": [
     "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "7992d46e27fcf01f",
+   "url": "https://www.gob.pe/institucion/oefa/noticias/719913-el-oefa-presenta-resultados-de-la-vigilancia-ambiental-en-el-ambito-de-la-unidad-minera-antamina-a-las-comunidades-juprog-y-ayash",
+   "title": "El OEFA presenta resultados de la vigilancia ambiental en el ámbito de la unidad minera Antamina a las comunidades Juprog y Ayash",
+   "date": "2023-03-02",
+   "period": "2023-03",
+   "snippet": "El Organismo de Evaluación y Fiscalización Ambiental (OEFA), organismo adscrito al Ministerio del Ambiente (MINAM), presentó a las comunidades de Juprog y Ayash los resultados obtenidos durante el 2022 de la vigilanc ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "oefa",
+   "institution": "OEFA",
+   "role": "Fiscalización ambiental",
+   "lens": "Informa supervisiones, monitoreos y sanciones; no evalúa el conflicto social.",
+   "companies": [
+    "antamina"
    ],
    "case_codes": [],
    "tags": [
@@ -3106,6 +3947,28 @@
    "case_codes": [],
    "tags": [
     "Ambiental"
+   ]
+  },
+  {
+   "id": "336a5852e9785cd9",
+   "url": "https://www.gob.pe/institucion/ana/noticias/675470-ana-otorgo-reconocimiento-a-empresas-hidricamente-responsables-de-nuestro-pais",
+   "title": "ANA otorgó reconocimiento a empresas hídricamente responsables de nuestro país",
+   "date": "2022-11-29",
+   "period": "2022-11",
+   "snippet": "Unidad Operativa Central Hidroeléctrica Yarucaya EMPRESAS INSCRITAS 1. Compañía Minera Antamina S.A. 2. Pluspetrol Perú Corporation S.A. 3. Sogu Constructora y Consultora E.I.R.L 4.",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "ana",
+   "institution": "ANA",
+   "role": "Autoridad del agua",
+   "lens": "Informa monitoreos y acciones sobre recursos hídricos.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
    ]
   },
   {
@@ -3400,6 +4263,72 @@
    "case_codes": [
     "1285-0622"
    ],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "141bed3711e7fff7",
+   "url": "https://www.gob.pe/institucion/oefa/noticias/650133-60-estudiantes-de-ancash-participaron-en-charla-sobre-las-estaciones-de-monitoreo-de-la-calidad-del-aire-ubicadas-en-antamina",
+   "title": "60 estudiantes de Áncash participaron en charla sobre las estaciones de monitoreo de la calidad del aire ubicadas en Antamina",
+   "date": "2022-09-14",
+   "period": "2022-09",
+   "snippet": "El Organismo de Evaluación y Fiscalización Ambiental (OEFA), organismo adscrito al Ministerio del Ambiente, brindó una charla a 60 estudiantes de la Facultad de Ciencias del Ambiente de la Universidad Nacional Santia ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "oefa",
+   "institution": "OEFA",
+   "role": "Fiscalización ambiental",
+   "lens": "Informa supervisiones, monitoreos y sanciones; no evalúa el conflicto social.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "4c94a240f3072900",
+   "url": "https://www.gob.pe/institucion/pcm/noticias/649659-pcm-2300-pobladores-de-la-comunidad-campesina-de-aquia-en-ancash-seran-beneficiados-con-internet",
+   "title": "PCM: 2300 pobladores de la Comunidad Campesina de Aquia en Áncash serán beneficiados con Internet",
+   "date": "2022-09-13",
+   "period": "2022-09",
+   "snippet": "Luego de una larga jornada de trabajo desarrollado el 8 de setiembre, a través de una mesa técnica, representantes de la Comunidad Campesina de Aquia, la minera de Antamina y la Presidencia del Conse ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "199ad16b94d72901",
+   "url": "https://www.gob.pe/institucion/ana/noticias/647926-ana-y-mancomunidad-tres-cuencas-santa-fortaleza-pativilca-firman-acta-para-ejecucion-de-estudios",
+   "title": "ANA y mancomunidad Tres Cuencas Santa-Fortaleza-Pativilca firman acta para ejecución de estudios",
+   "date": "2022-09-07",
+   "period": "2022-09",
+   "snippet": "La consultora Plaindes, tendrá a su cargo el desarrollo de los estudios, dicha consultora ha sido contratada por la Compañía Minera Antamina S.A., en el marco de su política institucional de responsa ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "ana",
+   "institution": "ANA",
+   "role": "Autoridad del agua",
+   "lens": "Informa monitoreos y acciones sobre recursos hídricos.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
    "tags": [
     "Diálogo y acuerdos"
    ]
@@ -4139,6 +5068,28 @@
    ]
   },
   {
+   "id": "6c9a6c7c8b33fd49",
+   "url": "https://www.gob.pe/institucion/oefa/noticias/603721-oefa-instalo-en-ancash-la-primera-estacion-de-monitoreo-de-calidad-del-aire-que-opera-con-paneles-solares",
+   "title": "OEFA instaló en Áncash la primera estación de monitoreo de calidad del aire que opera con paneles solares",
+   "date": "2022-05-02",
+   "period": "2022-05",
+   "snippet": "El día 30 de abril de 2022, el OEFA instaló en el Centro Poblado de Juprog, ubicado en el distrito de San Marcos, provincia de Huari, región Áncash, cerca a la unidad minera Antamina , equipos automát ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "oefa",
+   "institution": "OEFA",
+   "role": "Fiscalización ambiental",
+   "lens": "Informa supervisiones, monitoreos y sanciones; no evalúa el conflicto social.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
    "id": "6faeff8c463a1b81",
    "url": "https://www.gob.pe/institucion/pcm/noticias/603517-comunicado",
    "title": "Comunicado",
@@ -4232,6 +5183,29 @@
    ]
   },
   {
+   "id": "e958866d254c5fae",
+   "url": "https://www.gob.pe/institucion/pcm/noticias/599173-premier-anibal-torres-el-gobierno-apoya-la-inversion-privada-responsable-para-el-progreso-de-las-poblaciones-peruanas",
+   "title": "Premier Aníbal Torres: “El Gobierno apoya la inversión privada responsable para el progreso de las poblaciones peruanas”",
+   "date": "2022-04-11",
+   "period": "2022-04",
+   "snippet": "El presidente del Consejo de Ministros, Aníbal Torres, sostuvo reuniones con representantes de las empresas mineras Antamina y Anglo American Quellaveco, donde resaltó la importancia de las inversion ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Operación y producción"
+   ]
+  },
+  {
    "id": "c896ef7562126955",
    "url": "https://www.gob.pe/institucion/pcm/noticias/595139-cusco-representantes-del-distrito-de-coporaque-levantan-medida-de-fuerza-tras-alcanzar-acuerdos-con-empresa-minera-las-bambas",
    "title": "Cusco: representantes del distrito de Coporaque levantan medida de fuerza tras alcanzar acuerdos con empresa minera Las Bambas",
@@ -4275,6 +5249,28 @@
    ],
    "tags": [
     "Medida de fuerza",
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "ca5931f9417437d3",
+   "url": "https://www.gob.pe/institucion/pcm/noticias/578463-comunidad-campesina-de-aquia-y-compania-minera-antamina-conformaron-grupos-de-trabajo-para-atender-demandas-de-la-poblacion",
+   "title": "Comunidad campesina de Aquia y Compañía Minera Antamina conformaron grupos de trabajo para atender demandas de la población",
+   "date": "2022-01-21",
+   "period": "2022-01",
+   "snippet": "El diálogo avanza en el distrito ancashino de Aquia, en donde representantes de la comunidad campesina de Aquia y la Compañía Minera Antamina acordaron, tras una jornada de diálogo impulsada por la P ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
     "Diálogo y acuerdos"
    ]
   },
@@ -4414,6 +5410,73 @@
    ]
   },
   {
+   "id": "953c804beeb9932a",
+   "url": "https://www.gob.pe/institucion/pcm/noticias/552018-comision-de-alto-nivel-del-gobierno-instalo-mesa-de-dialogo-entre-comunidad-de-aquia-y-antamina",
+   "title": "Comisión de Alto Nivel del Gobierno instaló Mesa de Diálogo entre comunidad de Aquia y Antamina",
+   "date": "2021-11-05",
+   "period": "2021-11",
+   "snippet": "Una Comisión de Alto Nivel del Ejecutivo, liderada por el ministro de Energía y Minas, Eduardo González y la ministra de Cultura, Gisela Ortiz, llegó hoy a la comunidad de Aquia, en Áncash, para instalar la Mesa de D ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "514d8c6bf99d63fd",
+   "url": "https://www.gob.pe/institucion/mininter/noticias/551487-mininter-a-traves-del-viceministro-de-orden-interno-participo-de-mesa-de-dialogo-en-ancash",
+   "title": "Mininter a través del viceministro de Orden Interno participó de mesa de diálogo en Áncash",
+   "date": "2021-11-03",
+   "period": "2021-11",
+   "snippet": "Tras dos semanas de paro, los comuneros de Aquia decidieron llegar a un acuerdo con la empresa Antamina y suspendieron las medidas de fuerza tomadas. Esto tras sostener una reunión con una comitiva m ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "mininter",
+   "institution": "Mininter",
+   "role": "Orden interno",
+   "lens": "Comunica medidas de orden interno y estados de emergencia.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Medida de fuerza",
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "f99c8b69556adef2",
+   "url": "https://www.gob.pe/institucion/pcm/noticias/506779-mtc-destaco-reactivacion-de-proyectos-regionales-de-banda-ancha-y-minem-presento-avances-en-masificacion-del-gas-natural-y-electrificacion",
+   "title": "MTC destacó reactivación de proyectos regionales de banda ancha y MINEM presentó avances en masificación del gas natural y electrificación",
+   "date": "2021-07-16",
+   "period": "2021-07",
+   "snippet": "A ello se suma la entrega de 1,000 toneladas adquiridas de Chile por la Sociedad Nacional de Minería, Petróleo y Energía (SNMPE). Añadió que actualmente Southern y Antamina vienen apoyando en proceso ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
    "id": "fe1bbe33402b8ad6",
    "url": "https://www.gob.pe/institucion/oefa/noticias/348671-oefa-supervisa-derrame-de-minerales-ocasionado-por-la-volcadura-de-un-camion-encapsulado-en-cusco",
    "title": "OEFA supervisa derrame de minerales ocasionado por la volcadura de un camión encapsulado en Cusco",
@@ -4429,6 +5492,28 @@
    "lens": "Informa supervisiones, monitoreos y sanciones; no evalúa el conflicto social.",
    "companies": [
     "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "6f946daad671696f",
+   "url": "https://www.gob.pe/institucion/minam/noticias/189550-minam-y-snmpe-fortalecen-trabajo-conjunto-para-optimizar-gestion-del-agua-frente-al-cambio-climatico",
+   "title": "MINAM Y SNMPE fortalecen trabajo conjunto para optimizar gestión del agua frente al cambio climático",
+   "date": "2020-07-01",
+   "period": "2020-07",
+   "snippet": "Estas iniciativas son impulsadas por empresas como el Consorcio Minero Horizonte, Celepsa, Milpo, Yanacocha, Barrick, Minsur, Antapaccay, Miski Mayo, Antamina , Buenaventura, Cerro Verde, etc. Asimism ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "antamina"
    ],
    "case_codes": [],
    "tags": [
@@ -4710,6 +5795,50 @@
    ]
   },
   {
+   "id": "10390378472ceea1",
+   "url": "https://www.gob.pe/institucion/mininter/noticias/22628-barrio-seguro-empresas-privadas-financiaran-programas-educativos-y-laborales-para-jovenes",
+   "title": "Barrio Seguro: Empresas privadas financiarán programas educativos y laborales para jóvenes",
+   "date": "2018-11-13",
+   "period": "2018-11",
+   "snippet": "Empresas privadas como Telefónica del Perú, Backus, Hermes Transportes Blindados, Entel y Antamina se comprometieron a revisar, mediante sus áreas legales, el estatuto del Patronato Barrio Seguro, su ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "mininter",
+   "institution": "Mininter",
+   "role": "Orden interno",
+   "lens": "Comunica medidas de orden interno y estados de emergencia.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
+   "id": "085766e0be5115f9",
+   "url": "https://www.gob.pe/institucion/mininter/noticias/21453-ministerio-del-interior-y-sector-privado-acuerdan-conformar-patronato-barrio-seguro",
+   "title": "Ministerio del Interior y sector privado acuerdan conformar Patronato Barrio Seguro",
+   "date": "2018-10-25",
+   "period": "2018-10",
+   "snippet": "Participaron, además, empresarios y representantes de la Sociedad Nacional de Industrias, Cámara de Comercio de Lima, Swisscare Fundación, Compañía Minera Antamina , Banco de Crédito del Perú, Repsol, ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "mininter",
+   "institution": "Mininter",
+   "role": "Orden interno",
+   "lens": "Comunica medidas de orden interno y estados de emergencia.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Contexto"
+   ]
+  },
+  {
    "id": "b2e32aeaa5756ecb",
    "url": "https://www.gob.pe/institucion/oefa/noticias/22901-oefa-supervisa-derrame-de-hidrocarburos-en-cusco",
    "title": "OEFA supervisa derrame de hidrocarburos en Cusco",
@@ -4955,12 +6084,146 @@
     "Diálogo y acuerdos",
     "Ambiental"
    ]
+  },
+  {
+   "id": "896eb69b7f809960",
+   "url": "https://www.gob.pe/institucion/ana/noticias/138029-autoridad-nacional-del-agua-ejecuta-estudio-que-evalua-el-rio-mosna-en-huaraz",
+   "title": "Autoridad Nacional del Agua ejecuta estudio que evalúa el río Mosna en Huaraz",
+   "date": "2015-12-17",
+   "period": "2015-12",
+   "snippet": "El ámbito de la cuenca del río Mosna, que cruza parte del histórico distrito Chavín de Huantar, se ejecutan actividades industriales como la Cía. Minera Antamina y Minera Nystar Ancash, cuyas operaci ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "ana",
+   "institution": "ANA",
+   "role": "Autoridad del agua",
+   "lens": "Informa monitoreos y acciones sobre recursos hídricos.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "badee539f8365781",
+   "url": "https://www.gob.pe/institucion/pcm/noticias/10952-balance-de-mesa-de-desarrollo-entre-gobierno-central-antamina-y-autoridades-locales-de-ancash-es-un-ejemplo-de-dialogo-y-concertacion",
+   "title": "Balance de Mesa de Desarrollo entre Gobierno Central, Antamina y autoridades locales de Ancash es un ejemplo de diálogo y concertación",
+   "date": "2013-07-09",
+   "period": "2013-07",
+   "snippet": "El Presidente del Consejo de Ministros, Juan Jiménez Mayor, destacó los acuerdos alcanzados en la mesa de trabajo la empresa minera Antamina , los alcaldes de los centros poblados de la Provincia de H ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "pcm",
+   "institution": "PCM · Gestión Social y Diálogo",
+   "role": "Ejecutivo · diálogo",
+   "lens": "Reporta la gestión del Ejecutivo en mesas y acuerdos; tiende a destacar avances.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos"
+   ]
+  },
+  {
+   "id": "39efed198d1fefc1",
+   "url": "https://www.gob.pe/institucion/oefa/noticias/20985-multa-de-56-uit-determinada-por-el-oefa-a-la-compania-minera-antamina-fue-impuesta-segun-la-escala-de-multas-y-penalidades-vigente-hasta-noviembre-de-2012",
+   "title": "MULTA DE 56 UIT DETERMINADA POR EL OEFA A LA COMPAÑÍA MINERA ANTAMINA FUE IMPUESTA SEGÚN LA ESCALA DE MULTAS Y PENALIDADES VIGENTE HASTA NOVIEMBRE DE 2012",
+   "date": "2013-06-12",
+   "period": "2013-06",
+   "snippet": ".- Respecto de la Resolución Directoral N° 262-2013-OEFA/DFSAI, emitida por la Dirección de Fiscalización, Sanción y Aplicación de Incentivos del Organismo de Evaluación y Fiscalización Ambiental - OEFA, mediante la ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "oefa",
+   "institution": "OEFA",
+   "role": "Fiscalización ambiental",
+   "lens": "Informa supervisiones, monitoreos y sanciones; no evalúa el conflicto social.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "597302c546609e1d",
+   "url": "https://www.gob.pe/institucion/oefa/noticias/20989-el-oefa-sanciona-a-compania-minera-antamina-s-a-con-una-multa-de-56-unidades-impositivas-tributarias",
+   "title": "EL OEFA SANCIONA A COMPAÑÍA MINERA ANTAMINA S.A. CON UNA MULTA DE 56 UNIDADES IMPOSITIVAS TRIBUTARIAS",
+   "date": "2013-06-05",
+   "period": "2013-06",
+   "snippet": ".- Mediante Resolución Directoral N° 262-2013-OEFA/DFSAI, la Dirección de Fiscalización, Sanción y Aplicación de Incentivos del Organismo de Evaluación y Fiscalización Ambiental - OEFA sancionó con una multa de 56 U ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "oefa",
+   "institution": "OEFA",
+   "role": "Fiscalización ambiental",
+   "lens": "Informa supervisiones, monitoreos y sanciones; no evalúa el conflicto social.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "3351ebae0db803ba",
+   "url": "https://www.gob.pe/institucion/oefa/noticias/21104-oefa-realizo-supervision-ambiental-en-la-zona-del-incidente-del-minero-ducto-antamina-cajacay-por-la-ruptura-de-la-tuberia-en-la-estacion-de-valvulas-vs-1",
+   "title": "OEFA Realizó Supervisión Ambiental en la Zona del Incidente del Minero Ducto Antamina-Cajacay por la Ruptura de la Tubería en la Estación de Válvulas VS-1",
+   "date": "2012-08-06",
+   "period": "2012-08",
+   "snippet": "•Especialistas del OEFA supervisan el cumplimiento del Plan de Contingencia de la fuga del concentrado de cobre en el ducto VS-1 de la Compañía Antamina S.A. Lima, 6 de agosto de 2012.- Especia ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "oefa",
+   "institution": "OEFA",
+   "role": "Fiscalización ambiental",
+   "lens": "Informa supervisiones, monitoreos y sanciones; no evalúa el conflicto social.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental",
+    "Operación y producción"
+   ]
+  },
+  {
+   "id": "7e41e15e1f9c6138",
+   "url": "https://www.gob.pe/institucion/oefa/noticias/21105-estado-garantiza-salud-y-ambiente-en-cajacay",
+   "title": "Estado Garantiza Salud y Ambiente en Cajacay",
+   "date": "2012-08-01",
+   "period": "2012-08",
+   "snippet": "• En la sede del MINAM los Viceministros de Salud, de Minas, y de Gestión Ambiental, Alcalde Distrital, representantes comunales del distrito de Cajacay y de la empresa Antamina , revisaron medidas ad ...",
+   "kind": "Nota de prensa",
+   "connector": "gob.pe",
+   "literal": false,
+   "institution_key": "oefa",
+   "institution": "OEFA",
+   "role": "Fiscalización ambiental",
+   "lens": "Informa supervisiones, monitoreos y sanciones; no evalúa el conflicto social.",
+   "companies": [
+    "antamina"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
   }
  ],
- "fetched": 219,
+ "fetched": 275,
  "new": 0,
- "requests": 24,
+ "requests": 34,
  "error": null,
- "checked_at": "2026-11-10T23:54:24.815581+00:00",
- "seconds": 48.0
+ "checked_at": "2026-11-11T01:34:36.337450+00:00",
+ "seconds": 61.1,
+ "last_ok_at": "2026-11-11T01:34:36.337450+00:00"
 }

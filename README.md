@@ -1,6 +1,7 @@
 # PulsoTerritorial
 
 **Demo pública:** https://alexnoblejas.github.io/pulso-territorial/ · accesos directos `?company=mineria` y `?company=hidrocarburos` · se actualiza sola cada día ([ver ejecuciones](https://github.com/AlexNoblejas/pulso-territorial/actions/workflows/pages.yml))
+**Acceso de demostración:** elige la organización (Antamina, Las Bambas o Petroperú), escribe tu nombre como usuario y usa la contraseña `2026`. Es un acceso simulado en el navegador: sirve para mostrar el flujo de un analista, no protege datos ni representa a las empresas.
 **Autor:** Alexander Noblejas · Python Intermedio, Diplomatura en Ciencia de Datos (Q-Lab PUCP) · [Issue #204](https://github.com/d2cml-ai/Data-Science-Python/issues/204)
 
 ## 1. One-liner
@@ -25,14 +26,17 @@ Cada fuente mira desde su función, y por eso hay que contrastarlas. Cuando la g
 
 ## 4. Solución e insight
 
-Dos carteras demo: **Las Bambas** (minería, Apurímac) y **Petroperú** (hidrocarburos, Loreto). Cada una tiene:
+Tres carteras demo: **Antamina** (minería, Áncash y Huánuco), **Las Bambas** (minería, Apurímac) y **Petroperú** (hidrocarburos, Loreto). Un analista de gestión social ingresa con su nombre y ve solo la cartera de su organización. Cada cartera tiene:
 
 - **Alertas tempranas** por reglas explícitas. Cubren medidas de fuerza, violencia, incidentes de seguridad, estados de emergencia, picos de cobertura, plazos próximos o vencidos sin registro posterior, falta de información oficial reciente y discrepancias entre fuentes. Cada alerta muestra la regla que la activó y su evidencia ([`pulso/alerts.py`](pulso/alerts.py)).
+- **Con quién gestionar:** actores primarios, secundarios y terciarios de cada conflicto, tal como los nombra la Defensoría.
+- **Historial vinculado:** todos los conflictos de la empresa en los reportes de la Defensoría 2012-2025, con su último estado. En Antamina son 20, y los que siguen activos sin un cierre reportado generan una alerta.
 - **Línea de tiempo por actor** en cada conflicto: Defensoría, Ejecutivo, Fiscalización y agua, Policía, Empresa y Prensa. Al hacer clic en un punto se ve qué reportó cada actor ese mes, con el encuadre de la fuente.
 - **Contexto territorial desde GEOPERÚ:** concesiones de la empresa, comunidades tituladas, lotes, oleoducto, áreas protegidas, unidades hidrográficas y pasivos ambientales, en el mapa 3D y dentro de cada expediente.
 - **Citas verificables:** cada pasaje de un PDF abre el documento oficial en su página.
 - **Lectura con IA:** Groq extrae hechos, demandas y compromisos. Cada afirmación debe traer una cita literal o se descarta.
-- **Actuación del Estado en el territorio**, **Pulso de medios** y **reporte mensual imprimible**.
+- **Reporte mensual narrativo:** resumen ejecutivo redactado desde los datos, agenda sugerida para el analista, una ficha por conflicto (situación, qué pasó en el mes, con quién gestionar, compromisos, qué dicen las demás fuentes, alertas y territorio) y cinco figuras. Cada figura dice qué muestra, su fuente, su fecha de corte y cómo leerla.
+- **Actuación del Estado en el territorio** y **Pulso de medios**.
 
 **Insight:** el valor está en que cada señal sea comprobable y llegue a tiempo, no en resumir. Por eso el producto declara sus límites en lugar de esconderlos:
 
@@ -70,6 +74,8 @@ python -m pulso.pipeline # ciclo completo a mano, con bitácora
 | Prensa | El Comercio, La República, Andina y Google News, que suma RPP, Gestión, Infobae y medios regionales | RSS, con la estrategia de la tarea 1 | `news.py` |
 | GEOPERÚ (MINAM) | Concesiones, comunidades campesinas y nativas, lotes, oleoducto, ANP, unidades hidrográficas y pasivos | ArcGIS REST `/query` recortado al área de la cartera, con el protocolo del MCP de la tarea 4 | `geoperu.py` |
 | Corpus curado | 6 PDF con 8 citas revisadas a mano | Verificación con SHA-256 y texto literal | `corpus.py` |
+| Enlaces | Todos los enlaces que muestra la plataforma (278 en la última revisión local) | HEAD/GET en paralelo; distingue enlace roto de servidor que bloquea al verificador | `links.py` |
+| Historial (una vez) | Conflictos de cada empresa 2012-2025 | `scripts/importar_historico.py` sobre la base de tesis | `demo_data/historical_*.json` |
 
 - **Cortesía con las fuentes:** User-Agent académico, pausas y un reintento.
 - **Si una fuente falla:** se conserva su última copia y la falla queda en la bitácora.

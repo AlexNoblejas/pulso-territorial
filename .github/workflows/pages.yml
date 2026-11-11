@@ -26,7 +26,7 @@ jobs:
         run: |
           mkdir -p data/sources
           base=https://alexnoblejas.github.io/pulso-territorial/state
-          for f in run_log.json news.json geoperu_mineria.json geoperu_hidrocarburos.json; do curl -sfL "$base/$f" -o "data/$f" || rm -f "data/$f"; done
+          for f in run_log.json news.json links.json geoperu_antamina.json geoperu_mineria.json geoperu_hidrocarburos.json; do curl -sfL "$base/$f" -o "data/$f" || rm -f "data/$f"; done
           for f in defensoria.json gobpe.json ogasa.json willaqniki.json; do curl -sfL "$base/$f" -o "data/sources/$f" || rm -f "data/sources/$f"; done
       - name: Ciclo completo de monitoreo (Defensoría, prensa, gob.pe, SINIA, Willaqniki, GEOPERÚ, corpus)
         env:

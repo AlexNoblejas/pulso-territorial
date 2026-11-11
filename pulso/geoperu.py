@@ -17,10 +17,16 @@ from shapely.geometry import Point, shape
 from . import news, service
 
 ROOT_URL='https://geoservidorperu.minam.gob.pe/arcgis/rest/services'
-EXTENTS={'mineria':(-73.2,-14.8,-71.8,-13.5),'hidrocarburos':(-78.2,-5.3,-75.7,-2.7)}
+EXTENTS={'antamina':(-78.35,-10.35,-76.6,-9.0),'mineria':(-73.2,-14.8,-71.8,-13.5),'hidrocarburos':(-78.2,-5.3,-75.7,-2.7)}
 INVERSION='Servicio_Oportunidades_Inversion'
 # key, etiqueta, servicio, capa, filtro, campos, color
 LAYERS={
+    'antamina':[
+        ('concesiones_empresa','Concesiones de Compañía Minera Antamina',INVERSION,25,"TIT_CONCES LIKE '%ANTAMINA%'",['CONCESION','TIT_CONCES','D_ESTADO','SUSTANCIA','DISTRI'],'#7a4fa0'),
+        ('comunidades_oficiales','Comunidades campesinas (MIDAGRI)',INVERSION,26,'1=1',['nom_comuni','nom_dist','nom_prov'],'#bd9b6e'),
+        ('cuencas','Unidades hidrográficas',INVERSION,4,'1=1',['NOMBRE','NIVEL','CODIGO'],'#4f8fb8'),
+        ('anp','Áreas naturales protegidas (SERNANP)',INVERSION,31,'1=1',['anp_nomb','anp_cate'],'#3f8f5a'),
+        ('pasivos','Pasivos ambientales mineros 2022',"ServicioActivacionQuebrada",14,'1=1',['TIPO','SUBTIPO','DISTRITO','RESPONSAB','N_DE_MINER'],'#a5483c')],
     'mineria':[
         ('concesiones_empresa','Concesiones de Minera Las Bambas',INVERSION,25,"TIT_CONCES LIKE '%LAS BAMBAS%'",['CONCESION','TIT_CONCES','D_ESTADO','SUSTANCIA','DISTRI'],'#2563b9'),
         ('comunidades_oficiales','Comunidades campesinas (MIDAGRI)',INVERSION,26,'1=1',['nom_comuni','nom_dist','nom_prov'],'#bd9b6e'),
@@ -36,6 +42,9 @@ LAYERS={
         ('pasivos','Pasivos ambientales de hidrocarburos 2022',"ServicioActivacionQuebrada",15,'1=1',['Lote','Descri_Pas','Distrito','Nom_Cuenca'],'#a5483c')]}
 
 
+MIRRORS={('ServicioActivacionQuebrada',14):('ServicioIdentificacionZPRRSS',2),('ServicioActivacionQuebrada',15):('ServicioIdentificacionZPRRSS',3)}
+
+
 def _round(value):
     if isinstance(value,float):
         return round(value,4)
@@ -46,16 +55,26 @@ def _round(value):
 
 def query(service_name,layer,where,fields,extent,offset=0.003):
     url=f'{ROOT_URL}/{service_name}/MapServer/{layer}/query'
-    features,start=[],0
+    features,start,paging=[],0,True
     while True:
         params={'where':where,'geometry':','.join(map(str,extent)),'geometryType':'esriGeometryEnvelope','inSR':4326,
                 'spatialRel':'esriSpatialRelIntersects','outFields':','.join(fields),'returnGeometry':'true','outSR':4326,
-                'maxAllowableOffset':offset,'resultOffset':start,'resultRecordCount':1000,'f':'geojson'}
+                'maxAllowableOffset':offset,'f':'geojson'}
+        if paging:
+            params.update({'resultOffset':start,'resultRecordCount':1000})
         response=requests.get(url,params=params,headers={'User-Agent':news.USER_AGENT},timeout=(10,120))
         response.raise_for_status()
         data=response.json()
         if 'error' in data:
-            raise ValueError(data['error'].get('message','ArcGIS error'))
+            message=data['error'].get('message','ArcGIS error')
+            if paging and 'pagination' in message.lower():
+                # Some services reject resultOffset; they still return up to their record limit.
+                paging=False
+                continue
+            raise ValueError(message)
+        if not paging:
+            return [{'type':'Feature','geometry':{**f['geometry'],'coordinates':_round(f['geometry']['coordinates'])},
+                     'properties':{k:f['properties'].get(k) for k in fields}} for f in data.get('features',[]) if f.get('geometry')]
         batch=data.get('features',[])
         for feature in batch:
             if feature.get('geometry'):
@@ -72,7 +91,15 @@ def update(company):
     for key,label,service_name,layer,where,fields,color in LAYERS[company]:
         source=f'{ROOT_URL}/{service_name}/MapServer/{layer}'
         try:
-            features=query(service_name,layer,where,fields,EXTENTS[company])
+            try:
+                features=query(service_name,layer,where,fields,EXTENTS[company])
+            except Exception:
+                # Same 2022 inventory is published in a second service; used when the first one fails.
+                if (service_name,layer) not in MIRRORS:
+                    raise
+                service_name,layer=MIRRORS[(service_name,layer)]
+                source=f'{ROOT_URL}/{service_name}/MapServer/{layer}'
+                features=query(service_name,layer,where,fields,EXTENTS[company])
             result['layers'][key]={'label':label,'source':source,'where':where,'color':color,'count':len(features),'ok':True,
                                    'fetched_at':result['attempted_at'],'data':{'type':'FeatureCollection','features':features}}
         except Exception as exc:

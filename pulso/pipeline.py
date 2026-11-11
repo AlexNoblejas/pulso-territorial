@@ -67,6 +67,16 @@ def _corpus():
     return f"{len(library['documents'])} PDF con hash correcto · {len(library['passages'])+len(library['signals'])} citas literales comprobadas"
 
 
+def _links():
+    from . import links
+    data=links.run()
+    t=data['totals']
+    detail=f"{data['total']} enlaces · {t.get('ok',0)} responden · {t.get('bloqueado',0)} bloquean al verificador · {t.get('roto',0)} rotos · {t.get('sin respuesta',0)} sin respuesta"
+    if t.get('roto'):
+        raise RuntimeError(detail)
+    return detail
+
+
 WINDOW=news.WINDOW_DAYS
 STEPS=[('defensoria','Reporte mensual de la Defensoría (HTML/PDF)',_defensoria),
        ('defensoria_pdf','Defensoría: pasajes por caso en reportes PDF (historial)',_connector('defensoria')),
@@ -91,6 +101,7 @@ def run(only=None):
     steps=[_step(name,label,function) for name,label,function in STEPS if not only or name in only]
     from . import portfolio
     steps.append(_step('cartera','Reconstrucción de carteras y alertas',lambda:f"{sum(len(portfolio.portfolio(c)['cases']) for c in portfolio.COMPANIES)} casos · {sum(len(portfolio.portfolio(c)['alerts']) for c in portfolio.COMPANIES)} alertas activas" if portfolio.rebuild() else ''))
+    steps.append(_step('enlaces','Verificación automática de todos los enlaces mostrados',_links))
     record={'started_at':started,'finished_at':service.now(),'trigger':os.getenv('PULSO_TRIGGER','local'),
             'run_url':os.getenv('PULSO_RUN_URL'),'ok':all(s['ok'] for s in steps),'steps':steps}
     log=load()

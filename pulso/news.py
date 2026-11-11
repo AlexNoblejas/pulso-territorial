@@ -28,16 +28,19 @@ FEEDS=[('El Comercio','https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=x
        ('La República','https://larepublica.pe/rss/economia.xml'),
        ('Andina','https://andina.pe/agencia/rss/3.xml')]
 # Google News agrega otros medios (RPP, Gestión, Infobae, regionales) por consulta.
-SEARCHES={'mineria':['"Las Bambas"','Fuerabamba','Challhuahuacho','"corredor minero" Apurímac'],
+SEARCHES={'antamina':['Antamina comunidad','Antamina conflicto','"Punta Lobitos" Huarmey','Antamina Llata OR Aquia OR "San Marcos"'],
+          'mineria':['"Las Bambas"','Fuerabamba','Challhuahuacho','"corredor minero" Apurímac'],
           'hidrocarburos':['Petroperú derrame','"Oleoducto Norperuano"','"Sinchi Roca" OR Pijuayal','"Lote 192"']}
-KEYWORDS={'mineria':['las bambas','fuerabamba','chuicuni','huancuire','challhuahuacho','cotabambas','corredor minero','mmg'],
+KEYWORDS={'antamina':['antamina','punta lobitos'],
+          'mineria':['las bambas','fuerabamba','chuicuni','huancuire','challhuahuacho','cotabambas','corredor minero','mmg'],
           'hidrocarburos':['petroperu','oleoducto norperuano','oleoducto','pijuayal','lote 192','manseriche','datem del maranon','altamesa','andoas']}
-CASES={'fuerabamba':'1132-1218','chuicuni':'1285-0622','huancuire':'1229-0621','corredor minero':'1162-0819',
+CASES={'llata':'1333-0923','fuerabamba':'1132-1218','chuicuni':'1285-0622','huancuire':'1229-0621','corredor minero':'1162-0819',
        'sinchi roca':'1403-0325','pijuayal':'1403-0325','manseriche':'1403-0325','altamesa':'1459-1125'}
-CASE_COMPANY={'1132-1218':'mineria','1285-0622':'mineria','1229-0621':'mineria','1162-0819':'mineria','1403-0325':'hidrocarburos','1459-1125':'hidrocarburos'}
+CASE_COMPANY={'1333-0923':'antamina','1132-1218':'mineria','1285-0622':'mineria','1229-0621':'mineria','1162-0819':'mineria','1403-0325':'hidrocarburos','1459-1125':'hidrocarburos'}
 # Homonyms: a name only links to the case when an anchor term appears in the same text.
 # (e.g. there is a CN Sinchi Roca in Huánuco with an unrelated conflict).
-ANCHORS={'sinchi roca':['manseriche','datem','oleoducto','petroperu','derrame','pijuayal','loreto'],
+ANCHORS={'llata':['antamina','huamalies','fredill'],
+         'sinchi roca':['manseriche','datem','oleoducto','petroperu','derrame','pijuayal','loreto'],
          'corredor minero':['las bambas','apurimac','cotabambas','mara','mmg','chumbivilcas']}
 TAGS=[('Medida de fuerza',r'bloque|paro\b|protest|moviliz|toma de|marcha'),
       ('Violencia',r'enfrentamiento|herid|fallec|muert|detenid'),

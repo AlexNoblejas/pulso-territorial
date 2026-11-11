@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T23:22:58.318697+00:00",
+  "updated_at": "2026-11-11T00:02:11.815973+00:00",
   "window_days": 120,
   "feeds": [
     {
@@ -10,17 +10,17 @@
     {
       "feed": "https://elcomercio.pe/arc/outboundfeeds/google-news-feed/category/peru/?outputType=xml",
       "ok": true,
-      "items": 17
+      "items": 15
     },
     {
       "feed": "https://elcomercio.pe/arc/outboundfeeds/google-news-feed/category/economia/?outputType=xml",
       "ok": true,
-      "items": 63
+      "items": 64
     },
     {
       "feed": "https://larepublica.pe/rss/sociedad.xml",
       "ok": true,
-      "items": 70
+      "items": 71
     },
     {
       "feed": "https://larepublica.pe/rss/economia.xml",
@@ -89,7 +89,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.206579+00:00"
+      "first_seen": "2026-11-11T00:02:11.655849+00:00"
     },
     {
       "title": "Camión cisterna extraía petróleo crudo del Oleoducto Norperuano mediante conexión clandestina: Petroperú denuncia nuevo ataque",
@@ -106,7 +106,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.265372+00:00"
+      "first_seen": "2026-11-11T00:02:11.737458+00:00"
     },
     {
       "title": "Las Bambas entrega nuevos espacios para fortalecer la vida comunitaria de más de 150 pobladores de Antuyo",
@@ -123,7 +123,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.221801+00:00"
+      "first_seen": "2026-11-11T00:02:11.675158+00:00"
     },
     {
       "title": "Entrevista a Marco Gutierrez de Minera Las Bambas en el Congreso Excelencia Operacional 2026",
@@ -140,7 +140,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.222795+00:00"
+      "first_seen": "2026-11-11T00:02:11.675158+00:00"
     },
     {
       "title": "Robo de petróleo en Piura: PNP sorprende a conductor de cisterna extrayendo crudo del Oleoducto Norperuano",
@@ -157,7 +157,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.266386+00:00"
+      "first_seen": "2026-11-11T00:02:11.737458+00:00"
     },
     {
       "title": "Petroperú: intervienen cisterna cuando extraía crudo por conexión clandestina en oleoducto",
@@ -191,7 +191,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.267376+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Piura: intervienen a conductor de cisterna cuando presuntamente sustraía crudo del Oleoducto Norperuano en Sechura",
@@ -208,7 +208,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.267376+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Piura: intervienen cisterna cuando sustraía crudo del Oleoducto Norperuano en Sechura",
@@ -225,7 +225,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.266386+00:00"
+      "first_seen": "2026-11-11T00:02:11.737458+00:00"
     },
     {
       "title": "Intervienen cisterna por robo de crudo en el Oleoducto Norperuano",
@@ -242,7 +242,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.276367+00:00"
+      "first_seen": "2026-11-11T00:02:11.756768+00:00"
     },
     {
       "title": "“No vamos a permitir la reactivación petrolera”: pueblos indígenas exigen cumplir acuerdos del Lote 192 en Loreto",
@@ -259,7 +259,7 @@
       "tags": [
         "Diálogo y acuerdos"
       ],
-      "first_seen": "2026-11-10T23:22:58.289371+00:00"
+      "first_seen": "2026-11-11T00:02:11.776162+00:00"
     },
     {
       "title": "“Petroperú debe ver cómo se arregla con la nueva operadora del Lote 192 para cumplir con las comunidades”",
@@ -276,7 +276,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.287369+00:00"
+      "first_seen": "2026-11-11T00:02:11.774165+00:00"
     },
     {
       "title": "Perú: Indígenas anuncian conflicto sino se respetan acuerdos en Lote 192",
@@ -293,7 +293,7 @@
       "tags": [
         "Diálogo y acuerdos"
       ],
-      "first_seen": "2026-11-10T23:22:58.286369+00:00"
+      "first_seen": "2026-11-11T00:02:11.774165+00:00"
     },
     {
       "title": "Concluye exitosamente III Feria Emplea Perú Minero organizada por CETEMIN junto a Las Bambas y Ferreyros en Abancay",
@@ -310,7 +310,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.223792+00:00"
+      "first_seen": "2026-11-11T00:02:11.677167+00:00"
     },
     {
       "title": "Pronis garantiza presupuesto para equipar el Hospital de Challhuahuacho",
@@ -327,7 +327,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+      "first_seen": "2026-11-11T00:02:11.702006+00:00"
     },
     {
       "title": "Empresa que operará el Lote 192- PetroLoreto, dice a los APUS que no pagarán las deudas dejadas por Altamesa",
@@ -346,7 +346,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.290377+00:00"
+      "first_seen": "2026-11-11T00:02:11.778170+00:00"
     },
     {
       "title": "Apurímac: Las Bambas entrega camión volquete a la comunidad de Chila, en Chalhuahuacho",
@@ -363,7 +363,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.223792+00:00"
+      "first_seen": "2026-11-11T00:02:11.677167+00:00"
     },
     {
       "title": "Petroperú detecta 12 conexiones clandestinas en el Oleoducto Norperuano desde junio",
@@ -380,7 +380,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.268378+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Apurímac: Transforman fibra de alpaca en productos con valor agregado en Challhuahuacho",
@@ -397,7 +397,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+      "first_seen": "2026-11-11T00:02:11.702006+00:00"
     },
     {
       "title": "Oleoducto Norperuano registra 12 conexiones clandestinas en los últimos cinco meses",
@@ -414,7 +414,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.267376+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Petroperú y Cheiron ingresaron al Lote 192 con inversiones por US$230 millones",
@@ -431,7 +431,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.287369+00:00"
+      "first_seen": "2026-11-11T00:02:11.774165+00:00"
     },
     {
       "title": "MMG traza futuro para Las Bambas: tajo Sulfobamba podría acelerarse y asoma más producción",
@@ -448,7 +448,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.222795+00:00"
+      "first_seen": "2026-11-11T00:02:11.675158+00:00"
     },
     {
       "title": "Defensor Patibamba pide a la LINFA revisar el estadio de Fuerabamba antes de la vuelta",
@@ -467,7 +467,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+      "first_seen": "2026-11-11T00:02:11.691471+00:00"
     },
     {
       "title": "Petroperú detectó una nueva conexión clandestina en el Oleoducto Norperuano con mangueras de dos pulgadas y válvulas",
@@ -484,7 +484,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.266386+00:00"
+      "first_seen": "2026-11-11T00:02:11.737458+00:00"
     },
     {
       "title": "Lote 192: Petroloreto asumirá el 75% de participación y la operación por 27 años",
@@ -501,7 +501,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.288384+00:00"
+      "first_seen": "2026-11-11T00:02:11.776162+00:00"
     },
     {
       "title": "Lote 192: Petroperú y Cheiron invertirán US$ 230 millones",
@@ -518,7 +518,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.289371+00:00"
+      "first_seen": "2026-11-11T00:02:11.776162+00:00"
     },
     {
       "title": "Gobierno autoriza ingreso de Petroloreto al Lote 192: empresa tendrá el 75% y Petroperú conservará el 25%",
@@ -535,7 +535,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.286369+00:00"
+      "first_seen": "2026-11-11T00:02:11.772156+00:00"
     },
     {
       "title": "Reactivarán operaciones en Lote 192",
@@ -552,7 +552,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.289371+00:00"
+      "first_seen": "2026-11-11T00:02:11.778170+00:00"
     },
     {
       "title": "Perupetro suscribe modificación contractual del Lote 192 para reactivar la producción petrolera en Loreto",
@@ -569,7 +569,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.288384+00:00"
+      "first_seen": "2026-11-11T00:02:11.776162+00:00"
     },
     {
       "title": "Petroloreto se incorpora como socio estratégico de Petroperú en el Lote 192",
@@ -586,7 +586,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.285383+00:00"
+      "first_seen": "2026-11-11T00:02:11.772156+00:00"
     },
     {
       "title": "Petrolera egipcia operará el Lote 192, el de mayores reservas del Perú",
@@ -603,7 +603,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.285383+00:00"
+      "first_seen": "2026-11-11T00:02:11.772156+00:00"
     },
     {
       "title": "Lote 192: Petroloreto asumirá el 75% y operará el yacimiento durante 27 años",
@@ -620,7 +620,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.286369+00:00"
+      "first_seen": "2026-11-11T00:02:11.774165+00:00"
     },
     {
       "title": "🚨 PETROLORETO S.A.C. asume el 75 % del Lote 192 y será socio estratégico de Petroperú por 27 años",
@@ -637,7 +637,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.287369+00:00"
+      "first_seen": "2026-11-11T00:02:11.774165+00:00"
     },
     {
       "title": "PETROLORETO S.A.C. asume el 75 % del Lote 192 y será socio estratégico de Petroperú por 27 años",
@@ -654,7 +654,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.287369+00:00"
+      "first_seen": "2026-11-11T00:02:11.774165+00:00"
     },
     {
       "title": "Perupetro suscribe modificación del contrato de licencia con Petroperú y Cheiron para reactivar lote 192",
@@ -671,7 +671,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.288384+00:00"
+      "first_seen": "2026-11-11T00:02:11.776162+00:00"
     },
     {
       "title": "Las Bambas produjo 310 484 toneladas de cobre de enero a setiembre del 2026",
@@ -688,7 +688,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.222795+00:00"
+      "first_seen": "2026-11-11T00:02:11.675158+00:00"
     },
     {
       "title": "Las Bambas contribuyó con el 15.2% de la producción nacional de cobre en agosto del 2026",
@@ -705,7 +705,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+      "first_seen": "2026-11-11T00:02:11.677167+00:00"
     },
     {
       "title": "Apurímac: culminan al 100 % trabajos de infraestructura en el Hospital de Challhuahuacho",
@@ -722,7 +722,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+      "first_seen": "2026-11-11T00:02:11.705739+00:00"
     },
     {
       "title": "Nueva conexión clandestina en el Oleoducto Norperuano provoca contingencia en Olmos",
@@ -739,7 +739,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.268378+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Petroperú detecta nueva conexión clandestina en el Oleoducto Norperuano",
@@ -756,7 +756,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.269389+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Petroperú activa plan de respuesta ante contingencia en el Oleoducto Norperuano",
@@ -773,7 +773,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.266386+00:00"
+      "first_seen": "2026-11-11T00:02:11.737458+00:00"
     },
     {
       "title": "Petroperú reporta nueve conexiones clandestinas en el Oleoducto Norperuano desde junio de 2026",
@@ -790,7 +790,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.266386+00:00"
+      "first_seen": "2026-11-11T00:02:11.737458+00:00"
     },
     {
       "title": "Petroperú asumirá el 100% del Lote 192 tras cesión de Altamesa",
@@ -809,7 +809,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.285383+00:00"
+      "first_seen": "2026-11-11T00:02:11.772156+00:00"
     },
     {
       "title": "Petroperú asumirá 100% del Lote 192",
@@ -826,7 +826,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.286369+00:00"
+      "first_seen": "2026-11-11T00:02:11.772156+00:00"
     },
     {
       "title": "Petroperú volverá a tener el 100% del Lote 192 en Loreto, tras salida de Altamesa",
@@ -845,7 +845,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.289371+00:00"
+      "first_seen": "2026-11-11T00:02:11.776162+00:00"
     },
     {
       "title": "Petroperú tendrá el 100% de participación en el Lote 192 tras modificarse el contrato",
@@ -862,7 +862,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.290377+00:00"
+      "first_seen": "2026-11-11T00:02:11.778170+00:00"
     },
     {
       "title": "Lote 192: Petroperú asumirá el 100% de la operación tras aprobación del Gobierno",
@@ -879,7 +879,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.291171+00:00"
+      "first_seen": "2026-11-11T00:02:11.780177+00:00"
     },
     {
       "title": "Las Bambas: comunidad de Pamputa busca adquirir concesión minera de MMG en Apurímac",
@@ -896,7 +896,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+      "first_seen": "2026-11-11T00:02:11.677167+00:00"
     },
     {
       "title": "Las Bambas impulsa la lectura en 13 comunidades de Challhuahuacho con bibliotecas y recursos educativos",
@@ -913,7 +913,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.231188+00:00"
+      "first_seen": "2026-11-11T00:02:11.705739+00:00"
     },
     {
       "title": "Las Bambas fortalece la educación en Fuerabamba con tecnología y programa de convivencia escolar",
@@ -932,26 +932,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.231188+00:00"
-    },
-    {
-      "title": "Galería de Ganador Concurso Público Parque Zonal Sinchi Roca en Lima - 9",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZzRSMzNHZmh4My00U2pBSS1VSVJWWkU2NWhBbGViQWJMc25GOHdldXkybmJfOTlSU1hoSC1mS0dBa3hnMzRoTmsyblNYa0lvbFcxcGtrdTVqMkpCX0s0aVFFS05scEJfX2NaMkhDYXBiY3Y1TzU3SmE2djVvWm00XzI1Qk9lUjA4MkZzYlYwTWhTdFVobGRfSVVHTmxYWEEtMmRfeU5YMzNCNzlQcE0tek9NUk96cjg2?oc=5",
-      "outlet": "ArchDaily",
-      "published": "2026-10-09T18:26+00:00",
-      "snippet": "",
-      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
-      "id": "18b300d59eb5932f",
-      "companies": [
-        "hidrocarburos"
-      ],
-      "case_codes": [
-        "1403-0325"
-      ],
-      "tags": [
-        "Contexto"
-      ],
-      "first_seen": "2026-11-10T23:22:58.277373+00:00"
+      "first_seen": "2026-11-11T00:02:11.691471+00:00"
     },
     {
       "title": "Oleoducto Norperuano enfrenta octava conexión clandestina",
@@ -968,7 +949,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.268378+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Las Bambas se consolida entre las mineras con mejor reputación del Perú",
@@ -985,7 +966,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.226508+00:00"
+      "first_seen": "2026-11-11T00:02:11.681181+00:00"
     },
     {
       "title": "Las Bambas promueve proyecto productivo agropecuario para 16 comunidades de Challhuahuacho",
@@ -1002,7 +983,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.243022+00:00"
+      "first_seen": "2026-11-11T00:02:11.705739+00:00"
     },
     {
       "title": "Petroperú: Contraloría detecta indicio de irregularidad en servicio contratado para Lote 192",
@@ -1019,7 +1000,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.291171+00:00"
+      "first_seen": "2026-11-11T00:02:11.778170+00:00"
     },
     {
       "title": "Las Bambas: Empresas de Challhuahuacho obtienen la «Marca Perú»",
@@ -1036,7 +1017,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.243022+00:00"
+      "first_seen": "2026-11-11T00:02:11.705739+00:00"
     },
     {
       "title": "Las Bambas y CEPLAN impulsan planificación en el Corredor Vial Sur",
@@ -1053,7 +1034,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.225515+00:00"
+      "first_seen": "2026-11-11T00:02:11.681181+00:00"
     },
     {
       "title": "¿Corrupción en Petroperú? Faenón egipcio se adjudicaría Lote 192",
@@ -1070,7 +1051,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.291171+00:00"
+      "first_seen": "2026-11-11T00:02:11.778170+00:00"
     },
     {
       "title": "Petroperú alerta a las autoridades por sétima conexión clandestina en el Oleoducto Norperuano",
@@ -1087,83 +1068,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.268378+00:00"
-    },
-    {
-      "title": "Galería de Ganador Concurso Público Parque Zonal Sinchi Roca en Lima - 8",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdTlBaXJnUUY4VjdQVENHdEh3ZmxvLWM2NTZIZ09sbDFMYU9iXzV0aHJZS0c0LWZ0Mlp5Tmw0c0pBVkRIMXlfWUdxancwR01laEtFenRTUndQdk5WcWNfT3FpaVJlNG5uaDNuVFRsZGtkV2UyVEZpeDRiN2ZSRG81S1BudTVoOU50ZGFOTmtZaVhqZW9QaGpVc1RGa09SN21wX3laUVlYeUVEUDZDSzBpYmNVbWJwQkFs?oc=5",
-      "outlet": "ArchDaily",
-      "published": "2026-09-08T00:04+00:00",
-      "snippet": "",
-      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
-      "id": "91ad7306b1464410",
-      "companies": [
-        "hidrocarburos"
-      ],
-      "case_codes": [
-        "1403-0325"
-      ],
-      "tags": [
-        "Contexto"
-      ],
-      "first_seen": "2026-11-10T23:22:58.278376+00:00"
-    },
-    {
-      "title": "Galería de Ganador Concurso Público Parque Zonal Sinchi Roca en Lima - 3",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU3lOeEZMakFJc2txUG1BU2pNb3YwbDIxMHVhZjVmdUp0YXE1cm9ybERscWExdUF3QXVCZkFsVWZXa3JDc1FTaFdyZUZ3bDc4T1FuUXNkSUtzbWF3LWRJZFg5NUFMNDV4WTd6SXZCNG5YdV85VmlnUlJ5amNCbUptZllyMm5vU2RCNm9KQmhJcDc5SGZ0UjdYZHAtQWF2Slg5SUlmWmFuNzNJTFNwZldnLVNNTWtTa1NpLVFGMjhDNHQ0a0pORnpXY3RB?oc=5",
-      "outlet": "ArchDaily",
-      "published": "2026-09-07T22:02+00:00",
-      "snippet": "",
-      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
-      "id": "3eb63f944d1f16b5",
-      "companies": [
-        "hidrocarburos"
-      ],
-      "case_codes": [
-        "1403-0325"
-      ],
-      "tags": [
-        "Contexto"
-      ],
-      "first_seen": "2026-11-10T23:22:58.280361+00:00"
-    },
-    {
-      "title": "Sinchi Roca: informe de Serpar registró 24 mil árboles antes de que casi 10 hectáreas del parque fueran cedidas al Metropolitano",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTkJ2R0JTLUR5Z2ZTdXA3MTVRdXhUUHlJUUx3SnFqTjhJV3hVZ3lNcW1UXy1oSmoxbmdjdUdYZTM5SW15bThySjBvUndaOGpTQUJTbEhBMFBNMGR4d0lFRmhIMlB6QXFoQjdZemtUcVNRZkhjM2RvMEt2N0I1cGEwd1dpcVJmenJHLVpVV052Sy1YZUo4Q29zY2s1S0JuTkg2b1ZaSVcyeUpZcGpqb0RaWE9CcF96MWlHbDdZUWladmlkSmZ6VlZfN0dNcENCUUh3MV9Pb3lScHREWHlMdzcySEN0SC1IX056MDdQUkUzU1lIMF9DOGRfTlF2eGjSAZcCQVVfeXFMTWx4eFg2dnRCT2pfX3lxUWtheVBqRk85VUhMTlduYnd4SlhiVVJCS2tHN2JYN2NQUEx6cmdQbXlsN0ktUUpJRTlUNVZfQnZtajRNUlViNGNLOGJLWWVURjBTa0NoOXpFaVV4YnUxLTctbUN1SEQ2YWVHbTNQSXh1Z1oxUkc0QzZpYXdia2dBZmdvY3puLUhGRVVDdHJGVHVOVThmYnZUbm83V1ltd2hSQU1mYWMxdXpxQmJ3TWQ0YVNvNTlYcFM4bXZXbWxiZDBqV0p5b0p4bGwwNXRpWWNVNEZXNVJPZTZwQlkwcjZLY0JqX2NyeUo0OHJSa0VnS2JzSlh1WVdPWW0xOUxwbkNHSUtLWHZhMk5V?oc=5",
-      "outlet": "Infobae",
-      "published": "2026-09-02T07:00+00:00",
-      "snippet": "",
-      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
-      "id": "2aa0448ccdb14b0a",
-      "companies": [
-        "hidrocarburos"
-      ],
-      "case_codes": [
-        "1403-0325"
-      ],
-      "tags": [
-        "Contexto"
-      ],
-      "first_seen": "2026-11-10T23:22:58.277373+00:00"
-    },
-    {
-      "title": "Bosque de 24.000 árboles del parque Sinchi Roca en Comas desapareció tras cederse terreno al Metropolitano",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQem9WZXpqR0FoUWlzdERpeUN5Sm5pcTNMRVgyS1RzU1pPWExJRUFxaUFSdGlHRy0xWFl2MDNXeU9MZmN0YmJXc2RMMXZqSWFwTXdOUDd6VGtUTnpJWkcxUXNzTk9VRmk5QWM3RXROR3gwYThQdnJDcVl3aWhxN3hzV2k0My1wWnl0bWRvamNLMWhvcEptTzZZNVN0UVgxN2ZrdGJXWFhzODlMNXBkVG1FUk1UY3k2dUNWS3V2TExham5Sel9iZVg5SnZIMGJWenRyTzROUmRZNVpicV9kSFoxTjVpV0RQXzdxUk1B0gHwAUFVX3lxTE1vUXFJcENISXJqTm1xakhWeE45ak00Y0ltdjg1Nm1IVU44ZGpDY3pCSmxCUE84T1c5MDhuNDBaQzZSNkVmWks0SkRIRnBZMHJiaEdYOGdsTjdOa3BURzNsaWNhWHhtSFZNaGNOU25iUHMzeXBvR1F2aFZVZkxrUlhzU09rZVZYNU5FT0F2RlBBMUVyWFVjYUVrOHpyOVZhamxiWDVkU2pnTkdnUW1GOHJydUd4dk9BXzBlNFhGWDJ2V3l5UjdGU1ZLVnktRGZ6UjJsbjBsMHlUS3l4YUZoTzlNV2ljNDJfN25aQm1WWFNxbA?oc=5",
-      "outlet": "La República",
-      "published": "2026-08-31T07:00+00:00",
-      "snippet": "",
-      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
-      "id": "5a330076104472ef",
-      "companies": [
-        "hidrocarburos"
-      ],
-      "case_codes": [
-        "1403-0325"
-      ],
-      "tags": [
-        "Contexto"
-      ],
-      "first_seen": "2026-11-10T23:22:58.277373+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Petroperú avanza restructuración y buscará operador privado para Lote 192",
@@ -1180,7 +1085,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.291171+00:00"
+      "first_seen": "2026-11-11T00:02:11.778170+00:00"
     },
     {
       "title": "MMG reanuda operaciones en Las Bambas y sus acciones suben 2,8 % en Hong Kong",
@@ -1197,7 +1102,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+      "first_seen": "2026-11-11T00:02:11.677167+00:00"
     },
     {
       "title": "Perú: reanudan las operaciones en la mina Las Bambas, tras el accidente en el que murieron dos trabajadores",
@@ -1214,26 +1119,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.227512+00:00"
-    },
-    {
-      "title": "Más de 24 mil árboles del parque Sinchi Roca en Comas fueron deforestados, Municipalidad Metropolitana de Lima niega acusaciones",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNzg5VXpvQXdrZnA3MkFteEFkdkVnN21POXV6emlDdDVkN3lzNFFYSE5Oc05MMzJraFFwX2Q1UDhFMnlwUkRZeUpHeW5ncWNaeVltX0ZGd1Nka1FPYncyNW1OV08xRG1jXzl4V3ZMVkNsSUQzMmhYQktwSUluYWxqU1ZEWFR0VjBxdWcteGx4UmJyUWpqX1BremQyMmZDVFFHR1hjYzR0eno2aE1CNHo2TUJfUVVBa094dnpXYTlGS0w0U3VDZlZqNlY4dGZqUktYZkVsRW1MUk15Q0NDckhpbUdBTGI3QVlmR0lEcDRLM01RTFFSZ2p0eHoyWVFZUQ?oc=5",
-      "outlet": "https://stakeholders.com.pe/",
-      "published": "2026-08-21T07:00+00:00",
-      "snippet": "",
-      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
-      "id": "3354035397e66b81",
-      "companies": [
-        "hidrocarburos"
-      ],
-      "case_codes": [
-        "1403-0325"
-      ],
-      "tags": [
-        "Contexto"
-      ],
-      "first_seen": "2026-11-10T23:22:58.277373+00:00"
+      "first_seen": "2026-11-11T00:02:11.683188+00:00"
     },
     {
       "title": "CEO de Las Bambas presenta avances de inversiones al MINEM",
@@ -1250,7 +1136,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+      "first_seen": "2026-11-11T00:02:11.679174+00:00"
     },
     {
       "title": "Mina Las Bambas, operada por MMG, suspende operaciones tras accidente fatal",
@@ -1267,7 +1153,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.227512+00:00"
+      "first_seen": "2026-11-11T00:02:11.683188+00:00"
     },
     {
       "title": "Las Bambas reiniciará actividades el 21 de agosto: mueren dos trabajadores en la mina de cobre",
@@ -1284,7 +1170,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.228623+00:00"
+      "first_seen": "2026-11-11T00:02:11.683188+00:00"
     },
     {
       "title": "Apurímac: Distribuyen semillas para garantizar la alimentación de ovinos en Challhuahuacho",
@@ -1301,7 +1187,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.243022+00:00"
+      "first_seen": "2026-11-11T00:02:11.705739+00:00"
     },
     {
       "title": "Sexta conexión clandestina afecta al Oleoducto Norperuano en Sechura",
@@ -1318,7 +1204,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.269389+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Petroperú detecta sexta conexión clandestina en el Oleoducto Norperuano en Sechura",
@@ -1335,7 +1221,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.268378+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Las Bambas pone en operación Fase I del nuevo Truck Shop",
@@ -1352,45 +1238,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.224253+00:00"
-    },
-    {
-      "title": "24 mil ejemplares forestales fueron recortados en el parque Sinchi Roca, pero autoridades niegan que hayan existido",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2ZscGRfeGlBVi1wSTlGUmVoY2xnRnFtZjYzWkFFM1RtTXB6aC10ZkxJTzRhM0NPSjNrdzhjMC10Q1F0dUpTYXJPaFZwekNFSHpPTk1iNXl2UTBvZHpNd21VVTMzWTFKZmZCb25GdFB5WlNDQkJYSHBoWTJKbjNWem9GV3YtNm5qa2UzMXhIQ1lOci1XM3R1M3ROSjQ1RXlfNTFqRWp2Nk1aWGJ5dmxr?oc=5",
-      "outlet": "Actualidad Ambiental",
-      "published": "2026-08-12T07:00+00:00",
-      "snippet": "",
-      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
-      "id": "8c4f474da46c9acd",
-      "companies": [
-        "hidrocarburos"
-      ],
-      "case_codes": [
-        "1403-0325"
-      ],
-      "tags": [
-        "Contexto"
-      ],
-      "first_seen": "2026-11-10T23:22:58.276367+00:00"
-    },
-    {
-      "title": "Galería de Ganador Concurso Público Parque Zonal Sinchi Roca en Lima - 18",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHdBZE9qSEtWVXVZRWg5QXJhQnlyT1kyS1AwdWRwa1BxTjgybVZkamhtMjZtMkpJbW5TRUt6dEpPcUZJdnFWOE9LWklFemFkTWg2aG50dVFVU21LcGt3Q3Y0X0R1T3NfT0FPaG13alpDbGNkSVcxd3N5bnR1N2diS1FKZHB1VzZ0MnRGR0p6RENaTXYyUnlXbEF2aFJiOGFTLWhGeU5EUWwzdw?oc=5",
-      "outlet": "ArchDaily",
-      "published": "2026-08-11T19:51+00:00",
-      "snippet": "",
-      "feed": "https://news.google.com/rss/search?q=%22Sinchi+Roca%22+OR+Pijuayal&hl=es-419&gl=PE&ceid=PE:es-419",
-      "id": "9584b508baca9247",
-      "companies": [
-        "hidrocarburos"
-      ],
-      "case_codes": [
-        "1403-0325"
-      ],
-      "tags": [
-        "Contexto"
-      ],
-      "first_seen": "2026-11-10T23:22:58.281374+00:00"
+      "first_seen": "2026-11-11T00:02:11.677167+00:00"
     },
     {
       "title": "Las Bambas abre nuevas vacantes laborales: Conoce cómo postular",
@@ -1407,7 +1255,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.225515+00:00"
+      "first_seen": "2026-11-11T00:02:11.679174+00:00"
     },
     {
       "title": "Las Bambas fortalece el desarrollo empresarial de siete comunidades con nueva flota para el Corredor Vial del Sur",
@@ -1424,7 +1272,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.224253+00:00"
+      "first_seen": "2026-11-11T00:02:11.679174+00:00"
     },
     {
       "title": "Antamina, Las Bambas y Cerro Verde concentran el 48.4 % de la producción nacional de cobre",
@@ -1441,7 +1289,7 @@
       "tags": [
         "Operación y producción"
       ],
-      "first_seen": "2026-11-10T23:22:58.226508+00:00"
+      "first_seen": "2026-11-11T00:02:11.681181+00:00"
     },
     {
       "title": "Las Bambas instala la planta de compostaje automatizada más grande en la minería peruana",
@@ -1458,7 +1306,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.227512+00:00"
+      "first_seen": "2026-11-11T00:02:11.681181+00:00"
     },
     {
       "title": "Petroperú alerta sobre incremento de conexiones clandestinas al Oleoducto Norperuano",
@@ -1475,7 +1323,7 @@
       "tags": [
         "Seguridad"
       ],
-      "first_seen": "2026-11-10T23:22:58.269389+00:00"
+      "first_seen": "2026-11-11T00:02:11.744008+00:00"
     },
     {
       "title": "Las Bambas recibe doble reconocimiento de CEPLAN por desarrollo en Apurímac",
@@ -1492,7 +1340,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.225515+00:00"
+      "first_seen": "2026-11-11T00:02:11.679174+00:00"
     },
     {
       "title": "Las Bambas impulsa servicios públicos en Challhuahuacho con S/ 5.2 millones",
@@ -1509,7 +1357,7 @@
       "tags": [
         "Contexto"
       ],
-      "first_seen": "2026-11-10T23:22:58.243022+00:00"
+      "first_seen": "2026-11-11T00:02:11.707751+00:00"
     }
   ],
   "method": "RSS y sitemaps permitidos; titular, fecha, medio, enlace y extracto breve del feed. Etiquetas por reglas, no verificadas."

@@ -1,0 +1,634 @@
+{
+ "name": "ogasa",
+ "label": "Informes mensuales MINAM/OGASA (SINIA)",
+ "ok": true,
+ "items": [
+  {
+   "id": "c9a1638d8e2c2873",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/1.%20Informe%20mensual%20OGASA%20-%20Julio%202026.pdf",
+   "page": 17,
+   "quote": "3 Seguimiento Oriente Loreto Plan de Cierre de Brechas para la población del ámbito petrolero de las provincias de Datem del Marañón, Loreto, Alto Amazonas, Requena y Maynas. 10JUL2026: mediante el Oficio N.° D000562 - 2026-PCM-SSFD, la PCM solicitó a diversas instituciones públicas la remisión de información correspondiente al Reporte Semestral 2026 -I del Plan de Cierre de Brechas para la población del ámbito petrolero de las provincias d e Datem del Marañón, Loreto, Alto A",
+   "title": "Informe N.º 07-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-07",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-07-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "4977abf997058848",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/1.%20Informe%20mensual%20OGASA%20-%20Julio%202026.pdf",
+   "page": 18,
+   "quote": "4 Seguimiento Oriente Loreto Consulta previa del lote 192. 02JUL2026: la Asamblea de la Federación de Comunidades Nativas de la Cuenca del Corrientes (FECONACOR) emitió un pronunciamiento mediante el cual exigió al Congreso de la República la aprobación del Proyecto de Ley N.° 13084, orientado a atender la problemática de l a remediación ambiental en el Lote 192 (Loreto).",
+   "title": "Informe N.º 07-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-07",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-07-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "218d8d16214d7ca6",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/1.%20Informe%20mensual%20OGASA%20-%20Julio%202026.pdf",
+   "page": 22,
+   "quote": "9 N.º Línea de acción Zona Departamento Caso Situación actual 21 Tratamiento Suroriente Apurímac Grupo de Trabajo de naturaleza temporal denominado “Espacio de diálogo para el desarrollo de la provincia de Cotabambas y distrito de progreso de la provincia de Grau”. No hay información relevante del mes. 22 Tratamiento Suroriente Apurímac Diálogo entre el ejecutivo con el distrito de Challhuahuacho (decreto supremo N°005 -2016- PCM). No hay información relevante del mes.",
+   "title": "Informe N.º 07-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-07",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-07-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "561c76e00d947250",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/1.%20Informe%20mensual%20OGASA%20-%20Julio%202026.pdf",
+   "page": 22,
+   "quote": "22 Tratamiento Suroriente Apurímac Diálogo entre el ejecutivo con el distrito de Challhuahuacho (decreto supremo N°005 -2016- PCM). No hay información relevante del mes. 23 Seguimiento Sur Puno Comisión Multisectorial para la prevención y recuperación ambiental de la cuenca del Lago Titicaca y sus afluentes. No hay información relevante del mes.",
+   "title": "Informe N.º 07-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-07",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-07-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "feb017de26bab88b",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/1.%20Informe%20mensual%20OGASA%20-%20Julio%202026.pdf",
+   "page": 24,
+   "quote": "11 Anexo 2: Casos priorizados OEFA N.º Departamento Actividad Línea de Acción Espacio / caso 1 Apurímac Minería Tratamiento Comisión Multisectorial Cotabambas. 2 Junín Minería Seguimiento Comité Chinchaycocha. 3 Loreto Hidrocarburos Tratamiento Mesa de Trabajo Cuatro Cuencas. 4 Moquegua Minería Tratamiento Mesa de Diálogo del Río Coralaque. 5 Puno Minería Tratamiento Mesa de Trabajo de Llallimayo. 6 Cusco Minería Tratamiento Mesa de Diálogo de Espinar.",
+   "title": "Informe N.º 07-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-07",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-07-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "ea5baaf386c8e0bb",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/1.%20Informe%20mensual%20OGASA%20-%20Julio%202026.pdf",
+   "page": 24,
+   "quote": "10 Apurímac Minería Prevención Problemática socioambiental - Comunidad campesina Huancuire - Las Bambas. 11 La libertad Industria Seguimiento Mesa de Trabajo Salaverry. 12 Apurímac Minería Prevención Reuniones Challhuahuacho. 13 Pasco Minería Tratamiento Mesa de Trabajo Plan río Ragra. 14 Loreto Hidrocarburos Tratamiento Consulta Previa Lote 8. 15 Ancash Minería Seguimiento Problemática Mesa Metales de Áncash.",
+   "title": "Informe N.º 07-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-07",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-07-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1229-0621"
+   ],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "d71c7de8018106f2",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/1.%20Informe%20mensual%20OGASA%20-%20Julio%202026.pdf",
+   "page": 24,
+   "quote": "12 Apurímac Minería Prevención Reuniones Challhuahuacho. 13 Pasco Minería Tratamiento Mesa de Trabajo Plan río Ragra. 14 Loreto Hidrocarburos Tratamiento Consulta Previa Lote 8. 15 Ancash Minería Seguimiento Problemática Mesa Metales de Áncash. 16 Lima Industria Prevención Problemática Ladrilleras de Huachipa. 17 Callao / Lima Hidrocarburos Seguimiento Plan Multisectorial de la Zona Marino Costera – 2026.",
+   "title": "Informe N.º 07-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-07",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-07-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "0dcea6d7e3fd7b27",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/1.%20Informe%20mensual%20OGASA%20-%20Julio%202026.pdf",
+   "page": 24,
+   "quote": "20 Piura Hidrocarburos Prevención Problemática Derrame de Hidrocarburos en Talara 21 Loreto Hidrocarburos Tratamiento Problemática socioambiental CCNN / Petroperú EA km+315 tramo II ONP. 22 Cusco Minería Tratamiento Problemática Socioambiental de las CC en el ámbito de Antapaccay. 23 Cusco Hidrocarburos Tratamiento Mesa Técnica Emergencia Ambiental KP43 - TGP Fuente: Elaboración OGASA.",
+   "title": "Informe N.º 07-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-07",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-07-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "41dce02a426ef468",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Reporte%20mensual%20OGASA%20-%20Junio%202026.pdf",
+   "page": 18,
+   "quote": "5 N.º Línea de acción Zona Departamento Caso Situación actual 3 Seguimiento Oriente Loreto Plan de Cierre de Brechas para la población del ámbito petrolero de las provincias de Datem del Marañón, Loreto, Alto Amazonas, Requena y Maynas. Sin información relevante en este mes 4 Seguimiento Oriente Loreto Consulta previa del lote 192.",
+   "title": "Informe N.º 06-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-06",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-06-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "482e5323c244d4a1",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Reporte%20mensual%20OGASA%20-%20Junio%202026.pdf",
+   "page": 18,
+   "quote": "Sin información relevante en este mes 4 Seguimiento Oriente Loreto Consulta previa del lote 192. 10JUN2026: los dirigentes de federaciones indígenas PUINAMUDT llegaron a Lima para exigir la aprobación de proyecto de ley N° 13084/2025-PE para destrabar la remediación ambiental de 119 sitios contaminados en las cuencas del Pastaza, Tigre y Marañón en Loreto.",
+   "title": "Informe N.º 06-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-06",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-06-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "78c33231fc32aa27",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Reporte%20mensual%20OGASA%20-%20Junio%202026.pdf",
+   "page": 22,
+   "quote": "21 Tratamiento Suroriente Apurímac Grupo de Trabajo de naturaleza temporal denominado “Espacio de diálogo para el desarrollo de la provincia de Cotabambas y distrito de progreso de la provincia de Grau”. Sin información relevante en este mes 22 Tratamiento Suroriente Apurímac Diálogo entre el ejecutivo con el distrito de Challhuahuacho (decreto supremo N°005-2016- PCM).",
+   "title": "Informe N.º 06-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-06",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-06-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "2b0efc66444792c9",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Reporte%20mensual%20OGASA%20-%20Junio%202026.pdf",
+   "page": 22,
+   "quote": "Sin información relevante en este mes 22 Tratamiento Suroriente Apurímac Diálogo entre el ejecutivo con el distrito de Challhuahuacho (decreto supremo N°005-2016- PCM). Sin información relevante en este mes 23 Seguimiento Sur Puno Comisión Multisectorial para la prevención y recuperación ambiental de la cuenca del Lago Titicaca y sus afluentes.",
+   "title": "Informe N.º 06-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-06",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-06-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "3abc4b63e9329cfd",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Reporte%20mensual%20OGASA%20-%20Junio%202026.pdf",
+   "page": 25,
+   "quote": "12 Anexo 2: Casos priorizados OEFA N.º Departamento Actividad Línea de Acción Espacio / caso 1 Apurímac Minería Tratamiento Comisión Multisectorial Cotabambas. 2 Junín Minería Seguimiento Comité Chinchaycocha. 3 Loreto Hidrocarburos Tratamiento Mesa de Trabajo Cuatro Cuencas. 4 Moquegua Minería Tratamiento Mesa de Diálogo del Río Coralaque. 5 Puno Minería Tratamiento Mesa de Trabajo de Llallimayo. 6 Cusco Minería Tratamiento Mesa de Diálogo de Espinar.",
+   "title": "Informe N.º 06-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-06",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-06-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "4fb36d03019ebf32",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Reporte%20mensual%20OGASA%20-%20Junio%202026.pdf",
+   "page": 25,
+   "quote": "10 Apurímac Minería Prevención Problemática socioambiental - Comunidad campesina Huancuire - Las Bambas. 11 La libertad Industria Seguimiento Mesa de Trabajo Salaverry. 12 Apurímac Minería Prevención Reuniones Challhuahuacho. 13 Pasco Minería Tratamiento Mesa de Trabajo Plan río Ragra. 14 Loreto Hidrocarburos Tratamiento Consulta Previa Lote 8. 15 Ancash Minería Seguimiento Problemática Mesa Metales de Áncash.",
+   "title": "Informe N.º 06-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-06",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-06-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1229-0621"
+   ],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "ce8616171d8366eb",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Reporte%20mensual%20OGASA%20-%20Junio%202026.pdf",
+   "page": 25,
+   "quote": "12 Apurímac Minería Prevención Reuniones Challhuahuacho. 13 Pasco Minería Tratamiento Mesa de Trabajo Plan río Ragra. 14 Loreto Hidrocarburos Tratamiento Consulta Previa Lote 8. 15 Ancash Minería Seguimiento Problemática Mesa Metales de Áncash. 16 Lima Industria Prevención Problemática Ladrilleras de Huachipa. 17 Callao / Lima Hidrocarburos Seguimiento Plan Multisectorial de la Zona Marino Costera – 2026.",
+   "title": "Informe N.º 06-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-06",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-06-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "5d4d1785e70e7bf1",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Reporte%20mensual%20OGASA%20-%20Junio%202026.pdf",
+   "page": 25,
+   "quote": "20 Piura Hidrocarburos Prevención Problemática Derrame de Hidrocarburos en Talara 21 Loreto Hidrocarburos Tratamiento Problemática socioambiental CCNN / Petroperú EA km+315 tramo II ONP. 22 Cusco Minería Tratamiento Problemática Socioambiental de las CC en el ámbito de Antapaccay. 23 Cusco Hidrocarburos Tratamiento Mesa Técnica Emergencia Ambiental KP43 - TGP Fuente: Elaboración OGASA.",
+   "title": "Informe N.º 06-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-06",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-06-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "6f282adafab70c81",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Informe-anexo%20OGASA-MAYO2026.pdf",
+   "page": 17,
+   "quote": "3 Seguimiento Oriente Loreto Plan de Cierre de Brechas para la población del ámbito petrolero de las provincias de Datem del Marañón, Loreto, Alto Amazonas, Requena y Maynas. Sin información relevante en este mes 4 Seguimiento Oriente Loreto Consulta previa del lote 192.",
+   "title": "Informe N.º 05-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-05",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-05-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "e6839bd015ad79ed",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Informe-anexo%20OGASA-MAYO2026.pdf",
+   "page": 17,
+   "quote": "Sin información relevante en este mes 4 Seguimiento Oriente Loreto Consulta previa del lote 192. 06-07MAY2026: en Nauta -Loreto se realizó el Taller de socialización del diagnóstico, priorización de brechas e identificación y priorización de intervenciones, convocado por la PCM en el marco de la Ley N° 32422 Ley que dispone la creación del Fideicomiso para el Desarrollo Fronterizo de Loreto y su reglamento aprobado mediante DS N° 037 - 2026-PCM.",
+   "title": "Informe N.º 05-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-05",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-05-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "a8042875f53f846f",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Informe-anexo%20OGASA-MAYO2026.pdf",
+   "page": 20,
+   "quote": "21 Tratamiento Suroriente Apurímac Grupo de Trabajo de naturaleza temporal denominado “Espacio de diálogo para el desarrollo de la provincia de Cotabambas y distrito de progreso de la provincia de Grau”. 11MAY2026: en la sede de la PCM, se desarrolló una reunión de coordinación entre los sectores coordinadores de subgrupos de trabajo (PCM, MTC, MINEM, MININTER, MINJUSDH) que aún están vigentes.",
+   "title": "Informe N.º 05-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-05",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-05-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "156dc6f391585575",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Informe-anexo%20OGASA-MAYO2026.pdf",
+   "page": 21,
+   "quote": "22 Tratamiento Suroriente Apurímac Diálogo entre el ejecutivo con el distrito de Challhuahuacho (decreto supremo N°005 -2016- PCM). 27MAY2026: se desarrolló una sesión de la Mea Técnica de Challhuahuacho con la participación de representantes del MINEDU, MVCS, MINEM, MTC, MIDAGRI, MINSA y MEF, así como de la municipalidad, organizaciones sociales y comunidades del distrito.",
+   "title": "Informe N.º 05-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-05",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-05-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "eb4d9f311ee9d319",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Informe-anexo%20OGASA-MAYO2026.pdf",
+   "page": 23,
+   "quote": "10 Anexo 2: Casos priorizados OEFA N.º Departamento Actividad Línea de Acción Espacio / caso 1 Apurímac Minería Tratamiento Comisión Multisectorial Cotabambas. 2 Junín Minería Seguimiento Comité Chinchaycocha. 3 Loreto Hidrocarburos Tratamiento Mesa de Trabajo Cuatro Cuencas. 4 Moquegua Minería Tratamiento Mesa de Diálogo del Río Coralaque. 5 Puno Minería Tratamiento Mesa de Trabajo de Llallimayo. 6 Cusco Minería Tratamiento Mesa de Diálogo de Espinar.",
+   "title": "Informe N.º 05-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-05",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-05-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "8369cda20307c0c4",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Informe-anexo%20OGASA-MAYO2026.pdf",
+   "page": 23,
+   "quote": "10 Apurímac Minería Prevención Problemática socioambiental - Comunidad campesina Huancuire - Las Bambas. 11 La libertad Industria Seguimiento Mesa de Trabajo Salaverry. 12 Apurímac Minería Prevención Reuniones Challhuahuacho. 13 Pasco Minería Tratamiento Mesa de Trabajo Plan río Ragra. 14 Loreto Hidrocarburos Tratamiento Consulta Previa Lote 8. 15 Ancash Minería Seguimiento Problemática Mesa Metales de Áncash.",
+   "title": "Informe N.º 05-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-05",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-05-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [
+    "1229-0621"
+   ],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "2f15e61c99a5a4a2",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Informe-anexo%20OGASA-MAYO2026.pdf",
+   "page": 23,
+   "quote": "12 Apurímac Minería Prevención Reuniones Challhuahuacho. 13 Pasco Minería Tratamiento Mesa de Trabajo Plan río Ragra. 14 Loreto Hidrocarburos Tratamiento Consulta Previa Lote 8. 15 Ancash Minería Seguimiento Problemática Mesa Metales de Áncash. 16 Lima Industria Prevención Problemática Ladrilleras de Huachipa. 17 Callao / Lima Hidrocarburos Seguimiento Plan Multisectorial de la Zona Marino Costera – 2026.",
+   "title": "Informe N.º 05-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-05",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-05-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "mineria"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Diálogo y acuerdos",
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "ed8c525bd525ecda",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/Informe-anexo%20OGASA-MAYO2026.pdf",
+   "page": 23,
+   "quote": "20 Piura Hidrocarburos Prevención Problemática Derrame de Hidrocarburos en Talara 21 Loreto Hidrocarburos Tratamiento Problemática socioambiental CCNN / Petroperú EA km+315 tramo II ONP. 22 Cusco Minería Tratamiento Problemática Socioambiental de las CC en el ámbito de Antapaccay. 23 Cusco Hidrocarburos Tratamiento Mesa Técnica Emergencia Ambiental KP43 - TGP Fuente: Elaboración OGASA.",
+   "title": "Informe N.º 05-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-05",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-05-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  },
+  {
+   "id": "4311c343ce0ed2f8",
+   "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/1.%20Reporte%20mensual%20OGASA%20-%20Marzo%202026.pdf",
+   "page": 7,
+   "quote": "7 Cuadro 3: Relación de reportes de alerta temprana MINAM: marzo 2026 N.º Zona Departamento Alerta Fecha 1 Oriente Loreto RAT 07-2026-MINAM-OGASA - Derrame de crudo en la Estación 1 del Oleoducto Norperuano. Cercana a las comunidades de San José de Saramuro y Saramurillo (Loreto). 09 de marzo de 2026 2 Centro Lima RAT 08 -2026-MINAM-OGASA - Se construye siderúrgica en Chilca (Cañete) sin licencia ni estudio de impacto ambiental.",
+   "title": "Informe N.º 03-2026-OGASA · conflictos socioambientales",
+   "date": null,
+   "period": "2026-03",
+   "connector": "SINIA · MINAM/OGASA",
+   "literal": true,
+   "kind": "Informe",
+   "document_url": "https://sinia.minam.gob.pe/documentos/informe-ndeg-03-2026-ogasa-conflictos-socioambientales",
+   "institution_key": "minam",
+   "institution": "MINAM",
+   "role": "Ejecutivo · ambiente",
+   "lens": "Prioriza la dimensión socioambiental y el seguimiento de compromisos ambientales.",
+   "companies": [
+    "hidrocarburos"
+   ],
+   "case_codes": [],
+   "tags": [
+    "Ambiental"
+   ]
+  }
+ ],
+ "fetched": 25,
+ "new": 0,
+ "requests": 13,
+ "error": null,
+ "checked_at": "2026-11-10T23:54:50.743578+00:00",
+ "seconds": 25.9
+}

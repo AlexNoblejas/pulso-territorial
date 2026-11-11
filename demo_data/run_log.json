@@ -1,0 +1,69 @@
+{
+ "runs": [
+  {
+   "started_at": "2026-11-10T23:52:05.366368+00:00",
+   "finished_at": "2026-11-10T23:55:57.260968+00:00",
+   "trigger": "local · prueba antes del despliegue",
+   "run_url": null,
+   "ok": true,
+   "steps": [
+    {
+     "step": "defensoria",
+     "label": "Reporte mensual de la Defensoría (HTML/PDF)",
+     "ok": true,
+     "detail": "257 enlaces en el catálogo · 2 reportes nuevos · 0 ya conocidos",
+     "seconds": 68.5
+    },
+    {
+     "step": "prensa",
+     "label": "Prensa: El Comercio, La República, Andina y Google News",
+     "ok": true,
+     "detail": "83 notas en 120 días · 14/14 feeds respondieron",
+     "seconds": 22.9
+    },
+    {
+     "step": "gobpe",
+     "label": "gob.pe: PCM, MINEM, MINAM, OEFA, ANA, PNP, Mininter, Petroperú",
+     "ok": true,
+     "detail": "219 registros leídos · 0 nuevos · 219 acumulados · 24 solicitudes",
+     "seconds": 48.1
+    },
+    {
+     "step": "ogasa",
+     "label": "SINIA: informes mensuales MINAM/OGASA (PDF)",
+     "ok": true,
+     "detail": "25 registros leídos · 0 nuevos · 25 acumulados · 13 solicitudes",
+     "seconds": 25.9
+    },
+    {
+     "step": "willaqniki",
+     "label": "PCM: revista Willaqniki (PDF)",
+     "ok": true,
+     "detail": "53 registros leídos · 0 nuevos · 50 acumulados · 9 solicitudes",
+     "seconds": 49.5
+    },
+    {
+     "step": "geoperu",
+     "label": "GEOPERÚ: capas territoriales por ArcGIS REST",
+     "ok": true,
+     "detail": "mineria: 505 elementos en 5 capas · hidrocarburos: 361 elementos en 6 capas",
+     "seconds": 3.1
+    },
+    {
+     "step": "corpus",
+     "label": "Verificación del corpus curado (SHA-256 y cita literal)",
+     "ok": true,
+     "detail": "6 PDF con hash correcto · 8 citas literales comprobadas",
+     "seconds": 6.8
+    },
+    {
+     "step": "cartera",
+     "label": "Reconstrucción de carteras y alertas",
+     "ok": true,
+     "detail": "6 casos · 7 alertas activas",
+     "seconds": 7.1
+    }
+   ]
+  }
+ ]
+}

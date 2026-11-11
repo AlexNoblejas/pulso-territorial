@@ -145,6 +145,8 @@ def rebuild():
     temporary=path.with_suffix('.tmp')
     temporary.write_text(json.dumps(snapshot,ensure_ascii=False,indent=2),encoding='utf-8')
     temporary.replace(path)
+    from . import national
+    national.build()  # every conflict of the same report, for the country view and Lore
     return snapshot
 
 

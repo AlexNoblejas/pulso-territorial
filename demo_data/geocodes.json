@@ -656,5 +656,1789 @@
   "district": "CHAVIN DE PARIARCA",
   "ubigeo": "100503",
   "source": "GEOPERÚ límite distrital"
+ },
+ "COJATA|HUANCANE": {
+  "coordinates": [
+   -69.4444,
+   -15.026
+  ],
+  "district": "COJATA",
+  "province": "HUANCANE",
+  "ubigeo": "210602",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COJATA": {
+  "coordinates": [
+   -69.44623,
+   -15.018
+  ],
+  "precision": "punto representativo distrital",
+  "district": "COJATA",
+  "province": "HUANCANE",
+  "ubigeo": "210602",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CHALLHUAHUACHO|COTABAMBAS": {
+  "coordinates": [
+   -72.272089,
+   -14.1735
+  ],
+  "district": "CHALLHUAHUACHO",
+  "province": "COTABAMBAS",
+  "ubigeo": "030506",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COASA|CARABAYA": {
+  "coordinates": [
+   -69.835381,
+   -13.6705
+  ],
+  "district": "COASA",
+  "province": "CARABAYA",
+  "ubigeo": "210304",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COASA": {
+  "coordinates": [
+   -69.835732,
+   -13.66125
+  ],
+  "precision": "punto representativo distrital",
+  "district": "COASA",
+  "province": "CARABAYA",
+  "ubigeo": "210304",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SANTO DOMINGO DE LA CAPILLA|CUTERVO": {
+  "coordinates": [
+   -78.847804,
+   -6.244
+  ],
+  "district": "SANTO DOMINGO DE LA CAPILLA",
+  "province": "CUTERVO",
+  "ubigeo": "060612",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SANTO DOMINGO DE LA CAPILLA": {
+  "coordinates": [
+   -78.845937,
+   -6.2436
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SANTO DOMINGO DE LA CAPILLA",
+  "province": "CUTERVO",
+  "ubigeo": "060612",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CAYNARACHI|LAMAS": {
+  "coordinates": [
+   -76.317599,
+   -6.2035
+  ],
+  "district": "CAYNARACHI",
+  "province": "LAMAS",
+  "ubigeo": "220504",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CAYNARACHI": {
+  "coordinates": [
+   -76.317841,
+   -6.19295
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CAYNARACHI",
+  "province": "LAMAS",
+  "ubigeo": "220504",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ANDOAS|DATEM DEL MARANON": {
+  "coordinates": [
+   -76.634191,
+   -3.4005
+  ],
+  "district": "ANDOAS",
+  "province": "DATEM DEL MARAÑON",
+  "ubigeo": "160706",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ALTO NANAY|MAYNAS": {
+  "coordinates": [
+   -74.31375,
+   -3.2595
+  ],
+  "district": "ALTO NANAY",
+  "province": "MAYNAS",
+  "ubigeo": "160102",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ALTO NANAY": {
+  "coordinates": [
+   -74.311526,
+   -3.26385
+  ],
+  "precision": "punto representativo distrital",
+  "district": "ALTO NANAY",
+  "province": "MAYNAS",
+  "ubigeo": "160102",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CARABAYLLO|LIMA": {
+  "coordinates": [
+   -76.997768,
+   -11.814
+  ],
+  "district": "CARABAYLLO",
+  "province": "LIMA",
+  "ubigeo": "150106",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CARABAYLLO": {
+  "coordinates": [
+   -76.998589,
+   -11.81335
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CARABAYLLO",
+  "province": "LIMA",
+  "ubigeo": "150106",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN MIGUEL DE CAURI|LAURICOCHA": {
+  "coordinates": [
+   -76.625333,
+   -10.286
+  ],
+  "district": "SAN MIGUEL DE CAURI",
+  "province": "LAURICOCHA",
+  "ubigeo": "101007",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN MIGUEL DE CAURI": {
+  "coordinates": [
+   -76.629579,
+   -10.28605
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SAN MIGUEL DE CAURI",
+  "province": "LAURICOCHA",
+  "ubigeo": "101007",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MASISEA|CORONEL PORTILLO": {
+  "coordinates": [
+   -73.669337,
+   -9.0005
+  ],
+  "district": "MASISEA",
+  "province": "CORONEL PORTILLO",
+  "ubigeo": "250104",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MASISEA": {
+  "coordinates": [
+   -73.664883,
+   -9.01105
+  ],
+  "precision": "punto representativo distrital",
+  "district": "MASISEA",
+  "province": "CORONEL PORTILLO",
+  "ubigeo": "250104",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN FRANCISCO DE ASIS DE YARUSYACAN|PASCO": {
+  "coordinates": [
+   -76.233513,
+   -10.556
+  ],
+  "district": "SAN FRANCISCO DE ASIS DE YARUSYACAN",
+  "province": "PASCO",
+  "ubigeo": "190108",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN FRANCISCO DE ASIS DE YARUSYACAN": {
+  "coordinates": [
+   -76.232991,
+   -10.55095
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SAN FRANCISCO DE ASIS DE YARUSYACAN",
+  "province": "PASCO",
+  "ubigeo": "190108",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LLATA|HUAMALIES": {
+  "coordinates": [
+   -76.938977,
+   -9.6355
+  ],
+  "district": "LLATA",
+  "province": "HUAMALIES",
+  "ubigeo": "100501",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "POTONI|AZANGARO": {
+  "coordinates": [
+   -70.063078,
+   -14.4105
+  ],
+  "district": "POTONI",
+  "province": "AZANGARO",
+  "ubigeo": "210209",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "POTONI": {
+  "coordinates": [
+   -70.055488,
+   -14.41435
+  ],
+  "precision": "punto representativo distrital",
+  "district": "POTONI",
+  "province": "AZANGARO",
+  "ubigeo": "210209",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LLALLI|MELGAR": {
+  "coordinates": [
+   -70.923075,
+   -14.996
+  ],
+  "district": "LLALLI",
+  "province": "MELGAR",
+  "ubigeo": "210804",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LLALLI": {
+  "coordinates": [
+   -70.923728,
+   -14.9963
+  ],
+  "precision": "punto representativo distrital",
+  "district": "LLALLI",
+  "province": "MELGAR",
+  "ubigeo": "210804",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ANTAUTA|MELGAR": {
+  "coordinates": [
+   -70.383472,
+   -14.3865
+  ],
+  "district": "ANTAUTA",
+  "province": "MELGAR",
+  "ubigeo": "210802",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ANTAUTA": {
+  "coordinates": [
+   -70.383675,
+   -14.38645
+  ],
+  "precision": "punto representativo distrital",
+  "district": "ANTAUTA",
+  "province": "MELGAR",
+  "ubigeo": "210802",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MARA|COTABAMBAS": {
+  "coordinates": [
+   -72.092637,
+   -14.0205
+  ],
+  "district": "MARA",
+  "province": "COTABAMBAS",
+  "ubigeo": "030505",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ALTO INAMBARI|SANDIA": {
+  "coordinates": [
+   -69.29734,
+   -14.058
+  ],
+  "district": "ALTO INAMBARI",
+  "province": "SANDIA",
+  "ubigeo": "211209",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ALTO INAMBARI": {
+  "coordinates": [
+   -69.296937,
+   -14.03935
+  ],
+  "precision": "punto representativo distrital",
+  "district": "ALTO INAMBARI",
+  "province": "SANDIA",
+  "ubigeo": "211209",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CUSIPATA|QUISPICANCHI": {
+  "coordinates": [
+   -71.435572,
+   -13.891
+  ],
+  "district": "CUSIPATA",
+  "province": "QUISPICANCHI",
+  "ubigeo": "081206",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CUSIPATA": {
+  "coordinates": [
+   -71.432122,
+   -13.8874
+  ],
+  "precision": "punto representativo distrital",
+  "district": "CUSIPATA",
+  "province": "QUISPICANCHI",
+  "ubigeo": "081206",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COYLLURQUI|COTABAMBAS": {
+  "coordinates": [
+   -72.385872,
+   -13.9215
+  ],
+  "district": "COYLLURQUI",
+  "province": "COTABAMBAS",
+  "ubigeo": "030503",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LAS PIEDRAS|TAMBOPATA": {
+  "coordinates": [
+   -69.466359,
+   -11.984
+  ],
+  "district": "LAS PIEDRAS",
+  "province": "TAMBOPATA",
+  "ubigeo": "170103",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LAS PIEDRAS": {
+  "coordinates": [
+   -69.46934,
+   -11.9811
+  ],
+  "precision": "punto representativo distrital",
+  "district": "LAS PIEDRAS",
+  "province": "TAMBOPATA",
+  "ubigeo": "170103",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PAMPA HERMOSA|SATIPO": {
+  "coordinates": [
+   -74.832215,
+   -11.431
+  ],
+  "district": "PAMPA HERMOSA",
+  "province": "SATIPO",
+  "ubigeo": "120605",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PAMPA HERMOSA": {
+  "coordinates": [
+   -74.833159,
+   -11.43275
+  ],
+  "precision": "punto representativo distrital",
+  "district": "PAMPA HERMOSA",
+  "province": "SATIPO",
+  "ubigeo": "120605",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "RIMAC|LIMA": {
+  "coordinates": [
+   -77.033532,
+   -12.024
+  ],
+  "district": "RIMAC",
+  "province": "LIMA",
+  "ubigeo": "150128",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "RIMAC": {
+  "coordinates": [
+   -77.03613,
+   -12.02005
+  ],
+  "precision": "punto representativo distrital",
+  "district": "RIMAC",
+  "province": "LIMA",
+  "ubigeo": "150128",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN RAFAEL|AMBO": {
+  "coordinates": [
+   -76.147006,
+   -10.3365
+  ],
+  "district": "SAN RAFAEL",
+  "province": "AMBO",
+  "ubigeo": "100207",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN RAFAEL": {
+  "coordinates": [
+   -76.14689,
+   -10.33925
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SAN RAFAEL",
+  "province": "AMBO",
+  "ubigeo": "100207",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SORITOR|MOYOBAMBA": {
+  "coordinates": [
+   -77.065189,
+   -6.2565
+  ],
+  "district": "SORITOR",
+  "province": "MOYOBAMBA",
+  "ubigeo": "220105",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SORITOR": {
+  "coordinates": [
+   -77.061644,
+   -6.26065
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SORITOR",
+  "province": "MOYOBAMBA",
+  "ubigeo": "220105",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUIMBAYOC|SAN MARTIN": {
+  "coordinates": [
+   -75.666491,
+   -6.61
+  ],
+  "district": "HUIMBAYOC",
+  "province": "SAN MARTIN",
+  "ubigeo": "220907",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUIMBAYOC": {
+  "coordinates": [
+   -75.664225,
+   -6.6
+  ],
+  "precision": "punto representativo distrital",
+  "district": "HUIMBAYOC",
+  "province": "SAN MARTIN",
+  "ubigeo": "220907",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "EL CENEPA|CONDORCANQUI": {
+  "coordinates": [
+   -78.347541,
+   -4.0535
+  ],
+  "district": "EL CENEPA",
+  "province": "CONDORCANQUI",
+  "ubigeo": "010402",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "EL CENEPA": {
+  "coordinates": [
+   -78.347838,
+   -4.05335
+  ],
+  "precision": "punto representativo distrital",
+  "district": "EL CENEPA",
+  "province": "CONDORCANQUI",
+  "ubigeo": "010402",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "RIO SANTIAGO|CONDORCANQUI": {
+  "coordinates": [
+   -77.912445,
+   -3.7445
+  ],
+  "district": "RIO SANTIAGO",
+  "province": "CONDORCANQUI",
+  "ubigeo": "010403",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "RIO SANTIAGO": {
+  "coordinates": [
+   -77.920755,
+   -3.7608
+  ],
+  "precision": "punto representativo distrital",
+  "district": "RIO SANTIAGO",
+  "province": "CONDORCANQUI",
+  "ubigeo": "010403",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PIURA|PIURA": {
+  "coordinates": [
+   -80.674618,
+   -5.088
+  ],
+  "district": "PIURA",
+  "province": "PIURA",
+  "ubigeo": "200101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PIURA": {
+  "coordinates": [
+   -80.67803,
+   -5.09565
+  ],
+  "precision": "punto representativo distrital",
+  "district": "PIURA",
+  "province": "PIURA",
+  "ubigeo": "200101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LAS LOMAS|PIURA": {
+  "coordinates": [
+   -80.310497,
+   -4.7065
+  ],
+  "district": "LAS LOMAS",
+  "province": "PIURA",
+  "ubigeo": "200111",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LAS LOMAS": {
+  "coordinates": [
+   -80.310697,
+   -4.7069
+  ],
+  "precision": "punto representativo distrital",
+  "district": "LAS LOMAS",
+  "province": "PIURA",
+  "ubigeo": "200111",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AYABACA|AYABACA": {
+  "coordinates": [
+   -79.646879,
+   -4.69
+  ],
+  "district": "AYABACA",
+  "province": "AYABACA",
+  "ubigeo": "200201",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AYABACA": {
+  "coordinates": [
+   -79.64496,
+   -4.68525
+  ],
+  "precision": "punto representativo distrital",
+  "district": "AYABACA",
+  "province": "AYABACA",
+  "ubigeo": "200201",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LIRCAY|ANGARAES": {
+  "coordinates": [
+   -74.751178,
+   -13.121
+  ],
+  "district": "LIRCAY",
+  "province": "ANGARAES",
+  "ubigeo": "090301",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LIRCAY": {
+  "coordinates": [
+   -74.756904,
+   -13.1175
+  ],
+  "precision": "punto representativo distrital",
+  "district": "LIRCAY",
+  "province": "ANGARAES",
+  "ubigeo": "090301",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AYACUCHO|HUAMANGA": {
+  "coordinates": [
+   -74.255126,
+   -13.1465
+  ],
+  "district": "AYACUCHO",
+  "province": "HUAMANGA",
+  "ubigeo": "050101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AYACUCHO": {
+  "coordinates": [
+   -74.255088,
+   -13.13465
+  ],
+  "precision": "punto representativo distrital",
+  "district": "AYACUCHO",
+  "province": "HUAMANGA",
+  "ubigeo": "050101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN PABLO DE PILLAO|HUANUCO": {
+  "coordinates": [
+   -75.956325,
+   -9.7
+  ],
+  "district": "SAN PABLO DE PILLAO",
+  "province": "HUANUCO",
+  "ubigeo": "100113",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN PABLO DE PILLAO": {
+  "coordinates": [
+   -75.955585,
+   -9.69395
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SAN PABLO DE PILLAO",
+  "province": "HUANUCO",
+  "ubigeo": "100113",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TICACO|TARATA": {
+  "coordinates": [
+   -69.976711,
+   -17.343
+  ],
+  "district": "TICACO",
+  "province": "TARATA",
+  "ubigeo": "230408",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TICACO": {
+  "coordinates": [
+   -69.978655,
+   -17.3446
+  ],
+  "precision": "punto representativo distrital",
+  "district": "TICACO",
+  "province": "TARATA",
+  "ubigeo": "230408",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TORATA|MARISCAL NIETO": {
+  "coordinates": [
+   -70.69585,
+   -16.9905
+  ],
+  "district": "TORATA",
+  "province": "MARISCAL NIETO",
+  "ubigeo": "180106",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TORATA": {
+  "coordinates": [
+   -70.687767,
+   -16.9804
+  ],
+  "precision": "punto representativo distrital",
+  "district": "TORATA",
+  "province": "MARISCAL NIETO",
+  "ubigeo": "180106",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TIGRE|LORETO": {
+  "coordinates": [
+   -75.257441,
+   -3.0345
+  ],
+  "district": "TIGRE",
+  "province": "LORETO",
+  "ubigeo": "160303",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SULLANA|SULLANA": {
+  "coordinates": [
+   -80.585321,
+   -4.852
+  ],
+  "district": "SULLANA",
+  "province": "SULLANA",
+  "ubigeo": "200601",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SULLANA": {
+  "coordinates": [
+   -80.590389,
+   -4.8455
+  ],
+  "precision": "punto representativo distrital",
+  "district": "SULLANA",
+  "province": "SULLANA",
+  "ubigeo": "200601",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COJATA|": {
+  "coordinates": [
+   -69.4444,
+   -15.026
+  ],
+  "district": "COJATA",
+  "province": "HUANCANE",
+  "ubigeo": "210602",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AJOYANI|CARABAYA": {
+  "coordinates": [
+   -70.223475,
+   -14.1755
+  ],
+  "district": "AJOYANI",
+  "province": "CARABAYA",
+  "ubigeo": "210302",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AJOYANI|": {
+  "coordinates": [
+   -70.223475,
+   -14.1755
+  ],
+  "district": "AJOYANI",
+  "province": "CARABAYA",
+  "ubigeo": "210302",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CHALLHUAHUACHO|": {
+  "coordinates": [
+   -72.272089,
+   -14.1735
+  ],
+  "district": "CHALLHUAHUACHO",
+  "province": "COTABAMBAS",
+  "ubigeo": "030506",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COASA|": {
+  "coordinates": [
+   -69.835381,
+   -13.6705
+  ],
+  "district": "COASA",
+  "province": "CARABAYA",
+  "ubigeo": "210304",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AMARILIS|HUANUCO": {
+  "coordinates": [
+   -76.184347,
+   -9.9475
+  ],
+  "district": "AMARILIS",
+  "province": "HUANUCO",
+  "ubigeo": "100102",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AMARILIS|": {
+  "coordinates": [
+   -76.184347,
+   -9.9475
+  ],
+  "district": "AMARILIS",
+  "province": "HUANUCO",
+  "ubigeo": "100102",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MATAPALO|ZARUMILLA": {
+  "coordinates": [
+   -80.244955,
+   -3.757
+  ],
+  "district": "MATAPALO",
+  "province": "ZARUMILLA",
+  "ubigeo": "240303",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MATAPALO|": {
+  "coordinates": [
+   -80.244955,
+   -3.757
+  ],
+  "district": "MATAPALO",
+  "province": "ZARUMILLA",
+  "ubigeo": "240303",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CAYNARACHI|": {
+  "coordinates": [
+   -76.317599,
+   -6.2035
+  ],
+  "district": "CAYNARACHI",
+  "province": "LAMAS",
+  "ubigeo": "220504",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ANDOAS|": {
+  "coordinates": [
+   -76.634191,
+   -3.4005
+  ],
+  "district": "ANDOAS",
+  "province": "DATEM DEL MARAÑON",
+  "ubigeo": "160706",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ALTO NANAY|": {
+  "coordinates": [
+   -74.31375,
+   -3.2595
+  ],
+  "district": "ALTO NANAY",
+  "province": "MAYNAS",
+  "ubigeo": "160102",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CARABAYLLO|": {
+  "coordinates": [
+   -76.997768,
+   -11.814
+  ],
+  "district": "CARABAYLLO",
+  "province": "LIMA",
+  "ubigeo": "150106",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN MIGUEL DE CAURI|": {
+  "coordinates": [
+   -76.625333,
+   -10.286
+  ],
+  "district": "SAN MIGUEL DE CAURI",
+  "province": "LAURICOCHA",
+  "ubigeo": "101007",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MASISEA|": {
+  "coordinates": [
+   -73.669337,
+   -9.0005
+  ],
+  "district": "MASISEA",
+  "province": "CORONEL PORTILLO",
+  "ubigeo": "250104",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN FRANCISCO DE ASIS DE YARUSYACAN|": {
+  "coordinates": [
+   -76.233513,
+   -10.556
+  ],
+  "district": "SAN FRANCISCO DE ASIS DE YARUSYACAN",
+  "province": "PASCO",
+  "ubigeo": "190108",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LLATA|": {
+  "coordinates": [
+   -76.938977,
+   -9.6355
+  ],
+  "district": "LLATA",
+  "province": "HUAMALIES",
+  "ubigeo": "100501",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CACERES DEL PERU|SANTA": {
+  "coordinates": [
+   -78.068404,
+   -8.961
+  ],
+  "district": "CACERES DEL PERU",
+  "province": "SANTA",
+  "ubigeo": "021802",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CACERES DEL PERU|": {
+  "coordinates": [
+   -78.068404,
+   -8.961
+  ],
+  "district": "CACERES DEL PERU",
+  "province": "SANTA",
+  "ubigeo": "021802",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ANANEA|SAN ANTONIO DE PUTINA": {
+  "coordinates": [
+   -69.507271,
+   -14.68
+  ],
+  "district": "ANANEA",
+  "province": "SAN ANTONIO DE PUTINA",
+  "ubigeo": "211002",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ANANEA|": {
+  "coordinates": [
+   -69.507271,
+   -14.68
+  ],
+  "district": "ANANEA",
+  "province": "SAN ANTONIO DE PUTINA",
+  "ubigeo": "211002",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "POTONI|": {
+  "coordinates": [
+   -70.063078,
+   -14.4105
+  ],
+  "district": "POTONI",
+  "province": "AZANGARO",
+  "ubigeo": "210209",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LLALLI|": {
+  "coordinates": [
+   -70.923075,
+   -14.996
+  ],
+  "district": "LLALLI",
+  "province": "MELGAR",
+  "ubigeo": "210804",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ANTAUTA|": {
+  "coordinates": [
+   -70.383472,
+   -14.3865
+  ],
+  "district": "ANTAUTA",
+  "province": "MELGAR",
+  "ubigeo": "210802",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MARA|": {
+  "coordinates": [
+   -72.092637,
+   -14.0205
+  ],
+  "district": "MARA",
+  "province": "COTABAMBAS",
+  "ubigeo": "030505",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "ALTO INAMBARI|": {
+  "coordinates": [
+   -69.29734,
+   -14.058
+  ],
+  "district": "ALTO INAMBARI",
+  "province": "SANDIA",
+  "ubigeo": "211209",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CUSIPATA|": {
+  "coordinates": [
+   -71.435572,
+   -13.891
+  ],
+  "district": "CUSIPATA",
+  "province": "QUISPICANCHI",
+  "ubigeo": "081206",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COYLLURQUI|": {
+  "coordinates": [
+   -72.385872,
+   -13.9215
+  ],
+  "district": "COYLLURQUI",
+  "province": "COTABAMBAS",
+  "ubigeo": "030503",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LAS PIEDRAS|": {
+  "coordinates": [
+   -69.466359,
+   -11.984
+  ],
+  "district": "LAS PIEDRAS",
+  "province": "TAMBOPATA",
+  "ubigeo": "170103",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PAMPA HERMOSA|": {
+  "coordinates": [
+   -74.832215,
+   -11.431
+  ],
+  "district": "PAMPA HERMOSA",
+  "province": "SATIPO",
+  "ubigeo": "120605",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "RIMAC|": {
+  "coordinates": [
+   -77.033532,
+   -12.024
+  ],
+  "district": "RIMAC",
+  "province": "LIMA",
+  "ubigeo": "150128",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CALLERIA|CORONEL PORTILLO": {
+  "coordinates": [
+   -74.186512,
+   -7.9005
+  ],
+  "district": "CALLERIA",
+  "province": "CORONEL PORTILLO",
+  "ubigeo": "250101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CALLERIA|": {
+  "coordinates": [
+   -74.186512,
+   -7.9005
+  ],
+  "district": "CALLERIA",
+  "province": "CORONEL PORTILLO",
+  "ubigeo": "250101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUIMBAYOC|": {
+  "coordinates": [
+   -75.666491,
+   -6.61
+  ],
+  "district": "HUIMBAYOC",
+  "province": "SAN MARTIN",
+  "ubigeo": "220907",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN IGNACIO|SAN IGNACIO": {
+  "coordinates": [
+   -79.001584,
+   -5.147
+  ],
+  "district": "SAN IGNACIO",
+  "province": "SAN IGNACIO",
+  "ubigeo": "060901",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN IGNACIO|": {
+  "coordinates": [
+   -79.001584,
+   -5.147
+  ],
+  "district": "SAN IGNACIO",
+  "province": "SAN IGNACIO",
+  "ubigeo": "060901",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "EL CENEPA|": {
+  "coordinates": [
+   -78.347541,
+   -4.0535
+  ],
+  "district": "EL CENEPA",
+  "province": "CONDORCANQUI",
+  "ubigeo": "010402",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "RIO SANTIAGO|": {
+  "coordinates": [
+   -77.912445,
+   -3.7445
+  ],
+  "district": "RIO SANTIAGO",
+  "province": "CONDORCANQUI",
+  "ubigeo": "010403",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PIURA|": {
+  "coordinates": [
+   -80.674618,
+   -5.088
+  ],
+  "district": "PIURA",
+  "province": "PIURA",
+  "ubigeo": "200101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LAS LOMAS|": {
+  "coordinates": [
+   -80.310497,
+   -4.7065
+  ],
+  "district": "LAS LOMAS",
+  "province": "PIURA",
+  "ubigeo": "200111",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AYABACA|": {
+  "coordinates": [
+   -79.646879,
+   -4.69
+  ],
+  "district": "AYABACA",
+  "province": "AYABACA",
+  "ubigeo": "200201",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "LIRCAY|": {
+  "coordinates": [
+   -74.751178,
+   -13.121
+  ],
+  "district": "LIRCAY",
+  "province": "ANGARAES",
+  "ubigeo": "090301",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AYACUCHO|": {
+  "coordinates": [
+   -74.255126,
+   -13.1465
+  ],
+  "district": "AYACUCHO",
+  "province": "HUAMANGA",
+  "ubigeo": "050101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TICACO|": {
+  "coordinates": [
+   -69.976711,
+   -17.343
+  ],
+  "district": "TICACO",
+  "province": "TARATA",
+  "ubigeo": "230408",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TORATA|": {
+  "coordinates": [
+   -70.69585,
+   -16.9905
+  ],
+  "district": "TORATA",
+  "province": "MARISCAL NIETO",
+  "ubigeo": "180106",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SANTO DOMINGO DE LA CAPILLA|": {
+  "coordinates": [
+   -78.847804,
+   -6.244
+  ],
+  "district": "SANTO DOMINGO DE LA CAPILLA",
+  "province": "CUTERVO",
+  "ubigeo": "060612",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TROMPETEROS|LORETO": {
+  "coordinates": [
+   -75.880312,
+   -3.1075
+  ],
+  "district": "TROMPETEROS",
+  "province": "LORETO",
+  "ubigeo": "160304",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TROMPETEROS|": {
+  "coordinates": [
+   -75.880312,
+   -3.1075
+  ],
+  "district": "TROMPETEROS",
+  "province": "LORETO",
+  "ubigeo": "160304",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TIGRE|": {
+  "coordinates": [
+   -75.257441,
+   -3.0345
+  ],
+  "district": "TIGRE",
+  "province": "LORETO",
+  "ubigeo": "160303",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TURPAY|GRAU": {
+  "coordinates": [
+   -72.636875,
+   -14.2105
+  ],
+  "district": "TURPAY",
+  "province": "GRAU",
+  "ubigeo": "030711",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TURPAY|": {
+  "coordinates": [
+   -72.636875,
+   -14.2105
+  ],
+  "district": "TURPAY",
+  "province": "GRAU",
+  "ubigeo": "030711",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN RAFAEL|": {
+  "coordinates": [
+   -76.147006,
+   -10.3365
+  ],
+  "district": "SAN RAFAEL",
+  "province": "AMBO",
+  "ubigeo": "100207",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "USQUIL|OTUZCO": {
+  "coordinates": [
+   -78.351718,
+   -7.808
+  ],
+  "district": "USQUIL",
+  "province": "OTUZCO",
+  "ubigeo": "130614",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "USQUIL|": {
+  "coordinates": [
+   -78.351718,
+   -7.808
+  ],
+  "district": "USQUIL",
+  "province": "OTUZCO",
+  "ubigeo": "130614",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SORITOR|": {
+  "coordinates": [
+   -77.065189,
+   -6.2565
+  ],
+  "district": "SORITOR",
+  "province": "MOYOBAMBA",
+  "ubigeo": "220105",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SULLANA|": {
+  "coordinates": [
+   -80.585321,
+   -4.852
+  ],
+  "district": "SULLANA",
+  "province": "SULLANA",
+  "ubigeo": "200601",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SECHURA|SECHURA": {
+  "coordinates": [
+   -80.70725,
+   -5.923
+  ],
+  "district": "SECHURA",
+  "province": "SECHURA",
+  "ubigeo": "200801",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SECHURA|": {
+  "coordinates": [
+   -80.70725,
+   -5.923
+  ],
+  "district": "SECHURA",
+  "province": "SECHURA",
+  "ubigeo": "200801",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN PABLO DE PILLAO|": {
+  "coordinates": [
+   -75.956325,
+   -9.7
+  ],
+  "district": "SAN PABLO DE PILLAO",
+  "province": "HUANUCO",
+  "ubigeo": "100113",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PROV:AREQUIPA": {
+  "coordinates": [
+   -71.84892,
+   -16.363963
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:AZANGARO": {
+  "coordinates": [
+   -70.166747,
+   -14.836575
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:AMBO": {
+  "coordinates": [
+   -76.187159,
+   -10.219
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:CARABAYA": {
+  "coordinates": [
+   -70.216849,
+   -13.816
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:CHACHAPOYAS": {
+  "coordinates": [
+   -77.776148,
+   -6.4725
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:ATALAYA": {
+  "coordinates": [
+   -73.335679,
+   -10.431
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:ANGARAES": {
+  "coordinates": [
+   -74.770701,
+   -13.058154
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:AYABACA": {
+  "coordinates": [
+   -79.648628,
+   -4.697654
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:CORONEL PORTILLO": {
+  "coordinates": [
+   -73.899623,
+   -8.678
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:GENERAL SANCHEZ CERRO": {
+  "coordinates": [
+   -70.66549,
+   -16.4765
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:ESPINAR": {
+  "coordinates": [
+   -71.639223,
+   -14.996
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:CUTERVO": {
+  "coordinates": [
+   -79.021623,
+   -6.1635
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:COTABAMBAS": {
+  "coordinates": [
+   -72.194925,
+   -14.042413
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:CONDORCANQUI": {
+  "coordinates": [
+   -78.084143,
+   -4.211
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:HUANCANE": {
+  "coordinates": [
+   -69.694711,
+   -15.148647
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:HUAMALIES": {
+  "coordinates": [
+   -76.452264,
+   -9.409
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:LAURICOCHA": {
+  "coordinates": [
+   -76.635472,
+   -10.171029
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:HUANUCO": {
+  "coordinates": [
+   -76.220669,
+   -9.8545
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:LAMAS": {
+  "coordinates": [
+   -76.240598,
+   -6.324976
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:GRAU": {
+  "coordinates": [
+   -72.620963,
+   -14.0455
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:LIMA": {
+  "coordinates": [
+   -76.895411,
+   -12.001247
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:HUAMANGA": {
+  "coordinates": [
+   -74.438997,
+   -13.263
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:OTUZCO": {
+  "coordinates": [
+   -78.634185,
+   -7.866
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:MARISCAL NIETO": {
+  "coordinates": [
+   -70.882017,
+   -17.055
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:MELGAR": {
+  "coordinates": [
+   -70.746434,
+   -14.6325
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:PASCO": {
+  "coordinates": [
+   -75.868751,
+   -10.7255
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:MOYOBAMBA": {
+  "coordinates": [
+   -76.99306,
+   -5.916
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:MAYNAS": {
+  "coordinates": [
+   -74.471807,
+   -2.675472
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:LORETO": {
+  "coordinates": [
+   -75.294405,
+   -3.7535
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:PATAZ": {
+  "coordinates": [
+   -77.328689,
+   -8.065
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:SAN ANTONIO DE PUTINA": {
+  "coordinates": [
+   -69.462683,
+   -14.706181
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:QUISPICANCHI": {
+  "coordinates": [
+   -70.849778,
+   -13.519723
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:SAN MARTIN": {
+  "coordinates": [
+   -76.318196,
+   -6.4375
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:SANCHEZ CARRION": {
+  "coordinates": [
+   -77.968134,
+   -7.7455
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:SAN IGNACIO": {
+  "coordinates": [
+   -78.979638,
+   -5.075
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:PIURA": {
+  "coordinates": [
+   -80.501732,
+   -5.191131
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:PURUS": {
+  "coordinates": [
+   -71.582067,
+   -10.22
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:SANTA": {
+  "coordinates": [
+   -78.416086,
+   -9.00584
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:SANDIA": {
+  "coordinates": [
+   -69.135625,
+   -13.8275
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:SATIPO": {
+  "coordinates": [
+   -74.186038,
+   -11.549
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:TAMBOPATA": {
+  "coordinates": [
+   -69.600092,
+   -12.181
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:SECHURA": {
+  "coordinates": [
+   -80.620443,
+   -5.868
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:SANTIAGO DE CHUCO": {
+  "coordinates": [
+   -78.189211,
+   -8.2625
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:SULLANA": {
+  "coordinates": [
+   -80.755835,
+   -4.6945
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:TALARA": {
+  "coordinates": [
+   -81.066387,
+   -4.451
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:TARATA": {
+  "coordinates": [
+   -69.834601,
+   -17.401
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "PROV:ZARUMILLA": {
+  "coordinates": [
+   -80.25197,
+   -3.652
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:CAJAMARCA": {
+  "coordinates": [
+   -79.063823,
+   -6.192526
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:AREQUIPA": {
+  "coordinates": [
+   -72.335272,
+   -15.959672
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:APURIMAC": {
+  "coordinates": [
+   -72.862323,
+   -14.005193
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:ANCASH": {
+  "coordinates": [
+   -78.235993,
+   -9.417859
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:CUSCO": {
+  "coordinates": [
+   -70.759159,
+   -13.3335
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:HUANCAVELICA": {
+  "coordinates": [
+   -75.294707,
+   -13.0575
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:AMAZONAS": {
+  "coordinates": [
+   -78.224765,
+   -5.0055
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:AYACUCHO": {
+  "coordinates": [
+   -74.13297,
+   -13.905077
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:HUANUCO": {
+  "coordinates": [
+   -76.067375,
+   -9.3985
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:LORETO": {
+  "coordinates": [
+   -73.692729,
+   -4.3765
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:LA LIBERTAD": {
+  "coordinates": [
+   -78.186618,
+   -7.955464
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:MOQUEGUA": {
+  "coordinates": [
+   -70.806202,
+   -16.8975
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:PASCO": {
+  "coordinates": [
+   -75.443313,
+   -10.296
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:LIMA": {
+  "coordinates": [
+   -76.834741,
+   -11.798862
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:JUNIN": {
+  "coordinates": [
+   -74.164036,
+   -11.666753
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:MADRE DE DIOS": {
+  "coordinates": [
+   -70.740075,
+   -11.6065
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:UCAYALI": {
+  "coordinates": [
+   -73.895838,
+   -9.3585
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:TACNA": {
+  "coordinates": [
+   -70.089038,
+   -17.562944
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:PUNO": {
+  "coordinates": [
+   -70.779757,
+   -15.154603
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:SAN MARTIN": {
+  "coordinates": [
+   -77.276752,
+   -7.0995
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:TUMBES": {
+  "coordinates": [
+   -80.485475,
+   -3.805658
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "DEP:PIURA": {
+  "coordinates": [
+   -80.422503,
+   -5.2275
+  ],
+  "source": "GEOPERÚ límite distrital (unión)"
  }
 }

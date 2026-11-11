@@ -37,11 +37,13 @@ def export(target):
         for period in current['periods']:
             _write(static / f'portfolio_{company}_{period}.json', portfolio.portfolio(company, period))
             _write(static / f'report_{company}_{period}.html', portfolio.visual_report(company, period))
+    from . import national
+    _write(static / 'national.json', national.payload())
     readings = service.ROOT / 'demo_data' / 'ai_readings.json'
     _write(static / 'readings.json', json.loads(readings.read_text(encoding='utf-8')) if readings.exists() else {'readings': {}})
     state = target / 'state'
     state.mkdir()
-    for path in [service.DATA / 'run_log.json', service.DATA / 'news.json', service.DATA / 'links.json', *service.DATA.glob('geoperu_*.json'), *(service.DATA / 'sources').glob('*.json')]:
+    for path in [service.DATA / 'run_log.json', service.DATA / 'news.json', service.DATA / 'links.json', service.DATA / 'national.json', *service.DATA.glob('geoperu_*.json'), *(service.DATA / 'sources').glob('*.json')]:
         if path.exists():
             shutil.copy2(path, state / path.name)
     for document in corpus.load()['documents'].values():

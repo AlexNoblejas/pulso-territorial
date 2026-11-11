@@ -31,6 +31,8 @@ Tres carteras demo: **Antamina** (minería, Áncash y Huánuco), **Las Bambas** 
 - **Alertas tempranas** por reglas explícitas. Cubren medidas de fuerza, violencia, incidentes de seguridad, estados de emergencia, picos de cobertura, plazos próximos o vencidos sin registro posterior, falta de información oficial reciente y discrepancias entre fuentes. Cada alerta muestra la regla que la activó y su evidencia ([`pulso/alerts.py`](pulso/alerts.py)).
 - **Con quién gestionar:** actores primarios, secundarios y terciarios de cada conflicto, tal como los nombra la Defensoría.
 - **Historial vinculado:** todos los conflictos de la empresa en los reportes de la Defensoría 2012-2025, con su último estado. En Antamina son 20, y los que siguen activos sin un cierre reportado generan una alerta.
+- **Conflictos del país:** los 77 conflictos activos con ficha del reporte vigente, en un mapa por tipo, con filtros por región, tipo, "mis departamentos", "nombran a mi empresa" y diálogo. Incluye la serie de quince años (2012-2025) del país y de los departamentos de la operación.
+- **Lore, la asistente:** una llamita en la esquina que responde sobre alertas, actores, conflictos, regiones, años, términos ("¿qué es un actor terciario?") y cómo usar cada pantalla. Responde solo con los datos de la plataforma, con su fuente, y si no sabe lo dice. Con una clave de IA local, las preguntas abiertas van a Groq con validación de citas.
 - **Línea de tiempo por actor** en cada conflicto: Defensoría, Ejecutivo, Fiscalización y agua, Policía, Empresa y Prensa. Al hacer clic en un punto se ve qué reportó cada actor ese mes, con el encuadre de la fuente.
 - **Contexto territorial desde GEOPERÚ:** concesiones de la empresa, comunidades tituladas, lotes, oleoducto, áreas protegidas, unidades hidrográficas y pasivos ambientales, en el mapa 3D y dentro de cada expediente.
 - **Citas verificables:** cada pasaje de un PDF abre el documento oficial en su página.
@@ -75,7 +77,8 @@ python -m pulso.pipeline # ciclo completo a mano, con bitácora
 | GEOPERÚ (MINAM) | Concesiones, comunidades campesinas y nativas, lotes, oleoducto, ANP, unidades hidrográficas y pasivos | ArcGIS REST `/query` recortado al área de la cartera, con el protocolo del MCP de la tarea 4 | `geoperu.py` |
 | Corpus curado | 6 PDF con 8 citas revisadas a mano | Verificación con SHA-256 y texto literal | `corpus.py` |
 | Enlaces | Todos los enlaces que muestra la plataforma (278 en la última revisión local) | HEAD/GET en paralelo; distingue enlace roto de servidor que bloquea al verificador | `links.py` |
-| Historial (una vez) | Conflictos de cada empresa 2012-2025 | `scripts/importar_historico.py` sobre la base de tesis | `demo_data/historical_*.json` |
+| Historial (una vez) | Conflictos de cada empresa y del país, 2012-2025 (33,845 filas, 1,073 conflictos) | `scripts/importar_historico.py` e `importar_historico_nacional.py` sobre la base de tesis | `demo_data/historical_*.json` |
+| Ubicación nacional | Distrito, provincia o departamento de cada conflicto del país | Límite distrital de GEOPERÚ (`scripts/geocodificar_nacional.py`) | `national.py` |
 
 - **Cortesía con las fuentes:** User-Agent académico, pausas y un reintento.
 - **Si una fuente falla:** se conserva su última copia y la falla queda en la bitácora.
@@ -119,7 +122,7 @@ flowchart LR
 | **08 LLMs con salidas estructuradas** | Groq con esquema JSON estricto y validador de citas literales | `service.py`, `web.py` |
 | **10 Document AI** | pypdf: pasajes por caso con página en los PDF de Defensoría, OGASA y Willaqniki, y verificación del corpus; adaptador PaddleOCR opcional | `sources.py`, `corpus.py`, `ocr_optional.py` |
 | 04 MCP / 06 GeoPandas | Capas de GEOPERÚ por ArcGIS REST (el mismo servidor del MCP de la tarea 4) y contexto territorial con shapely | `geoperu.py` |
-| 05 Dashboards | Portal con alertas, línea de tiempo por actor, pulso de medios y reporte mensual | `web/`, `reports.py` |
+| 05 Dashboards | Portal con alertas, conflictos del país, línea de tiempo por actor, pulso de medios, reporte mensual y la asistente Lore | `web/`, `reports.py`, `national.py` |
 | 12 Despliegue | Ciclo diario en GitHub Actions, sitio en GitHub Pages y bitácora visible | `pipeline.py`, `export.py`, `.github/workflows/pages.yml` |
 
 **Por qué estas:** las fuentes oficiales vienen en HTML, PDF y servicios geográficos, lo que pide scraping, Document AI y GEOPERÚ. Para que la IA sirva a una empresa, su salida tiene que ser estructurada y verificable.

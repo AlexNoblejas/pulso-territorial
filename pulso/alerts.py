@@ -6,6 +6,8 @@ discrepancias entre fuentes que pueden derivar en errores de comunicación).
 """
 from collections import Counter
 from datetime import date, timedelta
+import re
+from urllib.parse import urlsplit
 
 SEVERITY={'alta':3,'media':2,'baja':1}
 RULES={
@@ -33,18 +35,81 @@ def _day(value):
             return None
 
 
-def _evidence(event):
-    return {'title':event.get('title'),'url':event.get('pdf_url') or event.get('url'),'date':event.get('date') or event.get('period'),
-            'institution':event.get('institution') or event.get('outlet')}
+def _source_ids(item):
+    multiple=item.get('source_ids') or []
+    values=[item.get('source_id')]+([multiple] if isinstance(multiple,str) else list(multiple))
+    return list(dict.fromkeys(v for v in values if isinstance(v,str) and v))
 
 
-def compute(cases,media_items,official_items,insights,today=None,history=()):
+def _evidence_url(value,source):
+    """Keep existing public URLs; local PDFs must belong to this verified source."""
+    if not isinstance(value,str) or not value:
+        return None
+    try:
+        parts=urlsplit(value)
+    except ValueError:
+        return None
+    if parts.scheme in {'https','http'} and parts.netloc:
+        return value
+    match=re.fullmatch(r'corpus/([A-Za-z0-9][A-Za-z0-9_.-]*\.pdf)(?:#page=([1-9][0-9]{0,5}))?',value)
+    registered=(source.get('pdf_url') or '').split('#')[0]
+    if not match or value.split('#')[0]!=registered or not isinstance(source.get('pages'),int):
+        return None
+    if match[2] and int(match[2])>source['pages']:
+        return None
+    return value
+
+
+def _evidence(event,sources):
+    source=sources.get(event.get('source_id'),{})
+    candidates=[event.get('pdf_url'),event.get('url'),source.get('pdf_url'),source.get('url')]
+    url=next((valid for candidate in candidates if (valid:=_evidence_url(candidate,source))),None)
+    if not url:
+        return None
+    page=event.get('page') or source.get('page')
+    if type(page) is not int or page<1 or (isinstance(source.get('pages'),int) and page>source['pages']):
+        page=None
+    return {'title':event.get('title') or source.get('title'),'url':url,
+            'date':event.get('date') or event.get('period') or event.get('published') or source.get('date') or source.get('period'),
+            'institution':event.get('institution') or event.get('outlet') or source.get('institution'),
+            'source_id':event.get('source_id'),'page':page}
+
+
+def compute(cases,media_items,official_items,insights,today=None,history=(),sources=None):
     today=today or date.today()
+    sources=sources or {}
+    if not isinstance(sources,dict):
+        sources={s['id']:s for s in sources}
     alerts=[]
+    def references(item,case=None):
+        rows=[]
+        for sid in _source_ids(item):
+            matches=[e for e in (case or {}).get('events',[]) if e.get('source_id')==sid
+                     and (not item.get('page') or e.get('page')==item['page'])]
+            # A source may also have a curated summary event. Prefer its existing original-page link.
+            event=next((e for e in matches if e.get('pdf_url') and e.get('page')),None) or next(iter(matches),None)
+            rows.append(event or {'source_id':sid,'page':item.get('page')})
+        return rows
     def add(rule,severity,title,detail,case=None,evidence=()):
+        resolved,missing,seen=[],[],set()
+        for item in evidence:
+            ids=_source_ids(item)
+            expanded=[{**item,'source_id':sid} for sid in ids] if ids else [item]
+            for event in expanded:
+                row=_evidence(event,sources)
+                if row:
+                    identity=(row.get('source_id'),row['url'],row.get('page'))
+                    if identity not in seen:
+                        resolved.append(row)
+                        seen.add(identity)
+                elif event.get('source_id'):
+                    missing.append(event['source_id'])
         alerts.append({'id':f"{rule}-{case['id'] if case else 'cartera'}-{len(alerts)}",'rule':rule,'rule_text':RULES[rule],'severity':severity,
                        'title':title,'detail':detail,'case_id':case['id'] if case else None,'case_name':case['name'] if case else None,
-                       'evidence':[_evidence(e) for e in evidence][:6],'date':max((str(e.get('date') or e.get('period') or '') for e in evidence),default=today.isoformat())})
+                       'evidence':resolved[:6],'source_ids':list(dict.fromkeys(r['source_id'] for r in resolved if r.get('source_id'))),
+                       'unresolved_source_ids':list(dict.fromkeys(missing)),
+                       'evidence_status':'parcial' if resolved and missing else 'disponible' if resolved else 'sin_enlace_incorporado',
+                       'date':max((str(e.get('date') or '') for e in resolved),default=today.isoformat())})
     recent=[i for i in media_items+official_items if (_day(i.get('date') or i.get('published')) or date.min)>=today-timedelta(days=21)]
     for tag,rule,severity in [('Violencia','violencia','alta'),('Medida de fuerza','medida','media'),('Seguridad','seguridad','media')]:
         hits=[i for i in recent if tag in i.get('tags',[])]
@@ -76,11 +141,12 @@ def compute(cases,media_items,official_items,insights,today=None,history=()):
             if not due:
                 continue
             later=[e for e in events if (_day(e.get('date') or e.get('period')) or date.min)>due]
+            basis=references(item,case) or [e for e in events if e.get('kind')=='reporte oficial'][:1]
             if today<=due<=today+timedelta(days=30):
-                add('plazo','media',f"Plazo próximo: {item['text'][:80]}",f"Fecha reportada {due.isoformat()}. Responsable: {item.get('responsible') or 'no individualizado'}.",case,[e for e in events if e.get('kind')=='reporte oficial'][:1])
+                add('plazo','media',f"Plazo próximo: {item['text'][:80]}",f"Fecha reportada {due.isoformat()}. Responsable: {item.get('responsible') or 'no individualizado'}.",case,basis)
                 alerts[-1]['date']=due.isoformat()
             elif today-timedelta(days=90)<=due<today and not later:
-                add('vencido','media',f"Compromiso vencido sin registro posterior: {item['text'][:70]}",f"La fecha {due.isoformat()} pasó y ninguna fuente incorporada reporta qué ocurrió.",case,[e for e in events if e.get('kind')=='reporte oficial'][:1])
+                add('vencido','media',f"Compromiso vencido sin registro posterior: {item['text'][:70]}",f"La fecha {due.isoformat()} pasó y ninguna fuente incorporada reporta qué ocurrió.",case,basis)
                 alerts[-1]['date']=due.isoformat()
         press=[e for e in events if e.get('kind')=='prensa' and (_day(e.get('date')) or date.min)>=today-timedelta(days=30)]
         official=[e for e in events if e.get('kind')!='prensa']
@@ -110,7 +176,7 @@ def compute(cases,media_items,official_items,insights,today=None,history=()):
     for insight in insights:
         if insight.get('type')=='discrepancia':
             case=next((c for c in cases if c['id']==insight.get('case_id')),None)
-            add('discrepancia','baja',insight['title'],insight['text'],case,[])
+            add('discrepancia','baja',insight['title'],insight['text'],case,references(insight,case))
     alerts.sort(key=lambda a:a['date'],reverse=True)
     alerts.sort(key=lambda a:-SEVERITY[a['severity']])
     return alerts

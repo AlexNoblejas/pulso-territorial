@@ -2,6 +2,9 @@
 from collections import Counter,defaultdict
 import html
 import math
+import re
+
+from . import corpus
 from urllib.parse import urlsplit
 
 
@@ -10,7 +13,22 @@ def esc(value):
 
 
 def href(value):
-    return esc(value) if urlsplit(value or '').scheme in {'http','https'} else '#'
+    if not isinstance(value,str):
+        return '#'
+    try:
+        scheme=urlsplit(value).scheme
+    except ValueError:
+        return '#'
+    if scheme in {'http','https'}:
+        return esc(value)
+    match=re.fullmatch(r'corpus/([A-Za-z0-9][A-Za-z0-9_.-]*\.pdf)(?:#page=([1-9][0-9]*))?',value)
+    if not match:
+        return '#'
+    document=next((d for d in corpus.load()['documents'].values() if d['file']==match[1]),None)
+    if not document or (match[2] and int(match[2])>document['pages']):
+        return '#'
+    # Reports live under static/ on Pages and /api/report locally. Both need one level up.
+    return '../'+esc(value)
 
 
 def territory_svg(p,geo):

@@ -117,20 +117,8 @@ class Handler(BaseHTTPRequestHandler):
                 threading.Thread(target=work,daemon=True).start()
                 return self.send({'message':'Actualización iniciada: Defensoría, prensa, gob.pe, SINIA, Willaqniki y GEOPERÚ. Tarda unos 3 minutos; el resultado aparece en Estado del sistema.'})
             if urlsplit(self.path).path=='/api/ask':
-                # Lore with a configured provider: open questions answered only from platform texts, citations validated.
-                question=str(body.get('question',''))[:400]
-                provider=next((k for k,v in service.provider_status().items() if v),None)
-                if not question.strip() or not provider:
-                    return self.send({'error':'Sin proveedor de IA configurado.'},status=409)
-                from . import national
-                p=portfolio.portfolio(body.get('company','antamina'))
-                texts=[(c['id'],c['name']+'. '+(c.get('original_description') or c['summary'])+' Actores: '+str(c.get('actors',{}).get('primarios',''))) for c in p['cases']]
-                texts+=[(a['id'],a['title']+'. '+a['detail']) for a in p['alerts']]
-                texts+=[(c['code'],c['name']+'. '+c['description']+' '+c.get('narrative','')[:600]) for c in national.load().get('cases',[])]
-                words={w for w in service.norm(question).split() if len(w)>3}
-                ranked=sorted(texts,key=lambda t:-len(words & set(service.norm(t[1]).split())))[:4]
-                hits=[{'document_id':doc,'page':1,'method':'html_section','text':text} for doc,text in ranked]
-                return self.send(service.ask(question,hits,provider))
+                from . import assistant
+                return self.send(assistant.answer(body.get('question',''),body.get('company','antamina'),body.get('view'),body.get('period'),body.get('case_id')))
             if urlsplit(self.path).path=='/api/interpret':
                 p=portfolio.portfolio(body.get('company','mineria'),body.get('period'))
                 case=next((c for c in p['cases'] if c['id']==body.get('case_id')),None)

@@ -6,7 +6,7 @@
 
 ## 1. One-liner
 
-Hacemos alerta temprana de conflictos sociales para empresas mineras y de hidrocarburos. Para eso cruzamos cada día lo que dicen la Defensoría, el Ejecutivo, los fiscalizadores, la policía y la prensa sobre el territorio donde operan, y cada afirmación lleva a su fuente.
+Hacemos seguimiento documentado de conflictos sociales para equipos de gestión social de empresas mineras y de hidrocarburos mediante fuentes institucionales, prensa y contexto territorial. El portal reúne señales que requieren revisión, con evidencia y fechas de corte visibles.
 
 ## 2. Founder
 
@@ -22,7 +22,7 @@ Un equipo de relaciones comunitarias tiene que saber a tiempo qué pasa con sus 
 
 Cada fuente mira desde su función, y por eso hay que contrastarlas. Cuando la gestión social no ve una señal o comunica un dato equivocado, la operación puede detenerse. Ejemplo real dentro de la demo: la Defensoría fecha el derrame de Sinchi Roca el 19 de febrero de 2025 y el MINAM el 19 de marzo.
 
-**Evidencia de usuarios:** no se hicieron las tres conversaciones que pide el curso. No se incluyen testimonios inventados; la guía de entrevista está en [`docs/research/`](docs/research/).
+**Evidencia de usuarios:** una entrevista exploratoria real, anonimizada como **Posible clienta de Antamina**, describe dos entregas quincenales de noticias en Excel, un reporte mensual y dificultades por criterios de clasificación no alineados. El hallazgo orienta el producto hacia taxonomías acordadas y revisión humana. No demuestra compra, autoridad de contratación ni ahorro generado por PulsoTerritorial. Faltan otras dos conversaciones para completar las tres solicitadas. [Extracto anonimizado](docs/research/entrevista_01_anonimizada.md) · [Hallazgos y prioridades](docs/research/hallazgos_entrevista_01.md).
 
 ## 4. Solución e insight
 
@@ -30,9 +30,9 @@ Tres carteras demo: **Antamina** (minería, Áncash y Huánuco), **Las Bambas** 
 
 - **Alertas tempranas** por reglas explícitas. Cubren medidas de fuerza, violencia, incidentes de seguridad, estados de emergencia, picos de cobertura, plazos próximos o vencidos sin registro posterior, falta de información oficial reciente y discrepancias entre fuentes. Cada alerta muestra la regla que la activó y su evidencia ([`pulso/alerts.py`](pulso/alerts.py)).
 - **Con quién gestionar:** actores primarios, secundarios y terciarios de cada conflicto, tal como los nombra la Defensoría.
-- **Historial vinculado:** todos los conflictos de la empresa en los reportes de la Defensoría 2012-2025, con su último estado. En Antamina son 20, y los que siguen activos sin un cierre reportado generan una alerta.
-- **Conflictos del país:** los 77 conflictos activos con ficha del reporte vigente, en un mapa por tipo, con filtros por región, tipo, "mis departamentos", "nombran a mi empresa" y diálogo. Incluye la serie de quince años (2012-2025) del país y de los departamentos de la operación.
-- **Lore, la asistente:** una llamita en la esquina que responde sobre alertas, actores, conflictos, regiones, años, términos ("¿qué es un actor terciario?") y cómo usar cada pantalla. Responde solo con los datos de la plataforma, con su fuente, y si no sabe lo dice. Con una clave de IA local, las preguntas abiertas van a Groq con validación de citas.
+- **Historial vinculado:** registros asociados por coincidencia textual en la base de investigación 2012–2025, con identidad y continuidad pendientes de auditoría. Antamina tiene 20 registros, incluidos 5 con identificador provisional. Su último estado histórico no acredita vigencia actual ni cumplimiento.
+- **Conflictos del país:** los 77 conflictos activos con ficha del reporte vigente, en un mapa por tipo, con filtros por región, tipo, "mis departamentos", "nombran a mi empresa" y diálogo. Incluye la serie de catorce años (2012-2025) del país y de los departamentos de la operación.
+- **Lore, la asistente:** una llamita en la esquina que responde sobre alertas, actores, conflictos, regiones, años, términos ("¿qué es un actor terciario?") y cómo usar cada pantalla. Responde solo con los datos de la plataforma, con su fuente, y si no sabe lo dice. En local, las preguntas abiertas consultan Groq sobre la cartera, el período y el expediente seleccionados; se validan citas literales y se muestran enlaces y localizadores reales. Órdenes como «abre alertas» o «muéstrame Llata» abren vistas y casos permitidos. Las acciones sugeridas por la API requieren pulsar un botón dentro de la plataforma.
 - **Línea de tiempo por actor** en cada conflicto: Defensoría, Ejecutivo, Fiscalización y agua, Policía, Empresa y Prensa. Al hacer clic en un punto se ve qué reportó cada actor ese mes, con el encuadre de la fuente.
 - **Contexto territorial desde GEOPERÚ:** concesiones de la empresa, comunidades tituladas, lotes, oleoducto, áreas protegidas, unidades hidrográficas y pasivos ambientales, en el mapa 3D y dentro de cada expediente.
 - **Citas verificables:** cada pasaje de un PDF abre el documento oficial en su página.
@@ -50,7 +50,7 @@ Tres carteras demo: **Antamina** (minería, Áncash y Huánuco), **Las Bambas** 
 
 - **IA que se puede verificar:** un modelo abierto en Groq devuelve JSON con esquema estricto por menos de una décima de centavo de dólar por caso.
 - **El Estado ya publica en formatos procesables:** la Defensoría tiene fichas HTML por caso (RCS 271), MINAM/OGASA publica informes mensuales en SINIA, gob.pe centraliza las notas de prensa de todas las entidades y GEOPERÚ expone sus capas por ArcGIS REST.
-- **Automatizar no cuesta:** GitHub Actions corre el ciclo cada día y GitHub Pages lo publica, sin servidor propio.
+- **Distribución de la demo:** Pages y Actions permiten publicar el portal y programar su actualización sin mantener un servidor propio para la versión estática. La revisión humana y el mantenimiento tienen costos aún no medidos.
 
 ## 6. Demo y arquitectura
 
@@ -60,7 +60,7 @@ Tres carteras demo: **Antamina** (minería, Áncash y Huánuco), **Las Bambas** 
 
 ```powershell
 .\instalar.ps1
-copy .env.example .env   # poner GROQ_API_KEY
+# Si .env ya existe, conservarlo; para una instalación nueva, completar .env.example y guardarlo como .env.
 .\iniciar.ps1            # http://127.0.0.1:8765  (-Automatizar: ciclo cada 24 h)
 python -m pulso.pipeline # ciclo completo a mano, con bitácora
 ```
@@ -77,7 +77,7 @@ python -m pulso.pipeline # ciclo completo a mano, con bitácora
 | GEOPERÚ (MINAM) | Concesiones, comunidades campesinas y nativas, lotes, oleoducto, ANP, unidades hidrográficas y pasivos | ArcGIS REST `/query` recortado al área de la cartera, con el protocolo del MCP de la tarea 4 | `geoperu.py` |
 | Corpus curado | 6 PDF con 8 citas revisadas a mano | Verificación con SHA-256 y texto literal | `corpus.py` |
 | Enlaces | Todos los enlaces que muestra la plataforma (278 en la última revisión local) | HEAD/GET en paralelo; distingue enlace roto de servidor que bloquea al verificador | `links.py` |
-| Historial (una vez) | Conflictos de cada empresa y del país, 2012-2025 (33,845 filas, 1,073 conflictos) | `scripts/importar_historico.py` e `importar_historico_nacional.py` sobre la base de tesis | `demo_data/historical_*.json` |
+| Historial (una vez) | Conflictos de cada empresa y del país, 2012-2025 (33,845 filas, 1,073 IDs de investigación, incluidos 340 provisionales) | `scripts/importar_historico.py` e `importar_historico_nacional.py` sobre la base de tesis | `demo_data/historical_*.json` |
 | Ubicación nacional | Distrito, provincia o departamento de cada conflicto del país | Límite distrital de GEOPERÚ (`scripts/geocodificar_nacional.py`) | `national.py` |
 
 - **Cortesía con las fuentes:** User-Agent académico, pausas y un reintento.
@@ -110,8 +110,8 @@ flowchart LR
 
 - **Quién paga:** el área de relaciones comunitarias o de asuntos corporativos de una empresa extractiva, o la consultora que le hace el seguimiento.
 - **Precio:** piloto de **S/ 299 al mes por cartera**, hasta 25 casos, con alertas diarias y reporte mensual. Es una hipótesis: no se validó con clientes.
-- **Costo de IA:** según la prueba real, menos de 2,000 tokens por lectura. A la tarifa de terceros de US$ 0.075 por millón de tokens de entrada y US$ 0.30 por millón de salida, eso es menos de **US$ 0.001 por lectura** y menos de US$ 1 al mes por cartera.
-- **Costo de servidor:** US$ 0 (GitHub Pages y Actions; un ciclo completo dura unos 9 minutos). Una versión con cuentas de cliente necesitaría un servidor pagado.
+- **Costo de IA:** la consulta de Lore probada el 11 de noviembre consumió 1,333 tokens de entrada y 158 de salida. Con las [tarifas publicadas por Groq](https://console.groq.com/docs/model/openai/gpt-oss-20b) consultadas ese día (US$ 0.075/millón de entrada y US$ 0.30/millón de salida), su costo teórico es **US$ 0.000147375**. Mil consultas iguales serían unos **US$ 0.15**; es una extrapolación, no un costo completo por cliente. La cuota gratuita y los límites dependen de la cuenta. El servidor limita globalmente el uso a 12 solicitudes y 60,000 tokens conservadores por día.
+- **Costo de servidor de la demo estática:** no se ha contratado uno propio; utiliza Pages y Actions. La IA en vivo requiere el servidor local. Una versión con cuentas reales y uso de IA público necesita una arquitectura y presupuesto adicionales.
 - **Costo de revisión humana:** no se midió y probablemente es el mayor.
 
 ## 8. Herramientas del curso
@@ -136,13 +136,15 @@ flowchart LR
   - El corpus verificado (`corpus.py`), la corrección y la prueba real de Groq, el monitor de prensa (`news.py`) y el despliegue diario.
   - Detectó y corrigió errores de vinculación: homónimos de Sinchi Roca, un punto distrital leído como comunidad, el TUPA de la PCM mezclado con Willaqniki y frases de casos vecinos en el contexto que se enviaba a la IA.
 
-Las decisiones de qué fuentes usar y cómo presentarlas son del autor. **Verificación:** 33 pruebas `pytest`, que incluyen una cita alterada, un PDF reemplazado y homónimos.
+- **Codex, revisión del 11 de noviembre:** anonimizó la entrevista y derivó prioridades; corrigió asociaciones de noticias por homónimos/contexto deportivo, enlaces de PDF y la atribución del anexo OEFA reproducido por MINAM; añadió a Lore recuperación documental, citas accionables y navegación interna limitada. Conservó el trabajo previo de Claude.
+
+Las decisiones de qué fuentes usar y cómo presentarlas son del autor. Las pruebas incluyen citas y hashes alterados, homónimos, separación de carteras, navegación permitida y abstención sin evidencia. La verificación de esta revisión se documenta en `docs/REVISION_2026_11_11.md`.
 
 Guion de la presentación: [`docs/PRESENTACION.md`](docs/PRESENTACION.md).
 
 **Pendiente y límites:**
 
-- **Entrevistas con usuarios:** no se hicieron.
+- **Entrevistas con usuarios:** una exploratoria documentada; faltan dos. No hay ventas, precio aceptado ni medición de ahorro. La taxonomía por cliente, importación de Excel quincenales y bandeja de curación son prioridades propuestas, todavía no implementadas.
 - **PNP:** no tiene un parte público en formato abierto. Sus notas en gob.pe y la prensa son la única vía, y hoy no hay notas de la PNP que nombren estos casos.
 - **ANA:** su servidor ArcGIS no respondía. Entra por sus notas en gob.pe y por las unidades hidrográficas de GEOPERÚ.
 - **Servicio para clientes:** faltan autenticación de clientes y envío del reporte por correo.

@@ -41,7 +41,11 @@ CASE_COMPANY={'1333-0923':'antamina','1132-1218':'mineria','1285-0622':'mineria'
 # (e.g. there is a CN Sinchi Roca in Huánuco with an unrelated conflict).
 ANCHORS={'llata':['antamina','huamalies','fredill'],
          'sinchi roca':['manseriche','datem','oleoducto','petroperu','derrame','pijuayal','loreto'],
-         'corredor minero':['las bambas','apurimac','cotabambas','mara','mmg','chumbivilcas']}
+         'corredor minero':['las bambas','apurimac','cotabambas','mara','mmg','chumbivilcas'],
+         'pijuayal':['manseriche','datem del maranon','oleoducto norperuano']}
+# A shared community name is insufficient when the text identifies another place or sport.
+CASE_EXCLUSIONS={'pijuayal':['iparia','ucayali'],
+                 'fuerabamba':['linfa','patibamba','futbol','copa peru']}
 TAGS=[('Medida de fuerza',r'bloque|paro\b|protest|moviliz|toma de|marcha'),
       ('Violencia',r'enfrentamiento|herid|fallec|muert|detenid'),
       ('Diálogo y acuerdos',r'di[aá]logo|mesa de|acuerdo|acta\b|convenio|reuni[oó]n'),
@@ -103,8 +107,10 @@ def parse(content,outlet,feed):
 def classify(item):
     text=service.norm(item['title']+' '+item['snippet'])
     found=lambda word:re.search(r'\b'+re.escape(word)+r'\b',text)
-    cases=sorted({code for word,code in CASES.items() if found(word) and (word not in ANCHORS or any(found(a) for a in ANCHORS[word]))})
-    companies=[c for c,words in KEYWORDS.items() if any(found(w) for w in words) or any(CASE_COMPANY[code]==c for code in cases)]
+    excluded={word for word,terms in CASE_EXCLUSIONS.items() if found(word) and any(found(term) for term in terms)}
+    cases=sorted({code for word,code in CASES.items() if found(word) and word not in excluded and (word not in ANCHORS or any(found(a) for a in ANCHORS[word]))})
+    # Ambiguous excluded names alone must not imply that the company is involved either.
+    companies=[c for c,words in KEYWORDS.items() if any(w not in excluded and found(w) for w in words) or any(CASE_COMPANY[code]==c for code in cases)]
     tags=[name for name,pattern in TAGS if re.search(pattern,text)] or ['Contexto']
     return companies,cases,tags
 
@@ -151,7 +157,13 @@ def update(pause=1.0):
 def load():
     for path in (PATH,SEED):
         if path.exists():
-            return json.loads(path.read_text(encoding='utf-8'))
+            data=json.loads(path.read_text(encoding='utf-8'))
+            items=[]
+            for item in data.get('items',[]):
+                companies,cases,tags=classify(item)
+                if companies:
+                    items.append({**item,'companies':companies,'case_codes':cases,'tags':tags})
+            return {**data,'items':items}
     return {'updated_at':None,'items':[],'feeds':[]}
 
 

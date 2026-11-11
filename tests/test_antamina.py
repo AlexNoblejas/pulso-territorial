@@ -7,6 +7,8 @@ def test_antamina_portfolio_has_case_actors_and_history():
     assert 'Antamina' in case['actors']['primarios']
     assert len(p['linked_history']) >= 15
     assert any(a['rule'] == 'sin_cierre' for a in p['alerts'])
+    assert all(not i.get('case_id') or i['case_id'] in {c['id'] for c in p['cases']} for i in p['insights'])
+    assert not any('Huancuire' in i['title'] for i in p['insights'])
 
 
 def test_no_closure_rule_skips_conflicts_still_reported_under_their_code():

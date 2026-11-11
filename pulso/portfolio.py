@@ -318,11 +318,15 @@ def _sanitize_paths(value):
 
 def portfolio(company='mineria',period=None):
     if company not in COMPANIES:
-        raise ValueError('Selecciona una de las dos carteras de demostración.')
+        raise ValueError('Selecciona una de las tres carteras de demostración.')
     snap=_snapshot()
     observations=snap['observations']
     mapping=snap.get('case_companies',TARGETS)
-    periods=sorted({o['period'] for code,items in observations.items() if mapping.get(code)==company for o in items},reverse=True)
+    # Use the latest incorporated official report, including a report with zero cases for this company.
+    report_sources=[s for s in snap['sources'] if s.get('kind')=='reporte oficial' and s.get('period')]
+    periods=sorted({s['period'] for s in report_sources}|{o['period'] for items in observations.values() for o in items},reverse=True)
+    if not periods:
+        raise ValueError('Aún no hay un período oficial incorporado.')
     selected_period=period or periods[0]
     if selected_period not in periods:
         raise ValueError('No hay una observación estructurada para ese período.')
@@ -410,6 +414,8 @@ def portfolio(company='mineria',period=None):
     state_actions=[{**i,'lane':_lane(i,{'institution':i['institution']})} for i in official_items if i['id'] not in linked and i.get('institution_key')!='defensoria']
     state_actions=sorted(state_actions,key=lambda i:i.get('date') or i.get('period') or '',reverse=True)[:60]
     selected_ids={sid for c in cases for sid in c['source_ids']}
+    # A zero-case result must still identify the report examined, without erasing company history.
+    selected_ids.update(s['id'] for s in report_sources if s['period']==selected_period)
     selected_sources=[sources[sid] for sid in selected_ids]
     historical_cases,series=historical(company)
     annotation_file=service.ROOT/'config'/'case_annotations.json'
@@ -443,10 +449,12 @@ def portfolio(company='mineria',period=None):
     elif company=='hidrocarburos':
         insights.append({'type':'discrepancia','title':'Una fecha que las fuentes no cuentan igual','text':'El relato histórico del RCS 271 consigna 19 de febrero de 2025; OEFA y MINAM sitúan el derrame de referencia el 19 de marzo. Las emergencias de marzo y mayo se mantienen como acontecimientos distintos.','case_id':'1403-0325','source_ids':['DP-2026-09','PP-OEFA-20250319','PP-MINAM-202503']})
         insights.append({'type':'seguimiento','title':'Agua: una entrega no acredita continuidad del servicio','text':'Vivienda documenta la entrega de una cisterna en mayo de 2026; la ficha de septiembre recoge reclamos sobre regularidad del abastecimiento. Son alcances diferentes que requieren seguimiento.','case_id':'1403-0325','source_ids':['DP-2026-09','PP-VIVIENDA-20260513']})
-    else:
+    elif company=='mineria':
         insights.append({'type':'seguimiento','title':'El diálogo convive con reclamos documentados','text':'La fase oficial describe un momento del proceso. No implica que las demandas o acuerdos estén resueltos. Consulta cada ficha antes de atribuir una obligación.','case_id':'1229-0621','source_ids':['DP-2026-09']})
         insights.append({'type':'contexto','title':'Huancuire: geografía y jurisdicción requieren conciliación','text':'El reporte ubica el caso en Coyllurqui; la copia local del polígono comunal tiene Challhuahuacho como atributo. El mapa conserva la precisión de cada fuente y no corrige esa diferencia automáticamente.','case_id':'1229-0621','source_ids':['DP-2026-09']})
-    alert_list=alert_rules.compute(cases,company_items,official_items,insights,history=linked_history(historical_cases))
+    elif cases:
+        insights.append({'type':'seguimiento','title':'Los acuerdos requieren seguimiento','text':'La clasificación oficial describe el estado reportado del proceso; no acredita cumplimiento de compromisos. Revisa los actores, el período y los documentos de este expediente.','case_id':cases[0]['id'],'source_ids':[cases[0]['source_ids'][0]]})
+    alert_list=alert_rules.compute(cases,company_items,official_items,insights,history=linked_history(historical_cases),sources=selected_sources)
     geo=_read(f'geography_{company}.json',{})
     phases=Counter(c['phase'] or 'Sin fase reportada' for c in cases)
     return {'company':COMPANIES[company],'period':selected_period,'periods':periods,'author':snap['author'],
@@ -460,7 +468,7 @@ def portfolio(company='mineria',period=None):
             'corpus_problems':library['problems'],'media':media_summary,'alerts':alert_list,'alert_summary':alert_rules.summary(alert_list),'alert_rules':alert_rules.RULES,
             'state_actions':state_actions,'lanes':LANES,'lenses':{k:dict(zip(['institution','role','lens'],v)) for k,v in connectors.INSTITUTIONS.items()},'system':system_status(),
             'geography':{k:geo.get(k) for k in ['center','zoom','extent','metadata','map_style_url','terrain_url']},
-            'coverage':{'period_label':'Setiembre de 2026' if selected_period=='2026-09' else selected_period,'built_at':snap['built_at'],'current_source':'RCS 271 · fichas estructuradas oficiales',
+            'coverage':{'period_label':'Setiembre de 2026' if selected_period=='2026-09' else selected_period,'built_at':snap['built_at'],'current_source':next((s['title'] for s in report_sources if s['period']==selected_period),'Fichas estructuradas oficiales'),
                         'scope':'Cartera piloto de casos seleccionados, no totalidad de conflictos de la empresa ni del país.',
                         'historical_status':'Base de investigación importada; dos pasajes cotejados, resto pendiente de auditoría. No se imputan meses ni operadores actuales.',
                         'interpretation':'Lectura documental editorial; generación IA opcional, nunca chatbot obligatorio.',

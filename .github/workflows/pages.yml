@@ -21,13 +21,18 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
-      - name: Verificar el corpus (hash, página y cita literal)
-        run: python -m pulso.corpus
-      - name: Revisar nuevas publicaciones de la Defensoría
-        # Si la fuente no responde se publica la última cartera verificada.
-        run: python -m pulso.cli sync --limit 2 || echo "Sin cambios en fuentes"
-      - name: Monitorear medios (RSS de El Comercio, La República, Andina y Google News)
-        run: python -m pulso.news || echo "Se conserva la última muestra de prensa"
+      - name: Recuperar el estado acumulado del sitio publicado
+        # Bitácora, prensa y fuentes de ejecuciones anteriores; si no existe se parte de demo_data.
+        run: |
+          mkdir -p data/sources
+          base=https://alexnoblejas.github.io/pulso-territorial/state
+          for f in run_log.json news.json geoperu_mineria.json geoperu_hidrocarburos.json; do curl -sfL "$base/$f" -o "data/$f" || rm -f "data/$f"; done
+          for f in defensoria.json gobpe.json ogasa.json willaqniki.json; do curl -sfL "$base/$f" -o "data/sources/$f" || rm -f "data/sources/$f"; done
+      - name: Ciclo completo de monitoreo (Defensoría, prensa, gob.pe, SINIA, Willaqniki, GEOPERÚ, corpus)
+        env:
+          PULSO_TRIGGER: ${{ github.event_name == 'schedule' && 'GitHub Actions · diario' || format('GitHub Actions · {0}', github.event_name) }}
+          PULSO_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: python -m pulso.pipeline
       - name: Generar sitio
         run: python -m pulso.export site
       - uses: actions/upload-pages-artifact@v3

@@ -22,6 +22,15 @@ def test_classify_links_company_case_and_tags():
     first, sports = news.parse(RSS, 'Google News', 'feed')
     companies, cases, tags = news.classify(first)
     assert companies == ['mineria']
-    assert cases == ['1132-1218', '1162-0819']
+    assert cases == ['1132-1218']  # 'corredor minero' alone needs an anchor term
     assert 'Medida de fuerza' in tags
     assert news.classify(sports)[0] == []
+
+
+def test_homonyms_need_an_anchor_term():
+    park = {'title': 'Bosque de 24.000 árboles del parque Sinchi Roca en Comas desapareció', 'snippet': ''}
+    huanuco = {'title': 'Disputa territorial entre la Comunidad Nativa Sinchi Roca y posesionarios en Irazola, Huánuco', 'snippet': ''}
+    spill = {'title': 'Derrame en Sinchi Roca, Manseriche: comunidades exigen agua', 'snippet': ''}
+    assert news.classify(park)[:2] == ([], [])
+    assert news.classify(huanuco)[:2] == ([], [])
+    assert news.classify(spill)[:2] == (['hidrocarburos'], ['1403-0325'])

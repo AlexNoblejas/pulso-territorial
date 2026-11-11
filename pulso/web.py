@@ -5,6 +5,7 @@ from pathlib import Path
 import argparse
 import json
 import mimetypes
+import os
 import threading
 
 from . import corpus,news,portfolio,service
@@ -102,14 +103,16 @@ class Handler(BaseHTTPRequestHandler):
                 return self.send({'error':'El JSON debe ser un objeto.'},status=400)
             if urlsplit(self.path).path=='/api/refresh':
                 if not BUSY.acquire(blocking=False):
-                    return self.send({'error':'Hay otra revisión de fuentes en curso.'},status=409)
-                try:
-                    result=service.sync_sources(limit=2)
-                    result['news']=len(news.update(pause=0.5)['items'])
-                    portfolio.rebuild()
-                    return self.send({'result':result,'message':f"Documentos revisados y {result['news']} notas de prensa en la ventana de 120 días. Las fuentes complementarias conservan revisión editorial."})
-                finally:
-                    BUSY.release()
+                    return self.send({'error':'Ya hay una actualización en curso. Revisa Estado del sistema en unos minutos.'},status=409)
+                def work():
+                    try:
+                        from . import pipeline
+                        os.environ['PULSO_TRIGGER']='botón Actualizar monitoreo'
+                        pipeline.run()
+                    finally:
+                        BUSY.release()
+                threading.Thread(target=work,daemon=True).start()
+                return self.send({'message':'Actualización iniciada: Defensoría, prensa, gob.pe, SINIA, Willaqniki y GEOPERÚ. Tarda unos 3 minutos; el resultado aparece en Estado del sistema.'})
             if urlsplit(self.path).path=='/api/interpret':
                 p=portfolio.portfolio(body.get('company','mineria'),body.get('period'))
                 case=next((c for c in p['cases'] if c['id']==body.get('case_id')),None)

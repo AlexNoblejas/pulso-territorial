@@ -3,3 +3,4 @@ beautifulsoup4>=4.12,<5
 requests>=2.31,<3
 python-dotenv>=1,<2
 filelock>=3.13,<4
+shapely>=2,<3

@@ -31,9 +31,14 @@ FEEDS=[('El Comercio','https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=x
 SEARCHES={'mineria':['"Las Bambas"','Fuerabamba','Challhuahuacho','"corredor minero" Apurímac'],
           'hidrocarburos':['Petroperú derrame','"Oleoducto Norperuano"','"Sinchi Roca" OR Pijuayal','"Lote 192"']}
 KEYWORDS={'mineria':['las bambas','fuerabamba','chuicuni','huancuire','challhuahuacho','cotabambas','corredor minero','mmg'],
-          'hidrocarburos':['petroperu','oleoducto norperuano','oleoducto','sinchi roca','pijuayal','lote 192','manseriche','datem del maranon','altamesa','andoas']}
+          'hidrocarburos':['petroperu','oleoducto norperuano','oleoducto','pijuayal','lote 192','manseriche','datem del maranon','altamesa','andoas']}
 CASES={'fuerabamba':'1132-1218','chuicuni':'1285-0622','huancuire':'1229-0621','corredor minero':'1162-0819',
        'sinchi roca':'1403-0325','pijuayal':'1403-0325','manseriche':'1403-0325','altamesa':'1459-1125'}
+CASE_COMPANY={'1132-1218':'mineria','1285-0622':'mineria','1229-0621':'mineria','1162-0819':'mineria','1403-0325':'hidrocarburos','1459-1125':'hidrocarburos'}
+# Homonyms: a name only links to the case when an anchor term appears in the same text.
+# (e.g. there is a CN Sinchi Roca in Huánuco with an unrelated conflict).
+ANCHORS={'sinchi roca':['manseriche','datem','oleoducto','petroperu','derrame','pijuayal','loreto'],
+         'corredor minero':['las bambas','apurimac','cotabambas','mara','mmg','chumbivilcas']}
 TAGS=[('Medida de fuerza',r'bloque|paro\b|protest|moviliz|toma de|marcha'),
       ('Violencia',r'enfrentamiento|herid|fallec|muert|detenid'),
       ('Diálogo y acuerdos',r'di[aá]logo|mesa de|acuerdo|acta\b|convenio|reuni[oó]n'),
@@ -94,8 +99,9 @@ def parse(content,outlet,feed):
 
 def classify(item):
     text=service.norm(item['title']+' '+item['snippet'])
-    companies=[c for c,words in KEYWORDS.items() if any(re.search(r'\b'+re.escape(w)+r'\b',text) for w in words)]
-    cases=sorted({code for word,code in CASES.items() if re.search(r'\b'+re.escape(word)+r'\b',text)})
+    found=lambda word:re.search(r'\b'+re.escape(word)+r'\b',text)
+    cases=sorted({code for word,code in CASES.items() if found(word) and (word not in ANCHORS or any(found(a) for a in ANCHORS[word]))})
+    companies=[c for c,words in KEYWORDS.items() if any(found(w) for w in words) or any(CASE_COMPANY[code]==c for code in cases)]
     tags=[name for name,pattern in TAGS if re.search(pattern,text)] or ['Contexto']
     return companies,cases,tags
 

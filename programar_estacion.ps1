@@ -1,4 +1,4 @@
-# Programa la estación local en el Programador de tareas de Windows (lunes y jueves, 6:30 a. m.,
+﻿# Programa la estación local en el Programador de tareas de Windows (lunes y jueves, 6:30 a. m.,
 # y al iniciar sesión si la laptop estuvo apagada). Ejecutar una sola vez. Para quitarla:
 #   Unregister-ScheduledTask -TaskName 'PulsoTerritorial-EstacionLocal' -Confirm:$false
 $script = Join-Path $PSScriptRoot 'estacion_local.ps1'

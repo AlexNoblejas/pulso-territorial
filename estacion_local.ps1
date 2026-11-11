@@ -1,4 +1,4 @@
-# Estación local de PulsoTerritorial.
+﻿# Estación local de PulsoTerritorial.
 # Los servidores del MINAM (SINIA y GEOPERÚ) responden 403 a GitHub Actions. Este script corre
 # esas dos fuentes desde una laptop en Perú, versiona el resultado en demo_data/ y lo sube;
 # el workflow diario publica siempre la copia más reciente. No guarda ni usa claves.

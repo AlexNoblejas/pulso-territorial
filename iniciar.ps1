@@ -1,4 +1,4 @@
-param([switch]$Automatizar)
+﻿param([switch]$Automatizar)
 $ErrorActionPreference = 'Stop'
 Set-Location -LiteralPath $PSScriptRoot
 $pythonPath = Join-Path $PSScriptRoot '.venv\Scripts\python.exe'

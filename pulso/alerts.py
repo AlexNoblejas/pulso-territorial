@@ -88,10 +88,22 @@ def compute(cases,media_items,official_items,insights,today=None,history=()):
         if press and (not last_official or last_official<today-timedelta(days=45)):
             add('brecha','media','Brecha de información oficial',f"{len(press)} nota(s) de prensa en 30 días; la última fuente oficial incorporada es de {last_official.isoformat() if last_official else 'fecha desconocida'}.",case,press)
     current={service_name(c['name']) for c in cases}
+    unclosed=[]
     for row in history:
         if row.get('official_code') in {c['id'] for c in cases}:
             continue  # same conflict, still reported under its official code
+        if tokens(row.get('name') or '') & set().union(*(tokens(c['name']) for c in cases)) if cases else False:
+            continue  # same community still reported in a current case (e.g. 'CC Chuicuni' in both)
         if (row.get('last_status') or '').lower() in ('activo','latente') and service_name(row.get('name') or '') not in current:
+            unclosed.append(row)
+    if len(unclosed)>3:
+        # One grouped alert: a dozen separate low alerts would bury the urgent ones.
+        add('sin_cierre','baja',f'{len(unclosed)} conflictos históricos sin cierre reportado',
+            'Figuraban activos o latentes en su último registro y dejaron de reportarse sin cierre: '+'; '.join(f"{(r.get('name') or '')[:50]} ({r.get('last_period')})" for r in unclosed[:10])+('…' if len(unclosed)>10 else '.'),None,[])
+        alerts[-1]['date']=max(r.get('last_period') or '' for r in unclosed)
+        alerts[-1]['cases']=[{'name':r.get('name'),'last_period':r.get('last_period'),'district':r.get('district'),'last_status':r.get('last_status')} for r in unclosed]
+    else:
+        for row in unclosed:
             add('sin_cierre','baja',f"Sin cierre reportado: {(row.get('name') or '')[:70]}",
                 f"Último registro {row.get('last_period')} como {row.get('last_status').lower()} en {row.get('district') or 'distrito no informado'}. Actores primarios: {((row.get('actors') or {}).get('primarios') or 'no informados')[:140]}.",None,[])
             alerts[-1]['date']=row.get('last_period') or ''
@@ -102,6 +114,16 @@ def compute(cases,media_items,official_items,insights,today=None,history=()):
     alerts.sort(key=lambda a:a['date'],reverse=True)
     alerts.sort(key=lambda a:-SEVERITY[a['severity']])
     return alerts
+
+
+GENERIC={'las','bambas','minera','minero','antamina','petroperu','comunidad','comunidades','campesina','campesinas','empresa','apurimac','ancash','huanuco','loreto','cusco',
+         'derrame','petroleo','corredor','distrito','provincia','poblacion','compania','frente','defensa','nativa','nativas','sector','caso'}
+
+
+def tokens(name):
+    import unicodedata
+    text=unicodedata.normalize('NFKD',name.lower()).encode('ascii','ignore').decode()
+    return {w for w in __import__('re').findall(r'[a-z]{5,}',text) if w not in GENERIC}
 
 
 def service_name(name):

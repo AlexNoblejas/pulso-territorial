@@ -1,6 +1,7 @@
 """Importa de la base de tesis los conflictos vinculados a una empresa, con estado mensual y actores.
 
 Uso: python scripts/importar_historico.py RUTA/base_unificada_conflictos_2012_2025.xlsx antamina Antamina
+     python scripts/importar_historico.py RUTA/... mineria 'las bambas|mmg'
 La base (33,845 filas, 2012-2025) se construyó con los reportes mensuales de la Defensoría del Pueblo.
 Se vincula un caso cuando el nombre de la empresa aparece en la denominación, la descripción, la
 columna Empresas o los actores. Escribe demo_data/historical_<cartera>.json.
@@ -24,7 +25,7 @@ def main(workbook, company, term):
     df = pd.read_excel(workbook, sheet_name='02_base_unificada')
     df['fecha'] = pd.to_datetime(df['fecha'], errors='coerce')
     text = df[['Denominacion_caso', 'caso_act', 'Descripcion_act', 'Empresas', 'Actores_Primarios', 'Actores_Secundarios', 'Actores_Terciarios']].astype(str).agg(' '.join, axis=1)
-    rows = df[text.str.contains(term, case=False, regex=False)].sort_values('fecha')
+    rows = df[text.str.contains(term, case=False, regex=True)].sort_values('fecha')  # term may be 'las bambas|mmg'
     cases = []
     for number, group in rows.groupby('Numero'):
         name = last(group['Denominacion_caso']) or last(group['caso_act'])

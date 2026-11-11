@@ -1,0 +1,802 @@
+{
+ "company": "antamina",
+ "pattern": "antamina",
+ "source_workbook": "base_actores_CON_ID_CONFLICTO_FINAL_100.xlsx",
+ "conflicts": 19,
+ "method": "Actores de los reportes de la Defensoría 2012-2025 en los conflictos donde la empresa aparece como actor primario o en el nombre del caso. Un actor cuenta una vez por conflicto.",
+ "actors": [
+  {
+   "name": "Defensoría del Pueblo",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 17,
+   "months": 166,
+   "first": "2012-01",
+   "last": "2025-12",
+   "cases": [
+    "Pobladores de Huarmey denuncian el incumplimiento de las actas de compromiso por parte de ",
+    "La población del distrito de Llata exige a la compañía minera Antamina y a las entidades e",
+    "Pobladores del centro poblado Carhuayoc demandan compensación y apoyo al desarrollo social",
+    "Miembros de la comunidad campesina de Ango Raju demandan a la Compañía Minera Antamina el "
+   ]
+  },
+  {
+   "name": "Compañía Minera Antamina S.A. (CMA)",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 17,
+   "months": 162,
+   "first": "2012-01",
+   "last": "2025-11",
+   "cases": [
+    "Pobladores de Huarmey denuncian el incumplimiento de las actas de compromiso por parte de ",
+    "La población del distrito de Llata exige a la compañía minera Antamina, el cumplimiento de",
+    "Pobladores del centro poblado Carhuayoc demandan compensación y apoyo al desarrollo social",
+    "Miembros de la comunidad campesina de Ango Raju demandan a la Compañía Minera Antamina el "
+   ]
+  },
+  {
+   "name": "Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 10,
+   "months": 163,
+   "first": "2012-01",
+   "last": "2025-11",
+   "cases": [
+    "Pobladores de Huarmey denuncian el incumplimiento de las actas de compromiso por parte de ",
+    "Pobladores del centro poblado Carhuayoc demandan compensación y apoyo al desarrollo social",
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de",
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata demanda"
+   ]
+  },
+  {
+   "name": "Ministerio de Energía y Minas (MINEM)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 8,
+   "months": 147,
+   "first": "2012-01",
+   "last": "2025-10",
+   "cases": [
+    "La Asociación de Pescadores, Armadores Artesanales de San Pedro de Puerto Huarmey y poblad",
+    "Pobladores del centro poblado Carhuayoc demandan compensación y apoyo al desarrollo social",
+    "Miembros de la comunidad campesina de Ango Raju demandan a la Compañía Minera Antamina el ",
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "Gobierno Regional de Áncash",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 6,
+   "months": 144,
+   "first": "2012-01",
+   "last": "2024-09",
+   "cases": [
+    "Pobladores de Huarmey denuncian el incumplimiento de las actas de compromiso por parte de ",
+    "Miembros de la comunidad campesina de Ango Raju demandan a la Compañía Minera Antamina el ",
+    "Pobladores y autoridades del Centro Poblado de Racrachaca exigen a Compañía Minera Antamin",
+    "Ciudadanos reclaman contra la paralización de la ejecución del Colegio de Alto Rendimiento"
+   ]
+  },
+  {
+   "name": "Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 6,
+   "months": 98,
+   "first": "2017-06",
+   "last": "2025-11",
+   "cases": [
+    "Miembros de la comunidad campesina de Ango Raju demandan a la Compañía Minera Antamina el ",
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de",
+    "Representantes de la Comunidad Campesina de Santa Cruz de Pichiu reclaman por un presunto ",
+    "Representantes de los centros poblados de Carhuayoc y Pichiu Quinuaragra, Frente de Defens"
+   ]
+  },
+  {
+   "name": "Secretaria de Gestión Social y Diálogo (SGSD-PCM)",
+   "type": "Otro",
+   "role": "terciario",
+   "conflicts": 6,
+   "months": 82,
+   "first": "2017-03",
+   "last": "2023-12",
+   "cases": [
+    "Pobladores de Huarmey denuncian el incumplimiento de las actas de compromiso por parte de ",
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de",
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata demanda",
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Ministerio Público",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 5,
+   "months": 97,
+   "first": "2012-01",
+   "last": "2024-10",
+   "cases": [
+    "La población del distrito de Llata exige a la compañía minera Antamina y a las entidades e",
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata demanda",
+    "Representantes del caserío de San Antonio de Chipta señalan que se encuentran en el área d",
+    "La comunidad campesina Cajacay exige a la Compañía Minera Antamina S. A. (CMA) asuma su re"
+   ]
+  },
+  {
+   "name": "Compañía Minera Antamina",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 5,
+   "months": 34,
+   "first": "2012-01",
+   "last": "2025-12",
+   "cases": [
+    "La población del distrito de Llata exige a la compañía minera Antamina y a las entidades e",
+    "Conflicto por presunto incumplimiento de acuerdos por parte de Cía minera Antamina y posib",
+    "Representantes del Caserío de Chipta señalan que se encuentran en el área de influencia di",
+    "La Comunidad Campesina de Cajacay exige a Compañía Minera Antamina asuma responsabilidades"
+   ]
+  },
+  {
+   "name": "Ministerio de Salud (MINSA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 4,
+   "months": 143,
+   "first": "2012-02",
+   "last": "2023-12",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de",
+    "Representantes del caserío de San Antonio de Chipta señalan que se encuentran en el área d",
+    "La comunidad campesina Cajacay exige a la Compañía Minera Antamina S. A. (CMA) asuma su re",
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Organismo de Evaluación y Fiscalización Ambiental (OEFA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 4,
+   "months": 142,
+   "first": "2012-03",
+   "last": "2023-12",
+   "cases": [
+    "Representantes del caserío de San Antonio de Chipta señalan que se encuentran en el área d",
+    "La población de las comunidades campesinas Huaripampa Alto, Medio y Bajo del centro poblad",
+    "La comunidad campesina Cajacay exige a la Compañía Minera Antamina S. A. (CMA) asuma su re",
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Ministerio del Ambiente (MINAM)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 4,
+   "months": 125,
+   "first": "2012-01",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de",
+    "Pobladores del centro poblado Carhuayoc demandan compensación y apoyo al desarrollo social",
+    "La población de la comunidad campesina Túpac Amaru demanda la intervención de las autorida",
+    "Pobladores de Huarmey denuncian el incumplimiento de las actas de compromiso por parte de "
+   ]
+  },
+  {
+   "name": "Prefectura Regional de Áncash",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 4,
+   "months": 88,
+   "first": "2018-04",
+   "last": "2025-11",
+   "cases": [
+    "Representantes de los centros poblados de Carhuayoc y Pichiu Quinuaragra, Frente de Defens",
+    "Representantes de la Comunidad Campesina de Santa Cruz de Pichiu reclaman por un presunto ",
+    "Miembros de la comunidad campesina de Ango Raju demandan a la Compañía Minera Antamina el ",
+    "La comunidad campesina de Aquia demanda la instalación de una mesa de diálogo con la parti"
+   ]
+  },
+  {
+   "name": "Oficina Nacional de Diálogo y Sostenibilidad de la Presidencia del Consejo de Ministros (ONDS)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 4,
+   "months": 47,
+   "first": "2013-04",
+   "last": "2017-02",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de",
+    "La población de las comunidades campesinas Huaripampa Alto, Medio y Bajo del centro poblad",
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa",
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata convocó"
+   ]
+  },
+  {
+   "name": "Centro Nacional de Salud Ocupacional y Protección del Ambiente para la Salud (CENSOPAS)",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 3,
+   "months": 144,
+   "first": "2012-01",
+   "last": "2023-12",
+   "cases": [
+    "Representantes del caserío de San Antonio de Chipta señalan que se encuentran en el área d",
+    "Autoridades y pobladores del Caserío San Antonio de Juprog demandan el cumplimiento de acu",
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Municipalidad Distrital de San Marcos",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 3,
+   "months": 112,
+   "first": "2012-05",
+   "last": "2023-12",
+   "cases": [
+    "Representantes de los centros poblados de Carhuayoc y Pichiu Quinuaragra, Frente de Defens",
+    "La población de la comunidad campesina Túpac Amaru demanda la intervención de las autorida",
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Policía Nacional del Perú",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 3,
+   "months": 107,
+   "first": "2016-05",
+   "last": "2025-12",
+   "cases": [
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata demanda",
+    "La población del distrito de Llata exige a la compañía minera Antamina y a las entidades e",
+    "Miembros de la comunidad campesina de Ango Raju demandan a la Compañía Minera Antamina el "
+   ]
+  },
+  {
+   "name": "Ministerio de Educación (MINEDU)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 3,
+   "months": 60,
+   "first": "2016-12",
+   "last": "2025-12",
+   "cases": [
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata demanda",
+    "La población del distrito de Llata exige a la compañía minera Antamina y a las entidades e",
+    "La población de las comunidades campesinas Huaripampa Alto, Medio y Bajo del centro poblad"
+   ]
+  },
+  {
+   "name": "Dirección Regional de Salud (DIRESA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 3,
+   "months": 55,
+   "first": "2012-01",
+   "last": "2017-06",
+   "cases": [
+    "Representantes del caserío de San Antonio de Chipta señalan que se encuentran en el área d",
+    "La población de la comunidad campesina Túpac Amaru demanda la intervención de las autorida",
+    "Autoridades y pobladores del Caserío San Antonio de Juprog demandan el cumplimiento de acu"
+   ]
+  },
+  {
+   "name": "Compañía Minera Antamina S. A",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 3,
+   "months": 35,
+   "first": "2012-11",
+   "last": "2018-11",
+   "cases": [
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata demanda",
+    "La comunidad campesina Cajacay exige a la Compañía Minera Antamina S. A. (CMA) asuma su re",
+    "Autoridades y pobladores del Caserío San Antonio de Juprog demanda el cumplimiento de acue"
+   ]
+  },
+  {
+   "name": "MINEM",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 3,
+   "months": 6,
+   "first": "2012-02",
+   "last": "2012-10",
+   "cases": [
+    "El Presidente de la Asociación de Municipalidades de Centros Poblados (AMUCEPs) de Ancash ",
+    "Representantes del Caserío de Chipta señalan que se encuentran en el área de influencia di",
+    "Los pobladores demandan la intervención de las autoridades competentes para que determinen"
+   ]
+  },
+  {
+   "name": "Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari",
+   "type": "Estado",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 152,
+   "first": "2012-11",
+   "last": "2025-11",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de",
+    "La comunidad campesina de Aquia demanda la instalación de una mesa de diálogo con la parti"
+   ]
+  },
+  {
+   "name": "Ministerio de Cultura (MINCU)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 2,
+   "months": 69,
+   "first": "2016-12",
+   "last": "2025-11",
+   "cases": [
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata demanda",
+    "La comunidad campesina de Aquia demanda la instalación de una mesa de diálogo con la parti"
+   ]
+  },
+  {
+   "name": "Comunidad campesina de Ango Raju",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 66,
+   "first": "2012-01",
+   "last": "2023-04",
+   "cases": [
+    "Pobladores de la Comunidad Campesina de Ango Raju y del Centro Poblado Carhuayoc (San Marc",
+    "Miembros de la comunidad campesina de Ango Raju demandan a la Compañía Minera Antamina el "
+   ]
+  },
+  {
+   "name": "Ministerio del Interior (MININTER)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 64,
+   "first": "2018-04",
+   "last": "2025-10",
+   "cases": [
+    "La población de la comunidad campesina de Huaripampa exige a la Compañía Minera Antamina e",
+    "Miembros de la comunidad campesina de Ango Raju demandan a la Compañía Minera Antamina el "
+   ]
+  },
+  {
+   "name": "Comunidad campesina de Aquia",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 56,
+   "first": "2012-01",
+   "last": "2025-11",
+   "cases": [
+    "Pobladores y autoridades del Centro Poblado de Racrachaca exigen a Compañía Minera Antamin",
+    "La comunidad campesina de Aquia demanda la instalación de una mesa de diálogo con la parti"
+   ]
+  },
+  {
+   "name": "Ministerio de Agricultura y Riego (MINAGRI)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 53,
+   "first": "2014-07",
+   "last": "2018-11",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de",
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata demanda"
+   ]
+  },
+  {
+   "name": "Comunidad Campesina de Catác",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 51,
+   "first": "2012-01",
+   "last": "2024-09",
+   "cases": [
+    "El presidente de la Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari c",
+    "Ciudadanos reclaman contra la paralización de la ejecución del Colegio de Alto Rendimiento"
+   ]
+  },
+  {
+   "name": "Gerencia de Recursos Naturales y Gestión del Medio Ambiente del Gobierno Regional de Áncash",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 48,
+   "first": "2012-01",
+   "last": "2017-03",
+   "cases": [
+    "Representantes del caserío de San Antonio de Chipta señalan que se encuentran en el área d",
+    "Autoridades y pobladores del Caserío San Antonio de Juprog demandan el cumplimiento de acu"
+   ]
+  },
+  {
+   "name": "Ministerio de Economía y Finanzas (MEF)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 45,
+   "first": "2012-01",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de",
+    "La Comunidad Campesina de Cajacay exige al Gobierno Regional y a la Cía. Minera Antamina l"
+   ]
+  },
+  {
+   "name": "Comunidad Campesina de Cajacay",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 32,
+   "first": "2012-01",
+   "last": "2014-08",
+   "cases": [
+    "La comunidad campesina de Cajacay exige a compañía minera Antamina S.A. (CMA) asuma respon",
+    "La Comunidad Campesina de Cajacay exige al Gobierno Regional y a la Cía. Minera Antamina l"
+   ]
+  },
+  {
+   "name": "empresa minera Antamina",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 31,
+   "first": "2012-06",
+   "last": "2017-06",
+   "cases": [
+    "La población de la comunidad campesina Túpac Amaru demanda la intervención de las autorida",
+    "La población de las comunidades campesinas Huaripampa Alto, Medio y Bajo del centro poblad"
+   ]
+  },
+  {
+   "name": "Programa Nacional de Infraestructura Educativa (Pronied)",
+   "type": "Estado",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 29,
+   "first": "2023-03",
+   "last": "2025-12",
+   "cases": [
+    "La población del distrito de Llata exige a la compañía minera Antamina y a las entidades e",
+    "Ciudadanos reclaman contra la paralización de la ejecución del Colegio de Alto Rendimiento"
+   ]
+  },
+  {
+   "name": "Ministerio de Transportes y Comunicaciones (MTC)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 24,
+   "first": "2018-02",
+   "last": "2025-12",
+   "cases": [
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata demanda",
+    "La población del distrito de Llata exige a la compañía minera Antamina y a las entidades e"
+   ]
+  },
+  {
+   "name": "Gobierno Regional de Huánuco",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 24,
+   "first": "2018-02",
+   "last": "2025-12",
+   "cases": [
+    "La Asociación de Alcaldes de los Centros Poblados y Caseríos del distrito de Llata demanda",
+    "La población del distrito de Llata exige a la compañía minera Antamina y a las entidades e"
+   ]
+  },
+  {
+   "name": "Cía. Minera Antamina",
+   "type": "Empresa",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 17,
+   "first": "2012-01",
+   "last": "2013-05",
+   "cases": [
+    "La Comunidad Campesina de Cajacay exige al Gobierno Regional y a la Cía. Minera Antamina l",
+    "La población de la cuenca del Río Ayash reclama atención a los impactos a la salud y el am"
+   ]
+  },
+  {
+   "name": "Cia. Minera Antamina S.A",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 8,
+   "first": "2012-01",
+   "last": "2012-08",
+   "cases": [
+    "La Asociación de Pescadores, Armadores Artesanales de San Pedro de Puerto Huarmey y poblad",
+    "Pobladores y autoridades del Centro Poblado de Racrachaca exigen a Compañía Minera Antamin"
+   ]
+  },
+  {
+   "name": "OEFA",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 2,
+   "months": 8,
+   "first": "2012-02",
+   "last": "2012-10",
+   "cases": [
+    "Representantes del Caserío de Chipta señalan que se encuentran en el área de influencia di",
+    "La Comunidad Campesina de Cajacay exige a Compañía Minera Antamina asuma responsabilidades"
+   ]
+  },
+  {
+   "name": "Asociación Multisectorial para el Desarrollo Sostenible de Ayash (ASODESO)",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 144,
+   "first": "2012-01",
+   "last": "2023-12",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Dirección Regional de Salud de Áncash (DIRESA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 144,
+   "first": "2012-01",
+   "last": "2023-12",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "comunidad Santa Cruz Pichiú",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 134,
+   "first": "2012-11",
+   "last": "2023-12",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Dirección Ejecutiva de Salud Ambiental (DESA)",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 134,
+   "first": "2012-11",
+   "last": "2023-12",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Autoridad Nacional del Agua (ANA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 129,
+   "first": "2013-04",
+   "last": "2023-12",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Organismo Supervisor de la Inversión en Minería y Energía (OSINERGMIN)",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 129,
+   "first": "2013-04",
+   "last": "2023-12",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Instituto Nacional de Defensa Civil (INDECI)",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 129,
+   "first": "2013-04",
+   "last": "2023-12",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Federación Agraria Departamental de Áncash (FADA)",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 125,
+   "first": "2012-01",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "Nyrstar",
+   "type": "Otro",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 124,
+   "first": "2012-02",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "Sub Región Conchucos",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 124,
+   "first": "2012-02",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "Municipalidades de Huari",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 124,
+   "first": "2012-02",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "Chavín de Huantar",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 124,
+   "first": "2012-02",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "San Marcos",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 124,
+   "first": "2012-02",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "Obispado de Huari",
+   "type": "Otro",
+   "role": "terciario",
+   "conflicts": 1,
+   "months": 124,
+   "first": "2012-02",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres (CENEPRED)",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 124,
+   "first": "2013-09",
+   "last": "2023-12",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Ministerio de Inclusión social (MIDIS)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 123,
+   "first": "2012-03",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "Comunidad Ayash Huaripampa",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 121,
+   "first": "2013-12",
+   "last": "2023-12",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Comité de Seguimiento a la Salud Humana (COSESH)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 95,
+   "first": "2012-01",
+   "last": "2021-08",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Ministerio de Economía (MEF)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 95,
+   "first": "2012-03",
+   "last": "2020-01",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "comunidad campesina Cátac",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 93,
+   "first": "2014-09",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  },
+  {
+   "name": "Municipalidad Provincial de Huari",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 79,
+   "first": "2017-06",
+   "last": "2023-12",
+   "cases": [
+    "La población de la cuenca del río Ayash denuncia contaminación del recurso natural, e impa"
+   ]
+  },
+  {
+   "name": "Comisión Episcopal de Acción Social (CEAS)",
+   "type": "Otro",
+   "role": "terciario",
+   "conflicts": 1,
+   "months": 76,
+   "first": "2016-02",
+   "last": "2022-05",
+   "cases": [
+    "La Asociación de Municipalidades de Centros Poblados (AMUCEPS) de Huari en la provincia de"
+   ]
+  }
+ ]
+}

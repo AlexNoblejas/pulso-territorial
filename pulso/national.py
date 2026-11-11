@@ -98,4 +98,5 @@ def history():
 def payload():
     data=load()
     hist=history()
-    return {**data,'history':{k:hist.get(k) for k in ['method','source_rows','series','departments','types_by_year','cases']} if hist else None}
+    official=service.ROOT/'demo_data'/'series_oficial.json'
+    return {**data,'official_series':json.loads(official.read_text(encoding='utf-8')) if official.exists() else None,'history':{k:hist.get(k) for k in ['method','source_rows','series','departments','types_by_year','cases']} if hist else None}

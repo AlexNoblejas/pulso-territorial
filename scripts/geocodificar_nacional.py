@@ -36,6 +36,14 @@ def main():
     path = ROOT / 'demo_data' / 'geocodes.json'
     geocodes = json.loads(path.read_text(encoding='utf-8'))
     pairs = {(d, p) for d, p, _ in parsed if d}
+    # Districts of each company's historical conflicts, for the hotspot layer of the territory map.
+    for history_file in (ROOT / 'demo_data').glob('historical_*.json'):
+        if history_file.name == 'historical_national.json':
+            continue
+        for case in json.loads(history_file.read_text(encoding='utf-8')).get('cases', []):
+            district = (case.get('district') or '').split('/')[0].strip()
+            if district:
+                pairs.add((service.norm(district).upper(), service.norm((case.get('province') or '').split('/')[0].strip()).upper()))
     names = sorted({d for d, _ in pairs})
     for start in range(0, len(names), 40):
         for feature in features('NOMBDIST IN (' + quoted(names[start:start + 40]) + ')'):

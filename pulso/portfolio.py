@@ -192,10 +192,14 @@ def _snapshot():
 
 
 def historical(company):
-    if company=='antamina':
+    path=service.ROOT/'demo_data'/f'historical_{company}.json'
+    if path.exists():
         # Imported with scripts/importar_historico.py from the thesis workbook (Defensoría 2012-2025).
-        path=service.ROOT/'demo_data'/'historical_antamina.json'
-        selected=json.loads(path.read_text(encoding='utf-8'))['cases'] if path.exists() else []
+        selected=json.loads(path.read_text(encoding='utf-8'))['cases']
+        # Keep the official case codes already validated in the earlier curated sample.
+        codes={c['historical_research_id']:c.get('official_case_code_candidate') for c in _read('historical.json',{'cases':[]})['cases']}
+        for case in selected:
+            case.setdefault('official_case_code_candidate',codes.get(case['historical_research_id']))
     else:
         raw=_read('historical.json',{'cases':[]})
         # Lote 8/192 historical associations are not attributed to today's Petroperú.
@@ -226,6 +230,64 @@ def historical(company):
                 provenance['file']=Path(provenance['file']).name
             obs.pop('report_reference_metadata',None)
     return sanitized,series
+
+
+def stakeholders(company):
+    path=service.ROOT/'demo_data'/f'actors_{company}.json'
+    return json.loads(path.read_text(encoding='utf-8')) if path.exists() else None
+
+
+def history_points(company,cases):
+    """District hotspots of the company's historical conflicts (district reference points)."""
+    geocodes=_read('geocodes.json',{}) or {}
+    counts=defaultdict(lambda:{'conflicts':[],'active':0})
+    for case in cases:
+        district=service.norm((case.get('district') or '').split('/')[0].strip()).upper()
+        province=service.norm((case.get('province') or '').split('/')[0].strip()).upper()
+        point=geocodes.get(f'{district}|{province}') or geocodes.get(district)
+        if not point:
+            continue
+        entry=counts[district.title()]  # one hotspot per district, whatever key located it
+        entry.setdefault('coordinates',point['coordinates'])
+        entry['conflicts'].append(case.get('name') or case.get('display_name') or '')
+        entry['active']+=1 if (case.get('last_status') or '').lower()=='activo' else 0
+    return {'type':'FeatureCollection','features':[{'type':'Feature','geometry':{'type':'Point','coordinates':list(v['coordinates'])},
+             'properties':{'district':district,'conflicts':len(v['conflicts']),'active':v['active'],'names':'; '.join(n[:60] for n in v['conflicts'][:6])}}
+            for district,v in counts.items()]}
+
+
+def map_reading(company,cases,history):
+    """Plain-language findings from the GEOPERÚ layers and the conflict history (no causal claims)."""
+    from shapely.geometry import shape
+    layers=geoperu.load(company).get('layers',{})
+    shapes={k:[(shape(f['geometry']),f['properties']) for f in v['data']['features']] for k,v in layers.items()}
+    notes=[]
+    districts=Counter(service.norm((h.get('district') or '').split('/')[0]).title() for h in history if h.get('district'))
+    if districts:
+        top=', '.join(f'{d} ({n})' for d,n in districts.most_common(3))
+        notes.append({'title':'Dónde se concentra la conflictividad','text':f'De {len(history)} conflictos vinculados entre 2012 y 2025, los distritos con más casos son {top}.','source':'Base de reportes de la Defensoría 2012-2025'})
+    from shapely.ops import unary_union
+    communities=shapes.get('comunidades_oficiales',[])
+    # The company's own footprint: its mining concessions, or the pipeline it operates.
+    if shapes.get('concesiones_empresa'):
+        footprint,label=unary_union([g.buffer(0) for g,_ in shapes['concesiones_empresa']]),'concesiones de la empresa'
+    elif shapes.get('oleoducto'):
+        footprint,label=unary_union([g for g,_ in shapes['oleoducto']]).buffer(0.045),'una franja de unos 5 km del Oleoducto Norperuano'
+    else:
+        footprint=None
+    if footprint is not None and communities:
+        touching=sorted({p.get('nom_comuni') for g,p in communities if g.buffer(0).intersects(footprint) and p.get('nom_comuni')})
+        notes.append({'title':'Comunidades sobre la huella de la operación','text':f'{len(touching)} de {len(communities)} comunidades tituladas del área se superponen con {label}'+(f", entre ellas {', '.join(touching[:5])}." if touching else '.'),'source':'GEOPERÚ (MIDAGRI, titulares de concesiones, MINAM)'})
+        liabilities=[g for g,_ in shapes.get('pasivos',[])]
+        if liabilities:
+            near=sum(1 for g in liabilities if g.distance(footprint)<=0.09)
+            notes.append({'title':'Pasivos ambientales cerca de la operación','text':f'{near} de {len(liabilities)} pasivos del inventario 2022 están a menos de unos 10 km de {label}. No implica que sean de su responsabilidad.','source':'GEOPERÚ (inventario de pasivos 2022)'})
+    if shapes.get('lotes'):
+        operators=sorted({(p.get('cia') or '').strip() for _,p in shapes['lotes'] if p.get('cia')})
+        notes.append({'title':'Lotes petroleros: otros operadores','text':f"La capa de lotes de GEOPERÚ registra {len(shapes['lotes'])} lotes con operadores como {', '.join(operators[:5])}. Es una capa antigua y no se atribuye a la empresa.",'source':'GEOPERÚ (fuente declarada: Petroperú)'})
+    located=sum(1 for c in cases if c.get('coordinates'))
+    notes.append({'title':'Precisión de las ubicaciones','text':f'{located} de {len(cases)} conflictos activos tienen punto en el mapa; la mayoría son puntos distritales, no el lugar exacto de los hechos.','source':'Defensoría y límites distritales de GEOPERÚ'})
+    return notes
 
 
 def linked_history(cases):
@@ -390,7 +452,7 @@ def portfolio(company='mineria',period=None):
     return {'company':COMPANIES[company],'period':selected_period,'periods':periods,'author':snap['author'],
             'summary':{'cases':len(cases),'active':sum(c['status']=='Activo' for c in cases),'latent':sum(c['status']=='Latente' for c in cases),'dialogue':sum(c['dialogue'] for c in cases),'sources':len(selected_sources),'observations':sum(len(c['observations']) for c in cases),'historical_observations':sum(len(c['observations']) for c in historical_cases)},
             'cases':cases,'sources':sorted(selected_sources,key=lambda s:s['institution']),'source_matrix':matrix,'insights':insights,'milestones':sorted(milestones,key=lambda m:m['due_date']),
-            'phase_distribution':dict(phases),'historical_series':series,'historical_cases':historical_cases,'linked_history':linked_history(historical_cases),
+            'phase_distribution':dict(phases),'historical_series':series,'historical_cases':historical_cases,'linked_history':linked_history(historical_cases),'stakeholders':stakeholders(company),'map_reading':map_reading(company,cases,linked_history(historical_cases)),
             'related_news':[r for r in snap['supplementary'].get('newscases',[]) if company=='mineria']+
                            [{'id':s['document_id']+f"-p{s['page']}",'institution':library['documents'][s['document_id']]['institution'],'title':s['title'],
                              'claim':s['claim'],'quote':s['quote'],'page':s['page'],'pdf_url':s['pdf_url'],'url':library['documents'][s['document_id']]['url'],
@@ -412,6 +474,7 @@ def geography(company):
         raise ValueError('Cartera no válida.')
     data=_read(f'geography_{company}.json',{})
     data['geoperu']=geoperu.load(company)
+    data['history_points']=history_points(company,historical(company)[0])
     return data
 
 

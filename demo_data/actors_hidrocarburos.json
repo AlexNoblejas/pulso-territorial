@@ -1,0 +1,804 @@
+{
+ "company": "hidrocarburos",
+ "pattern": "petroper",
+ "source_workbook": "base_actores_CON_ID_CONFLICTO_FINAL_100.xlsx",
+ "conflicts": 19,
+ "method": "Actores de los reportes de la Defensoría 2012-2025 en los conflictos donde la empresa aparece como actor primario o en el nombre del caso. Un actor cuenta una vez por conflicto.",
+ "actors": [
+  {
+   "name": "Defensoría del Pueblo",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 16,
+   "months": 138,
+   "first": "2012-08",
+   "last": "2025-12",
+   "cases": [
+    "El Frente Patriótico y otras organizaciones sociales, así como autoridades de Loreto, recl",
+    "Un sector de Comunidades Nativas del Morona y sus organizaciones representativas se oponen",
+    "Pobladores de la comunidad nativa Chapis del pueblo indígena Awajún demandan que el Estado",
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina de la Cuenca del U"
+   ]
+  },
+  {
+   "name": "Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 12,
+   "months": 98,
+   "first": "2017-06",
+   "last": "2025-11",
+   "cases": [
+    "Pobladores de la comunidad nativa Chapis del pueblo indígena Awajún demandan que el Estado",
+    "Un sector de Comunidades Nativas del Morona y sus organizaciones representativas se oponen",
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina de la Cuenca del U",
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida"
+   ]
+  },
+  {
+   "name": "Ministerio de Energía y Minas (MINEM)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 10,
+   "months": 109,
+   "first": "2015-08",
+   "last": "2025-12",
+   "cases": [
+    "El Frente Patriótico y otras organizaciones sociales, así como autoridades de Loreto, recl",
+    "Pobladores de la comunidad nativa Chapis del pueblo indígena Awajún demandan que el Estado",
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina de la Cuenca del U",
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida"
+   ]
+  },
+  {
+   "name": "Petroperú",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 9,
+   "months": 113,
+   "first": "2012-01",
+   "last": "2025-11",
+   "cases": [
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina de la Cuenca del U",
+    "La Federación de Comunidades Nativas del Río Marañón y Chambira – Feconamach, demandan que",
+    "Santa Rosa, localidad del pueblo indígena Awajún, demanda que se atiendan los impactos amb",
+    "La población de Ilo exige a Petroperú el cumplimiento del plazo para la reubicación de sus"
+   ]
+  },
+  {
+   "name": "Organismo de Evaluación y Fiscalización Ambiental (OEFA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 8,
+   "months": 110,
+   "first": "2016-06",
+   "last": "2025-11",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida",
+    "La Federación de Comunidades Nativas del Río Marañón y Chambira – Feconamach, demandan que",
+    "Santa Rosa, localidad del pueblo indígena Awajún, demanda que se atiendan los impactos amb",
+    "La población de Ilo exige a Petroperú el cumplimiento del plazo para la reubicación de sus"
+   ]
+  },
+  {
+   "name": "Ministerio de Cultura (MINCUL)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 6,
+   "months": 123,
+   "first": "2014-11",
+   "last": "2025-08",
+   "cases": [
+    "Pobladores de la comunidad nativa Chapis del pueblo indígena Awajún demandan que el Estado",
+    "Un sector de Comunidades Nativas del Morona y sus organizaciones representativas se oponen",
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida",
+    "La Federación de Comunidades Nativas del Río Marañón y Chambira – Feconamach, demandan que"
+   ]
+  },
+  {
+   "name": "Gobierno Regional de Loreto",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 6,
+   "months": 110,
+   "first": "2015-08",
+   "last": "2025-11",
+   "cases": [
+    "El Frente Patriótico y otras organizaciones sociales, así como autoridades de Loreto, recl",
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina de la Cuenca del U",
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida",
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina: Cuninico, Urarina"
+   ]
+  },
+  {
+   "name": "Ministerio Público",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 5,
+   "months": 74,
+   "first": "2019-01",
+   "last": "2025-11",
+   "cases": [
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina de la Cuenca del U",
+    "Santa Rosa, localidad del pueblo indígena Awajún, demanda que se atiendan los impactos amb",
+    "La comunidad nativa Saramurillo del pueblo indígena Kukama Kukamiria, advierte el incumpli",
+    "Los anexos de la comunidad nativa Sinchi Roca del pueblo indígena Awajún, demandan que se "
+   ]
+  },
+  {
+   "name": "Ministerio de Salud (MINSA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 4,
+   "months": 104,
+   "first": "2016-06",
+   "last": "2025-08",
+   "cases": [
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina: Cuninico, Urarina",
+    "La comunidad nativa Fernando Rosas del pueblo indígena Wampis demanda priorizar el cumplim",
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida",
+    "La Federación de Comunidades Nativas del Río Marañón y Chambira – Feconamach, demandan que"
+   ]
+  },
+  {
+   "name": "Ministerio del Interior (MININTER)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 4,
+   "months": 104,
+   "first": "2016-06",
+   "last": "2025-11",
+   "cases": [
+    "La comunidad nativa Saramurillo del pueblo indígena Kukama Kukamiria, advierte el incumpli",
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida",
+    "Pobladores de la comunidad nativa Chapis del pueblo indígena Awajún demandan que el Estado",
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina de la Cuenca del U"
+   ]
+  },
+  {
+   "name": "Petroperú S.A",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 4,
+   "months": 32,
+   "first": "2022-09",
+   "last": "2025-12",
+   "cases": [
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina: Cuninico, Urarina",
+    "El 19 de febrero ocurrió un derrame de petróleo a la altura del kilómetro 315+535 del Tram",
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Ministerio del Ambiente (MINAM)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 3,
+   "months": 104,
+   "first": "2016-06",
+   "last": "2025-08",
+   "cases": [
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina: Cuninico, Urarina",
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida",
+    "La comunidad nativa Fernando Rosas del pueblo indígena Wampis demanda priorizar el cumplim"
+   ]
+  },
+  {
+   "name": "Autoridad Nacional del Agua (ANA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 3,
+   "months": 69,
+   "first": "2019-01",
+   "last": "2024-09",
+   "cases": [
+    "La Federación de Comunidades Nativas del Río Marañón y Chambira – Feconamach, demandan que",
+    "Los anexos de la comunidad nativa Sinchi Roca del pueblo indígena Awajún, demandan que se ",
+    "Santa Rosa, localidad del pueblo indígena Awajún, demanda que se atiendan los impactos amb"
+   ]
+  },
+  {
+   "name": "Municipalidad Distrital de Urarinas",
+   "type": "Estado",
+   "role": "primario",
+   "conflicts": 3,
+   "months": 52,
+   "first": "2020-10",
+   "last": "2025-11",
+   "cases": [
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina: Cuninico, Urarina",
+    "La comunidad nativa Saramurillo del pueblo indígena Kukama Kukamiria, advierte el incumpli",
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina de la Cuenca del U"
+   ]
+  },
+  {
+   "name": "Secretaria de Gestión Social y Diálogo del Viceministerio de Gobernanza Territorial (SGSD – PCM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 3,
+   "months": 13,
+   "first": "2019-01",
+   "last": "2020-01",
+   "cases": [
+    "La Federación de Comunidades Nativas del Río Marañón y Chambira – Feconamach, demandan que",
+    "Los anexos de la comunidad nativa Sinchi Roca demandan que se atiendan el problema ambient",
+    "La comunidad nativa de Santa Rosa demanda que se atiendan los impactos ambientales y socia"
+   ]
+  },
+  {
+   "name": "Perupetro S.A",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 3,
+   "months": 6,
+   "first": "2015-08",
+   "last": "2025-12",
+   "cases": [
+    "El Frente Patriótico y otras organizaciones sociales, así como autoridades de Loreto, recl",
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Secretaria de Gestión Social y Diálogo (SGSD-PCM)",
+   "type": "Otro",
+   "role": "terciario",
+   "conflicts": 3,
+   "months": 3,
+   "first": "2017-03",
+   "last": "2017-05",
+   "cases": [
+    "Pobladores de la comunidad nativa Nueva Alianza demandan la atención del Estado y de Petro",
+    "La comunidad nativa Mayuriaga y la Federación de la Nacionalidad Wampis del Perú, entre ot",
+    "Un sector de comunidades nativas del Morona y sus organizaciones representativas se oponen"
+   ]
+  },
+  {
+   "name": "Municipalidad Provincial de Ilo (MPI)",
+   "type": "Estado",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 120,
+   "first": "2012-01",
+   "last": "2025-11",
+   "cases": [
+    "Instituciones Educativas y Organizaciones sociales de Ilo reclaman la reubicación de la Pl",
+    "La población de Ilo exige a Petroperú el cumplimiento del plazo para la reubicación de sus"
+   ]
+  },
+  {
+   "name": "Frente de Defensa de Ilo",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 120,
+   "first": "2012-01",
+   "last": "2025-11",
+   "cases": [
+    "Instituciones Educativas y Organizaciones sociales de Ilo reclaman la reubicación de la Pl",
+    "La población de Ilo exige a Petroperú el cumplimiento del plazo para la reubicación de sus"
+   ]
+  },
+  {
+   "name": "Ministerio de Transportes y Comunicaciones (MTC)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 104,
+   "first": "2016-06",
+   "last": "2025-08",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida",
+    "La comunidad nativa Fernando Rosas del pueblo indígena Wampis demanda priorizar el cumplim"
+   ]
+  },
+  {
+   "name": "Ministerio de Educación (MINEDU)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 104,
+   "first": "2016-06",
+   "last": "2025-08",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida",
+    "La comunidad nativa Fernando Rosas del pueblo indígena Wampis demanda priorizar el cumplim"
+   ]
+  },
+  {
+   "name": "Municipalidad Distrital de Morona",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 104,
+   "first": "2016-06",
+   "last": "2025-08",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida",
+    "La comunidad nativa Fernando Rosas del pueblo indígena Wampis demanda priorizar el cumplim"
+   ]
+  },
+  {
+   "name": "Ministerio de Vivienda, Construcción y Saneamiento (MVCS)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 100,
+   "first": "2016-06",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida",
+    "La Federación de Comunidades Nativas del Río Marañón y Chambira – Feconamach, demandan que"
+   ]
+  },
+  {
+   "name": "Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 2,
+   "months": 62,
+   "first": "2016-08",
+   "last": "2025-11",
+   "cases": [
+    "La comunidad nativa Saramurillo del pueblo indígena Kukama Kukamiria, advierte el incumpli",
+    "Pobladores de la comunidad nativa Nueva Alianza demandan la atención del Estado y de Petro"
+   ]
+  },
+  {
+   "name": "Dirección General de Salud Ambiental (DIGESA)",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 61,
+   "first": "2019-01",
+   "last": "2024-09",
+   "cases": [
+    "Los anexos de la comunidad nativa Sinchi Roca del pueblo indígena Awajún, demandan que se ",
+    "Santa Rosa, localidad del pueblo indígena Awajún, demanda que se atiendan los impactos amb"
+   ]
+  },
+  {
+   "name": "Dirección Regional de Salud (DIRESA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 61,
+   "first": "2019-01",
+   "last": "2024-09",
+   "cases": [
+    "Los anexos de la comunidad nativa Sinchi Roca del pueblo indígena Awajún, demandan que se ",
+    "Santa Rosa, localidad del pueblo indígena Awajún, demanda que se atiendan los impactos amb"
+   ]
+  },
+  {
+   "name": "Municipalidad Distrital de Manseriche",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 54,
+   "first": "2019-06",
+   "last": "2025-06",
+   "cases": [
+    "El 19 de febrero ocurrió un derrame de petróleo a la altura del kilómetro 315+535 del Tram",
+    "Los anexos de la comunidad nativa Sinchi Roca del pueblo indígena Awajún, demandan que se "
+   ]
+  },
+  {
+   "name": "Nueva Alianza",
+   "type": "Otro",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 50,
+   "first": "2019-06",
+   "last": "2024-09",
+   "cases": [
+    "Los anexos de la comunidad nativa Sinchi Roca del pueblo indígena Awajún, demandan que se ",
+    "Comunidades nativas de los pueblos indígenas Kukama Kukamiria y Urarina de la Cuenca del U"
+   ]
+  },
+  {
+   "name": "Policía Nacional del Perú",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 46,
+   "first": "2015-08",
+   "last": "2025-11",
+   "cases": [
+    "La comunidad nativa Saramurillo del pueblo indígena Kukama Kukamiria, advierte el incumpli",
+    "El Frente Patriótico y otras organizaciones sociales, así como autoridades de Loreto, recl"
+   ]
+  },
+  {
+   "name": "Viceministerio de Gobernanza Territorial de la Presidencia del Consejo de Ministros (VGT-PCM)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 42,
+   "first": "2020-02",
+   "last": "2024-09",
+   "cases": [
+    "Los anexos de la comunidad nativa Sinchi Roca del pueblo indígena Awajún, demandan que se ",
+    "La comunidad nativa de Santa Rosa demanda que se atiendan los impactos ambientales y socia"
+   ]
+  },
+  {
+   "name": "Viceministerio de Gobernanza Territorial",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 32,
+   "first": "2019-01",
+   "last": "2024-09",
+   "cases": [
+    "Los anexos de la comunidad nativa Sinchi Roca demandan que se atiendan el problema ambient",
+    "Santa Rosa, localidad del pueblo indígena Awajún, demanda que se atiendan los impactos amb"
+   ]
+  },
+  {
+   "name": "Oficina Nacional de Diálogo y Sostenibilidad (ONDS) de la Presidencia del Consejo de Ministros (PCM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 2,
+   "months": 9,
+   "first": "2016-06",
+   "last": "2017-02",
+   "cases": [
+    "Pobladores de la comunidad nativa Nueva Alianza demandan la atención del Estado y de Petro",
+    "La comunidad nativa Mayuriaga y la Federación de la Nacionalidad Wampis del Perú, entre ot"
+   ]
+  },
+  {
+   "name": "Comunidad Nativa de Antioquía",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Comunidad Nativa de Doce de Octubre",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Comunidad Nativa Alianza Capahuariyacu",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Comunidad Nativa Titiyacu",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Comunidad Nativa Nuevo Andoas",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Comunidad Nativa Los Jardines",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Comunidad Nativa Nueva Jerusalén",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Comunidad Nativa Nuevo Porvenir",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Comunidad Nativa José Olaya",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Altamesa Energy Perú S.A.C",
+   "type": "Otro",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "ONAPP",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "FECONACOR",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "FEDIQUEP",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "ORIAP",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "OPIKAFPE",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 3,
+   "first": "2025-01",
+   "last": "2025-12",
+   "cases": [
+    "Las comunidades nativas del distrito de Andoas, Tigre y Trompeteros, ubicadas en el ámbito",
+    "A raíz del incumplimiento parcial del cronograma de pagos establecido en el mes de febrero"
+   ]
+  },
+  {
+   "name": "Frente de Defensa de los Intereses del Ilo",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 108,
+   "first": "2016-07",
+   "last": "2025-11",
+   "cases": [
+    "La población de Ilo exige a Petroperú el cumplimiento del plazo para la reubicación de sus"
+   ]
+  },
+  {
+   "name": "Consorcio Terminales",
+   "type": "Otro",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 108,
+   "first": "2016-07",
+   "last": "2025-11",
+   "cases": [
+    "La población de Ilo exige a Petroperú el cumplimiento del plazo para la reubicación de sus"
+   ]
+  },
+  {
+   "name": "Asociación de Transportes de Carga",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 108,
+   "first": "2016-07",
+   "last": "2025-11",
+   "cases": [
+    "La población de Ilo exige a Petroperú el cumplimiento del plazo para la reubicación de sus"
+   ]
+  },
+  {
+   "name": "Junta Vecinal Villa del Mar",
+   "type": "Otro",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 108,
+   "first": "2016-07",
+   "last": "2025-11",
+   "cases": [
+    "La población de Ilo exige a Petroperú el cumplimiento del plazo para la reubicación de sus"
+   ]
+  },
+  {
+   "name": "Túpac Amaru y Ghersi",
+   "type": "Otro",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 108,
+   "first": "2016-07",
+   "last": "2025-11",
+   "cases": [
+    "La población de Ilo exige a Petroperú el cumplimiento del plazo para la reubicación de sus"
+   ]
+  },
+  {
+   "name": "Unidad de Gestión de Educación Local Ilo (UGEL Ilo)",
+   "type": "Otro",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 108,
+   "first": "2016-07",
+   "last": "2025-11",
+   "cases": [
+    "La población de Ilo exige a Petroperú el cumplimiento del plazo para la reubicación de sus"
+   ]
+  },
+  {
+   "name": "Federación de la Nacionalidad Wampis del Perú (FENAWAP)",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 100,
+   "first": "2016-06",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida"
+   ]
+  },
+  {
+   "name": "Petróleos del Perú - PetroPerú S.A",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 100,
+   "first": "2016-06",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida"
+   ]
+  },
+  {
+   "name": "Federación Arutam Wampis de Bajo Morona (FAWABAM)",
+   "type": "Sociedad",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 100,
+   "first": "2016-06",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida"
+   ]
+  },
+  {
+   "name": "FECONASHAM",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 100,
+   "first": "2016-06",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida"
+   ]
+  },
+  {
+   "name": "FENADEM",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 100,
+   "first": "2016-06",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida"
+   ]
+  },
+  {
+   "name": "ASAGA APAM",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 100,
+   "first": "2016-06",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida"
+   ]
+  },
+  {
+   "name": "Comisión de Lucha Puerto Alegría",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 100,
+   "first": "2016-06",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad nativa Mayuriaga del pueblo indígena Wampis y la Federación de la Nacionalida"
+   ]
+  }
+ ]
+}

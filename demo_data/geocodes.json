@@ -2440,5 +2440,285 @@
    -5.2275
   ],
   "source": "GEOPERÚ límite distrital (unión)"
+ },
+ "CAJACAY|BOLOGNESI": {
+  "coordinates": [
+   -77.340484,
+   -10.197
+  ],
+  "district": "CAJACAY",
+  "province": "BOLOGNESI",
+  "ubigeo": "020505",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CAJACAY|": {
+  "coordinates": [
+   -77.340484,
+   -10.197
+  ],
+  "district": "CAJACAY",
+  "province": "BOLOGNESI",
+  "ubigeo": "020505",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AQUIA|BOLOGNESI": {
+  "coordinates": [
+   -77.11889,
+   -9.96
+  ],
+  "district": "AQUIA",
+  "province": "BOLOGNESI",
+  "ubigeo": "020504",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "AQUIA|": {
+  "coordinates": [
+   -77.11889,
+   -9.96
+  ],
+  "district": "AQUIA",
+  "province": "BOLOGNESI",
+  "ubigeo": "020504",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MANSERICHE|DATEM DEL MARANON": {
+  "coordinates": [
+   -77.473343,
+   -4.675
+  ],
+  "district": "MANSERICHE",
+  "province": "DATEM DEL MARAÑON",
+  "ubigeo": "160703",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MANSERICHE|": {
+  "coordinates": [
+   -77.473343,
+   -4.675
+  ],
+  "district": "MANSERICHE",
+  "province": "DATEM DEL MARAÑON",
+  "ubigeo": "160703",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUARMEY|HUARMEY": {
+  "coordinates": [
+   -77.88756,
+   -10.2245
+  ],
+  "district": "HUARMEY",
+  "province": "HUARMEY",
+  "ubigeo": "021101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "HUARMEY|": {
+  "coordinates": [
+   -77.88756,
+   -10.2245
+  ],
+  "district": "HUARMEY",
+  "province": "HUARMEY",
+  "ubigeo": "021101",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COPORAQUE|ESPINAR": {
+  "coordinates": [
+   -71.686014,
+   -14.7635
+  ],
+  "district": "COPORAQUE",
+  "province": "ESPINAR",
+  "ubigeo": "080803",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "COPORAQUE|": {
+  "coordinates": [
+   -71.686014,
+   -14.7635
+  ],
+  "district": "COPORAQUE",
+  "province": "ESPINAR",
+  "ubigeo": "080803",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CAPACMARCA|CHUMBIVILCAS": {
+  "coordinates": [
+   -71.988202,
+   -14.0425
+  ],
+  "district": "CAPACMARCA",
+  "province": "CHUMBIVILCAS",
+  "ubigeo": "080702",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CAPACMARCA|": {
+  "coordinates": [
+   -71.988202,
+   -14.0425
+  ],
+  "district": "CAPACMARCA",
+  "province": "CHUMBIVILCAS",
+  "ubigeo": "080702",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CATAC|RECUAY": {
+  "coordinates": [
+   -77.340916,
+   -9.9245
+  ],
+  "district": "CATAC",
+  "province": "RECUAY",
+  "ubigeo": "021702",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "CATAC|": {
+  "coordinates": [
+   -77.340916,
+   -9.9245
+  ],
+  "district": "CATAC",
+  "province": "RECUAY",
+  "ubigeo": "021702",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MORONA|DATEM DEL MARANON": {
+  "coordinates": [
+   -77.345439,
+   -3.8375
+  ],
+  "district": "MORONA",
+  "province": "DATEM DEL MARAÑON",
+  "ubigeo": "160704",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "MORONA|": {
+  "coordinates": [
+   -77.345439,
+   -3.8375
+  ],
+  "district": "MORONA",
+  "province": "DATEM DEL MARAÑON",
+  "ubigeo": "160704",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PARINARI|LORETO": {
+  "coordinates": [
+   -74.591843,
+   -4.8495
+  ],
+  "district": "PARINARI",
+  "province": "LORETO",
+  "ubigeo": "160302",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PARINARI|": {
+  "coordinates": [
+   -74.591843,
+   -4.8495
+  ],
+  "district": "PARINARI",
+  "province": "LORETO",
+  "ubigeo": "160302",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "URARINAS|LORETO": {
+  "coordinates": [
+   -75.44381,
+   -4.2775
+  ],
+  "district": "URARINAS",
+  "province": "LORETO",
+  "ubigeo": "160305",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "URARINAS|": {
+  "coordinates": [
+   -75.44381,
+   -4.2775
+  ],
+  "district": "URARINAS",
+  "province": "LORETO",
+  "ubigeo": "160305",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "VELILLE|CHUMBIVILCAS": {
+  "coordinates": [
+   -71.858927,
+   -14.5445
+  ],
+  "district": "VELILLE",
+  "province": "CHUMBIVILCAS",
+  "ubigeo": "080708",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "VELILLE|": {
+  "coordinates": [
+   -71.858927,
+   -14.5445
+  ],
+  "district": "VELILLE",
+  "province": "CHUMBIVILCAS",
+  "ubigeo": "080708",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PROGRESO|GRAU": {
+  "coordinates": [
+   -72.433935,
+   -14.1075
+  ],
+  "district": "PROGRESO",
+  "province": "GRAU",
+  "ubigeo": "030708",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "PROGRESO|": {
+  "coordinates": [
+   -72.433935,
+   -14.1075
+  ],
+  "district": "PROGRESO",
+  "province": "GRAU",
+  "ubigeo": "030708",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TAMBOBAMBA|COTABAMBAS": {
+  "coordinates": [
+   -72.198962,
+   -13.895
+  ],
+  "district": "TAMBOBAMBA",
+  "province": "COTABAMBAS",
+  "ubigeo": "030501",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "TAMBOBAMBA|": {
+  "coordinates": [
+   -72.198962,
+   -13.895
+  ],
+  "district": "TAMBOBAMBA",
+  "province": "COTABAMBAS",
+  "ubigeo": "030501",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN MARCOS|HUARI": {
+  "coordinates": [
+   -77.114008,
+   -9.653
+  ],
+  "district": "SAN MARCOS",
+  "province": "HUARI",
+  "ubigeo": "021014",
+  "source": "GEOPERÚ límite distrital"
+ },
+ "SAN MARCOS|": {
+  "coordinates": [
+   -77.114008,
+   -9.653
+  ],
+  "district": "SAN MARCOS",
+  "province": "HUARI",
+  "ubigeo": "021014",
+  "source": "GEOPERÚ límite distrital"
  }
 }

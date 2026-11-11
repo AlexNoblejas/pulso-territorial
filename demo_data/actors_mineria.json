@@ -1,0 +1,800 @@
+{
+ "company": "mineria",
+ "pattern": "las bambas|mmg",
+ "source_workbook": "base_actores_CON_ID_CONFLICTO_FINAL_100.xlsx",
+ "conflicts": 22,
+ "method": "Actores de los reportes de la Defensoría 2012-2025 en los conflictos donde la empresa aparece como actor primario o en el nombre del caso. Un actor cuenta una vez por conflicto.",
+ "actors": [
+  {
+   "name": "Ministerio de Energía y Minas (MINEM)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 14,
+   "months": 120,
+   "first": "2012-11",
+   "last": "2025-12",
+   "cases": [
+    "La Federación Campesina de Challhuahuacho y el Frente de Defensa de los Intereses del dist",
+    "La comunidad campesina de Chila señala que la empresa Minera Las Bambas no estaría cumplie",
+    "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cump",
+    ": La comunidad campesina de Carmen Alto solicita a la empresa Minera Las Bambas la revisió"
+   ]
+  },
+  {
+   "name": "Secretaría de Gestión Social y Diálogo de la Presidencia del Consejo de Ministros (SGSD-PCM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 14,
+   "months": 65,
+   "first": "2019-12",
+   "last": "2025-12",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Chila señala que la empresa Minera Las Bambas no estaría cumplie",
+    "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cump",
+    ": La comunidad campesina de Carmen Alto solicita a la empresa Minera Las Bambas la revisió"
+   ]
+  },
+  {
+   "name": "Defensoría del Pueblo",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 13,
+   "months": 135,
+   "first": "2014-03",
+   "last": "2025-12",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Chila señala que la empresa Minera Las Bambas no estaría cumplie",
+    "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cump",
+    ": La comunidad campesina de Carmen Alto solicita a la empresa Minera Las Bambas la revisió"
+   ]
+  },
+  {
+   "name": "Oficina General de Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 8,
+   "months": 82,
+   "first": "2016-10",
+   "last": "2025-11",
+   "cases": [
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la",
+    "La comunidad campesina de Choaquere señala que la empresa Minera Las Bambas habría incumpl",
+    "El alcalde provincial, los alcaldes distritales y dirigentes de organizaciones sociales de",
+    "La comunidad campesina de Tuntuma reclama a la empresa Minera Las Bambas la renovación de "
+   ]
+  },
+  {
+   "name": "Policía Nacional del Perú",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 7,
+   "months": 75,
+   "first": "2013-10",
+   "last": "2025-11",
+   "cases": [
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la",
+    "La comunidad campesina de Huancuire señala que la empresa Minera Las Bambas no estaría cum",
+    "Las comunidades campesinas de Cruzpampa (Ccapacmarca), Cancahuani (Ccapacmarca), Lacca Lac",
+    "La comunidad campesina de Pumamarca rechaza el proyecto de exploración minera en el Sector"
+   ]
+  },
+  {
+   "name": "empresa Minera Las Bambas",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 7,
+   "months": 55,
+   "first": "2020-07",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Pumamarca rechaza el proyecto de exploración minera en el Sector",
+    "El alcalde provincial, los alcaldes distritales y dirigentes de organizaciones sociales de",
+    "El Alcalde provincial, alcaldes distritales y dirigentes de la provincia Paruro denuncian "
+   ]
+  },
+  {
+   "name": "Oficina General de Diálogo y Gestión Social del Ministerio de Energía y Minas (OGGS-MINEM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 7,
+   "months": 47,
+   "first": "2021-02",
+   "last": "2025-12",
+   "cases": [
+    "La comunidad campesina de Chila señala que la empresa Minera Las Bambas no estaría cumplie",
+    "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cump",
+    ": La comunidad campesina de Carmen Alto solicita a la empresa Minera Las Bambas la revisió",
+    "La comunidad campesina de Huancuire señala que la empresa Minera Las Bambas no estaría cum"
+   ]
+  },
+  {
+   "name": "empresa Minera Las Bambas S.A",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 6,
+   "months": 40,
+   "first": "2021-06",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad campesina de Chila señala que la empresa Minera Las Bambas no estaría cumplie",
+    ": La comunidad campesina de Carmen Alto solicita a la empresa Minera Las Bambas la revisió",
+    "La comunidad campesina de Huancuire señala que la empresa Minera Las Bambas no estaría cum",
+    "Las comunidades campesinas de Cruzpampa (Ccapacmarca), Cancahuani (Ccapacmarca), Lacca Lac"
+   ]
+  },
+  {
+   "name": "Ministerio de Justicia y Derechos Humanos (MINJUSDH)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 6,
+   "months": 34,
+   "first": "2022-06",
+   "last": "2025-12",
+   "cases": [
+    "La comunidad campesina de Chila señala que la empresa Minera Las Bambas no estaría cumplie",
+    "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cump",
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la",
+    "La comunidad campesina de Huancuire señala que la empresa Minera Las Bambas no estaría cum"
+   ]
+  },
+  {
+   "name": "Gobierno Regional de Apurímac",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 4,
+   "months": 83,
+   "first": "2014-03",
+   "last": "2025-12",
+   "cases": [
+    "La población de la comunidad Ccahuapirhua expresaron su rechazo a la actuación de la empre",
+    "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cump",
+    "La comunidad campesina de Pumamarca solicita a la empresa Minera Las Bambas renegociar el ",
+    "La comunidad campesina de Pumamarca rechaza el proyecto de exploración minera en el Sector"
+   ]
+  },
+  {
+   "name": "empresa MMG Las Bambas",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 4,
+   "months": 70,
+   "first": "2018-07",
+   "last": "2025-12",
+   "cases": [
+    "El alcalde provincial, los alcaldes distritales y dirigentes de organizaciones sociales de",
+    "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cump",
+    "El Alcalde provincial, alcaldes distritales y dirigentes de la provincia Paruro denuncian ",
+    "La Municipalidad Distrital de Velille y comunidades campesinas, demandan a la empresa MMG "
+   ]
+  },
+  {
+   "name": "Ministerio de Transportes y Comunicaciones (MTC)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 4,
+   "months": 27,
+   "first": "2013-10",
+   "last": "2019-05",
+   "cases": [
+    "El Frente de Defensa de la Provincia de Cotabambas, el Comité de Lucha de las Provincias d",
+    "El alcalde provincial, los alcaldes distritales y los dirigentes de la sociedad civil de C",
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la",
+    "comunidades, autoridades y organizaciones de la provincia de Espinar expresan su preocupac"
+   ]
+  },
+  {
+   "name": "Ministerio de Educación (MINEDU)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 3,
+   "months": 150,
+   "first": "2012-11",
+   "last": "2025-12",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Chila señala que la empresa Minera Las Bambas no estaría cumplie",
+    "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cump"
+   ]
+  },
+  {
+   "name": "Organismo de Evaluación y Fiscalización Ambiental (OEFA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 3,
+   "months": 49,
+   "first": "2020-09",
+   "last": "2024-09",
+   "cases": [
+    "El alcalde provincial, los alcaldes distritales y dirigentes de organizaciones sociales de",
+    "La comunidad campesina de Huancuire señala que la empresa Minera Las Bambas no estaría cum",
+    "El Alcalde provincial, alcaldes distritales y dirigentes de la provincia Paruro denuncian "
+   ]
+  },
+  {
+   "name": "Presidencia del Consejo de Ministros (PCM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 3,
+   "months": 42,
+   "first": "2021-07",
+   "last": "2025-10",
+   "cases": [
+    "El 25 de marzo de 2024 se llevó a cabo una reunión entre el alcalde distrital de Velille, ",
+    "La comunidad campesina de Tuntuma reclama a la empresa Minera Las Bambas la renovación de ",
+    "Las comunidades campesinas de Cruzpampa (Ccapacmarca), Cancahuani (Ccapacmarca), Lacca Lac"
+   ]
+  },
+  {
+   "name": "Empresa MMG",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 3,
+   "months": 37,
+   "first": "2016-10",
+   "last": "2020-06",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la",
+    "El alcalde provincial, los alcaldes distritales y los dirigentes de la sociedad civil de C"
+   ]
+  },
+  {
+   "name": "Secretaria de Gestión Social y Diálogo del Viceministerio de Gobernanza Territorial de la Presidencia del Consejo de Ministros (SGSD-PCM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 3,
+   "months": 30,
+   "first": "2017-08",
+   "last": "2020-01",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la",
+    "La Municipalidad Distrital de Velille y comunidades campesinas, demandan a la empresa MMG "
+   ]
+  },
+  {
+   "name": "Ministerio de Salud (MINSA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 147,
+   "first": "2012-11",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Choaquere señala que la empresa Minera Las Bambas habría incumpl"
+   ]
+  },
+  {
+   "name": "Frente de Defensa de los Intereses del distrito de Challhuahuacho",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 123,
+   "first": "2014-11",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la"
+   ]
+  },
+  {
+   "name": "Ministerio de Trabajo y Promoción del Empleo (MINTRA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 123,
+   "first": "2014-11",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la"
+   ]
+  },
+  {
+   "name": "Municipalidad Distrital de Challhuahuacho",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 111,
+   "first": "2016-01",
+   "last": "2025-11",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la"
+   ]
+  },
+  {
+   "name": "Oficina de Asesoramiento de Asuntos Socioambientales (OAAS) del Ministerio del Ambiente (MINAM)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 110,
+   "first": "2015-12",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "El alcalde provincial, los alcaldes distritales y los dirigentes de la sociedad civil de C"
+   ]
+  },
+  {
+   "name": "Frente de Defensa de la Provincia de Cotabambas",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la"
+   ]
+  },
+  {
+   "name": "Comité de Lucha de las Provincias de Cotabambas y Grau",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la"
+   ]
+  },
+  {
+   "name": "Servicio Nacional de Certificación Ambiental para las Inversiones Sostenibles (SENACE)",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 85,
+   "first": "2018-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "El alcalde provincial, los alcaldes distritales y dirigentes de organizaciones sociales de"
+   ]
+  },
+  {
+   "name": "Ministerio de Agricultura y Riego (MINAGRI)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 77,
+   "first": "2014-07",
+   "last": "2020-11",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "El alcalde provincial, los alcaldes distritales y los dirigentes de la sociedad civil de C"
+   ]
+  },
+  {
+   "name": "Gobierno Regional de Cusco",
+   "type": "Estado",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 68,
+   "first": "2016-10",
+   "last": "2024-06",
+   "cases": [
+    "El Alcalde provincial, alcaldes distritales y dirigentes de la provincia Paruro denuncian ",
+    "El alcalde provincial, los alcaldes distritales y los dirigentes de la sociedad civil de C"
+   ]
+  },
+  {
+   "name": "Alcalde provincial de Chumbivilcas",
+   "type": "Otro",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 68,
+   "first": "2019-03",
+   "last": "2025-04",
+   "cases": [
+    "El alcalde provincial, los alcaldes distritales y dirigentes de organizaciones sociales de",
+    "El Alcalde provincial, alcaldes distritales y dirigentes de la provincia Paruro denuncian "
+   ]
+  },
+  {
+   "name": "Alcalde distrital de Velille",
+   "type": "Otro",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 68,
+   "first": "2019-03",
+   "last": "2025-04",
+   "cases": [
+    "El alcalde provincial, los alcaldes distritales y dirigentes de organizaciones sociales de",
+    "El Alcalde provincial, alcaldes distritales y dirigentes de la provincia Paruro denuncian "
+   ]
+  },
+  {
+   "name": "Ministerio de Desarrollo Agrario y Riego (MIDAGRI)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 53,
+   "first": "2020-12",
+   "last": "2025-12",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de ",
+    "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cump"
+   ]
+  },
+  {
+   "name": "Comunidad campesina de Chila",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 51,
+   "first": "2012-04",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad campesina de Chila señala que la empresa Minera Las Bambas no estaría cumplie",
+    "La población teme por la escasez del recurso hídrico y falta de transparencia por parte de"
+   ]
+  },
+  {
+   "name": "Municipalidad Distrital de Velille",
+   "type": "Estado",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 41,
+   "first": "2018-07",
+   "last": "2025-10",
+   "cases": [
+    "El 25 de marzo de 2024 se llevó a cabo una reunión entre el alcalde distrital de Velille, ",
+    "La Municipalidad Distrital de Velille y comunidades campesinas, demandan a la empresa Mine"
+   ]
+  },
+  {
+   "name": "Comunidad campesina de Pumamarca",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 38,
+   "first": "2021-02",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad campesina de Pumamarca solicita a la empresa Minera Las Bambas renegociar el ",
+    "La comunidad campesina de Pumamarca rechaza el proyecto de exploración minera en el Sector"
+   ]
+  },
+  {
+   "name": "Alcalde Provincial de Cotabambas",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 38,
+   "first": "2021-02",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad campesina de Pumamarca solicita a la empresa Minera Las Bambas renegociar el ",
+    "La comunidad campesina de Pumamarca rechaza el proyecto de exploración minera en el Sector"
+   ]
+  },
+  {
+   "name": "Prefectura Regional de Apurímac",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 38,
+   "first": "2021-02",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad campesina de Pumamarca solicita a la empresa Minera Las Bambas renegociar el ",
+    "La comunidad campesina de Pumamarca rechaza el proyecto de exploración minera en el Sector"
+   ]
+  },
+  {
+   "name": "Comunidad campesina de Fuerabamba",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 37,
+   "first": "2018-12",
+   "last": "2025-12",
+   "cases": [
+    "La comunidad campesina de Fuerabamba cuestiona la reclasificación como Ruta Nacional de la",
+    "La comunidad campesina de Chuicuni señala que la empresa Minera Las Bambas no estaría cump"
+   ]
+  },
+  {
+   "name": "Ministerio de Comercio Exterior y Turismo (MINCETUR)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 28,
+   "first": "2022-06",
+   "last": "2024-09",
+   "cases": [
+    "La comunidad campesina de Choaquere señala que la empresa Minera Las Bambas habría incumpl",
+    "La comunidad campesina de Chila señala que la empresa Minera Las Bambas no estaría cumplie"
+   ]
+  },
+  {
+   "name": "Oficina Nacional de Diálogo y Sostenibilidad de la Presidencia del Consejo de Ministros (ONDS-PCM)",
+   "type": "Estado",
+   "role": "terciario",
+   "conflicts": 2,
+   "months": 17,
+   "first": "2015-08",
+   "last": "2017-02",
+   "cases": [
+    "La Federación Campesina Challhuahuacho y el Frente de Defensa de los Intereses del distrit",
+    "El alcalde provincial, los alcaldes distritales y los dirigentes de la sociedad civil de C"
+   ]
+  },
+  {
+   "name": "Empresa minera Xstrata Las Bambas",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 16,
+   "first": "2012-01",
+   "last": "2013-07",
+   "cases": [
+    "La Federación Campesina de Chalhuahuacho y el Frente de Defensa de los Intereses del Distr",
+    "Pobladores de la Comunidad Campesina de Huancuire, reclaman por la afectación al ambiente "
+   ]
+  },
+  {
+   "name": "Minera Las Bambas S.A",
+   "type": "Empresa",
+   "role": "primario",
+   "conflicts": 2,
+   "months": 11,
+   "first": "2024-03",
+   "last": "2025-10",
+   "cases": [
+    "El alcalde provincial, los alcaldes distritales y dirigentes de organizaciones sociales de",
+    "El 25 de marzo de 2024 se llevó a cabo una reunión entre el alcalde distrital de Velille, "
+   ]
+  },
+  {
+   "name": "Ministerio del Ambiente (MINAM)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 2,
+   "months": 10,
+   "first": "2015-09",
+   "last": "2017-04",
+   "cases": [
+    "La Federación Campesina de Challhuahuacho y el Frente de Defensa de los Intereses del Dist",
+    "El alcalde provincial, los alcaldes distritales y los dirigentes de la sociedad civil de C"
+   ]
+  },
+  {
+   "name": "Secretaria de Gestión Social y Diálogo (SGSD-PCM)",
+   "type": "Otro",
+   "role": "terciario",
+   "conflicts": 2,
+   "months": 5,
+   "first": "2017-03",
+   "last": "2017-07",
+   "cases": [
+    "La Federación Campesina Challhuahuacho y el Frente de Defensa de los Intereses del distrit",
+    "El alcalde provincial, los alcaldes distritales y los dirigentes de la sociedad civil de C"
+   ]
+  },
+  {
+   "name": "Presidente Regional de Apurímac",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 157,
+   "first": "2012-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "XVI Región Policial de Apurímac (PNP)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 147,
+   "first": "2012-11",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Ministerio de Vivienda y Construcción y Saneamiento (MVCS)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 113,
+   "first": "2015-09",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Ministerio de Desarrollo e Inclusión Social (MIDIS)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 113,
+   "first": "2015-09",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Frente de Defensa de Tambobamba",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Frente de Defensa de Mara",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Frente de Defensa de Haquira",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Frente de Defensa de Coyllurqui",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Consejero Regional por Cotabambas ante el Gobierno Regional de Apurímac",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Municipalidad Provincial de Cotabambas",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Municipalidad Distrital de Coyllurqui",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Municipalidad Distrital de Cotabambas",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Municipalidad Distrital de Mara",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Municipalidad Distrital de Haquira",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "ONG Cooperacción",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 109,
+   "first": "2016-01",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Administración Local del Agua (ALA) Medio Apurímac Pachachaca de la Autoridad Nacional del Agua (ANA)",
+   "type": "Estado",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 106,
+   "first": "2016-04",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "asociación Unión de Comunidades Campesinas de Influencia Directa e Indirecta afectados por el proyecto minero Las Bambas (UCCAMBA)",
+   "type": "Sociedad",
+   "role": "primario",
+   "conflicts": 1,
+   "months": 98,
+   "first": "2016-04",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  },
+  {
+   "name": "Coordinadora Nacional de Derechos Humanos (CNDDHH)",
+   "type": "Otro",
+   "role": "secundario",
+   "conflicts": 1,
+   "months": 88,
+   "first": "2017-10",
+   "last": "2025-05",
+   "cases": [
+    "Comunidades campesinas, frentes de defensa de la provincia de Cotabambas y el distrito de "
+   ]
+  }
+ ]
+}

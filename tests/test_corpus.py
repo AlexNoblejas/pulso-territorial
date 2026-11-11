@@ -49,4 +49,5 @@ def test_static_export_has_pages_reports_and_pdfs(tmp_path):
         assert payload['cases']
         assert (site / 'static' / f'report_{company}.html').exists()
         for event in (e for c in payload['cases'] for e in c['events'] if e.get('literal')):
-            assert (site / event['pdf_url'].split('#')[0]).exists()
+            if not event['pdf_url'].startswith('http'):
+                assert (site / event['pdf_url'].split('#')[0]).exists()

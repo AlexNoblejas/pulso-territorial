@@ -12,7 +12,8 @@ import threading
 import shutil
 
 from bs4 import BeautifulSoup
-from . import corpus,news,service
+from . import alerts as alert_rules, corpus, geoperu, news, service
+from . import sources as connectors
 
 DIRECTORY = service.DATA / 'portfolio'
 LOCK = threading.Lock()
@@ -144,6 +145,37 @@ def rebuild():
     return snapshot
 
 
+LANES=['Defensoría','Ejecutivo','Fiscalización y agua','Policía','Empresa','Prensa']
+
+
+def _lane(event,source):
+    """Actor type of a source: lets the analyst compare framings (each institution sees through its function)."""
+    if event.get('kind')=='prensa' or (source or {}).get('kind')=='prensa':
+        return 'Prensa'
+    text=service.norm((source or {}).get('institution','')+' '+(event.get('institution_key') or ''))
+    for lane,pattern in [('Defensoría',r'defensor'),('Policía',r'\bpnp\b|polic'),('Fiscalización y agua',r'\boefa\b|\bana\b|autoridad nacional del agua|osinergmin|tribunal de fiscalizacion'),
+                         ('Empresa',r'petroperu|las bambas|\bmmg\b'),('Ejecutivo',r'pcm|minem|minam|ministerio|mininter|minsa|pronis|vivienda|presidencia')]:
+        if re.search(pattern,text):
+            return lane
+    return 'Ejecutivo'
+
+
+def system_status():
+    from . import pipeline
+    connectors_status=[{'name':name,'label':label,'ok':data.get('ok'),'checked_at':data.get('checked_at'),'items':len(data.get('items',[])),
+                        'new':data.get('new'),'error':data.get('error'),'requests':data.get('requests')}
+                       for name,(label,_) in connectors.CONNECTORS.items() for data in [connectors.load(name)]]
+    media=news.load()
+    connectors_status.insert(0,{'name':'prensa','label':'Prensa (RSS)','ok':bool(media.get('feeds')),'checked_at':media.get('updated_at'),'items':len(media.get('items',[])),
+                                'error':None,'requests':len(media.get('feeds',[]))})
+    for company in COMPANIES:
+        geo=geoperu.load(company)
+        connectors_status.append({'name':f'geoperu-{company}','label':f'GEOPERÚ · {COMPANIES[company]["name"]}','ok':all(l.get('ok') for l in geo.get('layers',{}).values()),
+                                  'checked_at':geo.get('fetched_at'),'items':sum(l.get('count',0) for l in geo.get('layers',{}).values()),'error':None,'requests':len(geo.get('layers',{}))})
+    return {'runs':pipeline.load().get('runs',[])[:15],'connectors':connectors_status,
+            'repository':'https://github.com/AlexNoblejas/pulso-territorial','actions':'https://github.com/AlexNoblejas/pulso-territorial/actions/workflows/pages.yml'}
+
+
 def _snapshot():
     return _read('snapshot.json') or rebuild()
 
@@ -263,6 +295,25 @@ def portfolio(company='mineria',period=None):
                    'weekly':[{'week':w,'counts':dict(c),'total':sum(c.values())} for w,c in sorted(weeks.items())][-12:],
                    'feeds_ok':sum(f['ok'] for f in media.get('feeds',[])),'feeds':len(media.get('feeds',[])),
                    'method':media.get('method','')}
+    official_items=[i for i in connectors.all_items() if company in i['companies'] and (selected_period==periods[0] or (i.get('date') or i.get('period') or '')[:7]<=selected_period)]
+    for case in cases:
+        for item in [i for i in official_items if case['id'] in i['case_codes']][:30]:
+            sid='OF-'+item['id']
+            page_url=item['url']+f"#page={item['page']}" if item.get('page') else None
+            sources[sid]={'id':sid,'institution':item['institution'],'title':item['title'],'url':item.get('document_url') or item['url'],'pdf_url':page_url,
+                          'date':item.get('date'),'period':item.get('period'),'kind':'informe institucional' if item.get('literal') else 'comunicación institucional',
+                          'method':item['connector'],'review_status':'extracción automática; revisar alcance'}
+            case['source_ids'].append(sid)
+            case['events'].append({'date':item.get('date'),'period':item.get('period'),'title':item['title'],'summary':item.get('quote') or item.get('snippet') or '',
+                                   'source_id':sid,'kind':sources[sid]['kind'],'relation':'el caso se nombra en la fuente · extracción automática','literal':bool(item.get('literal')),
+                                   'page':item.get('page'),'pdf_url':page_url,'tags':item.get('tags',[]),'institution_key':item.get('institution_key'),'automatic':True})
+        for event in case['events']:
+            event['lane']=_lane(event,sources.get(event.get('source_id')))
+        case['events'].sort(key=lambda e:e.get('date') or e['period'] or '',reverse=True)
+        case['territory']=geoperu.context(company,case.get('coordinates'),case.get('coordinate_precision',''),case['name'])
+    linked={i['id'] for i in official_items if i['case_codes']}
+    state_actions=[{**i,'lane':_lane(i,{'institution':i['institution']})} for i in official_items if i['id'] not in linked and i.get('institution_key')!='defensoria']
+    state_actions=sorted(state_actions,key=lambda i:i.get('date') or i.get('period') or '',reverse=True)[:60]
     selected_ids={sid for c in cases for sid in c['source_ids']}
     selected_sources=[sources[sid] for sid in selected_ids]
     historical_cases,series=historical(company)
@@ -300,6 +351,7 @@ def portfolio(company='mineria',period=None):
     else:
         insights.append({'type':'seguimiento','title':'El diálogo convive con reclamos documentados','text':'La fase oficial describe un momento del proceso. No implica que las demandas o acuerdos estén resueltos. Consulta cada ficha antes de atribuir una obligación.','case_id':'1229-0621','source_ids':['DP-2026-09']})
         insights.append({'type':'contexto','title':'Huancuire: geografía y jurisdicción requieren conciliación','text':'El reporte ubica el caso en Coyllurqui; la copia local del polígono comunal tiene Challhuahuacho como atributo. El mapa conserva la precisión de cada fuente y no corrige esa diferencia automáticamente.','case_id':'1229-0621','source_ids':['DP-2026-09']})
+    alert_list=alert_rules.compute(cases,company_items,official_items,insights)
     geo=_read(f'geography_{company}.json',{})
     phases=Counter(c['phase'] or 'Sin fase reportada' for c in cases)
     return {'company':COMPANIES[company],'period':selected_period,'periods':periods,'author':snap['author'],
@@ -310,7 +362,8 @@ def portfolio(company='mineria',period=None):
                            [{'id':s['document_id']+f"-p{s['page']}",'institution':library['documents'][s['document_id']]['institution'],'title':s['title'],
                              'claim':s['claim'],'quote':s['quote'],'page':s['page'],'pdf_url':s['pdf_url'],'url':library['documents'][s['document_id']]['url'],
                              'date':library['documents'][s['document_id']]['date']} for s in library['signals'] if s['company']==company],
-            'corpus_problems':library['problems'],'media':media_summary,
+            'corpus_problems':library['problems'],'media':media_summary,'alerts':alert_list,'alert_summary':alert_rules.summary(alert_list),'alert_rules':alert_rules.RULES,
+            'state_actions':state_actions,'lanes':LANES,'lenses':{k:dict(zip(['institution','role','lens'],v)) for k,v in connectors.INSTITUTIONS.items()},'system':system_status(),
             'geography':{k:geo.get(k) for k in ['center','zoom','extent','metadata','map_style_url','terrain_url']},
             'coverage':{'period_label':'Setiembre de 2026' if selected_period=='2026-09' else selected_period,'built_at':snap['built_at'],'current_source':'RCS 271 · fichas estructuradas oficiales',
                         'scope':'Cartera piloto de casos seleccionados, no totalidad de conflictos de la empresa ni del país.',
@@ -324,7 +377,9 @@ def portfolio(company='mineria',period=None):
 def geography(company):
     if company not in COMPANIES:
         raise ValueError('Cartera no válida.')
-    return _read(f'geography_{company}.json',{})
+    data=_read(f'geography_{company}.json',{})
+    data['geoperu']=geoperu.load(company)
+    return data
 
 
 def visual_report(company,period=None):
